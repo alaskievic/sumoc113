@@ -24,6 +24,7 @@ transfer
 transfer/
 slides/
 slides
+sumoc_shared/
 *.DS_store
 # ignore log files
 *.log
