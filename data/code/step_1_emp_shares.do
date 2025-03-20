@@ -117,14 +117,6 @@ save "../output/censo_emp_shares_1960_part1.dta", replace
 
 
 
-
-
-
-
-
-
-
-
 *** 1970 ***
 use ".././raw/census_demog_1960_2010/original/censo_1970_ocup.dta", clear
 

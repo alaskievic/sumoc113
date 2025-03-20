@@ -479,7 +479,7 @@ gsort codstate2010 mun1960
 gen year = 1960
 
 * Saving
-save ".././output/empshares_mun_1960.dta", replace
+save ".././output/censo_emp_shares_1960.dta", replace
 
 /*
 *********************************
