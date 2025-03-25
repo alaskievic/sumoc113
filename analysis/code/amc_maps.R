@@ -31,7 +31,10 @@ amc_shp <- full_join(amc_1950, amc_panel, by = "amc")
 # Variables
 amc_shp %<>% mutate(agri_share = agri_emp/emp_total,
                     manufac_share = manufac_emp/emp_total,
-                    service_share = service_emp/emp_total)
+                    service_share = service_emp/emp_total,
+                    manufac_va_share = gdp_manufac/gdp_tot,
+                    agri_va_share = gdp_agri/gdp_tot,
+                    serv_va_share = gdp_serv/gdp_tot)
 
 rwb_2 <-  c("#FF0000", "#BF1900", "#7F3200", "#3F4B00", "#006400")
 
@@ -234,7 +237,182 @@ serv_sh_1990 <- tm_shape(amc_shp_1990) +
   tm_scalebar(width = 20, position = c("right", "bottom"))
 
 serv_sh_1990
-tmap_save(agri_sh_1990, "../output/serv_sh_1990.png")
+tmap_save(serv_sh_1990, "../output/serv_sh_1990.png")
+
+
+
+
+# 1950 Value Prod #
+amc_shp_1950 <- filter(amc_shp, year == 1950) %>% mutate(log_value_prod = log(value_prod))
+value_prod_1950 <- tm_shape(amc_shp_1950) +
+  tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
+  tm_fill(fill = "log_value_prod",
+          tm_scale_intervals(style = "quantile",
+                             label.na = "No Data",
+                             midpoint = NA,
+                             values = "YlOrRd"),
+          fill.legend = tm_legend("Log Production Value in 1950 (Thousands of Cruzeiros)")) +
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(width = 20, position = c("right", "bottom"))
+
+value_prod_1950
+tmap_save(value_prod_1950, "../output/value_prod_1950.png")
+
+
+
+
+
+# 1960 Value Prod #
+amc_shp_1960 <- filter(amc_shp, year == 1960) %>% mutate(log_value_prod = log(value_prod))
+value_prod_1960 <- tm_shape(amc_shp_1960) +
+  tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
+  tm_fill(fill = "log_value_prod",
+          tm_scale_intervals(style = "quantile",
+                             label.na = "No Data",
+                             midpoint = NA,
+                             values = "YlOrRd"),
+          fill.legend = tm_legend("Log Production Value in 1960 (Thousands of Cruzeiros)")) +
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(width = 20, position = c("right", "bottom"))
+
+value_prod_1960
+tmap_save(value_prod_1960, "../output/value_prod_1960.png")
+
+
+
+
+
+# 1950 Number of Firms #
+amc_shp_1950 <- filter(amc_shp, year == 1950) %>% mutate(log_value_prod = log(value_prod))
+num_firm_1950 <- tm_shape(amc_shp_1950) +
+  tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
+  tm_fill(fill = "num_firm",
+          tm_scale_intervals(style = "quantile",
+                             label.na = "No Data",
+                             midpoint = NA,
+                             values = "YlOrRd"),
+          fill.legend = tm_legend("Number of Manufacturing Firms in 1950")) +
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(width = 20, position = c("right", "bottom"))
+
+num_firm_1950
+tmap_save(num_firm_1950, "../output/num_firm_1950.png")
+
+
+
+
+# 1960 Number of Firms #
+amc_shp_1960 <- filter(amc_shp, year == 1960) %>% mutate(log_value_prod = log(value_prod))
+num_firm_1960 <- tm_shape(amc_shp_1960) +
+  tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
+  tm_fill(fill = "num_firm",
+          tm_scale_intervals(style = "quantile",
+                             label.na = "No Data",
+                             midpoint = NA,
+                             values = "YlOrRd"),
+          fill.legend = tm_legend("Number of Manufacturing Firms in 1960")) +
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(width = 20, position = c("right", "bottom"))
+
+num_firm_1960
+tmap_save(num_firm_1960, "../output/num_firm_1960.png")
+
+
+
+# 1950 Manufac VA Shares #
+amc_shp_1950 <- filter(amc_shp, year == 1950)
+manufac_va_1950 <- tm_shape(amc_shp_1950) +
+  tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
+  tm_fill(fill = "manufac_va_share",
+          tm_scale_intervals(style = "fisher",
+                             label.na = "No Data",
+                             midpoint = NA,
+                             values = "YlOrRd"),
+          fill.legend = tm_legend("Manufacturing VA\nShare 1950 (pp.)")) +
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(width = 20, position = c("right", "bottom"))
+
+manufac_va_1950
+tmap_save(manufac_va_1950, "../output/manufac_va_1950.png")
+
+# 1970 Manufac VA Shares #
+amc_shp_1970 <- filter(amc_shp, year == 1970)
+manufac_va_1970 <- tm_shape(amc_shp_1970) +
+  tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
+  tm_fill(fill = "manufac_va_share",
+          tm_scale_intervals(style = "fisher",
+                             label.na = "No Data",
+                             midpoint = NA,
+                             values = "YlOrRd"),
+          fill.legend = tm_legend("Manufacturing VA\nShare 1970 (pp.)")) +
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(width = 20, position = c("right", "bottom"))
+
+manufac_va_1970
+tmap_save(manufac_va_1970, "../output/manufac_va_1970.png")
+
+# 1995 Manufac VA Shares #
+amc_shp_1995 <- filter(amc_shp, year == 1995)
+manufac_va_1995 <- tm_shape(amc_shp_1995) +
+  tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
+  tm_fill(fill = "manufac_va_share",
+          tm_scale_intervals(style = "fisher",
+                             label.na = "No Data",
+                             midpoint = NA,
+                             values = "YlOrRd"),
+          fill.legend = tm_legend("Manufacturing VA\nShare 1995 (pp.)")) +
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(width = 20, position = c("right", "bottom"))
+
+manufac_va_1995
+tmap_save(manufac_va_1995, "../output/manufac_va_1995.png")
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
