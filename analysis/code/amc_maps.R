@@ -44,10 +44,11 @@ amc_shp_1950 <- filter(amc_shp, year == 1950)
 manufac_sh_1950 <- tm_shape(amc_shp_1950) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "manufac_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "fixed",
                              label.na = "No Data",
+                             breaks = c(0, 0.05, 0.25, 0.5, 1),
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Manufacturing Employment\nShare 1950 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
@@ -65,10 +66,11 @@ amc_shp_1970 <- filter(amc_shp, year == 1970)
 manufac_sh_1970 <- tm_shape(amc_shp_1970) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "manufac_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "fixed",
                              label.na = "No Data",
+                             breaks = c(0, 0.05, 0.25, 0.5, 1),
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Manufacturing Employment\nShare 1970 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
@@ -86,10 +88,11 @@ amc_shp_1990 <- filter(amc_shp, year == 1990)
 manufac_sh_1990 <- tm_shape(amc_shp_1990) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "manufac_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "fixed",
                              label.na = "No Data",
+                             breaks = c(0, 0.05, 0.25, 0.5, 1),
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Manufacturing Employment\nShare 1990 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
@@ -114,10 +117,11 @@ amc_shp_1950 <- filter(amc_shp, year == 1950)
 agri_sh_1950 <- tm_shape(amc_shp_1950) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "agri_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "fixed",
                              label.na = "No Data",
+                             breaks = c(0, 0.15, 0.3, 0.5, 0.75, 1),
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Agriculture Employment\nShare 1950 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
@@ -135,10 +139,11 @@ amc_shp_1970 <- filter(amc_shp, year == 1970)
 agri_sh_1970 <- tm_shape(amc_shp_1970) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "agri_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "fixed",
                              label.na = "No Data",
+                             breaks = c(0, 0.15, 0.3, 0.5, 0.75, 1),
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Agriculture Employment\nShare 1970 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
@@ -156,10 +161,11 @@ amc_shp_1990 <- filter(amc_shp, year == 1990)
 agri_sh_1990 <- tm_shape(amc_shp_1990) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "agri_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "fixed",
                              label.na = "No Data",
+                             breaks = c(0, 0.15, 0.3, 0.5, 0.75, 1),
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Agriculture Employment\nShare 1990 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
@@ -181,10 +187,11 @@ amc_shp_1950 <- filter(amc_shp, year == 1950)
 serv_sh_1950 <- tm_shape(amc_shp_1950) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "service_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "fixed",
                              label.na = "No Data",
+                             breaks = c(0, 0.15, 0.3, 0.5, 0.75, 1),
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Service Employment\nShare 1950 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
@@ -202,10 +209,11 @@ amc_shp_1970 <- filter(amc_shp, year == 1970)
 serv_sh_1970 <- tm_shape(amc_shp_1970) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "service_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "fixed",
                              label.na = "No Data",
+                             breaks = c(0, 0.15, 0.3, 0.5, 0.75, 1),
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Service Employment\nShare 1970 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
@@ -223,10 +231,11 @@ amc_shp_1990 <- filter(amc_shp, year == 1990)
 serv_sh_1990 <- tm_shape(amc_shp_1990) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "service_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "fixed",
                              label.na = "No Data",
+                             breaks = c(0, 0.15, 0.3, 0.5, 0.75, 1),
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Service Employment\nShare 1990 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
@@ -337,17 +346,15 @@ num_firm_1960 <- tm_shape(amc_shp_1960) +
 num_firm_1960
 tmap_save(num_firm_1960, "../output/num_firm_1960.png")
 
-
-
 # 1950 Manufac VA Shares #
 amc_shp_1950 <- filter(amc_shp, year == 1950)
 manufac_va_1950 <- tm_shape(amc_shp_1950) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "manufac_va_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "quantile",
                              label.na = "No Data",
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Manufacturing VA\nShare 1950 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
@@ -365,10 +372,10 @@ amc_shp_1970 <- filter(amc_shp, year == 1970)
 manufac_va_1970 <- tm_shape(amc_shp_1970) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "manufac_va_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "quantile",
                              label.na = "No Data",
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Manufacturing VA\nShare 1970 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
@@ -386,10 +393,10 @@ amc_shp_1995 <- filter(amc_shp, year == 1995)
 manufac_va_1995 <- tm_shape(amc_shp_1995) +
   tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
   tm_fill(fill = "manufac_va_share",
-          tm_scale_intervals(style = "fisher",
+          tm_scale_intervals(style = "quantile",
                              label.na = "No Data",
                              midpoint = NA,
-                             values = "YlOrRd"),
+                             values = "brewer.yl_or_rd"),
           fill.legend = tm_legend("Manufacturing VA\nShare 1995 (pp.)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
