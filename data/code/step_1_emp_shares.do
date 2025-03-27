@@ -28,7 +28,7 @@ program state_code
 	replace state_name = "Mato Grosso" 				if state_code == 51
 	replace state_name = "Goias" 					if state_code == 52
 	replace state_name = "Distrito Federal" 		if state_code == 53
-	replace state_name = "tocantins" 				if state_code == 17
+	replace state_name = "Tocantins" 				if state_code == 17
 end
 
 
@@ -118,7 +118,7 @@ save "../output/censo_emp_shares_1960_part1.dta", replace
 
 
 *** 1970 ***
-use ".././raw/census_demog_1960_2010/original/censo_1970_ocup.dta", clear
+use ".././raw/census_demog_1950_2010/original/censo_1970_ocup.dta", clear
 
 drop V002
 
@@ -225,7 +225,7 @@ save "../output/censo_emp_shares_1970.dta", replace
 
 
 *** 1980 ***
-use ".././raw/census_demog_1960_2010/original/censo_1980_ocup.dta", clear
+use ".././raw/census_demog_1950_2010/original/censo_1980_ocup.dta", clear
 
 rename (V519 V530 V532 V607 V501 V604 code_muni) ///
 	   (literat ocup_code act_code income sex weight_1980 code2010)
@@ -329,7 +329,7 @@ save "../output/censo_emp_shares_1980.dta", replace
 
 
 *** 1990 ***
-use ".././raw/census_demog_1960_2010/original/censo_1990_ocup.dta", clear
+use ".././raw/census_demog_1950_2010/original/censo_1990_ocup.dta", clear
 
 rename (V0301 V3072 V0346 V0347 V0356 V7301 code_muni) ///
 	   (sex age ocup_code act_code income weight_1990 code2010)
@@ -425,3 +425,107 @@ drop if state_name == ""
 
 * Save
 save "../output/censo_emp_shares_1990.dta", replace
+
+
+
+
+
+*** 2000 ***
+use ".././raw/census_demog_1950_2010/original/censo_2000_ocup.dta", clear
+
+drop V0103 V0102
+
+rename (code_muni V0401 V4752 V0428 V4300 V4452 V4462 V4513 P001) ///
+	   (code2010 sex age literat year_study ocup_code act_code income weight_2000)
+   
+* Notice that sex is not assigned the same way across the other censuses
+drop if sex == .
+
+* Assign activity
+gen activity_name = ""
+replace activity_name = "agriculture" 		if act_code > 0 & act_code <= 5002
+replace activity_name = "mining" 			if act_code >= 10000 & act_code <= 14004
+replace activity_name = "manufacturing" 	if act_code >= 15010 & act_code <= 41000
+replace activity_name = "construction" 		if act_code >= 45001 & act_code <= 45999
+replace activity_name = "services" 			if act_code >= 50010 & act_code <= 99000
+replace activity_name = "other" 			if act_code == 0
+
+* keep only working population
+drop if act_code == .
+gsort act_code
+
+
+* remove domestic work
+* drop if activity_name == "domesticservice"
+* drop if activity_name == "other"
+
+* Aggregate at the municipality level
+collapse (count) emp_num = act_code [pweight = weight_2000], by(activity_name code2010)
+
+gen d_agri 			= 0
+gen d_manufac 		= 0
+gen d_service 		= 0
+gen d_other			= 0
+
+replace d_agri  		= 1 if activity_name == "agriculture"
+replace d_manufac  		= 1 if activity_name == "manufacturing" | activity_name == "mining"
+replace d_other			= 1 if activity_name == "other"
+replace d_service  		= 1 if d_agri == 0 & d_manufac == 0 & d_other == 0
+
+collapse (sum) emp_num, by(d_* code2010)
+
+
+gen agri_emp 	= emp_num if d_agri 	== 1
+gen manufac_emp = emp_num if d_manufac 	== 1
+gen service_emp = emp_num if d_service 	== 1
+gen other_emp 	= emp_num if d_other    == 1
+
+gsort code2010
+
+forvalues i = 1/10{
+	bysort code2010: replace agri_emp 		= agri_emp[_n - `i']    if agri_emp == .
+	bysort code2010: replace agri_emp 		= agri_emp[_n + `i']    if agri_emp == .
+	bysort code2010: replace manufac_emp 	= manufac_emp[_n - `i'] if manufac_emp == .
+	bysort code2010: replace manufac_emp 	= manufac_emp[_n + `i'] if manufac_emp == .
+	bysort code2010: replace service_emp 	= service_emp[_n - `i'] if service_emp == .
+	bysort code2010: replace service_emp 	= service_emp[_n + `i'] if service_emp == .
+	bysort code2010: replace other_emp 		= other_emp[_n - `i'] 	if other_emp == .
+	bysort code2010: replace other_emp 		= other_emp[_n + `i'] 	if other_emp == .
+}
+
+egen emp_total = total(emp_num), by(code2010)
+
+keep if d_agri == 1
+drop d_agri-emp_num
+
+foreach v of varlist agri_emp-emp_total {
+	replace `v' = 0 if `v' == .
+}
+
+* generate state codes and labels *
+gen state_code = int(code2010/100000)
+gsort state_code
+drop if code2010 == .
+
+state_code
+
+gen year = 2000
+
+tempfile censo_2000
+save "`censo_2000'"
+
+* Merge with names *
+import excel ".././raw/amc_name_1872_2010.xls", clear first
+keep code2010 mun2000 mun2010
+
+drop if missing(mun2000)
+drop if substr(mun2000, 1, 11) == "desmembrado"	
+drop if substr(mun2000, 1, 7)  == "anexado"
+drop if substr(mun2000, 1, 4)  == "sede"
+
+merge 1:1 code2010 using `censo_2000', nogen
+
+drop if state_name == ""
+
+* Save
+save "../output/censo_emp_shares_2000.dta", replace

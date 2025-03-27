@@ -37,3 +37,12 @@ pop_1990 <- read_population(year = 1991, columns = c('code_muni', 'V0301', 'V307
                             as_data_frame = TRUE)
 write_dta(pop_1990, "censo_1990_ocup.dta")
 
+
+
+# 2000 #
+data_dictionary(year = 2000, dataset = "population", showProgress = TRUE, cache = TRUE)
+pop_2000 <- read_population(year = 2000, columns = c('code_muni', 'V0102', 'V0103',
+                                                     'V0401', 'V4752', 'V0428', 'P001',
+                                                     'V4300', 'V4452', 'V4462', 'V4513'),
+                            as_data_frame = TRUE)
+write_dta(pop_2000, "../raw/census_demog_1950_2010/original/censo_2000_ocup.dta")
