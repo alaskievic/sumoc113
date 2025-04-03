@@ -63,11 +63,22 @@ merge 1:1 code2010 using "../output/_Crosswalk_final_1950_2000.dta", keep(3)
 collapse (sum) agri_emp manufac_emp service_emp other_emp emp_total, by(amc year)
 gsort amc
 
+tempfile amc_1990
+save "`amc_1990'"
+
+* 2000 emp share *
+use ".././output/censo_emp_shares_2000.dta", clear
+keep code2010 year agri_emp manufac_emp service_emp other_emp emp_total
+
+merge 1:1 code2010 using "../output/_Crosswalk_final_1950_2000.dta", keep(3)
+collapse (sum) agri_emp manufac_emp service_emp other_emp emp_total, by(amc year)
+gsort amc
 
 append using "`amc_1950'"
 append using "`amc_1960'"
 append using "`amc_1970'"
 append using "`amc_1980'"
+append using "`amc_1990'"
 gsort amc year
 
 
@@ -121,8 +132,6 @@ save "`manufac_amc'"
 
 
 
-
-
 * Population *
 use ".././output/pop_mun.dta", clear
 
@@ -137,6 +146,36 @@ gsort amc year
 tempfile amc_pop
 save "`amc_pop'"
 
+
+* Foreign Pop 1950 *
+use ".././output/foreign_mun_1950.dta", clear
+
+keep code2010 foreign_tot br_tot
+
+merge 1:1 code2010 using "../output/_Crosswalk_final_1950_2000.dta", keep(3)
+collapse (sum) foreign_tot br_tot, by(amc)
+gsort amc
+
+gen year = 1950
+
+tempfile foreign_1950
+save "`foreign_1950'"
+
+* Literacy 1950
+use ".././output/literacy_mun_1950.dta", clear
+
+keep code2010 total_illiterat total_literat
+
+merge 1:1 code2010 using "../output/_Crosswalk_final_1950_2000.dta", keep(3)
+collapse (sum) total_illiterat total_literat, by(amc)
+gsort amc
+
+gen year = 1950
+
+tempfile literacy_1950
+save "`literacy_1950'"
+
+
 * Value Added *
 use ".././output/mun_va.dta", clear
 keep code2010-gdp_tot
@@ -150,6 +189,8 @@ gsort amc year
 merge 1:1 amc year using "`amc_pop'", nogen
 merge 1:1 amc year using "`amc_emp'", nogen
 merge 1:1 amc year using  "`manufac_amc'", nogen
+merge 1:1 amc year using  "`foreign_1950'", nogen
+merge 1:1 amc year using  "`literacy_1950'", nogen
 
 gsort amc year
 
