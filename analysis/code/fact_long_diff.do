@@ -19,7 +19,12 @@ replace urb_share_1950 		= popurb/poptot 			if year == 1950
 replace log_pop_1950 		= log(poptot) 				if year == 1950
 
 * Region fixed effects
-gen d_region = int(amc/1000)
+gen d_region = .
+replace d_region = 1 if uf_amc <= 2 | uf_amc == 21
+replace d_region = 2 if uf_amc >= 3  & uf_amc <= 10
+replace d_region = 3 if uf_amc >= 11 & uf_amc <= 13
+replace d_region = 4 if uf_amc >= 14 & uf_amc <= 15
+replace d_region = 5 if uf_amc == 16 | state_code == 51 | state_code == 50
 
 * Define some LHS variables
 gen log_pop 		= log(poptot)
@@ -81,7 +86,6 @@ gsort -va_manufac_share_dshort
 * OLS Regressions *
 
 ** Short **
-
 eststo clear
 foreach v in agri_share_dshort manufac_share_dshort serv_share_dshort va_agri_share_dshort ///
 			 va_manufac_share_dshort va_serv_share_dshort{
@@ -124,6 +128,30 @@ foreach v in log_pop_dshort log_urb_dshort log_rur_dshort urb_share_dshort{
 eststo: qui reg `v' asinh_cap urb_share_1950 illit_share_1950 log_pop_1950, vce (cluster amc)
 }
 esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+
+eststo clear
+foreach v in agri_share_dshort manufac_share_dshort serv_share_dshort va_agri_share_dshort ///
+			 va_manufac_share_dshort va_serv_share_dshort{
+eststo: qui reg `v' asinh_cap urb_share_1950 illit_share_1950 log_pop_1950 i.d_region, vce (cluster amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+eststo clear
+foreach v in log_va_agri_dshort log_va_manufac_dshort log_va_serv_dshort log_va_total_dshort{
+eststo: qui reg `v' asinh_cap urb_share_1950 illit_share_1950 log_pop_1950 i.d_region, vce (cluster amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+eststo clear
+foreach v in log_pop_dshort log_urb_dshort log_rur_dshort urb_share_dshort{
+eststo: qui reg `v' asinh_cap urb_share_1950 illit_share_1950 log_pop_1950 i.d_region, vce (cluster amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
 
 
 
@@ -171,6 +199,28 @@ eststo: qui reg `v' asinh_cap urb_share_1950 illit_share_1950 log_pop_1950, vce 
 }
 esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
 
+
+
+eststo clear
+foreach v in agri_share_dlong manufac_share_dlong serv_share_dlong va_agri_share_dlong ///
+			 va_manufac_share_dlong va_serv_share_dlong{
+eststo: qui reg `v' asinh_cap urb_share_1950 illit_share_1950 log_pop_1950 i.d_region, vce (cluster amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+eststo clear
+foreach v in log_va_agri_dlong log_va_manufac_dlong log_va_serv_dlong log_va_total_dlong{
+eststo: qui reg `v' asinh_cap urb_share_1950 illit_share_1950 log_pop_1950 i.d_region, vce (cluster amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+eststo clear
+foreach v in log_pop_dlong log_urb_dlong log_rur_dlong urb_share_dlong{
+eststo: qui reg `v' asinh_cap urb_share_1950 illit_share_1950 log_pop_1950 i.d_region, vce (cluster amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
 
 
 
@@ -224,6 +274,27 @@ esttab, se(3) ar2 stat (r2_a N widstat, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 
 
 
 
+eststo clear
+foreach v in agri_share_dshort manufac_share_dshort serv_share_dshort va_agri_share_dshort ///
+			 va_manufac_share_dshort va_serv_share_dshort{
+eststo: qui ivreg2 `v' urb_share_1950 illit_share_1950 log_pop_1950 i.d_region (asinh_cap = foreign_share),cluster (amc)
+}
+esttab, se(3) ar2 stat (r2_a N widstat, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+eststo clear
+foreach v in log_va_agri_dshort log_va_manufac_dshort log_va_serv_dshort log_va_total_dshort{
+eststo: qui ivreg2 `v' urb_share_1950 illit_share_1950 log_pop_1950 i.d_region (asinh_cap = foreign_share),cluster (amc)
+}
+esttab, se(3) ar2 stat (r2_a N widstat, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+eststo clear
+foreach v in log_pop_dshort log_urb_dshort log_rur_dshort urb_share_dshort{
+eststo: qui ivreg2 `v' urb_share_1950 illit_share_1950 log_pop_1950 i.d_region (asinh_cap = foreign_share),cluster (amc)
+}
+esttab, se(3) ar2 stat (r2_a N widstat, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
 
 
 
@@ -271,6 +342,27 @@ eststo: qui ivreg2 `v' urb_share_1950 illit_share_1950 log_pop_1950 (asinh_cap =
 esttab, se(3) ar2 stat (r2_a N widstat, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
 
 
+
+eststo clear
+foreach v in agri_share_dlong manufac_share_dlong serv_share_dlong va_agri_share_dlong ///
+			 va_manufac_share_dlong va_serv_share_dlong{
+eststo: qui ivreg2 `v' urb_share_1950 illit_share_1950 log_pop_1950 i.d_region (asinh_cap = foreign_share),cluster (amc)
+}
+esttab, se(3) ar2 stat (r2_a N widstat, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+eststo clear
+foreach v in log_va_agri_dlong log_va_manufac_dlong log_va_serv_dlong log_va_total_dlong{
+eststo: qui ivreg2 `v' urb_share_1950 illit_share_1950 log_pop_1950 i.d_region (asinh_cap = foreign_share),cluster (amc)
+}
+esttab, se(3) ar2 stat (r2_a N widstat, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+eststo clear
+foreach v in log_pop_dlong log_urb_dlong log_rur_dlong urb_share_dlong{
+eststo: qui ivreg2 `v' urb_share_1950 illit_share_1950 log_pop_1950 i.d_region (asinh_cap = foreign_share),cluster (amc)
+}
+esttab, se(3) ar2 stat (r2_a N widstat, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
 
 
 

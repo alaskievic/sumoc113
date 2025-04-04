@@ -1,5 +1,14 @@
 clear all
 
+* amc state codes *
+use "../output/_Crosswalk_final_1950_2000.dta", clear
+
+duplicates drop amc, force
+keep uf_amc final_name amc
+
+tempfile amc_codes
+save "`amc_codes'"
+
 * 1950 emp share *
 use ".././output/ocup_mun_total_1950.dta", clear
 * Without domestic *
@@ -191,8 +200,12 @@ merge 1:1 amc year using "`amc_emp'", nogen
 merge 1:1 amc year using  "`manufac_amc'", nogen
 merge 1:1 amc year using  "`foreign_1950'", nogen
 merge 1:1 amc year using  "`literacy_1950'", nogen
+merge m:1 amc using  "`amc_codes'", nogen
 
 gsort amc year
 
+* merge back with codes
+merge m:1 amc using "../output/amc_cross_codes.dta", keep(3)
+destring state_code codmicro codmeso, force replace
 
 save "../output/amc_panel.dta", replace
