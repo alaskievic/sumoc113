@@ -6,6 +6,13 @@ use "../../data/output/amc_panel.dta", clear
 * Define treatment variable
 gen log_cap 	= log(capital_app + 1)
 gen asinh_cap 	= asinh(capital_app)
+
+* Alternative *
+gen alt		  = capital_app
+replace alt   = 0 if capital_app < 5000
+gen asinh_alt = asinh(alt)
+
+
 * Define instrument
 gen foreign_share 			= .
 replace foreign_share 		= foreign_tot/poptot 		if year == 1950
@@ -71,10 +78,12 @@ foreach v of varlist agri_share manufac_share serv_share va_agri_share va_manufa
 foreach x in 1/20{
 	replace foreign_share 		= foreign_share[_n-1]    if foreign_share == .
 	replace capital_app 		= capital_app[_n-1] 	 if capital_app == .
+	replace alt 				= alt[_n-1] 	 		 if alt == .
 	replace log_cap 			= log_cap[_n-1] 		 if log_cap == .
 	replace illit_share_1950 	= illit_share_1950[_n-1] if illit_share_1950 == .
 	replace urb_share_1950 		= urb_share_1950[_n-1] 	 if urb_share_1950 == .
 	replace asinh_cap 			= asinh_cap[_n-1] 	 	 if asinh_cap == .
+	replace asinh_alt 			= asinh_alt[_n-1] 	 	 if asinh_alt == .
 	replace log_pop_1950 		= log_pop_1950[_n-1] 	 if log_pop_1950 == .
 }
 
@@ -92,6 +101,15 @@ foreach v in agri_share_dshort manufac_share_dshort serv_share_dshort va_agri_sh
 eststo: qui reg `v' asinh_cap, vce (cluster amc)
 }
 esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(asinh_cap) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+* Alt *
+eststo clear
+foreach v in agri_share_dshort manufac_share_dshort serv_share_dshort va_agri_share_dshort ///
+			 va_manufac_share_dshort va_serv_share_dshort{
+eststo: qui reg `v' asinh_alt, vce (cluster amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(asinh_alt) star(* 0.10 ** 0.05 *** 0.01) compress
 
 
 eststo clear
@@ -850,167 +868,6 @@ esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(red_dp_d1950) star(* 0.10 ** 0.
 
 	
 
-	
-	
-	
-	
-	
-	
-
-	
-**************************************
-	foreach v of varlist dlmanufac_emp_share_1950 dlagri_emp_share_1950 dlservice_emp_share_1950 dltotal_pop_1950 dlforeign_pop_share_1950{
-		reg `v' share_tr, r
-	}
-	foreach v of varlist dlmanufac_emp_share_1950 dlagri_emp_share_1950 dlservice_emp_share_1950 dltotal_pop_1950 dlforeign_pop_share_1950{
-		reg `v' share_tr i.state_code, r
-	}
-	foreach v of varlist dlmanufac_emp_share_1950 dlagri_emp_share_1950 dlservice_emp_share_1950 dltotal_pop_1950 dlforeign_pop_share_1950 dlpop_dens_1950 {
-		reg `v' share_tr X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals X_CV_1872_dport_min X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber i.state_code, r
-	}
-	
-	* Regressions with Levels of Terra Roxa - Control for Total Area
-	gen tr_total = share_tr * total_area
-	gen ltr_total = asinh(tr_total)
-	eststo clear
-	eststo: qui reg dltotal_pop_1950 ltr_total X_CV_1872_larea_km2, vce (cluster mun_code)
-	eststo: qui reg dltotal_pop_1950 ltr_total X_CV_1872_larea_km2 i.state_code, vce (cluster mun_code)
-	eststo: qui reg dltotal_pop_1950 ltr_total X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals X_CV_1872_dport_min X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber i.state_code, vce (cluster mun_code)
-
-	esttab * using "../output/mun_long_diff_level.tex", style(tex) label notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(ltr_total) replace f noobs noabbrev varlabels (ltr_total "Total Area Of Terra Roxa") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines ///
-	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel A.} & \multicolumn{3}{c}{$\Delta$ Log Population (1872-1950)}\\" "\noalign{\vskip 0.1cm}")
-
-	eststo clear
-	eststo: qui reg dlmanufac_emp_share_1950 ltr_total X_CV_1872_larea_km2, vce (cluster mun_code)
-	eststo: qui reg dlmanufac_emp_share_1950 ltr_total X_CV_1872_larea_km2 i.state_code, vce (cluster mun_code)
-	eststo: qui reg dlmanufac_emp_share_1950 ltr_total X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals X_CV_1872_dport_min X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber i.state_code, vce (cluster mun_code)
-
-	esttab * using "../output/mun_long_diff_level.tex", style(tex) label notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(ltr_total) append f noobs noabbrev varlabels (ltr_total "Total Area Of Terra Roxa") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines ///
-	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel B.} & \multicolumn{3}{c}{$\Delta$ Log Manufacturing Employment Share (1872-1950)}\\" "\noalign{\vskip 0.1cm}")
-
-
-
-	eststo clear
-	eststo: qui reg dlagri_emp_share_1950 ltr_total X_CV_1872_larea_km2, vce (cluster mun_code)
-	eststo: qui reg dlagri_emp_share_1950 ltr_total X_CV_1872_larea_km2 i.state_code, vce (cluster mun_code)
-	eststo: qui reg dlagri_emp_share_1950 ltr_total X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals X_CV_1872_dport_min X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber i.state_code, vce (cluster mun_code)
-
-	esttab * using "../output/mun_long_diff_level.tex", style(tex) label notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(ltr_total) append f noobs noabbrev varlabels (ltr_total "Total Area Of Terra Roxa") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines ///
-	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel C.} & \multicolumn{3}{c}{$\Delta$ Log Agriculture Employment Share (1872-1950)}\\" "\noalign{\vskip 0.1cm}")
- 
-	
-	eststo clear
-	eststo: qui reg dlservice_emp_share_1950 ltr_total X_CV_1872_larea_km2, vce (cluster mun_code)
-	eststo: qui reg dlservice_emp_share_1950 ltr_total X_CV_1872_larea_km2 i.state_code, vce (cluster mun_code)
-	eststo: qui reg dlservice_emp_share_1950 ltr_total X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals X_CV_1872_dport_min X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber i.state_code, vce (cluster mun_code)
-
-	esttab * using "../output/mun_long_diff_level.tex", style(tex) label notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(ltr_total) append f noobs noabbrev varlabels (ltr_total "Total Area Of Terra Roxa") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines ///
-	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel D.} & \multicolumn{3}{c}{$\Delta$ Log Services Employment Share (1872-1950)}\\" "\noalign{\vskip 0.1cm}")
-	
-	
-	eststo clear
-	eststo: qui reg dlforeign_pop_share_1950 ltr_total X_CV_1872_larea_km2, vce (cluster mun_code)
-	eststo: qui reg dlforeign_pop_share_1950 ltr_total X_CV_1872_larea_km2 i.state_code, vce (cluster mun_code)
-	eststo: qui reg dlforeign_pop_share_1950 ltr_total X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals X_CV_1872_dport_min X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber i.state_code, vce (cluster mun_code)
-	
-
-	esttab * using "../output/mun_long_diff_level.tex", style(tex) label notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(ltr_total) append f noobs noabbrev varlabels (ltr_total "Total Area Of Terra Roxa") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) plain prehead("\noalign{\vskip 0.25cm}") ///
-	posthead("\textbf{Panel E.} & \multicolumn{3}{c}{$\Delta$ Log Foreign Population Share (1872-1950)}\\" "\noalign{\vskip 0.1cm}") ///
-	prefoot("\noalign{\vskip 0.1cm}" "\noalign{\vskip 0.3cm}" "\hline" "\noalign{\vskip 0.1cm}" "Total Area Control & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark}\\" ///
-	"State FE & \multicolumn{1}{c}{} & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark}\\" ///
-	"Baseline Controls & & & \multicolumn{1}{c}{\checkmark}\\") ///
-	postfoot("\hline" "\end{tabular}" "\end{table}")
-	
-end program
-
-
-program reg_level_share
-	
-	eststo clear
-	foreach v in dltotal_pop_1950 dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dforeign_pop_share_1950{
-	eststo: qui reg `v' share_tr, vce (cluster mun_code)
-	}
-	esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr) star(* 0.10 ** 0.05 *** 0.01) compress
-	
-	
-	eststo clear
-	foreach v in dltotal_pop_1950 dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dforeign_pop_share_1950{
-	eststo: qui reg `v' share_tr i.state_code, vce (cluster mun_code)
-	}
-	esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr) star(* 0.10 ** 0.05 *** 0.01) compress
-	
-
-	eststo clear
-	foreach v in dltotal_pop_1950 dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dforeign_pop_share_1950{
-	eststo: qui reg `v' share_tr X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals ///
-						X_CV_1872_dport_min X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa ///
-						X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber i.state_code, vce (cluster mun_code)
-	}
-	esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr) star(* 0.10 ** 0.05 *** 0.01) compress
-
-
-end program
-
-
-
-*** Only 1872-1920 difference ***
-	use "../../data/output/panel_mun_1872_1950.dta", clear	
-	
-	gen log_fmm = log(fmm_hist_port_cost + 0.1)
-	gen dp = 1/(fmm_hist_port_cost + 0.01)
-	gen tr_dp = dp*share_tr
-	
-	* controls
-	gen pop_dens = total_pop/total_area
-	foreach var of varlist manufac_emp_share total_pop total_emp foreign_pop_share ///
-						  agri_emp agri_emp_share service_emp_share pop_dens coffee_world_exp ///
-						  coffee_br_exp coffee_row_exp coffee_prod_br coffee_prod_row {
-		gen  l`var' 		= log(`var')				
-		egen l`var'_1872 	= max(cond(year == 1872, l`var', ., .)), by(mun_code)
-	}
-	
-	gen larea_km2 = log(total_area)
-	foreach v of varlist west larea_km2 capitals dport_min ltotal_emp_1872 ltotal_pop_1872 lagri_emp_1872 gaez_cocoa gaez_sugarcane gaez_rubber{
-		egen X_CV_1872_`v' = max(cond(year == 1872, `v', ., .)), by(mun_code)
-	}
-
-
-
-eststo clear
-foreach v in dltotal_pop_1920 dmanufac_emp_share_1920 dagri_emp_share_1920 dservice_emp_share_1920 dforeign_pop_share_1920{
-eststo: qui reg `v' share_tr, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr) star(* 0.10 ** 0.05 *** 0.01) compress
-	
-	
-eststo clear
-foreach v in dltotal_pop_1920 dmanufac_emp_share_1920 dagri_emp_share_1920 dservice_emp_share_1920 dforeign_pop_share_1920{
-eststo: qui reg `v' share_tr i.state_code, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr) star(* 0.10 ** 0.05 *** 0.01) compress
-	
-
-eststo clear
-foreach v in dltotal_pop_1950 dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dforeign_pop_share_1950{
-eststo: qui reg `v' share_tr X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals ///
-						X_CV_1872_dport_min X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa ///
-						X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber i.state_code, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr) star(* 0.10 ** 0.05 *** 0.01) compress
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1102,85 +959,6 @@ program exclude_zero_terra_roxa
 end
 
 
-
-
-
-
-
-program share_tr_intevals
-	
-	gen share_tr_0  	= 0
-	gen share_tr_25 	= 0
-	gen share_tr_50 	= 0
-	gen share_tr_75 	= 0
-	gen share_tr_100 	= 0
-
-	replace share_tr_0 		= 1 if share_tr > 0  	
-	replace share_tr_25 	= 1 if share_tr > 0.25 	
-	replace share_tr_50 	= 1 if share_tr > 0.50 
-	replace share_tr_75 	= 1 if share_tr > 0.75
-	
-	
-	eststo clear
-	foreach v in dltotal_pop_1950 dlmanufac_emp_share_1950 dlagri_emp_share_1950 dlservice_emp_share_1950 dlforeign_pop_share_1950{
-	eststo: qui reg `v' share_tr_0 share_tr_25 share_tr_50 share_tr_75, vce (cluster mun_code)
-	}
-	esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr_0 share_tr_25 share_tr_50 share_tr_75) star(* 0.10 ** 0.05 *** 0.01) compress
-	
-	
-	eststo clear
-	foreach v in dltotal_pop_1950 dlmanufac_emp_share_1950 dlagri_emp_share_1950 dlservice_emp_share_1950 dlforeign_pop_share_1950{
-	eststo: qui reg `v' share_tr_0 share_tr_25 share_tr_50 share_tr_75 i.state_code, vce (cluster mun_code)
-	}
-	esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr_0 share_tr_25 share_tr_50 share_tr_75) star(* 0.10 ** 0.05 *** 0.01) compress
-	
-
-	eststo clear
-	foreach v in dltotal_pop_1950 dlmanufac_emp_share_1950 dlagri_emp_share_1950 dlservice_emp_share_1950 dlforeign_pop_share_1950{
-	eststo: qui reg `v' share_tr_0 share_tr_25 share_tr_50 share_tr_75 X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals ///
-						X_CV_1872_dport_min X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa ///
-						X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber i.state_code, vce (cluster mun_code)
-	}
-	esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr_0 share_tr_25 share_tr_50 share_tr_75) star(* 0.10 ** 0.05 *** 0.01) compress
-end
-
-
-
-
-
-
-
-
-
-
-
-
-program exclude_sp
-	keep if year == 1950
-	drop if state_code == 35
-	
-	eststo clear
-	foreach v in dltotal_pop_1950 dlmanufac_emp_share_1950 dlagri_emp_share_1950 dlservice_emp_share_1950 dlforeign_pop_share_1950{
-	eststo: qui reg `v' share_tr, vce (cluster mun_code)
-	}
-	esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr) star(* 0.10 ** 0.05 *** 0.01) compress
-	
-	
-	eststo clear
-	foreach v in dltotal_pop_1950 dlmanufac_emp_share_1950 dlagri_emp_share_1950 dlservice_emp_share_1950 dlforeign_pop_share_1950{
-	eststo: qui reg `v' share_tr i.state_code, vce (cluster mun_code)
-	}
-	esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr) star(* 0.10 ** 0.05 *** 0.01) compress
-	
-
-	eststo clear
-	foreach v in dltotal_pop_1950 dlmanufac_emp_share_1950 dlagri_emp_share_1950 dlservice_emp_share_1950 dlforeign_pop_share_1950{
-	eststo: qui reg `v' share_tr X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals ///
-						X_CV_1872_dport_min X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa ///
-						X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber i.state_code, vce (cluster mun_code)
-	}
-	esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(share_tr) star(* 0.10 ** 0.05 *** 0.01) compress
-end
 
 
 
@@ -1342,19 +1120,3 @@ program tr_distribution
 	graph export "../output/share_tr_dist.eps", as(eps) replace
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-main

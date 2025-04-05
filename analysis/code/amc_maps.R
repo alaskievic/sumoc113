@@ -20,12 +20,6 @@ amc_1950 <- st_read("../../data/raw/shapefiles/amc_ehrl_shape/amc_1950_2010.shp"
                 geometry) %>%
   mutate(amc = as.double(amc))
 
-# save crosswalk codes
-cross_codes <- st_drop_geometry(amc_1950)
-
-write_dta(cross_codes, "../../data/output/amc_cross_codes.dta")
-
-
 state_1950 <- group_by(amc_1950, state_code) %>% 
   summarise(geometry = st_union(geometry)) %>%
   ungroup()

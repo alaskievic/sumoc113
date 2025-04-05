@@ -12,7 +12,7 @@ keep state code2010 mun_nam agri*
 reshape long agri, i(code2010) j(year)
 
 rename agri gdp_agri
-keep if year >= 1950
+keep if year >= 1940
 destring code2010, force replace
 
 tempfile agri_gdp
@@ -32,7 +32,7 @@ keep state code2010 mun_nam manufac*
 reshape long manufac, i(code2010) j(year)
 
 rename manufac gdp_manufac
-keep if year >= 1950
+keep if year >= 1940
 destring code2010, force replace
 
 tempfile manufac_gdp
@@ -52,7 +52,7 @@ keep state code2010 mun_nam serv*
 reshape long serv, i(code2010) j(year)
 
 rename serv gdp_serv
-keep if year >= 1950
+keep if year >= 1940
 destring code2010, force replace
 
 tempfile serv_gdp
@@ -72,7 +72,7 @@ keep state code2010 mun_nam serv_pub*
 reshape long serv_pub, i(code2010) j(year)
 
 rename serv_pub gdp_serv_pub
-keep if year >= 1950
+keep if year >= 1940
 destring code2010, force replace
 
 merge 1:1 year code2010 using "`agri_gdp'", nogen
