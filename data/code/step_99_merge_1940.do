@@ -248,6 +248,7 @@ merge 1:1 amc year using  "`manufac_amc'", nogen
 merge 1:1 amc year using  "`foreign_1950'", nogen
 merge 1:1 amc year using  "`literacy_1950'", nogen
 merge m:1 amc using  "`amc_codes'", nogen
+merge m:1 amc using "../output/amc_area_1940", nogen
 
 gsort amc year
 

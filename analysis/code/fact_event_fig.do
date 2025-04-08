@@ -1,4 +1,3 @@
-*************************** Market Access Regressions **************************
 clear all
 
 * Load Panel AMC dataset
@@ -35,6 +34,7 @@ replace d_region = 5 if uf_amc == 16 | state_code == 51 | state_code == 50
 
 * Define some LHS variables
 gen log_pop 		= log(poptot)
+gen log_dens		= log(poptot/area_amc_1940)
 gen log_urb			= log(popurb)
 gen log_rur			= log(poprur)
 gen urb_share		= popurb/poptot
@@ -105,7 +105,20 @@ foreach var of varlist manufac_share agri_share serv_share log_pop log_urb ///
 }
 
 
-************** Time Dummies *********
+* For DiD *
+egen asinh_cap_med = median(asinh_cap)
+egen asing_alt_med = median(asinh_alt)
+
+xtile asinh_cap_pc = asinh_cap, nquantiles(4)
+xtile asinh_alt_pc = asinh_alt, nquantiles(4)
+
+gen d_alt_med = 0
+gen d_alt_75  = 0
+replace d_alt_med 	= 1 if asinh_alt_pc 	>= 3
+replace d_alt_75 	= 1 if asinh_alt_pc 	== 4
+
+
+************** Time Dummies **************
 foreach year in 1940 1950 1970 1980 1990 2000 {
 		gen X_asinh_cap_`year' 			= asinh_cap*(year == `year')
 		gen X_asinh_alt_`year' 			= asinh_alt*(year == `year')
@@ -154,7 +167,8 @@ program make_event_cap
 				xsize(6) ysize(4) 
 				legend(off)
 				scheme(s1mono);		
-	#delimit cr	
+	#delimit cr
+	graph export "../output/event_asinh_`1'.png", as(png) replace
 end
 
 
@@ -164,7 +178,7 @@ make_event_cap manufac_share 	"Manufacturing Employment Share"
 make_event_cap serv_share 		"Services Employment Share"
 
 
-make_event_cap log_pop 	"Log Total Population"
+make_event_cap log_pop "Log Total Population"
 make_event_cap log_urb 	"Log Urban Population"
 make_event_cap log_rur 	"Log Rural Population"
 make_event_cap urb_share "Urban Population Share"
@@ -237,8 +251,105 @@ make_event_iv urb_share "Urban Population Share"
 
 
 
-graph export "../output/fig_ma_fixed_sharetrelast3_total_pop_control.eps", as(eps) replace
+* DiD *
+gen time_treat 		= 0
+replace time_treat 	= 1 if year >= 1970
+
+
+gen did_med 	= time_treat*d_alt_med
+gen did_75	 	= time_treat*d_alt_75
+gen did_cont 	= time_treat*asinh_alt
+
+xtset amc year
+
+eststo clear
+foreach v in agri_share manufac_share serv_share{
+	eststo: qui  reghdfe `v' did_75 , absorb(amc year) cluster(amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(did_75) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+eststo clear
+foreach v in agri_share manufac_share serv_share{
+	eststo: qui   reghdfe `v' did_75 X_CV_*_illit_share_1950 X_CV_*_urb_share_1950 X_CV_*_log_pop_1950, absorb(amc year) cluster(amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(did_75) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+eststo clear
+foreach v in agri_share manufac_share serv_share{
+	eststo: qui   reghdfe `v' did_75 X_CV_*_illit_share_1950 X_CV_*_urb_share_1950 X_CV_*_log_pop_1950 i.d_region#i.year, absorb(amc year) cluster(amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(did_75) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+eststo clear
+foreach v in log_dens log_urb log_rur urb_share{
+	eststo: qui   reghdfe `v' did_75 , absorb(amc year) cluster(amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(did_75) star(* 0.10 ** 0.05 *** 0.01) compress
+
+eststo clear
+foreach v in log_dens log_urb log_rur urb_share{
+	eststo: qui   reghdfe `v' did_75 X_CV_*_illit_share_1950 X_CV_*_urb_share_1950 X_CV_*_log_pop_1950, absorb(amc year) cluster(amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(did_75) star(* 0.10 ** 0.05 *** 0.01) compress
+
+eststo clear
+foreach v in log_dens log_urb log_rur urb_share{
+	eststo: qui   reghdfe `v' did_75 X_CV_*_illit_share_1950 X_CV_*_urb_share_1950 X_CV_*_log_pop_1950 i.d_region#i.year, absorb(amc year) cluster(amc)
+}
+esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(did_75) star(* 0.10 ** 0.05 *** 0.01) compress
+
+
+/*
+foreach v in agri_share manufac_share serv_share{
+	xtdidregress (`v' X_CV_*_illit_share_1950 X_CV_*_urb_share_1950 X_CV_*_log_pop_1950) (did_75), group(amc) time(year)
+}
+
+foreach v in agri_share manufac_share serv_share{			 
+	xtdidregress (`v') (did_cont, continuous), group(amc) time(year)
+}
+
+*/
 
 
 
+* Scatter Plots in 1950 *
+keep if year == 1950
 
+
+#delimit;
+twoway (scatter log_dens agri_share if d_alt_75 == 0, mcolor(blue))
+	   (scatter log_dens agri_share if d_alt_75 == 1, mcolor(orange)),
+			   ytitle("Log Population Density (1950)") 
+			   xtitle("Agriculture Employment Share (1950)")
+			   legend(order(1 "Below 75th Treatment" 0 "Above 75th Treatment") rows(3) position(12) ring(0) region(lstyle(black)))
+			   graphregion(fcolor(white) lstyle(none) ilstyle(none) 											
+			   lpattern(blank) ilpattern(blank)) plotregion(style(none));
+#delimit cr
+graph export "../output/scatter_dens_agri.png", as(png) replace
+
+#delimit;
+twoway (scatter log_dens manufac_share if d_alt_75 == 0, mcolor(blue))
+	   (scatter log_dens manufac_share if d_alt_75 == 1, mcolor(orange)),
+			   ytitle("Log Population Density (1950)") 
+			   xtitle("Manufacturing Employment Share (1950)")
+			   legend(order(1 "Below 75th Treatment" 0 "Above 75th Treatment") rows(3) position(12) ring(0) region(lstyle(black)))
+			   graphregion(fcolor(white) lstyle(none) ilstyle(none) 											
+			   lpattern(blank) ilpattern(blank)) plotregion(style(none));
+#delimit cr
+graph export "../output/scatter_dens_manufac.png", as(png) replace
+
+
+
+#delimit;
+twoway (scatter log_dens serv_share if d_alt_75 == 0, mcolor(blue))
+	   (scatter log_dens serv_share if d_alt_75 == 1, mcolor(orange)),
+			   ytitle("Log Population Density (1950)") 
+			   xtitle("Service Employment Share (1950)")
+			   legend(order(1 "Below 75th Treatment" 0 "Above 75th Treatment") rows(3) position(12) ring(0) region(lstyle(black)))
+			   graphregion(fcolor(white) lstyle(none) ilstyle(none) 											
+			   lpattern(blank) ilpattern(blank)) plotregion(style(none));
+#delimit cr
+graph export "../output/scatter_dens_serv.png", as(png) replace

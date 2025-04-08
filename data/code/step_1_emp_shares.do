@@ -35,7 +35,7 @@ end
 
 
 *** 1960 ***
-use ".././raw/census_demog_1960_2010/census_1960_alt.dta", clear
+use ".././raw/census_demog_1950_2010/census_1960_alt.dta", clear
 
 keep code_muni_1960 censobr_weight sex activity state_code broad_activity
 
@@ -59,10 +59,12 @@ collapse (count) emp_num = activity [pweight = censobr_weight], by(broad_activit
 gen d_agri 			= 0
 gen d_manufac 		= 0
 gen d_service 		= 0
+gen d_transform     = 0
 gen d_other			= 0
 
 replace d_agri  		= 1 if broad_activity == "agriculture"
 replace d_manufac  		= 1 if broad_activity == "manufacturing" | broad_activity == "mining"
+replace d_transf     	= 1 if broad_activity == "manufacturing"
 replace d_other			= 1 if broad_activity == "other"
 replace d_service  		= 1 if d_agri == 0 & d_manufac == 0 & d_other == 0
 
@@ -71,6 +73,7 @@ collapse (sum) emp_num, by(d_* code_muni_1960)
 
 gen agri_emp 	= emp_num if d_agri 	== 1
 gen manufac_emp = emp_num if d_manufac 	== 1
+gen transf_emp 	= emp_num if d_transf 	== 1
 gen service_emp = emp_num if d_service 	== 1
 gen other_emp 	= emp_num if d_other    == 1
 
@@ -81,6 +84,8 @@ forvalues i = 1/10{
 	bysort code_muni_1960: replace agri_emp 	= agri_emp[_n + `i']    if agri_emp == .
 	bysort code_muni_1960: replace manufac_emp 	= manufac_emp[_n - `i'] if manufac_emp == .
 	bysort code_muni_1960: replace manufac_emp 	= manufac_emp[_n + `i'] if manufac_emp == .
+	bysort code_muni_1960: replace transf_emp 	= transf_emp[_n - `i']  if transf_emp == .
+	bysort code_muni_1960: replace transf_emp 	= transf_emp[_n + `i']  if transf_emp == .
 	bysort code_muni_1960: replace service_emp 	= service_emp[_n - `i'] if service_emp == .
 	bysort code_muni_1960: replace service_emp 	= service_emp[_n + `i'] if service_emp == .
 	bysort code_muni_1960: replace other_emp 	= other_emp[_n - `i'] 	if other_emp == .
@@ -91,6 +96,7 @@ egen emp_total = total(emp_num), by(code_muni_1960)
 
 gen agri_share    = agri_emp/emp_total
 gen manufac_share = manufac_emp/emp_total
+gen transf_share  = transf_emp/emp_total
 gen service_share = service_emp/emp_total
 
 keep if d_agri == 1
@@ -125,10 +131,8 @@ drop V002
 rename (V054 V023 V026 V027 V044 V045 V041 V035 code_muni) ///
 	   (weight_1970 sex age_type age ocup_code act_code income literat code2010)
 
-
 * Notice that sex is not assigned the same way across the other censuses
 drop if sex == .
-
 
 * Assign activity
 gen activity_name = ""
@@ -144,7 +148,6 @@ drop if act_code == .
 drop if act_code == 933 /* looking for job */
 gsort act_code
 
-
 * remove domestic work
 * drop if activity_name == "domesticservice"
 * drop if activity_name == "other"
@@ -153,34 +156,32 @@ gsort act_code
 collapse (count) emp_num = act_code [pweight = weight_1970], by(activity_name code2010)
 
 gen d_agri 			= 0
-gen d_manufac 		= 0
+gen d_mining		= 0
+gen d_transf		= 0
+gen d_const			= 0
 gen d_service 		= 0
 gen d_other			= 0
 
 replace d_agri  		= 1 if activity_name == "agriculture"
-replace d_manufac  		= 1 if activity_name == "manufacturing" | activity_name == "mining"
+replace d_mining		= 1 if activity_name == "mining"
+replace d_transf  		= 1 if activity_name == "manufacturing"
+replace d_const 		= 1 if activity_name == "construction"
+replace d_service  		= 1 if activity_name == "services"
 replace d_other			= 1 if activity_name == "other"
-replace d_service  		= 1 if d_agri == 0 & d_manufac == 0 & d_other == 0
 
 collapse (sum) emp_num, by(d_* code2010)
 
-
-gen agri_emp 	= emp_num if d_agri 	== 1
-gen manufac_emp = emp_num if d_manufac 	== 1
-gen service_emp = emp_num if d_service 	== 1
-gen other_emp 	= emp_num if d_other    == 1
+foreach v in agri mining transf const service other{
+	gen `v'_emp 	= emp_num if d_`v' 	== 1
+}
 
 gsort code2010
 
-forvalues i = 1/10{
-	bysort code2010: replace agri_emp 		= agri_emp[_n - `i']    if agri_emp == .
-	bysort code2010: replace agri_emp 		= agri_emp[_n + `i']    if agri_emp == .
-	bysort code2010: replace manufac_emp 	= manufac_emp[_n - `i'] if manufac_emp == .
-	bysort code2010: replace manufac_emp 	= manufac_emp[_n + `i'] if manufac_emp == .
-	bysort code2010: replace service_emp 	= service_emp[_n - `i'] if service_emp == .
-	bysort code2010: replace service_emp 	= service_emp[_n + `i'] if service_emp == .
-	bysort code2010: replace other_emp 		= other_emp[_n - `i'] 	if other_emp == .
-	bysort code2010: replace other_emp 		= other_emp[_n + `i'] 	if other_emp == .
+foreach v of varlist agri_emp mining_emp transf_emp const_emp service_emp other_emp{
+	forvalues i = 1/10{
+		bysort code2010: replace `v' 		= `v'[_n - `i']    if `v'  == .
+		bysort code2010: replace `v'  		= `v'[_n + `i']    if `v'  == .
+	}
 }
 
 egen emp_total = total(emp_num), by(code2010)
@@ -257,34 +258,32 @@ gsort act_code
 collapse (count) emp_num = act_code [pweight = weight_1980], by(activity_name code2010)
 
 gen d_agri 			= 0
-gen d_manufac 		= 0
+gen d_mining		= 0
+gen d_transf		= 0
+gen d_const			= 0
 gen d_service 		= 0
 gen d_other			= 0
 
 replace d_agri  		= 1 if activity_name == "agriculture"
-replace d_manufac  		= 1 if activity_name == "manufacturing" | activity_name == "mining"
+replace d_mining		= 1 if activity_name == "mining"
+replace d_transf  		= 1 if activity_name == "manufacturing"
+replace d_const 		= 1 if activity_name == "construction"
+replace d_service  		= 1 if activity_name == "services"
 replace d_other			= 1 if activity_name == "other"
-replace d_service  		= 1 if d_agri == 0 & d_manufac == 0 & d_other == 0
 
 collapse (sum) emp_num, by(d_* code2010)
 
-
-gen agri_emp 	= emp_num if d_agri 	== 1
-gen manufac_emp = emp_num if d_manufac 	== 1
-gen service_emp = emp_num if d_service 	== 1
-gen other_emp 	= emp_num if d_other    == 1
+foreach v in agri mining transf const service other{
+	gen `v'_emp 	= emp_num if d_`v' 	== 1
+}
 
 gsort code2010
 
-forvalues i = 1/10{
-	bysort code2010: replace agri_emp 		= agri_emp[_n - `i']    if agri_emp == .
-	bysort code2010: replace agri_emp 		= agri_emp[_n + `i']    if agri_emp == .
-	bysort code2010: replace manufac_emp 	= manufac_emp[_n - `i'] if manufac_emp == .
-	bysort code2010: replace manufac_emp 	= manufac_emp[_n + `i'] if manufac_emp == .
-	bysort code2010: replace service_emp 	= service_emp[_n - `i'] if service_emp == .
-	bysort code2010: replace service_emp 	= service_emp[_n + `i'] if service_emp == .
-	bysort code2010: replace other_emp 		= other_emp[_n - `i'] 	if other_emp == .
-	bysort code2010: replace other_emp 		= other_emp[_n + `i'] 	if other_emp == .
+foreach v of varlist agri_emp mining_emp transf_emp const_emp service_emp other_emp{
+	forvalues i = 1/10{
+		bysort code2010: replace `v' 		= `v'[_n - `i']    if `v'  == .
+		bysort code2010: replace `v'  		= `v'[_n + `i']    if `v'  == .
+	}
 }
 
 egen emp_total = total(emp_num), by(code2010)
@@ -359,34 +358,32 @@ gsort act_code
 collapse (count) emp_num = act_code [pweight = weight_1990], by(activity_name code2010)
 
 gen d_agri 			= 0
-gen d_manufac 		= 0
+gen d_mining		= 0
+gen d_transf		= 0
+gen d_const			= 0
 gen d_service 		= 0
 gen d_other			= 0
 
 replace d_agri  		= 1 if activity_name == "agriculture"
-replace d_manufac  		= 1 if activity_name == "manufacturing" | activity_name == "mining"
+replace d_mining		= 1 if activity_name == "mining"
+replace d_transf  		= 1 if activity_name == "manufacturing"
+replace d_const 		= 1 if activity_name == "construction"
+replace d_service  		= 1 if activity_name == "services"
 replace d_other			= 1 if activity_name == "other"
-replace d_service  		= 1 if d_agri == 0 & d_manufac == 0 & d_other == 0
 
 collapse (sum) emp_num, by(d_* code2010)
 
-
-gen agri_emp 	= emp_num if d_agri 	== 1
-gen manufac_emp = emp_num if d_manufac 	== 1
-gen service_emp = emp_num if d_service 	== 1
-gen other_emp 	= emp_num if d_other    == 1
+foreach v in agri mining transf const service other{
+	gen `v'_emp 	= emp_num if d_`v' 	== 1
+}
 
 gsort code2010
 
-forvalues i = 1/10{
-	bysort code2010: replace agri_emp 		= agri_emp[_n - `i']    if agri_emp == .
-	bysort code2010: replace agri_emp 		= agri_emp[_n + `i']    if agri_emp == .
-	bysort code2010: replace manufac_emp 	= manufac_emp[_n - `i'] if manufac_emp == .
-	bysort code2010: replace manufac_emp 	= manufac_emp[_n + `i'] if manufac_emp == .
-	bysort code2010: replace service_emp 	= service_emp[_n - `i'] if service_emp == .
-	bysort code2010: replace service_emp 	= service_emp[_n + `i'] if service_emp == .
-	bysort code2010: replace other_emp 		= other_emp[_n - `i'] 	if other_emp == .
-	bysort code2010: replace other_emp 		= other_emp[_n + `i'] 	if other_emp == .
+foreach v of varlist agri_emp mining_emp transf_emp const_emp service_emp other_emp{
+	forvalues i = 1/10{
+		bysort code2010: replace `v' 		= `v'[_n - `i']    if `v'  == .
+		bysort code2010: replace `v'  		= `v'[_n + `i']    if `v'  == .
+	}
 }
 
 egen emp_total = total(emp_num), by(code2010)
@@ -463,34 +460,32 @@ gsort act_code
 collapse (count) emp_num = act_code [pweight = weight_2000], by(activity_name code2010)
 
 gen d_agri 			= 0
-gen d_manufac 		= 0
+gen d_mining		= 0
+gen d_transf		= 0
+gen d_const			= 0
 gen d_service 		= 0
 gen d_other			= 0
 
 replace d_agri  		= 1 if activity_name == "agriculture"
-replace d_manufac  		= 1 if activity_name == "manufacturing" | activity_name == "mining"
+replace d_mining		= 1 if activity_name == "mining"
+replace d_transf  		= 1 if activity_name == "manufacturing"
+replace d_const 		= 1 if activity_name == "construction"
+replace d_service  		= 1 if activity_name == "services"
 replace d_other			= 1 if activity_name == "other"
-replace d_service  		= 1 if d_agri == 0 & d_manufac == 0 & d_other == 0
 
 collapse (sum) emp_num, by(d_* code2010)
 
-
-gen agri_emp 	= emp_num if d_agri 	== 1
-gen manufac_emp = emp_num if d_manufac 	== 1
-gen service_emp = emp_num if d_service 	== 1
-gen other_emp 	= emp_num if d_other    == 1
+foreach v in agri mining transf const service other{
+	gen `v'_emp 	= emp_num if d_`v' 	== 1
+}
 
 gsort code2010
 
-forvalues i = 1/10{
-	bysort code2010: replace agri_emp 		= agri_emp[_n - `i']    if agri_emp == .
-	bysort code2010: replace agri_emp 		= agri_emp[_n + `i']    if agri_emp == .
-	bysort code2010: replace manufac_emp 	= manufac_emp[_n - `i'] if manufac_emp == .
-	bysort code2010: replace manufac_emp 	= manufac_emp[_n + `i'] if manufac_emp == .
-	bysort code2010: replace service_emp 	= service_emp[_n - `i'] if service_emp == .
-	bysort code2010: replace service_emp 	= service_emp[_n + `i'] if service_emp == .
-	bysort code2010: replace other_emp 		= other_emp[_n - `i'] 	if other_emp == .
-	bysort code2010: replace other_emp 		= other_emp[_n + `i'] 	if other_emp == .
+foreach v of varlist agri_emp mining_emp transf_emp const_emp service_emp other_emp{
+	forvalues i = 1/10{
+		bysort code2010: replace `v' 		= `v'[_n - `i']    if `v'  == .
+		bysort code2010: replace `v'  		= `v'[_n + `i']    if `v'  == .
+	}
 }
 
 egen emp_total = total(emp_num), by(code2010)
