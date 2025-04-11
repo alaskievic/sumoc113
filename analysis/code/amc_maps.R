@@ -430,7 +430,7 @@ amc_shp_1950 <- filter(amc_shp, year == 1950) %>%
   mutate(capital = case_when(capital_app < 5000 ~ 0,
                              is.na(capital_app) == TRUE ~ 0,
                              .default = capital_app)) %>%
-  mutate(capital = capital/1000)
+  mutate(capital = capital/1000, capital_pw = (capital*1000/emp_total))
 
 
 capital_1950 <- tm_shape(amc_shp_1950) +
@@ -454,3 +454,25 @@ capital_1950 <- tm_shape(amc_shp_1950) +
 capital_1950
 tmap_save(capital_1950, "../output/capital_1950.png")
 
+
+
+capital_1950_pw <- tm_shape(amc_shp_1950) +
+  tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
+  tm_fill(fill = "capital_pw",
+          tm_scale_intervals(style = "fixed",
+                             label.na = "No Data",
+                             breaks = c(0, 0.01, 5, 50, 200),
+                             midpoint = NA,
+                             labels = c("0", "0.01 to 5", "5 to 50", "50 to 200"),
+                             values = "brewer.yl_or_rd"),
+          fill.legend = tm_legend(title = "Value of SUMOC 113 Licenses\n(US$ per Worker)")) +
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(width = 20, position = c("right", "bottom"))
+
+capital_1950_pw
+tmap_save(capital_1950_pp, "../output/capital_1950_pw.png")
