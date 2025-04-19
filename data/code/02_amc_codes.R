@@ -18,7 +18,10 @@ amc_1950 <- st_read("../../data/raw/shapefiles/amc_ehrl_shape/amc_1950_2010.shp"
          micro_name = NOME_MICRO) %>%
   dplyr::select(state_code, state_abbrev, amc, amc_name, codmicro, micro_name, codmeso,
                 geometry) %>%
-  mutate(amc = as.double(amc))
+  mutate(amc = as.double(amc),
+         codmicro = as.double(codmicro),
+         codmedo = as.double(codmeso),
+         state_code = as.double(state_code))
 
 amc_1940 <- st_read("../../data/raw/shapefiles/amc_ehrl_shape/amc_1940_2010.shp") %>%
   rename(codmicro = MICRORREGI, amc = amc_1940_2, state_code = UF,
@@ -26,7 +29,10 @@ amc_1940 <- st_read("../../data/raw/shapefiles/amc_ehrl_shape/amc_1940_2010.shp"
          micro_name = NOME_MICRO) %>%
   dplyr::select(state_code, state_abbrev, amc, amc_name, codmicro, micro_name, codmeso,
                 geometry) %>%
-  mutate(amc = as.double(amc))
+  mutate(amc = as.double(amc),
+         codmicro = as.double(codmicro),
+         codmedo = as.double(codmeso),
+         state_code = as.double(state_code))
 
 # save crosswalk codes
 amc_codes_1940 <- st_drop_geometry(amc_1940)

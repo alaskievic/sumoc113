@@ -1,7 +1,7 @@
 clear all
 
 * Load Panel AMC dataset
-use "../../data/output/amc_panel.dta", clear	
+use "../../data/output/amc_panel_1950.dta", clear	
 
 * Define treatment variable
 gen log_cap 	= log(capital_app + 1)
@@ -96,7 +96,202 @@ foreach x in 1/20{
 }
 
 
-gsort -va_manufac_share_dshort
+
+
+
+
+program reg_short_base{
+	local c1list `c1list' urb_share_1950 illit_share_1950 log_pop_1950
+
+	local c2list `c1list' urb_share_1950 illit_share_1950 log_pop_1950 rail_dist ///
+						  road_dist port_dist d_capital
+
+	local c3list `c3list' urb_share_1950 illit_share_1950 log_pop_1950 rail_dist ///
+						  road_dist port_dist d_capital i.d_region
+						  
+
+	mat coef = J(32,24,.)
+		
+	reg agri_share_dshort asinh_alt_pw, cluster(amc)
+	get_results 1 1 0
+	reg manufac_share_dshort asinh_alt_pw,  cluster(amc)
+	get_results 1 2 0	
+	reg ser_share_dshort asinh_alt_pw,  cluster(amc)
+	get_results 1 3 0
+	reg log_pop_dshort asinh_alt_pw, cluster(amc)
+	get_results 1 4 0
+	reg log_urb_dshort asinh_alt_pw, cluster(amc)
+	get_results 1 5 0
+	reg log_rur_dshort treat asinh_alt_pw, cluster(amc)
+	get_results 1 6 0
+		
+	reg agri_share_dshort asinh_alt_pw `c1list', cluster(amc)
+	get_results 2 1 0
+	reg manufac_share_dshort asinh_alt_pw `c1list', cluster(amc)
+	get_results 2 2 0
+	reg ser_share_dshort asinh_alt_pw `c1list', cluster(amc)
+	get_results 2 3 0
+	reg log_pop_dshort asinh_alt_pw `c1list', cluster(amc)
+	get_results 2 4 0
+	reg log_urb_dshort asinh_alt_pw `c1list', cluster(amc)
+	get_results 2 5 0
+	reg log_rur_dshort treat asinh_alt_pw `c1list', cluster(amc)
+	get_results 2 6 0
+
+
+	reg agri_share_dshort asinh_alt_pw `c2list', cluster(amc)
+	get_results 3 1 0
+	reg manufac_share_dshort asinh_alt_pw `c2list', cluster(amc)
+	get_results 3 2 0
+	reg ser_share_dshort asinh_alt_pw `c2list', cluster(amc)
+	get_results 3 3 0
+	reg log_pop_dshort asinh_alt_pw `c2list', cluster(amc)
+	get_results 3 4 0
+	reg log_urb_dshort asinh_alt_pw `c2list', cluster(amc)
+	get_results 3 5 0
+	reg log_rur_dshort treat asinh_alt_pw `c2list', cluster(amc)
+	get_results 3 6 0
+
+
+	reg agri_share_dshort asinh_alt_pw `c3list', cluster(amc)
+	get_results 4 1 0
+	reg manufac_share_dshort asinh_alt_pw `c3list', cluster(amc)
+	get_results 4 2 0
+	reg ser_share_dshort asinh_alt_pw `c3list',cluster(amc)
+	get_results 4 3 0
+	reg log_pop_dshort asinh_alt_pw `c3list', cluster(amc)
+	get_results 4 4 0
+	reg log_urb_dshort asinh_alt_pw `c3list', cluster(amc)
+	get_results 4 5 0
+	reg log_rur_dshort asinh_alt_pw `c3list', cluster(amc)
+	get_results 4 6 0
+
+	ivreg2 agri_share_dshort (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 5 1 1
+	ivreg2 manufac_share_dshort (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 5 2 1
+	ivreg2 ser_share_dshort (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 5 3 1
+	ivreg2 log_pop_dshort asinh_alt_pw (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 5 4 1
+	ivreg2 log_urb_dshort (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 5 5 1
+	ivreg2 log_rur_dshort (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 5 6 1
+		
+	ivreg2 agri_share_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 6 1 1
+	ivreg2 manufac_share_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 6 2 1
+	ivreg2 ser_share_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 6 3 1
+	ivreg2 log_pop_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 6 4 1
+	ivreg2 log_urb_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 6 5 1
+	ivreg2 log_rur_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 6 6 
+
+	ivreg2 agri_share_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 7 1 1
+	ivreg2 manufac_share_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 7 2 1
+	ivreg2 ser_share_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 7 3 1
+	ivreg2 log_pop_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 7 4 1
+	ivreg2 log_urb_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 7 5 1
+	ivreg2 log_rur_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 7 6 1
+
+
+	ivreg2 agri_share_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 8 1 1
+	ivreg2 manufac_share_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 8 2 1
+	ivreg2 ser_share_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 8 3 1
+	ivreg2 log_pop_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 8 4 1
+	ivreg2 log_urb_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 8 5 1
+	ivreg2 log_rur_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+	get_results 8 6 1
+}
+
+
+
+program get_results{
+	mat coef[8*(`1'-1)+1,`2'] = _b[treat]
+	mat coef[8*(`1'-1)+2,`2'] = _se[treat]	
+	mat coef[8*(`1'-1)+1,`2' + 6] = 2*ttail(10000,abs(_b[treat]/_se[treat]))
+	mat coef[8*(`1'-1)+3,`2'] = e(N_full)
+	if `3' == 0 {
+		mat coef[8*(`1'-1)+8,`2'] = e(r2_a)
+	}
+	if `3' == 1 {
+		mat coef[8*(`1'-1)+8,`2'] = e(widstat)
+}}}}
+
+
+reg_short_base
+get_results
+
+clear 
+svmat coef
+foreach var of varlist coef1-coef8 {
+	gen aux_var = string(`var')
+	tostring `var', replace force format(%9.3f)		
+	replace `var' = "0.001" if `var' == "0.000"
+	replace `var' = "(" + `var' + ")" if _n == 2 | _n == 6 | _n == 10 | _n == 14 | _n == 18 | _n == 22 | _n == 26
+	replace `var' = "" if `var' == "." | `var' == "(.)" | `var' == "(0)"
+	replace `var' = "-0.001" if `var' == "-0"
+	replace `var' = aux_var if _n == 3 | _n == 7 | _n == 11 | _n == 15 | _n == 19 | _n == 23 | _n == 27
+	drop aux_var
+}
+forvalues ix = 1/8 {
+	local pv = `ix' + 8
+	replace coef`ix' = coef`ix' + "***" if coef`pv' < 0.01
+	replace coef`ix' = coef`ix' + "**" if coef`pv' >= 0.01 & coef`pv' < 0.05
+	replace coef`ix' = coef`ix' + "*" if coef`pv' >= 0.05 & coef`pv' < 0.10
+}
+drop if coef1 == "" | coef1 == "."
+	
+* make 1st column
+gen col_1 = "$asinh(FDI per Worker)$" if _n == 1 | _n == 5 | _n == 9 | _n == 13 | _n == 17 | _n == 21 | _n == 25
+replace col_1 = "Observations" if _n == 3 | _n == 7 | _n == 11 | _n == 15
+replace col_1 = "Adj. R2" if _n == 4 | _n == 12
+replace col_1 = "KP p-value" if _n == 8 | _n == 16
+	
+* fill panel info
+gen col_aux = ""
+replace col_1 = "\multicolumn{7}{l}{\emph{a. Specification: OLS}} \\ " + col_1 if _n == 1	
+replace col_1 = "\\ \multicolumn{7}{l}{\emph{b. Specification: IV}} \\ " + col_1 if _n == 5
+replace col_1 = "\\ \multicolumn{7}{l}{\emph{c. Specification: OLS + Controls for initial condition}} \\ " + col_1 if _n == 9	
+replace col_1 = "\\ \multicolumn{7}{l}{\emph{d. Specification: IV + Controls for initial condition}} \\ " + col_1 if _n == 13	
+	
+* make table
+#delimit;
+listtab col_1 coef1 coef2 coef3 coef4 coef5 coef6 coef7 coef8
+		using "../output/short_diff_base.tex", type
+		rstyle(tabular) 									
+		head("\begin{tabular}{lrrrrrrr}\hline"					
+		"           & \multicolumn{6}{c}{Dependent Variable}  \\ \cline{2-7} "								
+		"           & Mfg   & Agr   & Ser    & Foreign Pop.  & Total Pop. & Dist. RR  \\ "								
+		"           & Share & Share & Share  & Log           & Log       & Levels       \\ "								
+		"           & (1)   & (2)   & (3)    & (4)           & (5)       & (6)       \\ \hline")								
+		foot("\hline \end{tabular}")
+			replace;
+#delimit cr	
+end
+
+
+
+
+
+
+
 
 
 * OLS Regressions *
@@ -440,6 +635,120 @@ esttab, se(3) ar2 stat (r2_a N widstat, fmt(%9.3f)) keep(asinh_alt) star(* 0.10 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local c1list `c1list' urb_share_1950 illit_share_1950 log_pop_1950
+
+local c2list `c2list' urb_share_1950 illit_share_1950 log_pop_1950 rail_dist ///
+						  road_dist port_dist d_capital
+
+local c3list `c3list' urb_share_1950 illit_share_1950 log_pop_1950 rail_dist ///
+						  road_dist port_dist d_capital i.d_region
+
+eststo clear
+eststo: qui reg agri_share_dshort asinh_alt_pw, vce (cluster amc)
+eststo: qui reg agri_share_dshort asinh_alt_pw `c1list', vce (cluster amc)
+eststo: qui reg agri_share_dshort asinh_alt_pw `c2list', vce (cluster amc)
+eststo: qui reg agri_share_dshort asinh_alt_pw `c3list', vce (cluster amc)
+eststo: qui ivreg2 agri_share_dshort (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 agri_share_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 agri_share_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 agri_share_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+
+
+esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) replace f noobs noabbrev varlabels(asinh_alt_pw "$asinh(FDI per Worker)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel A.} & \multicolumn{8}{c}{$\Delta$ Employment Share in Agriculture (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
+
+eststo clear
+eststo: qui reg manufac_share_dshort asinh_alt_pw, vce (cluster amc)
+eststo: qui reg manufac_share_dshort asinh_alt_pw `c1list', vce (cluster amc)
+eststo: qui reg manufac_share_dshort asinh_alt_pw `c2list', vce (cluster amc)
+eststo: qui reg manufac_share_dshort asinh_alt_pw `c3list', vce (cluster amc)
+eststo: qui ivreg2 manufac_share_dshort (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 manufac_share_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 manufac_share_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 manufac_share_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+
+
+esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noobs noabbrev varlabels (asinh_alt_pw "$asinh(FDI per Worker)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel B.} & \multicolumn{8}{c}{$\Delta$ Employment Share in Manufacturing (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
+
+
+eststo clear
+eststo: qui reg serv_share_dshort asinh_alt_pw, vce (cluster amc)
+eststo: qui reg serv_share_dshort asinh_alt_pw `c1list', vce (cluster amc)
+eststo: qui reg serv_share_dshort asinh_alt_pw `c2list', vce (cluster amc)
+eststo: qui reg serv_share_dshort asinh_alt_pw `c3list', vce (cluster amc)
+eststo: qui ivreg2 serv_share_dshort (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 serv_share_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 serv_share_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 serv_share_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+
+
+esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noobs noabbrev varlabels (asinh_alt_pw "$asinh(FDI per Worker)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel C.} & \multicolumn{8}{c}{$\Delta$ Employment Share in Services (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
+
+	
+eststo clear
+eststo: qui reg log_pop_dshort asinh_alt_pw, vce (cluster amc)
+eststo: qui reg log_pop_dshort asinh_alt_pw `c1list', vce (cluster amc)
+eststo: qui reg log_pop_dshort asinh_alt_pw `c2list', vce (cluster amc)
+eststo: qui reg log_pop_dshort asinh_alt_pw `c3list', vce (cluster amc)
+eststo: qui ivreg2 log_pop_dshort (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 log_pop_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 log_pop_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 log_pop_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+
+
+esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noobs noabbrev varlabels (asinh_alt_pw "$asinh(FDI per Worker)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel D.} & \multicolumn{8}{c}{$\Delta$ Log Total Population (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
+	
+	
+eststo clear
+eststo: qui reg urb_share_dshort asinh_alt_pw, vce (cluster amc)
+eststo: qui reg urb_share_dshort asinh_alt_pw `c1list', vce (cluster amc)
+eststo: qui reg urb_share_dshort asinh_alt_pw `c2list', vce (cluster amc)
+eststo: qui reg urb_share_dshort asinh_alt_pw `c3list', vce (cluster amc)
+eststo: qui ivreg2 urb_share_dshort (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 urb_share_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 urb_share_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 urb_share_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+
+esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat N, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F" "Observations")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noabbrev varlabels (asinh_alt_pw "$asinh(FDI per Worker)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel E.} & \multicolumn{8}{c}{$\Delta$ Urban Population Shares (1950-1970)}\\" "\noalign{\vskip 0.1cm}") ///
+	prefoot("\noalign{\vskip 0.3cm}" "\hline" "\noalign{\vskip 0.1cm}" ///
+	"Baseline Controls & & \multicolumn{1}{c}{\checkmark}& \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark} & & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark}\\" ///
+	"Market Access Controls & & & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark} & & & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark}\\" ///
+	"Region FE & & & & \multicolumn{1}{c}{\checkmark} & & & & \multicolumn{1}{c}{\checkmark}\\") ///
+	postfoot("\hline" "\end{tabular}" "\end{table}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 gen time_treat 		= 0
 replace time_treat 	= 1 if year >= 1970
 gen did_cont 	= time_treat*asinh_cap
@@ -464,102 +773,6 @@ keep if year <= 1967
 did_multiplegt_stat lngca id year tau
 
 
-
-
-program mun_long_diff
-	use "../../data/output/panel_mun_1872_1950.dta", clear	
-	*egen share_tr_mean = mean(share_tr) 
-	*egen share_tr_sd  = sd(share_tr)
-	*gen  share_tr_std = (share_tr - share_tr_mean) / share_tr_sd
-	
-	gen log_fmm = log(fmm_hist_port_cost + 0.01)
-	gen dp = 1/(fmm_hist_port_cost + 0.01)
-	gen dp_coffee = 1/(fmm_coffee_port_cost + 0.01)
-	
-	
-	gen dp_1950 = dp if year == 1950 & mun_cod == mun_cod[_n-1]
-	
-	gen dummy_tr = share_tr >= 0.25
-	gen dummy_red = share_red >= 0.25
-
-	
-	gen tr_dp  = dp*share_tr
-	gen red_dp = dp*share_red
-	
-	gen tr_dp_coffee  = dp_coffee*share_tr
-	gen red_dp_coffee = dp_coffee*share_red
-	
-	gen dummy_tr_dp  = dummy_tr*dp
-	gen dummy_red_dp = dummy_red*dp
-	
-	* controls
-	gen pop_dens = total_pop/total_area
-	foreach var of varlist manufac_emp_share total_pop total_emp total_foreign foreign_pop_share ///
-						  agri_emp manufac_emp service_emp agri_emp_share service_emp_share ///
-						  pop_dens coffee_world_exp coffee_br_exp coffee_row_exp ///
-						  coffee_prod_br coffee_prod_row {
-		gen  l`var' 		= log(`var')				
-		egen l`var'_1872 	= max(cond(year == 1872, l`var', ., .)), by(mun_code)
-	}
-	
-	gen larea_km2 = log(total_area)
-	foreach v of varlist west larea_km2 capitals dport_min ltotal_emp_1872 ltotal_pop_1872 lagri_emp_1872 gaez_cocoa gaez_sugarcane gaez_rubber{
-		egen X_CV_1872_`v' = max(cond(year == 1872, `v', ., .)), by(mun_code)
-	}
-	
-	* Generate long differences
-	gsort mun_code year
-	
-	gen tr_dp_d1920 		= tr_dp  - tr_dp[_n-7] 					if year == 1920 & mun_cod == mun_cod[_n-1]
-	gen red_dp_d1920 		= red_dp - red_dp[_n-7] 				if year == 1920 & mun_cod == mun_cod[_n-1]
-	gen tr_coffee_d1920 	= tr_dp_coffee  - tr_dp_coffee[_n-7] 	if year == 1920 & mun_cod == mun_cod[_n-1]
-	gen red_coffee_d1920 	= red_dp_coffee - red_dp_coffee[_n-7] 	if year == 1920 & mun_cod == mun_cod[_n-1]
-	
-	
-	
-	gen tr_dp_d1950 		= tr_dp - tr_dp[_n-9] 					if year == 1950 & mun_cod == mun_cod[_n-1]
-	gen red_dp_d1950 		= red_dp - red_dp[_n-9] 				if year == 1950 & mun_cod == mun_cod[_n-1]
-	gen tr_coffee_d1950 	= tr_dp_coffee  - tr_dp_coffee[_n-9] 	if year == 1950 & mun_cod == mun_cod[_n-1]
-	gen red_coffee_d1950 	= red_dp_coffee - red_dp_coffee[_n-9] 	if year == 1950 & mun_cod == mun_cod[_n-1]
-	
-	
-	bysort mun_code (year): replace red_dp_d1950 = red_dp_d1950[_n+1] if missing(red_dp_d1950)
-
-	
-	
-	
-	
-	gen dummy_tr_dp_d1920 	= dummy_tr_dp  - dummy_tr_dp[_n-7] 	if year == 1920 & mun_cod == mun_cod[_n-1]
-	gen dummy_red_dp_d1920 	= dummy_red_dp - dummy_red_dp[_n-7] if year == 1920 & mun_cod == mun_cod[_n-1]
-
-	gen dummy_tr_dp_d1950 	= dummy_tr_dp - dummy_tr_dp[_n-9] 	if year == 1950 & mun_cod == mun_cod[_n-1]
-	gen dummy_red_dp_d1950 	= dummy_red_dp - dummy_red_dp[_n-9] if year == 1950 & mun_cod == mun_cod[_n-1]
-	
-	
-	
-	
-	foreach v of varlist manufac_emp_share agri_emp_share service_emp_share ltotal_pop ///
-						 ltotal_foreign foreign_pop_share pop_dens coffee_world_exp ///
-						 coffee_br_exp coffee_row_exp coffee_prod_br coffee_prod_row{
-		gen d`v'_1920 = `v' - `v'[_n-5] if year == 1920 & mun_cod == mun_cod[_n-1]
-	}
-	foreach v of varlist lmanufac_emp_share lagri_emp_share lservice_emp_share ///
-						 lforeign_pop_share lpop_dens lcoffee_world_exp lcoffee_br_exp ///
-						 lcoffee_row_exp lcoffee_prod_br lcoffee_prod_row log_fmm{
-		gen d`v'_1920 = `v' - `v'[_n-5] if year == 1920 & mun_cod == mun_cod[_n-1]
-	}
-	
-	foreach v of varlist manufac_emp_share agri_emp_share service_emp_share ltotal_pop ///
-						 ltotal_foreign foreign_pop_share pop_dens coffee_world_exp ///
-						 coffee_br_exp coffee_row_exp coffee_prod_br coffee_prod_row ///
-						 lmanufac_emp lagri_emp lservice_emp{
-		gen d`v'_1950 = `v' - `v'[_n-8] if year == 1950 & mun_cod == mun_cod[_n-1]
-	}
-	foreach v of varlist lmanufac_emp_share lagri_emp_share lservice_emp_share ///
-						 lforeign_pop_share lpop_dens lcoffee_world_exp lcoffee_br_exp ///
-						 lcoffee_row_exp lcoffee_prod_br lcoffee_prod_row log_fmm{
-		gen d`v'_1950 = `v' - `v'[_n-8] if year == 1950 & mun_cod == mun_cod[_n-1]
-	}
 	
 	* Regressions with Share of Terra Roxa
 	eststo clear
@@ -611,85 +824,6 @@ program mun_long_diff
 	postfoot("\hline" "\end{tabular}" "\end{table}")
 	
 
-************************************	
-eststo clear
-foreach v in dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dltotal_pop_1950 dltotal_foreign_1950{
-eststo: qui reg `v' tr_dp_d1950, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(tr_dp_d1950) star(* 0.10 ** 0.05 *** 0.01) compress
-	
-
-	
-eststo clear
-foreach v in dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dltotal_pop_1950 dltotal_foreign_1950{
-eststo: qui reg `v' tr_dp_d1950, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(tr_dp_d1950) star(* 0.10 ** 0.05 *** 0.01) compress	
-
-	
-	
-eststo clear
-foreach v in dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dltotal_pop_1950 dltotal_foreign_1950{
-eststo: qui reg `v' red_dp_d1950, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(red_dp_d1950) star(* 0.10 ** 0.05 *** 0.01) compress
-
-
-eststo clear
-foreach v in dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dltotal_pop_1950 dltotal_foreign_1950{
-eststo: qui reg `v' red_coffee_d1950, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(red_coffee_d1950) star(* 0.10 ** 0.05 *** 0.01) compress
-
-	
-eststo clear
-foreach v in dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dltotal_pop_1950 dlforeign_pop_share_1950{
-eststo: qui reg `v' red_dp_d1950, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(red_dp_d1950) star(* 0.10 ** 0.05 *** 0.01) compress
-	
-
-	
-eststo clear
-foreach v in dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dltotal_pop_1950 dlforeign_pop_share_1950{
-eststo: qui reg `v' red_dp_d1950, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(red_dp_d1950) star(* 0.10 ** 0.05 *** 0.01) compress	
-
-	
-
-eststo clear
-foreach v in dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dltotal_pop_1950 dlforeign_pop_share_1950{
-eststo: qui reg `v' tr_dp_d1950 X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals ///
-						X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa  ///
-						X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(tr_dp_d1950) star(* 0.10 ** 0.05 *** 0.01) compress
-
-
-
-eststo clear
-foreach v in dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dltotal_pop_1950 dlforeign_pop_share_1950{
-eststo: qui reg `v' tr_dp_d1950 i.state_code, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(tr_dp_d1950) star(* 0.10 ** 0.05 *** 0.01) compress
-
-eststo clear
-foreach v in dmanufac_emp_share_1950 dagri_emp_share_1950 dservice_emp_share_1950 dltotal_pop_1950 dlforeign_pop_share_1950{
-eststo: qui reg `v' tr_dp_d1950 X_CV_1872_west X_CV_1872_larea_km2 X_CV_1872_capitals ///
-						X_CV_1872_dport_min X_CV_1872_ltotal_pop_1872 X_CV_1872_gaez_cocoa ///
-						X_CV_1872_gaez_sugarcane X_CV_1872_gaez_rubber, vce (cluster mun_code)
-}
-esttab, se(3) ar2 stat (r2_a N, fmt(%9.3f)) keep(tr_dp_d1950) star(* 0.10 ** 0.05 *** 0.01) compress
-	
-
-	
-	
-
-	
-	
-	
-*****************
 	
 	
 eststo clear
@@ -739,7 +873,6 @@ eststo clear
 	prefoot("\noalign{\vskip 0.1cm}" "\noalign{\vskip 0.3cm}" "\hline" "\noalign{\vskip 0.1cm}" "State FE & & & \multicolumn{1}{c}{\checkmark}\\" ///
 	"Baseline Controls & & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark}\\") ///
 	postfoot("\hline" "\end{tabular}" "\end{table}")
-	
 
 
 

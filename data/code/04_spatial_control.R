@@ -18,7 +18,7 @@ amc_1940 <- st_read("../../data/raw/shapefiles/amc_ehrl_shape/amc_1940_2010.shp"
   mutate(amc = as.double(amc))
 
 amc_1950 <- st_read("../../data/raw/shapefiles/amc_ehrl_shape/amc_1950_2010.shp") %>%
-  rename(amc = amc_1940_2) %>%
+  rename(amc = amc_1950_2) %>%
   mutate(amc = as.double(amc))
 
 micro_1940 <- st_read("../output/shapefiles/micro_1940.shp")
@@ -29,13 +29,15 @@ amc_area_1950 <- amc_1950 %>%
   rename(codmicro = MICRORREGI, state_code = UF, codmeso = MESORREGIÃ,
          amc_name = NOME_MUNIC, state_abbrev = SIGLA, micro_name = NOME_MICRO) %>%
   dplyr::select(state_code, state_abbrev, amc, amc_name, codmicro, micro_name, codmeso,
-                geometry)
+                geometry) %>%
+  mutate(amc = as.double(amc))
 
 amc_area_1940 <- amc_1940 %>%
   rename(codmicro = MICRORREGI, state_code = UF, codmeso = MESORREGIÃ,
          amc_name = NOME_MUNIC, state_abbrev = SIGLA, micro_name = NOME_MICRO) %>%
   dplyr::select(state_code, state_abbrev, amc, amc_name, codmicro, micro_name, codmeso,
-                geometry)
+                geometry) %>%
+  mutate(amc = as.double(amc))
 
 micro_area_1940 <- st_read("../output/shapefiles/micro_1940.shp")
 micro_area_1950 <- st_read("../output/shapefiles/micro_1950.shp")
@@ -44,6 +46,7 @@ micro_area_1950 <- st_read("../output/shapefiles/micro_1950.shp")
 amc_area_1940 %<>% mutate(area_amc_1940 =  st_area(geometry)/1000000) %>%
   dplyr::select(amc, area_amc_1940) %>%
   st_drop_geometry()
+
 amc_area_1950 %<>% mutate(area_amc_1950 =  st_area(geometry)/1000000) %>%
   dplyr::select(amc, area_amc_1950) %>%
   st_drop_geometry()
@@ -202,6 +205,6 @@ control_micro_1950 <- inner_join(micro_area_1950, dist_rail_micro_1950, by = "co
 
 # save
 write_dta(control_amc_1940, "../output/control_amc_1940.dta")
-write_dta(control_amc_1940, "../output/control_amc_1940.dta")
-write_dta(control_amc_1940, "../output/control_amc_1940.dta")
-write_dta(control_amc_1940, "../output/control_amc_1940.dta")
+write_dta(control_amc_1950, "../output/control_amc_1950.dta")
+write_dta(control_micro_1940, "../output/control_micro_1940.dta")
+write_dta(control_micro_1950, "../output/control_micro_1950.dta")

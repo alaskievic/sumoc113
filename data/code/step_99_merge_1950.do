@@ -9,6 +9,16 @@ keep uf_amc final_name amc
 tempfile amc_codes
 save "`amc_codes'"
 
+
+* codmicro state codes *
+use "../output/amc_codes_1950.dta", clear
+
+duplicates drop codmicro, force
+keep micro_name codmicro state_code
+
+tempfile micro_codes
+save "`micro_codes'"
+
 * 1950 emp share *
 use ".././output/ocup_mun_total_1950.dta", clear
 * Without domestic *
@@ -201,12 +211,32 @@ merge 1:1 amc year using  "`manufac_amc'", nogen
 merge 1:1 amc year using  "`foreign_1950'", nogen
 merge 1:1 amc year using  "`literacy_1950'", nogen
 merge m:1 amc using  "`amc_codes'", nogen
-merge m:1 amc using "../output/amc_area_1950", nogen
 gsort amc year
 
 * merge back with codes
 merge m:1 amc using "../output/amc_codes_1950.dta", nogen
-destring state_code codmicro codmeso, force replace
 drop if amc == .
 
-save "../output/amc_panel.dta", replace
+tempfile amc_1950
+save "`amc_1950'"
+
+* Add controls 
+merge m:1 amc using "../output/control_amc_1950", nogen
+
+save "../output/amc_panel_1950.dta", replace
+
+
+***** Collapse at the microregion level *****
+use "`amc_1950'", clear
+
+collapse (sum) gdp_agri-total_literat, by(codmicro year)
+
+* Add controls *
+merge m:1 codmicro using "../output/control_micro_1950", nogen
+
+* merge back with codes
+merge m:1 codmicro using "`micro_codes'", nogen
+
+order codmicro micro_name state_code year
+
+save "../output/micro_panel_1950.dta", replace
