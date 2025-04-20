@@ -9,7 +9,6 @@ keep uf_amc final_name amc
 tempfile amc_codes
 save "`amc_codes'"
 
-
 * codmicro state codes *
 use "../output/amc_codes_1950.dta", clear
 
@@ -150,7 +149,6 @@ save "`manufac_amc'"
 
 
 
-
 * Population *
 use ".././output/pop_mun.dta", clear
 
@@ -165,6 +163,20 @@ gsort amc year
 tempfile amc_pop
 save "`amc_pop'"
 
+* Foreign Pop 1940 *
+use ".././output/foreign_mun_1940.dta", clear
+
+keep code2010 foreign_tot br_tot
+
+merge 1:1 code2010 using "../output/_Crosswalk_final_1950_2000.dta", keep(3)
+collapse (sum) foreign_tot br_tot, by(amc)
+gsort amc
+
+gen year = 1940
+
+tempfile foreign_1940
+save "`foreign_1940'"
+
 
 * Foreign Pop 1950 *
 use ".././output/foreign_mun_1950.dta", clear
@@ -177,8 +189,10 @@ gsort amc
 
 gen year = 1950
 
-tempfile foreign_1950
-save "`foreign_1950'"
+append using "`foreign_1940'"
+
+tempfile foreign_pop
+save "`foreign_pop'"
 
 * Literacy 1950
 use ".././output/literacy_mun_1950.dta", clear
@@ -208,7 +222,7 @@ gsort amc year
 merge 1:1 amc year using "`amc_pop'", nogen
 merge 1:1 amc year using "`amc_emp'", nogen
 merge 1:1 amc year using  "`manufac_amc'", nogen
-merge 1:1 amc year using  "`foreign_1950'", nogen
+merge 1:1 amc year using  "`foreign_pop'", nogen
 merge 1:1 amc year using  "`literacy_1950'", nogen
 merge m:1 amc using  "`amc_codes'", nogen
 gsort amc year
