@@ -21,7 +21,9 @@ gen asinh_alt_pw 	= asinh(alt/emp_total)
 
 * Define instrument
 gen foreign_share 			= .
+gen foreign_share_1940 		= .
 replace foreign_share 		= foreign_tot/poptot 		if year == 1950
+replace foreign_share_1940 	= foreign_tot/poptot 		if year == 1940
 
 * Define some controls
 gen illit_share_1950 		= .
@@ -30,6 +32,11 @@ gen log_pop_1950			= .
 replace illit_share_1950 	= total_illiterat/poptot 	if year == 1950
 replace urb_share_1950 		= popurb/poptot 			if year == 1950
 replace log_pop_1950 		= log(poptot) 				if year == 1950
+
+gen log_rail_dist 		= log(rail_dist)
+gen log_road_dist 		= log(road_dist)
+gen log_port_dist 		= log(port_dist)
+gen log_capital_dist 	= log(capital_dist) 
 
 * Region fixed effects
 gen d_region = .
@@ -82,11 +89,15 @@ foreach v of varlist agri_share manufac_share serv_share va_agri_share va_manufa
 
 * Arrange variables of 1950
 foreach v of varlist foreign_share capital_app alt log_cap illit_share_1950 urb_share_1950 ///
-					 asinh_cap asinh_alt asinh_alt_pp asinh_alt_pw log_pop_1950 {
+					 asinh_cap asinh_alt asinh_alt_pp asinh_alt_pw log_pop_1950 foreign_share_1940 {
 		foreach x in 1/20{
 				replace `v' = `v'[_n-1]    if `v' == .
 		}		 	
 }
+
+
+
+
 
 
 local c1list `c1list' urb_share_1950 illit_share_1950 log_pop_1950
@@ -94,21 +105,115 @@ local c1list `c1list' urb_share_1950 illit_share_1950 log_pop_1950
 local c2list `c2list' urb_share_1950 illit_share_1950 log_pop_1950 rail_dist ///
 						  road_dist port_dist d_capital
 
-local c3list `c3list' urb_share_1950 illit_share_1950 log_pop_1950 rail_dist ///
-						  road_dist port_dist d_capital i.d_region
+local c3list `c3list' urb_share_1950 illit_share_1950 log_pop_1950 log_rail_dist ///
+						  log_road_dist log_port_dist log_capital_dist i.d_region
+
+eststo clear
+eststo: qui reg agri_share_dshort asinh_alt, vce (cluster amc)
+eststo: qui reg agri_share_dshort asinh_alt `c1list', vce (cluster amc)
+eststo: qui reg agri_share_dshort asinh_alt `c2list', vce (cluster amc)
+eststo: qui reg agri_share_dshort asinh_alt `c3list', vce (cluster amc)
+eststo: qui ivreg2 agri_share_dshort (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 agri_share_dshort `c1list' (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 agri_share_dshort `c2list' (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 agri_share_dshort `c3list' (asinh_alt = foreign_share_1940), cluster (amc)
+
+
+esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt) replace f noobs noabbrev varlabels(asinh_alt "$asinh(FDI)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel A.} & \multicolumn{8}{c}{$\Delta$ Employment Share in Agriculture (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
+
+eststo clear
+eststo: qui reg manufac_share_dshort asinh_alt, vce (cluster amc)
+eststo: qui reg manufac_share_dshort asinh_alt `c1list', vce (cluster amc)
+eststo: qui reg manufac_share_dshort asinh_alt `c2list', vce (cluster amc)
+eststo: qui reg manufac_share_dshort asinh_alt `c3list', vce (cluster amc)
+eststo: qui ivreg2 manufac_share_dshort (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 manufac_share_dshort `c1list' (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 manufac_share_dshort `c2list' (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 manufac_share_dshort `c3list' (asinh_alt = foreign_share_1940), cluster (amc)
+
+
+esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt) append f noobs noabbrev varlabels (asinh_alt "$asinh(FDI)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel B.} & \multicolumn{8}{c}{$\Delta$ Employment Share in Manufacturing (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
+
+
+eststo clear
+eststo: qui reg serv_share_dshort asinh_alt, vce (cluster amc)
+eststo: qui reg serv_share_dshort asinh_alt `c1list', vce (cluster amc)
+eststo: qui reg serv_share_dshort asinh_alt `c2list', vce (cluster amc)
+eststo: qui reg serv_share_dshort asinh_alt `c3list', vce (cluster amc)
+eststo: qui ivreg2 serv_share_dshort (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 serv_share_dshort `c1list' (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 serv_share_dshort `c2list' (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 serv_share_dshort `c3list' (asinh_alt = foreign_share_1940), cluster (amc)
+
+
+esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt) append f noobs noabbrev varlabels (asinh_alt "$asinh(FDI)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel C.} & \multicolumn{8}{c}{$\Delta$ Employment Share in Services (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
+
+	
+eststo clear
+eststo: qui reg log_pop_dshort asinh_alt, vce (cluster amc)
+eststo: qui reg log_pop_dshort asinh_alt `c1list', vce (cluster amc)
+eststo: qui reg log_pop_dshort asinh_alt `c2list', vce (cluster amc)
+eststo: qui reg log_pop_dshort asinh_alt `c3list', vce (cluster amc)
+eststo: qui ivreg2 log_pop_dshort (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 log_pop_dshort `c1list' (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 log_pop_dshort `c2list' (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 log_pop_dshort `c3list' (asinh_alt = foreign_share_1940), cluster (amc)
+
+
+esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt) append f noobs noabbrev varlabels (asinh_alt "$asinh(FDI)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel D.} & \multicolumn{8}{c}{$\Delta$ Log Total Population (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
+	
+	
+eststo clear
+eststo: qui reg urb_share_dshort asinh_alt, vce (cluster amc)
+eststo: qui reg urb_share_dshort asinh_alt `c1list', vce (cluster amc)
+eststo: qui reg urb_share_dshort asinh_alt `c2list', vce (cluster amc)
+eststo: qui reg urb_share_dshort asinh_alt `c3list', vce (cluster amc)
+eststo: qui ivreg2 urb_share_dshort (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 urb_share_dshort `c1list' (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 urb_share_dshort `c2list' (asinh_alt = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 urb_share_dshort `c3list' (asinh_alt = foreign_share_1940), cluster (amc)
+
+esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat N, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F" "Observations")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt) append f noabbrev varlabels (asinh_alt "$asinh(FDI)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel E.} & \multicolumn{8}{c}{$\Delta$ Urban Population Shares (1950-1970)}\\" "\noalign{\vskip 0.1cm}") ///
+	prefoot("\noalign{\vskip 0.3cm}" "\hline" "\noalign{\vskip 0.1cm}" ///
+	"Baseline Controls & & \multicolumn{1}{c}{\checkmark}& \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark} & & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark}\\" ///
+	"Market Access Controls & & & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark} & & & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark}\\" ///
+	"Region FE & & & & \multicolumn{1}{c}{\checkmark} & & & & \multicolumn{1}{c}{\checkmark}\\") ///
+	postfoot("\hline" "\end{tabular}" "\end{table}")
+
+
+
+
+
+
+
+
+
+
+local c1list `c1list' urb_share_1950 illit_share_1950 log_pop_1950
+
+local c2list `c2list' urb_share_1950 illit_share_1950 log_pop_1950 rail_dist ///
+						  road_dist port_dist d_capital
+
+local c3list `c3list' urb_share_1950 illit_share_1950 log_pop_1950 log_rail_dist ///
+						  log_road_dist log_port_dist log_capital_dist i.d_region
 
 eststo clear
 eststo: qui reg agri_share_dshort asinh_alt_pw, vce (cluster amc)
 eststo: qui reg agri_share_dshort asinh_alt_pw `c1list', vce (cluster amc)
 eststo: qui reg agri_share_dshort asinh_alt_pw `c2list', vce (cluster amc)
 eststo: qui reg agri_share_dshort asinh_alt_pw `c3list', vce (cluster amc)
-eststo: qui ivreg2 agri_share_dshort (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 agri_share_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 agri_share_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 agri_share_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 agri_share_dshort (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 agri_share_dshort `c1list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 agri_share_dshort `c2list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 agri_share_dshort `c3list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
 
 
-esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) replace f noobs noabbrev varlabels(asinh_alt_pw "$asinh(FDI per Worker)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+esttab * using "../output/dshort_baseline_pw.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) replace f noobs noabbrev varlabels(asinh_alt_pw "$asinh(FDI \,\, \text{per Worker})$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
 	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel A.} & \multicolumn{8}{c}{$\Delta$ Employment Share in Agriculture (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
 
 eststo clear
@@ -116,13 +221,13 @@ eststo: qui reg manufac_share_dshort asinh_alt_pw, vce (cluster amc)
 eststo: qui reg manufac_share_dshort asinh_alt_pw `c1list', vce (cluster amc)
 eststo: qui reg manufac_share_dshort asinh_alt_pw `c2list', vce (cluster amc)
 eststo: qui reg manufac_share_dshort asinh_alt_pw `c3list', vce (cluster amc)
-eststo: qui ivreg2 manufac_share_dshort (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 manufac_share_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 manufac_share_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 manufac_share_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 manufac_share_dshort (asinh_alt_pw = foreign_share_1940e), cluster (amc)
+eststo: qui ivreg2 manufac_share_dshort `c1list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 manufac_share_dshort `c2list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 manufac_share_dshort `c3list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
 
 
-esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noobs noabbrev varlabels (asinh_alt_pw "$asinh(FDI per Worker)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+esttab * using "../output/dshort_baseline_pw.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noobs noabbrev varlabels (asinh_alt_pw "$asinh(FDI \,\, \text{per Worker})$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
 	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel B.} & \multicolumn{8}{c}{$\Delta$ Employment Share in Manufacturing (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
 
 
@@ -131,13 +236,13 @@ eststo: qui reg serv_share_dshort asinh_alt_pw, vce (cluster amc)
 eststo: qui reg serv_share_dshort asinh_alt_pw `c1list', vce (cluster amc)
 eststo: qui reg serv_share_dshort asinh_alt_pw `c2list', vce (cluster amc)
 eststo: qui reg serv_share_dshort asinh_alt_pw `c3list', vce (cluster amc)
-eststo: qui ivreg2 serv_share_dshort (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 serv_share_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 serv_share_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 serv_share_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 serv_share_dshort (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 serv_share_dshort `c1list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 serv_share_dshort `c2list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 serv_share_dshort `c3list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
 
 
-esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noobs noabbrev varlabels (asinh_alt_pw "$asinh(FDI per Worker)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+esttab * using "../output/dshort_baseline_pw.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noobs noabbrev varlabels (asinh_alt_pw "$asinh(FDI \,\, \text{per Worker})$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
 	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel C.} & \multicolumn{8}{c}{$\Delta$ Employment Share in Services (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
 
 	
@@ -146,13 +251,13 @@ eststo: qui reg log_pop_dshort asinh_alt_pw, vce (cluster amc)
 eststo: qui reg log_pop_dshort asinh_alt_pw `c1list', vce (cluster amc)
 eststo: qui reg log_pop_dshort asinh_alt_pw `c2list', vce (cluster amc)
 eststo: qui reg log_pop_dshort asinh_alt_pw `c3list', vce (cluster amc)
-eststo: qui ivreg2 log_pop_dshort (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 log_pop_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 log_pop_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 log_pop_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 log_pop_dshort (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 log_pop_dshort `c1list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 log_pop_dshort `c2list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 log_pop_dshort `c3list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
 
 
-esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noobs noabbrev varlabels (asinh_alt_pw "$asinh(FDI per Worker)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+esttab * using "../output/dshort_baseline_pw.tex", style(tex) label stats(r2_a widstat, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noobs noabbrev varlabels (asinh_alt_pw "$asinh(FDI \,\, \text{per Worker})$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
 	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel D.} & \multicolumn{8}{c}{$\Delta$ Log Total Population (1950-1970)}\\" "\noalign{\vskip 0.1cm}")
 	
 	
@@ -161,12 +266,12 @@ eststo: qui reg urb_share_dshort asinh_alt_pw, vce (cluster amc)
 eststo: qui reg urb_share_dshort asinh_alt_pw `c1list', vce (cluster amc)
 eststo: qui reg urb_share_dshort asinh_alt_pw `c2list', vce (cluster amc)
 eststo: qui reg urb_share_dshort asinh_alt_pw `c3list', vce (cluster amc)
-eststo: qui ivreg2 urb_share_dshort (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 urb_share_dshort `c1list' (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 urb_share_dshort `c2list' (asinh_alt_pw = foreign_share), cluster (amc)
-eststo: qui ivreg2 urb_share_dshort `c3list' (asinh_alt_pw = foreign_share), cluster (amc)
+eststo: qui ivreg2 urb_share_dshort (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 urb_share_dshort `c1list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 urb_share_dshort `c2list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
+eststo: qui ivreg2 urb_share_dshort `c3list' (asinh_alt_pw = foreign_share_1940), cluster (amc)
 
-esttab * using "../output/dshort_baseline.tex", style(tex) label stats(r2_a widstat N, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F" "Observations")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noabbrev varlabels (asinh_alt_pw "$asinh(FDI per Worker)$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
+esttab * using "../output/dshort_baseline_pw.tex", style(tex) label stats(r2_a widstat N, fmt(%9.3f %9.0g) labels("Adj. $ R^{2} $ or K-P F" "Adj. $ R^{2} $ or K-P F" "Observations")) notype cells((b(star fmt(%9.3f))) (se(fmt(%9.3f)par))) keep(asinh_alt_pw) append f noabbrev varlabels (asinh_alt_pw "$asinh(FDI \,\, \text{per Worker})$") starlevels(* 0.10 ** 0.05 *** 0.01) collabels(none) eqlabels(none) mlabels(none) mgroups(none) nolines  ///
 	posthead("\noalign{\vskip 0.1cm}" "\textbf{Panel E.} & \multicolumn{8}{c}{$\Delta$ Urban Population Shares (1950-1970)}\\" "\noalign{\vskip 0.1cm}") ///
 	prefoot("\noalign{\vskip 0.3cm}" "\hline" "\noalign{\vskip 0.1cm}" ///
 	"Baseline Controls & & \multicolumn{1}{c}{\checkmark}& \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark} & & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark} & \multicolumn{1}{c}{\checkmark}\\" ///

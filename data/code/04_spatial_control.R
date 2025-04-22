@@ -163,44 +163,68 @@ capital_micro_1950 <- c(12004, 13007, 15007, 21002, 22006, 23016, 24018, 25023,
 
 
 dcapital_amc_1940 <- mutate(amc_1940, d_capital = case_when(amc %in% capital_amc_1940 ~ 1, .default = 0)) %>%
-  dplyr::select(amc, d_capital) %>%
-  st_drop_geometry()
+  dplyr::select(amc, d_capital)
 
 dcapital_micro_1940 <- mutate(micro_1940, d_capital = case_when(codmicro %in% capital_micro_1940 ~ 1, .default = 0)) %>%
-  dplyr::select(codmicro, d_capital) %>%
-  st_drop_geometry()
-
+  dplyr::select(codmicro, d_capital)
 
 dcapital_amc_1950 <- mutate(amc_1950, d_capital = case_when(amc %in% capital_amc_1950 ~ 1, .default = 0)) %>%
-  dplyr::select(amc, d_capital) %>%
-  st_drop_geometry()
-
+  dplyr::select(amc, d_capital)
 
 dcapital_micro_1950 <- mutate(micro_1950, d_capital = case_when(codmicro %in% capital_micro_1950 ~ 1, .default = 0)) %>%
-  dplyr::select(codmicro, d_capital) %>%
-  st_drop_geometry()
+  dplyr::select(codmicro, d_capital)
+
+capital_amc_1940 <- filter(dcapital_amc_1940, d_capital == 1)
+capital_amc_1950 <- filter(dcapital_amc_1950, d_capital == 1)
+capital_micro_1940 <- filter(dcapital_micro_1940, d_capital == 1)
+capital_micro_1950 <- filter(dcapital_micro_1950, d_capital == 1)
 
 
-####################### 6. Append Dummy Dataset ################################
+dcapital_amc_1940   %<>% st_drop_geometry
+dcapital_micro_1940 %<>% st_drop_geometry
+dcapital_amc_1950   %<>% st_drop_geometry
+dcapital_micro_1950 %<>% st_drop_geometry
+####################### 6. Distance to State Capital ###########################
+dist_capital_amc_1940 <- amc_1940 %>% mutate(capital_dist = st_distance(centroid_amc_1940, st_union(capital_amc_1940))/1000) %>%
+  st_drop_geometry %>%
+  dplyr::select(amc, capital_dist)
 
+dist_capital_amc_1950 <- amc_1950 %>% mutate(capital_dist = st_distance(centroid_amc_1950, st_union(capital_micro_1940 ))/1000) %>%
+  st_drop_geometry %>%
+  dplyr::select(amc, capital_dist)
+
+dist_capital_micro_1940 <- micro_1940 %>% mutate(capital_dist = st_distance(centroid_micro_1940, st_union(capital_amc_1950))/1000) %>%
+  st_drop_geometry %>%
+  dplyr::select(codmicro, capital_dist)
+
+dist_capital_micro_1950 <- micro_1950 %>% mutate(capital_dist = st_distance(centroid_micro_1950, st_union(capital_micro_1950))/1000) %>%
+  st_drop_geometry %>%
+  dplyr::select(codmicro, capital_dist)
+
+
+####################### 99. Append Control Dataset #############################
 control_amc_1940 <- inner_join(amc_area_1940, dist_rail_amc_1940, by = "amc") %>%
                     inner_join(., dist_road_amc_1940, by = "amc") %>%
                     inner_join(., dist_port_amc_1940, by = "amc") %>%
+                    inner_join(., dist_capital_amc_1940, by = "amc") %>%
                     inner_join(., dcapital_amc_1940, by = "amc")
 
 control_amc_1950 <- inner_join(amc_area_1950, dist_rail_amc_1950, by = "amc") %>%
   inner_join(., dist_road_amc_1950, by = "amc") %>%
   inner_join(., dist_port_amc_1950, by = "amc") %>%
+  inner_join(., dist_capital_amc_1950, by = "amc") %>%
   inner_join(., dcapital_amc_1950, by = "amc")
 
 control_micro_1940 <- inner_join(micro_area_1940, dist_rail_micro_1940, by = "codmicro") %>%
   inner_join(., dist_road_micro_1940, by = "codmicro") %>%
   inner_join(., dist_port_micro_1940, by = "codmicro") %>%
+  inner_join(., dist_capital_micro_1940, by = "codmicro") %>%
   inner_join(., dcapital_micro_1940, by = "codmicro")
 
 control_micro_1950 <- inner_join(micro_area_1950, dist_rail_micro_1950, by = "codmicro") %>%
   inner_join(., dist_road_micro_1950, by = "codmicro") %>%
   inner_join(., dist_port_micro_1950, by = "codmicro") %>%
+  inner_join(., dist_capital_micro_1950, by = "codmicro") %>%
   inner_join(., dcapital_micro_1950, by = "codmicro")
 
 # save

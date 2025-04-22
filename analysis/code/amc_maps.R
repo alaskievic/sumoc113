@@ -20,9 +20,7 @@ amc_1950 <- st_read("../../data/raw/shapefiles/amc_ehrl_shape/amc_1950_2010.shp"
                 geometry) %>%
   mutate(amc = as.double(amc))
 
-state_1950 <- group_by(amc_1950, state_code) %>% 
-  summarise(geometry = st_union(geometry)) %>%
-  ungroup()
+state_1950 <- st_read("../../data/raw/shapefiles/state_1940/04-limite estadual 1940.shp")
 
 amc_panel <- read_dta("../../data/output/amc_panel.dta")
 
@@ -442,7 +440,7 @@ capital_1950 <- tm_shape(amc_shp_1950) +
                              midpoint = NA,
                              labels = c("0", "1 to 100", "100 to 1000", "1000 to 10000"),
                              values = "brewer.yl_or_rd"),
-          fill.legend = tm_legend(title = "Value of SUMOC 113 Licenses\n(Thousand US$)")) +
+          fill.legend = tm_legend(title = "Value of SUMOC 113 Licenses\n(Thousands of US$)")) +
   tm_shape(state_1950) + 
   tm_borders(col = "black", lwd = 1) +
   tm_layout(legend.position = c("left", "bottom"),
@@ -475,4 +473,4 @@ capital_1950_pw <- tm_shape(amc_shp_1950) +
   tm_scalebar(width = 20, position = c("right", "bottom"))
 
 capital_1950_pw
-tmap_save(capital_1950_pp, "../output/capital_1950_pw.png")
+tmap_save(capital_1950_pw, "../output/capital_1950_pw.png")
