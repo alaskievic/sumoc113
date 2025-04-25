@@ -474,3 +474,116 @@ capital_1950_pw <- tm_shape(amc_shp_1950) +
 
 capital_1950_pw
 tmap_save(capital_1950_pw, "../output/capital_1950_pw.png")
+
+
+
+
+### Match ###
+match_id <- read_dta("../output/matched_id.dta")
+
+match_control <- dplyr::select(match_id, amc) %>% mutate(d_control = 1)
+match_treat <- dplyr::select(match_id, amc_match) %>% mutate(d_treat = 1) %>%
+  rename(amc = amc_match)
+match_amc <- full_join(amc_1950, match_control, by = "amc") %>%
+  full_join(., match_treat, by = "amc") %>%
+  mutate(d_match = case_when(d_treat == 1 ~ 2, 
+                             d_control == 1 ~ 1, .default = 0)) %>%
+  mutate(d_match = case_when(amc == 11385 ~ 0.1, amc != 11385 ~ d_match))
+
+rwb_match <-  c("grey", "blue", "lightgreen")
+
+
+match_1950 <- tm_shape(match_amc) +
+  tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
+  tm_fill(fill = "d_match",
+          tm_scale_intervals(style = "fixed",
+                             breaks = c(0, 0.01, 1.1, 2.1),
+                             midpoint = NA,
+                             labels = c("Not in Sample", "Control", "Treated"),
+                             values = rwb_match),
+          fill.legend = tm_legend(title = "Matched Sample")) +
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(width = 20, position = c("right", "bottom"))
+
+match_1950
+tmap_save(match_1950, "../output/matched_sample.png")
+
+
+
+
+
+
+
+
+
+match_id <- read_dta("../output/matched_ps_plus.dta")
+
+
+match_amc <- full_join(amc_1950, match_id, by = "amc") %>%
+  mutate(d_match = case_when(treat == 1 ~ 2, 
+                             treat == 0 ~ 1, .default = 0))
+
+rwb_match <-  c("grey", "blue", "lightgreen")
+
+
+match_1950 <- tm_shape(match_amc) +
+  tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
+  tm_fill(fill = "d_match",
+          tm_scale_intervals(style = "fixed",
+                             breaks = c(0, 0.01, 1.1, 2.1),
+                             midpoint = NA,
+                             labels = c("Not in Sample", "Control", "Treated"),
+                             values = rwb_match),
+          fill.legend = tm_legend(title = "Matched Sample")) +
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(width = 20, position = c("right", "bottom"))
+
+match_1950
+tmap_save(match_1950, "../output/matched_sample_ps_plus.png")
+
+
+
+
+
+
+
+
+match_id <- read_dta("../output/matched_ps_75.dta")
+
+
+match_amc <- full_join(amc_1950, match_id, by = "amc") %>%
+  mutate(d_match = case_when(treat == 1 ~ 2, 
+                             treat == 0 ~ 1, .default = 0))
+
+rwb_match <-  c("grey", "blue", "lightgreen")
+
+
+match_1950 <- tm_shape(match_amc) +
+  tm_borders(col = "black",fill_alpha = 0.5, lwd = 1.5) +
+  tm_fill(fill = "d_match",
+          tm_scale_intervals(style = "fixed",
+                             breaks = c(0, 0.01, 1.1, 2.1),
+                             midpoint = NA,
+                             labels = c("Not in Sample", "Control", "Treated"),
+                             values = rwb_match),
+          fill.legend = tm_legend(title = "Matched Sample")) +
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(width = 20, position = c("right", "bottom"))
+
+match_1950
+tmap_save(match_1950, "../output/matched_sample_ps_75.png")

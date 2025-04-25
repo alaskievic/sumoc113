@@ -3,7 +3,7 @@ clear all
 * Load Panel AMC dataset
 use "../../data/output/amc_panel_1940.dta", clear	
 
-merge m:1 amc using "../output/matched_id.dta"
+merge m:1 amc using "../output/matched_ps_75.dta", keep(3) nogen
 
 * Define treatment variable
 gen log_cap 	= log(capital_app + 1)
@@ -58,6 +58,11 @@ gen log_va_manufac		= log(gdp_manufac/poptot)
 gen log_va_serv			= log(gdp_serv/poptot)
 gen log_va_total		= log(gdp_tot/poptot)
 
+gen log_agri_emp		= log(agri_emp)
+gen log_manufac_emp		= log(manufac_emp)
+gen log_serv_emp		= log(service_emp)
+gen log_tot_emp			= log(emp_total)
+
 gen va_agri_share		= gdp_agri/gdp_tot
 gen va_manufac_share	= gdp_manufac/gdp_tot
 gen va_serv_share		= gdp_serv/gdp_tot
@@ -65,21 +70,24 @@ gen va_serv_share		= gdp_serv/gdp_tot
 * Change between 1950 and 1970
 foreach v of varlist agri_share manufac_share serv_share va_agri_share va_manufac_share ///
 					 va_serv_share log_va_agri log_va_manufac log_va_serv log_va_total ///
-					 log_pop log_urb log_rur urb_share rur_share{
+					 log_pop log_urb log_rur urb_share rur_share log_agri_emp ///
+					 log_manufac_emp log_serv_emp log_tot_emp{
 	gen `v'_dshort			= `v' - `v'[_n-2] if year == 1970 & amc == amc[_n-1]
 }
 
 * Change between 1970 and 2000
 foreach v of varlist agri_share manufac_share serv_share va_agri_share va_manufac_share ///
 					 va_serv_share log_va_agri log_va_manufac log_va_serv log_va_total ///
-					 log_pop log_urb log_rur urb_share rur_share{
+					 log_pop log_urb log_rur urb_share rur_share log_agri_emp ///
+					 log_manufac_emp log_serv_emp log_tot_emp{
 	gen `v'_dlong			= `v' - `v'[_n-6] if year == 2000 & amc == amc[_n-1]
 }
 
 * Change between 1950 and 2000
 foreach v of varlist agri_share manufac_share serv_share va_agri_share va_manufac_share ///
 					 va_serv_share log_va_agri log_va_manufac log_va_serv log_va_total ///
-					 log_pop log_urb log_rur urb_share rur_share{
+					 log_pop log_urb log_rur urb_share rur_share log_agri_emp ///
+					 log_manufac_emp log_serv_emp log_tot_emp{
 	gen `v'_dlongest			= `v' - `v'[_n-8] if year == 2000 & amc == amc[_n-1]
 }
 
@@ -104,16 +112,6 @@ foreach year in 1940 1950 1960 1970 1980 1990 2000 {
 		gen X_CV_`year'_log_pop_1950 		= log_pop_1950*(year == `year')
 }
 
-* dummies for year
-tab year, gen(d_year_)	
-foreach var of varlist manufac_share agri_share serv_share log_pop log_urb ///
-	log_rur urb_share rur_share log_va_agri log_va_manufac log_va_serv log_va_total ///
-	va_agri_share va_manufac_share va_serv_share{
-		egen X_`var'_1960 = min(cond(year==1960,`var', ., .)), by(amc)
-		foreach var2 of varlist d_year_* {
-			gen X_`var'_`var2' = X_`var'_1960 * `var2'
-	}
-}
 
 
 * For DiD *
@@ -144,9 +142,6 @@ replace d_alt_75 	= 1 if asing_alt_pp_pc 	== 4
 
 gen d_plus = 	0
 replace d_plus = 1 if asinh_alt > 0
-keep if _merge == 3 | d_plus == 1
-
-
 ************** Time Dummies **************
 foreach year in 1940 1950 1970 1980 1990 2000 {
 		gen X_asinh_cap_`year' 			= asinh_cap*(year == `year')
@@ -200,7 +195,7 @@ program make_event_cap
 				legend(off)
 				scheme(s1mono);		
 	#delimit cr
-	graph export "../output/event_asinh_`1'_matched.png", as(png) replace
+	graph export "../output/event_asinh_`1'_matched_ps75.png", as(png) replace
 end
 
 
@@ -216,7 +211,9 @@ make_event_cap log_rur 		"Log Rural Population"
 make_event_cap urb_share 	"Urban Population Share"
 
 
-
+make_event_cap agri_share 		"Agriculture Employment Share"
+make_event_cap manufac_share 	"Manufacturing Employment Share"
+make_event_cap serv_share 		"Services Employment Share"
 
 
 
@@ -263,7 +260,7 @@ program make_event_cap
 				legend(off)
 				scheme(s1mono);		
 	#delimit cr
-	graph export "../output/event_asinh_`1'_matched_dummy.png", as(png) replace
+	graph export "../output/event_asinh_`1'_matched_dummy_ps75.png", as(png) replace
 end
 
 
@@ -277,6 +274,13 @@ make_event_cap log_pop 		"Log Total Population"
 make_event_cap log_urb 		"Log Urban Population"
 make_event_cap log_rur 		"Log Rural Population"
 make_event_cap urb_share 	"Urban Population Share"
+
+
+
+make_event_cap log_agri_emp 		"Log Agricutlure Emplotment"
+make_event_cap log_manufac_emp 		"Log Manufacturing Employment"
+make_event_cap log_serv_emp 		"Log Service Employment"
+make_event_cap log_tot_emp 			"Log Total Employment"
 
 
 
@@ -340,6 +344,35 @@ make_event_cap log_pop 		"Log Total Population"
 make_event_cap log_urb 		"Log Urban Population"
 make_event_cap log_rur 		"Log Rural Population"
 make_event_cap urb_share 	"Urban Population Share"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
