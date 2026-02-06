@@ -10,6 +10,77 @@ library(purrr)
 library(magick)
 library(here)
 
+################################################################################
+# bring shapefile and amc panel data
+amc_1950 <- st_read("../../data/raw/shapefiles/amc_ehrl_shape/amc_1950_2010.shp") %>%
+  rename(codmicro = MICRORREGI, amc = amc_1950_2, state_code = UF,
+         codmeso = MESORREGIÃ, amc_name = NOME_MUNIC, state_abbrev = SIGLA,
+         micro_name = NOME_MICRO) %>%
+  dplyr::select(state_code, state_abbrev, amc, amc_name, codmicro, micro_name, codmeso,
+                geometry) %>%
+  mutate(amc = as.double(amc))
+
+state_1950 <- st_read("../../data/raw/shapefiles/state_1940/04-limite estadual 1940.shp")
+amc_panel <- read_dta("../../data/output/amc_panel.dta")
+amc_shp <- full_join(amc_1950, amc_panel, by = "amc")
+
+# Variables
+amc_shp %<>% mutate(agri_share = agri_emp/emp_total,
+                    manufac_share = manufac_emp/emp_total,
+                    service_share = service_emp/emp_total,
+                    manufac_va_share = gdp_manufac/gdp_tot,
+                    agri_va_share = gdp_agri/gdp_tot,
+                    serv_va_share = gdp_serv/gdp_tot)
+
+rwb_2 <-  c("#FF0000", "#f46d43", "#7F3200", "#3F4B00", "#006400")
+
+amc_shp %<>%  filter(year %in% c(1950, 1980)) %>%
+  arrange(amc, year) %>%
+  group_by(amc) %>%
+  mutate(manufac_ppch_2000 = manufac_share - lag(manufac_share)) %>%
+  mutate(agri_ppch_2000 = agri_share - lag(agri_share)) %>%
+  mutate(service_ppch_2000 = service_share - lag(service_share)) %>%
+  ungroup()
+
+amc_shp %<>% filter(year == 1980)
+amc_agri_ppch_1950_color <- tm_shape(amc_shp) +
+  tm_fill(fill = "agri_ppch_2000",
+          fill.scale = tm_scale_intervals(style = "fixed",
+                                          breaks = c(-0.8, -0.6, -0.4, -0.2, 0, 0.3),
+                                          values =  rwb_2,
+                                          midpoint = NA, 
+                                          label.na = "No Data"),
+          fill.legend = tm_legend(title = "Change in Agriculture Employment \nShare 1950-2000 (pp.)")) + 
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(breaks = c(0, 250, 500, 750, 1000), position = c("right", "bottom"))
+
+print(amc_agri_ppch_1950_color)
+tmap_save(amc_agri_ppch_1950_color, "../output/amc_agri_ppch_1950_color")
+
+amc_manufac_ppch_1980_color <- tm_shape(amc_shp) +
+  tm_fill(fill = "manufac_ppch_2000",
+          fill.scale = tm_scale_intervals(style = "fixed",
+                                          breaks = c(-0.8, -0.2, 0, 0.1, 0.2, 0.6),
+                                          values =  rwb_2,
+                                          midpoint = NA, 
+                                          label.na = "No Data"),
+          fill.legend = tm_legend(title = "Change in Manufacturing Employment \nShare 1950-2000 (pp.)")) + 
+  tm_shape(state_1950) + 
+  tm_borders(col = "black", lwd = 1) +
+  tm_layout(legend.position = c("left", "bottom"),
+            legend.text.size = 0.8,
+            frame = FALSE) + 
+  tm_compass(position = c("bottom", "right")) +
+  tm_scalebar(breaks = c(0, 250, 500, 750, 1000), position = c("right", "bottom"))
+
+print(amc_manufac_ppch_1980_color)
+
+
 #################### 1. Plots Coffee Production in SP since 1836 ###############
 # bring shapefile and amc panel data
 amc_1950 <- st_read("../../data/raw/shapefiles/amc_ehrl_shape/amc_1950_2010.shp") %>%

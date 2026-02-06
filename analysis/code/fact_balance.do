@@ -122,12 +122,13 @@ capture label var log_capital_dist_norm	"Distance to State Capital"
 gsort amc
 gen id = _n
 
+drop if amc == 7051
 teffects nnmatch (agri_share log_pop_dens_norm urban_share_norm foreign_share_norm illit_share_norm  log_rail_dist_norm log_port_dist_norm log_capital_dist_norm output_p_work_norm ) ///
-		 (d_alt_75), biasadj(log_pop_dens_norm urban_share_norm foreign_share_norm illit_share_norm log_rail_dist_norm log_port_dist_norm log_capital_dist_norm output_p_work_norm) generate(matchid)
+		 (d_plus), biasadj(log_pop_dens_norm urban_share_norm foreign_share_norm illit_share_norm log_rail_dist_norm log_port_dist_norm log_capital_dist_norm output_p_work_norm) generate(matchid)
 
 		 
-* drop if amc == 7051
-* teffects psmatch (agri_share) (d_plus log_pop_dens_norm urban_share_norm foreign_share_norm illit_share_norm  log_rail_dist_norm log_port_dist_norm log_capital_dist_norm output_p_work_norm), generate(matchid)
+drop if amc == 7051
+teffects psmatch (agri_share) (d_plus log_pop_dens_norm urban_share_norm foreign_share_norm illit_share_norm  log_rail_dist_norm log_port_dist_norm log_capital_dist_norm output_p_work_norm), generate(matchid)
 		 
 
 tebalance summarize
@@ -136,7 +137,7 @@ mat	balance = r(table)
 coefplot (matrix(balance[,1])) (matrix(balance[,2])), xline(0)  xtitle("Standardized Difference") legend(order(2 "Raw Data (Unbalanced)" 4 "Matched (Propensity Score)") rows(7) position(11) ring(0) region(lstyle(black))) ///
 			xlabel(-1 -0.75 -0.5 -0.25 0 0.25 0.5 0.75 1)
 
-graph export "../output/std_diff_matchps.png", as(png) replace
+graph export "../output/std_diff_matchps_75.png", as(png) replace
 
 			
 

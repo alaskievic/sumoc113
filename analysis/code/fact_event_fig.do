@@ -130,7 +130,7 @@ foreach year in 1940 1950 1970 1980 1990 2000 {
 program make_event_cap
 	mat coef = J(7,3,0)		
 	reghdfe `1' X_asinh_cap_* X_CV_*_illit_share_1950 ///
-			X_CV_*_urb_share_1950 X_CV_*_log_pop_1950 , absorb(amc year) cluster(amc)
+				X_CV_*_urb_share_1950 X_CV_*_log_pop_1950 , absorb(amc year) cluster(amc)
 	local row = 2
 	foreach year in 1940 1950 1970 1980 1990 2000 {
 		mat coef[`row',1] = _b[X_asinh_cap_`year']
@@ -242,9 +242,9 @@ make_event_iv manufac_share 	"Manufacturing Employment Share"
 make_event_iv serv_share 		"Services Employment Share"
 
 
-make_event_iv log_pop "Log Total Population"
-make_event_iv log_urb "Log Urban Population"
-make_event_iv log_rur "Log Rural Population"
+make_event_iv log_pop 	"Log Total Population"
+make_event_iv log_urb 	"Log Urban Population"
+make_event_iv log_rur 	"Log Rural Population"
 make_event_iv urb_share "Urban Population Share"
 
 
