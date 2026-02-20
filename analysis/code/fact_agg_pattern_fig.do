@@ -43,7 +43,7 @@ graph export "../output/agri_emp_sh_rgdpc_1940.png", as(png) replace
 
 
 use "../../data/output/10sd_un_pwt.dta", replace
-keep if year <= 2000
+* keep if year <= 2000
 keep if countrycode == "BRA"
 gen gdpc  = (rgdpe/pop)
 gen lgdpc = log(rgdpe/pop)
@@ -58,6 +58,32 @@ gen agri_va_sh		= agri_va_real/tot_va_real
 gen manufac_va_sh	= manufac_va_real/tot_va_real
 gen serv_va_sh		= serv_va_real/tot_va_real
 
+
+
+#delimit;
+	twoway (line gdpc year, lpattern(solid) lwidth(0.5)),
+			xlabel(1950(5)2014, angle(45))
+			ytitle("Level")
+			xtitle("")
+			xsize(8) ysize(5)
+			ylabel(, grid gmax glpattern(solid) glcolor(gs15))		
+			graphregion(fcolor(white) lstyle(none) ilstyle(none) 											
+			lpattern(blank) ilpattern(blank)) plotregion(style(none));
+#delimit cr
+
+#delimit;
+	twoway (line lgdpc year, lpattern(solid) lwidth(0.5))	
+	       (line lpop year, lpattern(solid) lwidth(0.5)),
+		   legend(order(1 "Log GDPC PPP" 2 "Log POP") rows(3) position(11) ring(0) region(lstyle(black)))
+			xlabel(1950(5)2014, angle(45))
+			ytitle("Level")
+			xtitle("")
+			xsize(8) ysize(5)
+			ylabel(, grid gmax glpattern(solid) glcolor(gs15))		
+			graphregion(fcolor(white) lstyle(none) ilstyle(none) 											
+			lpattern(blank) ilpattern(blank)) plotregion(style(none));
+#delimit cr
+graph export "../../analysis/output/10sd_lgdpc_growth.png", as(png) replace
 
 #delimit;
 	twoway (line agri_emp_sh year, lpattern(solid) lwidth(0.5))	
