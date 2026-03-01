@@ -1,0 +1,316 @@
+municipality,start_date,station,railway,branch
+"Recife,PE",20.10.1881,BRUM(RECIFE),GreatWestern(1881-1950)RedeFerroviáriadoNordeste(1950-anos1970),Linha Norte- km 0 (1960)
+"Recife,PE",25.03.1885,ESTAÇÃOCENTRALDORECIFE,E.F.CentraldePernambuco(1885-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1982)METROREC(1982-),Linha Centrokm 0 (1960)
+"Recife,PE",20.11.1881,ENCRUZILHADA,GreatWestern(1881-c.1934),Linha Nortekm 4 (1960)
+"Recife,PE",01.01.1900,IPIRANGA,E.F.CentraldePernambuco(1900-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro km 4 (1960)
+"Recife,PE",20.10.1881,ARRAIAL,GreatWestern(1881-c.1934),Linha Nortekm 7 (1960)
+"Recife,PE",01.05.1891,EDGARDWERNECK(antigaAREIAS),E.F.CentraldePernambuco(1891-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 7 (1960)
+"Recife,PE",20.10.1881,MACACOS,GreatWestern(1881-c.1934),Linha Norte km 14 (1917)
+"Recife,PE",25.03.1885,TEJIPIÓ,E.F.CentraldePernambuco(1885-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 9 (1960)
+"Camaragibe,PE",20.10.1881,CAMARAGIBE,GreatWestern(1881-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte- km 20 (1960)
+"Camaragibe,PE",20.10.1881,CAMARAGIBE,GreatWestern(1881-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte- km 20 (1960)
+"Recife,PE",29.12.1908,PARADALACERDA(atualestaçãoRODOVIÁRIA),GreatWestern(1908-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)METROREC(1996-),Ligação             Norte- km 15 (1960)
+"Jaboatão,PE",31.08.1919,COQUEIRAL,GreatWestern(1919-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro km 10 (1960)
+"SãoLourençodaMata,PE",20.10.1881,SÃOLOURENÇODAMATA,GreatWestern(1881-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte km 25 (1960)
+"Jaboatão,PE",15.06.1935,FLORIANO(antigaVILLAMILITARFLORIANOPEIXOTO),GreatWestern(1935-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 14 (1960)
+"SãoLourençodaMata,PE(vejaausina)",20.10.1881,TIUMA,GreatWestern(1881-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte- km 30 (1960)
+"JaboatãodosGuararapes,PE",23.03.1885,JABOATÃO,E.F.CentraldePernambuco(1885-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 17 (1960)
+"PauD'Alho,PE",,PIRASSIRICA,GreatWestern(1881-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte            km 38 (1960)
+"Moreno,PE",15.08.1885,MORENO,E.F.CentraldePernambuco(1885-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 27 (1960)
+"PauD'Álho,PE",n/d,MUSSUREPE,GreatWestern(n/d-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Nortekm 41 (1960)
+"Moreno,PE",10.11.1888,TAPERA,E.F.CentraldePernambuco(1888-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro km 38 (1960)
+"PauD'Alho,PE",20.10.1881,SÃOSEVERINO,GreatWestern(1881-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte km 46 (1960)
+"VitóriadeSantoAntão,PE",n/d,TAMATAMERIM,E.F.CentraldePernambuco(n/d-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro km 43 (1960)
+"PauD'Alho,PE",20.10.1881,PAUD'ALHO,GreatWestern(1881-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte- km 49 (1960)
+"VitóriadeSantoAntão,PE",09.01.1886,VITÓRIADESANTOANTÃO(antigaVICTORIA),E.F.CentraldePernambuco(1886-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 51 (1960)
+"LagoadoCarro,PE",20.02.1882,LAGOADOCARRO,GreatWestern(1882-1950)RedeFerroviáriadoNordeste(1950-1968),Ramal de Bom Jardimkm 67 (1960)
+"Carpina,PE",20.10.1881,CARPINA(antigaCHÃDECARPINAeFLORESTADOSLEÕES),GreatWestern(1881-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Nortekm 60 (1960)
+"Pombos,PE",08.05.1886,POMBOS(antigaFRANCISCOGLICÉRIO),E.F.CentraldePernambuco(1886-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 64 (1960)
+"LagoadoCarro,PE",,CAMPOGRANDE,GreatWestern(1882-1950)RedeFerroviáriadoNordeste(1950-1968),Ramal de             Bom Jardim km 74 (1960)
+"Limoeiro,PE",20.02.1882,LIMOEIRO,GreatWestern(1882-1950)RedeFerroviáriadoNordeste(1950-1968),Ramal de Bom Jardim-  km 83 (1960)
+"Limoeiro,PE",,PEDRADOSONO,GreatWestern(1934-1950)RedeFerroviáriadoNordeste(1950-1968),Ramal de             Bom Jardimkm 89 (1960)
+"Limoeiro,PE",,LAGOACOMPRIDA,GreatWestern(1930-1950)RedeFerroviáriadoNordeste(1950-1968),Ramal de             Bom Jardimkm 97 (1960)
+,,ESPERA,GreatWestern(n/d-1950)RedeFerroviáriadoNordeste(1950-1968),Ramal de             Bom Jardim km 105 (1960)
+"BomJardim,PE",,PARIJÓS,GreatWestern(n/d-1950)RedeFerroviáriadoNordeste(1950-1968),Ramal de             Bom Jardim km 109 (1960)
+"BomJardim,PE",10.05.1937,BOMJARDIM,GreatWestern(1937-1950)RedeFerroviáriadoNordeste(1950-1968),Ramal de Bom Jardimkm 113 (1960)
+"NazarédaMata,PE",15.09.1882,TRACUNHAÉM,GreatWestern(1882-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte km 67 (1960)
+"Gravatá,PE",24.08.1887,RUSSINHA(antigaSERRA),E.F.CentraldePernambuco(1887-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro km 72 (1960)
+"NazarédaMata,PE",15.09.1882,NAZARÉDAMATA,GreatWestern(1882-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Nortekm 73 (1960)
+"Gravatá,PE",21.03.1930,CASCAVEL,GreatWestern(1930-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro km 78 (1960)
+"Gravatá,PE",04.01.1894,GRAVATÁ,E.F.CentraldePernambuco(1894-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 89 (1960)
+"NazarédaMata,PE",,JUNCO,GreatWestern(1882-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte             km 80 (1960)
+,05.12.1931,INSURREIÇÃO,GreatWestern(1931-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro km 103 (1960)
+"Bezerros,PE",01.12.1895,BEZERROS,E.F.CentraldePernambuco(1895-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 112 (1960)
+"Aliança,PE",,UPATININGA,GreatWestern(1882-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte             km 84 (1960)
+"Caruaru,PE",01.12.1895,GONÇALVESFERREIRA,E.F.CentraldePernambuco(1895-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro km 126 (1960)
+"Aliança,PE",01.01.1883,BARAÚNA,GreatWestern(1883-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte km 91 (1960)
+"Caruaru,PE",01.12.1895,CARUARU,E.F.CentraldePernambuco(1895-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 139 (1960)
+"Aliança,PE",01.01.1883,ALIANÇA,GreatWestern(1883-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte- km 97 (1960)
+"Caruaru,PE",n/d,BARRADOTAQUARA(antigaTAQUARA),GreatWestern(n/d-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 149 (1960)
+"SãoCaetano,PE(vejaacidade)",07.08.1891,SÃOCAETANO,E.F.CentraldePernambuco(1891-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 161 (1960)
+"Timbaúba,PE",01.01.1883,PUREZA,GreatWestern(1883-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte- km 108 (1960)
+"Tacaimbó,PE",25.12.1896,TACAIMBÓ(ex-ANTONIOOLINTO),E.F.CentraldePernambuco(1896-1904)GreatWestern(1904-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 180 (1960)
+"Timbaúba,PE",08.01.1888,TIMBAÚBA,GreatWestern(1888-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Nortekm 118 (1960)
+"BeloJardim,PE",02.02.1906,BELOJARDIM,GreatWestern(1906-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 196 (1960)
+"Timbaúba,PE",02.01.1900,ROSAESILVA,GreatWestern(1900-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Norte            km 130 (1960)
+"Sanharó,PE",01.11.1906,SANHARÓ,GreatWestern(1906-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 212 (1960)
+"Pesqueira,PE",01.11.1906,PESQUEIRA,GreatWestern(1906-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 228 (1960)
+"Pesqueira,PE",15.12.1910,IPANEMA,GreatWestern(1910-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 241 (1960)
+"Pesqueira,PE",27.12.1911,MIMOSO,GreatWestern(1911-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 251 (1960)
+"Arcoverde,PE",13.05.1912,ARCOVERDE(antigaBARÃODORIOBRANCO),GreatWestern(1912-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 269 (1960)
+"Sertânia,PE",09.09.1930,HENRIQUEDIAS(antigaSOUZAFILHOeTIGRE),GreatWestern(1930-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 297 (1960)
+"Sertânia,PE",15.08.1932,PINTORIBEIRO,GreatWestern(1932-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 317 (1960)
+"Sertânia,PE",06.06.1933,SERTÂNIA(antigaALAGOADEBAIXO),GreatWestern(1933-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centrokm 330 (1960)
+"Sertânia,PE",03.12.1941,ALBUQUERQUENÉ,GreatWestern(1941-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 351 (1960)
+"Iguaraci,PE",28.10.1948,IRAJAÍ,GreatWestern(1948-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 368 (1960)
+"Iguaraci,PE",c.1948,IGUARACI(antigaSALAMANDRA),GreatWestern(c.1948-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 381 (1960)
+"AfogadosdaIngazeira,PE",29.03.1949,AFOGADOSDAINGAZEIRA,GreatWestern(1949-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Centro- km 403 (1960)
+"Carnaíba,PE",1955?,ITÃ,RedeFerroviáriadoNordeste(1955?-1975)RFFSA(1975-1996),Linha Centro km 418 (1960)
+"Carnaíba,PE",1955?,CARNAÍBA,RedeFerroviáriadoNordeste(1955?-1975)RFFSA(1975-1996),Linha Centro- km 427 (1960)
+"Flores,PE",1955?,FLORES,RedeFerroviáriadoNordeste(1955?-1975)RFFSA(1975-1996),Linha Centrokm 452 (1960)
+"Triunfo,PE",1957,ENGENHEIROCORNÉLIO,RedeFerroviáriadoNordeste(1957-1975)RFFSA(1975-1996),Linha Centro- km 468 (1960)
+"Calumbi,PE",1957,SÃOSERAFIM,RedeFerroviáriadoNordeste(1957-1975)RFFSA(1975-1996),Linha Centrokm 479 (1960)
+"SerraTalhada,PE",02.02.1957,SERRATALHADA,RedeFerroviáriadoNordeste(1957-1975)RFFSA(1975-1996),Linha Centrokm 498 (1960)
+,23/09/1962,FELIPECAMARÃO,RedeFerroviáriadoNordeste(1962-1975)RFFSA(1975-1996),"Linha Centrokm 521,838 (1965)"
+,23/09/1962,VIDALDENEGREIROS,RedeFerroviáriadoNordeste(1962-1975)RFFSA(1975-1996),"Linha Centrokm 537,688 (1965)"
+"Mirandiba,PE",23/09/1962,MIRANDIBA,RedeFerroviáriadoNordeste(1062-1975)RFFSA(1975-1996),"Linha Centrokm 559,027 (1965)"
+"Mirandiba,PE",23/09/1962,FERNANDESVIEIRA,RedeFerroviáriadoNordeste(1962-1975)RFFSA(1975-1996),"Linha Centrokm 575,050 (1965)"
+"Salgueiro,PE",NA,ARLINDOLUZ,RedeFerroviáriadoNordeste(1962-1975)RFFSA(1975-1996),"Linha Centrokm 601,635 (1965)"
+"Salgueiro,PE",23/09/1962,SALGUEIRO,RedeFerroviáriadoNordeste(1962-1975)RFFSA(1975-1996),"Linha Centrokm 608,035 (1965)"
+"Recife,PE",10.02.1858,CINCOPONTAS,E.F.RecifeaoSãoFrancisco(1858-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 0
+"Recife,PE",09.02.1858,BOAVIAGEM,E.F.RecifeaoSãoFrancisco(1858-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 9 (1960)
+"Jaboatão,PE",09.02.1858,PRAZERES,E.F.RecifeaoSãoFrancisco(1858-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)METROREC(1996-),Linha Sulkm 12 (1960)
+"CabodeSantoAgostinho,PE",09.02.1858?,PONTEZINHA(antigaAFOGADOS),E.F.RecifeaoSãoFrancisco(1858?-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)METROREC(1996-),Linha Sul            km 20 (1960)
+"CabodeSantoAgostinho,PE",09.02.1858,ILHA(PONTEDOSCARVALHOS),E.F.RecifeaoSãoFrancisco(1858-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)METROREC(1996-),Linha Sulkm 24 (1960)
+"CabodeSantoAgostinho,PE",n/d,SANTOINACIO,GreatWestern(n/d-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)METROREC(1996-),Linha Sul- km 30 (1960)
+"CabodeSantoAgostinho,PE",10.02.1858,CABO,E.F.RecifeaoSãoFrancisco(1858-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)METROREC(1996-),Linha Sulkm 32 (1960)
+,30.11.1860,MERCÊS(antigaIPOJUCA),E.F.RecifeaoSãoFrancisco(1860-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul- km 38 (1960)
+,30.11.1860,MAUÁ(antigaOLINDA),E.F.RecifeaoSãoFrancisco(1860-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul            km 45 (1960)
+"Escada,PE",30.11.1860,TIMBÓ-AÇU,E.F.RecifeaoSãoFrancisco(1860-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul- km 52 (1960)
+"Escada,PE",30.11.1860,ESCADA,E.F.RecifeaoSãoFrancisco(1860-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 58 (1960)
+,13.05.1862,BARÃODESUASSUNA(antigaLIMOEIRO),E.F.RecifeaoSãoFrancisco(1862-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul            km 64 (1960)
+"Escada,PE",13.05.1862,FREXEIRAS,E.F.RecifeaoSãoFrancisco(1862-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 70 (1960)
+"Amaragi,PE",13.05.1862,ARAPIBU,E.F.RecifeaoSãoFrancisco(1862-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 78 (1960)
+,,BREJO,GreatWestern(1912-1950)RedeFerroviáriadoNordeste(1950-c.1975),Ramal de             Barreiros km 95 (1960)
+"Ribeirão,PE",01.07.1907,JOSÉMARIANO(antigaCAXANGÁ),E.F.RibeirãoaBonito(n/d-1907)GreatWestern(1907-1950)RedeFerroviáriadoNordeste(1950-1970),Ramal de Cortezkm 95 (1960)
+"Ribeirão,PE",13.05.1862,RIBEIRÃO,E.F.RecifeaoSãoFrancisco(1862-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 87 (1960)
+"Gameleira,PE",29.09.1926,LOBO,GreatWestern(1926-1950)RedeFerroviáriadoNordeste(1950-c.1975),Ramal de Barreiros km 103 (1960)
+"Gameleira,PE",1908?,ANTAS,GreatWestern(1908?-n/d),Ramal de Antas- km
+"Gameleira,PE",13.05.1862,GAMELEIRA,E.F.RecifeaoSãoFrancisco(1862-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 96 (1960)
+"Ribeirão,PE",01.07.1907,PROGRESSO,E.F.RibeirãoaBonito(n/d-1907)GreatWestern(1907-1950)RedeFerroviáriadoNordeste(1950-1970),Ramal de Cortez km 100 (1960)
+"Ribeirão,PE",n/d,COCAÚ,E.F.Tamandaré(1908-1912)GreatWestern(1912-1950)RedeFerroviáriadoNordeste(1950-c.1975),Ramal de Barreiros- km 110 (1960)
+"Gameleira,PE",07.06.1862,CUIAMBUCA,E.F.RecifeaoSãoFrancisco(1862-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul            km 101 (1960)
+"Ribeirão,PE",n/d,SOARESMEIRELES(antigaHORIZONTE),E.F.Tamandaré(n/d-1912)GreatWestern(1912-1950)RedeFerroviáriadoNordeste(1950-c.1975),Ramal de Barreiros- km 117 (1960)
+"JoaquimNabuco,PE",07.06.1862,JOAQUIMNABUCO,E.F.RecifeaoSãoFrancisco(1862-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 118 (1960)
+"Ribeirão,PE",01.07.1907,MACACOS,E.F.RibeirãoaBonito(n/d-1907)GreatWestern(1907-1950)RedeFerroviáriadoNordeste(1950-1970),Ramal de Cortezkm 103 (1960)
+-,n/d,PRIMAVERA,E.F.Tamandaré(n/d-1912)GreatWestern(1912-1950)RedeFerroviáriadoNordeste(1950-c.1975),Ramal de Barreiros- km
+"JoaquimNabuco,PE",,PUMATI,GreatWestern(1930-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul             km 118 (1960)
+"Cortez,PE",01.07.1907,LINDAFLOR,E.F.RibeirãoaBonito(n/d-1907)GreatWestern(1907-1950)RedeFerroviáriadoNordeste(1950-1970),Ramal de Cortezkm 106 (1960)
+"RioFormoso,PE",05.1912,ESTÁCIOCOIMBRA,E.F.Tamandaré(1908-1912)GreatWestern(1912-1950)RedeFerroviáriadoNordeste(1950-c.1975),Ramal de Barreiros- km 127 (1960)
+"Palmares,PE",30.11.1862,PALMARES(antigaUNA),E.F.RecifeaoSãoFrancisco(1862-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 125 (1960)
+"Cortês,PE","anos 
+            1890?",ILHADEFLORES,E.F.RibeirãoaBonito(anos1890-1907)GreatWestern(1907-1950)RedeFerroviáriadoNordeste(1950-1970),Ramal de Cortezkm 109 (1960)
+"Palmares,PE",25.08.1894,PIRANGI,E.F.RecifeaoSãoFrancisco(1894-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul- km 130 (1960)
+"Cortês,PE(vejaausinaPedrosa)","anos 
+            1890?",CORTEZ,E.F.RibeirãoaBonito(anos1890-1907)GreatWestern(1907-1950)RedeFerroviáriadoNordeste(1950-1970),Ramal de Cortezkm 116 (1960)
+"Barreiros,PE",1908,BARREIROS,E.F.Tamandaré(1908-1912)GreatWestern(1912-1950)RedeFerroviáriadoNordeste(1950-c1968/72),Ramal de Barreiroskm 142 (1960)
+,25.08.1894,BOASORTE,E.F.RecifeaoSãoFrancisco(1894-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul- km 134 (1960)
+"Catende,PE",02.12.1882,CATENDE,E.F.RecifeaoSãoFrancisco(1882-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 142 (1960)
+"Jaqueira,PE",28.07.1883,JAQUEIRA,E.F.RecifeaoSãoFrancisco(1883-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul- km 156 (1960)
+"Jaqueira,PE",01.01.1884,FREICANECA,E.F.RecifeaoSãoFrancisco(1884-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul- km 156 (1960)
+"Maraial,PE",01.01.1884,MARAIAL,E.F.SuldePernambuco(1884-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul- km 164 (1960)
+,01.12.1894,FLORESTAL,E.F.SuldePernambuco(1894-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul km 168 (1960)
+"SãoBeneditodoSul,PE",07.06.1884,IGARAPEBA(antigaBARRADASJANGADAS),E.F.SuldePernambuco(1884-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 175 (1960)
+"SãoBeneditodoSul,PE",15.06.1883,PERI-PERI,E.F.SuldePernambuco(1883-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul- km 178 (1960)
+"SãoBeneditodoSul,PE",07.09.1884,SÃOBENEDITODOSUL(antigaSÃOBENEDITOeIRACI),E.F.SuldePernambuco(1884-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 184 (1960)
+"Quipapá,PE",15.01.1885,QUIPAPÁ,E.F.RecifeaoSãoFrancisco(1885-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 197 (1960)
+"Quipapá,PE",15.01.1885,ÁGUABRANCA,E.F.RecifeaoSãoFrancisco(1885-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul- km 210 (1960)
+"Canhotinho,PE",13.05.1894,PAQUEVIRA(antigaGLICÉRIO),E.F.SuldePernambuco(1894-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul- km 214 (1960)
+"Paquevira,PE",13.05.1894,ÁGUAVERMELHA,E.F.SuldePernambuco(1894-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sul km 221 (1960)
+"Canhotinho,PE",15.01.1885,CANHOTINHO,E.F.RecifeaoSãoFrancisco(1885-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1971),Ramal de Garanhuns- km 228 (1960)
+"Angelim,PE",19.06.1887,ANGELIM(antigaSEGISMUNDOGONÇALVES),E.F.RecifeaoSãoFrancisco(1887-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1971),Ramal de Garanhunskm 243 (1960)
+"SãoJosédaLaje,AL",13.05.1894,SERRAGRANDE,E.F.SuldePernambuco(1894-1901)GreatWesternofBrazilRy.Co.(1901-1951)RedeFerroviáriadoNordeste(1951-1975)RFFSA(1975-1996),Linha Sulkm 231 (1960)
+"SãoJoão,PE",02.07.1887,SÃOJOÃO,E.F.RecifeaoSãoFrancisco(1887-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1971),Ramal de Garanhuns- km 253 (1960)
+"SãoJosédaLaje,AL",13.05.1894,SÃOJOSÉDALAJE,E.F.SuldePernambuco(1894-1901)GreatWesternofBrazilRy.Co.(1901-1951)RedeFerroviáriadoNordeste(1951-1975)RFFSA(1975-1996),Linha Sulkm 237 (1960)
+"Garanhuns,PE",30.09.1887,GARANHUNS,E.F.RecifeaoSãoFrancisco(1887-1901)GreatWestern(1901-1950)RedeFerroviáriadoNordeste(1950-1968),Ramal de Garanhunskm 271 (1960)
+"UniãodosPalmares,AL",02.12.1884,ROCHACAVALCANTI(antigaBARRADOCANHOTO),E.F.SuldePernambuco(1894-1901)GreatWesternofBrazilRy.Co.(1901-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 253 (1960)
+"UniãodosPalmares,AL",02.12.1884,UNIÃODOSPALMARES(antigaIMPERATRIZ),E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1951)RedeFerroviáriadoNordeste(1951-1975)RFFSA(1975-1997)Cia.FerroviáriadoNordeste(1997-),Linha Sulkm 262 (1960)
+"Murici,AL(1884-1963)MunicípiodeBranquinha,AL(1963-)",02.12.1884,BRANQUINHA,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1951)RedeFerroviáriadoNordeste(1951-1975)RFFSA(1975-1997),Linha Sul- km 275 (1960)
+"Murici,AL",02.12.1884,NICHÓ,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1951)RedeFerroviáriadoNordeste(1951-1975)RFFSA(1975-1997),Linha Sul km 279 (1960)
+"Murici,AL",02.12.1884,MURICI,E.F.CentraldeAlagoas(1894-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Linha Sulkm 286 (1960)
+"Murici,AL",02.12.1884,ITAMARACÁ,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Linha Sul km 296 (1960)
+"Murici,AL",02.12.1884,MUNDAÚ,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-),Linha Sul km 305 (1960)
+"RioLargo,AL",02.12.1884,LOURENÇODEALBUQUERQUE,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997)CBTU(1997-),Linha Sul- km 315 (1960)
+"RioLargo,AL",02.12.1884,LOURENÇODEALBUQUERQUE,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997)CBTU(1997-),Linha Sul- km 315 (1960)
+"RioLargo,AL",02.12.1884,RIOLARGO,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sulkm 286 (1960)
+"RioLargo,AL",02.12.1884,RIOLARGO,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sulkm 286 (1960)
+"RioLargo,AL",02.12.1884,URUPEMA,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Ramal do Colégio- km 327 (1960)
+"Piranhas,AL",25.12.1881,PIRANHAS,E.F.PauloAfonso(1881-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1964),Linha Sulkm 0 (1960)
+,24.12.1891,BITTENCOURT,E.F.CentraldeAlagoas(1891-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Linha Sul km 335 (1960)
+"RioLargo,AL",02.12.1884,GUSTAVOPAIVA(antigaCACHOEIRA),E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1951)RedeFerroviáriadoNordeste(1951-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sul km 318 (1960)
+"RioLargo,AL",02.12.1884,GUSTAVOPAIVA(antigaCACHOEIRA),E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1951)RedeFerroviáriadoNordeste(1951-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sul km 318 (1960)
+"Piranhas,AL(1881-1963)MunicípiodeOlhosD'ÁguadoCasado,AL(1963-)",25.12.1881,OLHOSD'ÁGUA,E.F.PauloAfonso(1881-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1964),Linha Sulkm 28 (1960)
+"Atalaia,AL",24.12.1891,ATALAIA,E.F.CentraldeAlagoas(1891-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Linha Sul- km 341 (1960)
+"RioLargo,AL",02.12.1884,UTINGA,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1951)RedeFerroviáriadoNordeste(1951-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sul km 323 (1960)
+"RioLargo,AL",02.12.1884,UTINGA,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1951)RedeFerroviáriadoNordeste(1951-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sul km 323 (1960)
+"DelmiroGouveia,AL",10.07.1882,TALHADO,E.F.PauloAfonso(1882-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1964),Linha Sul- km 41 (1960)
+,24.12.1891,ESTRADABRANCA,E.F.CentraldeAlagoas(1891-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Ramal de Colégio km 349 (1960)
+"ÁguaBranca,AL(1882-53)MunicípiodeDelmiroGouveia,AL(1953-)",10.07.1882,DELMIRO(antigaPEDRA),E.F.PauloAfonso(1882-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1964),Linha Sul- km 54 (1960)
+"Capela,AL",24.12.1891,"CAPELA(antigaPARAÍBA,EUCLIDESMALTAeCONCEIÇÃODAPARAÍBA)",E.F.CentraldeAlagoas(1891-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Ramal de Colégiokm 354             (1960)
+RioLargo(1884-1960)MunicípiodeSatuba(1960-),02.12.1884,SATUBA,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sul km 323 (1960)
+RioLargo(1884-1960)MunicípiodeSatuba(1960-),02.12.1884,SATUBA,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sul km 323 (1960)
+"DelmiroGouveia,AL",02.08.1882,SINIMBU,E.F.PauloAfonso(1882-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1964),Linha de Paulo Afonso- km 70 (1960)
+"Capela,AL",n/d,TINGUIJABAS,GreatWestern(n/d-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Ramal de Colégio km 358 (1960)
+,n/d,RIONOVO,RFFSA(?-1996)CBTU(1996-),Linha Sul km
+"Petrolândia,PE",02.08.1882,VOLTA(antigaMOXOTÓ),E.F.PauloAfonso(1882-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1964),Linha-tronco- km 84 (1960)
+"Capela,AL(1891-1959)MunicípiodeCajueiro,AL(1959-)",24.12.1891,CAJUEIRO,E.F.CentraldeAlagoas(1891-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Ramal de Colégiokm 364 (1960)
+,n/d,ABC,RFFSA(n/d-1996)CBTU(1996-),Linha Sul- km
+"Petrolândia,PE",09.07.1883,QUIXABÁ,E.F.PauloAfonso(1883-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1964),Linha-tronco km 102 (1960)
+"Capela,AL(1891-1959)MunicípiodeCajueiro,AL(1959-)",24.12.1891,CAPRICHO,E.F.CentraldeAlagoas(1891-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Linha Sul km 366 (1960)
+"Maceió,AL",02.12.1884,FERNÃOVELHO,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sul km 336 (1960)
+"Maceió,AL",02.12.1884,FERNÃOVELHO,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sul km 336 (1960)
+"Petrolândia,PE",09.07.1883,PETROLÂNDIA(antigaJATOBÁeITAPARICA),E.F.PauloAfonso(1883-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1964),Linha-troncokm 115 (1960)
+"Viçosa,AL",24.12.1891,COSTAREGO,E.F.CentraldeAlagoas(1891-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Linha Sul km 367 (1960)
+"Maceió,AL",n/d,GOIABEIRA,RFFSA(n/d-1996)CBTU(1996-),Linha Sul km
+"Viçosa,AL",24.12.1891,VIÇOSA(antigaASSEMBLÉIA),E.F.CentraldeAlagoas(1891-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Ramal do Colégio- km 376 (1960)
+"Maceió,AL",n/d,SURURUDECAPOTE,RFFSA(?-1996)CBTU(1996-),Linha Sul km
+"Viçosa,AL",24.11.1913,CAÇAMBAS,GreatWestern(1913-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Linha Sul- km 382 (1960)
+"Maceió,AL",02.12.1884,BEBEDOURO,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sul km 342 (1960)
+"Maceió,AL",02.12.1884,BEBEDOURO,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996)CBTU(1996-),Linha Sul km 342 (1960)
+"Viçosa,AL",29.12.1911,ANEL,GreatWestern(1911-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Linha Sul- km 386 (1960)
+"Maceió,AL",1995,MUTANGÊ,CBTU(1995-),Linha Sul km
+"Viçosa,AL",n/d,CRUZES,GreatWestern(n/d-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Linha Sul km 390 (1960)
+"Maceió,AL",1995,BOMPARTO,CBTU(1995-),Linha Sul km
+"PauloJacinto,AL",19.05.1912,PAULOJACINTO,GreatWestern(1912-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Linha Sulkm 397 (1960)
+"Maceió,AL",1995,MERCADO,CBTU(1995-),Linha Sul- km
+"Maceió,AL",02.12.1884,MACEIÓ,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997)CBTU(1997-),Linha Sulkm 336 (1960)
+"PauloJacinto,AL",1912,SÃOFRANCISCO,GreatWestern(1912-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997),Linha Sulkm 404 (1960)
+"Maceió,AL",02.12.1884,MACEIÓ,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997)CBTU(1997-),Linha Sulkm 336 (1960)
+"Quebrangulo,AL",14.12.1912,QUEBRANGULO,GreatWestern(1912-1950)RedeFerroviáriadoNordeste(1949-1975)RFFSA(1975-1996),Ramal de Colégiokm 418             (1960)
+"Maceió,AL",02.12.1884,JARAGUÁ,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997)CBTU(2017-),Linha Sulkm 350 (1960)
+"Maceió,AL",02.12.1884,JARAGUÁ,E.F.CentraldeAlagoas(1884-1903)GreatWestern(1903-1950)RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1997)CBTU(2017-),Linha Sulkm 350 (1960)
+"Palmeiradosíndios,AL",19.03.1930,ANUM,GreatWestern(1930-1950)RedeFerroviáriadoNordeste(1949-1975)RFFSA(1975-1996),Ramal de Colégiokm 439 (1960)
+"PalmeiradosÍndios,AL",25.12.1933,PALMEIRADOSÍNDIOS,GreatWestern(1933-1950)RedeFerroviáriadoNordeste(1949-1975)RFFSA(1975-1996),Ramal de Colégiokm 453             (1960)
+"Igaci,AL",25.12.1933,IGACI,GreatWestern(1947-1950)RedeFerroviáriadoNordeste(1949-1975)RFFSA(1975-1996),Ramal de Colégio- km 469 (1960)
+"Arapiraca,AL",25.12.1933,LAGOADORANCHO,GreatWestern(1947-1950)RedeFerroviáriadoNordeste(1949-1975)RFFSA(1975-1996),Ramal de Colégio- km 487 (1960)
+"Arapiraca,AL",29.03.1949,ARAPIRACA,RedeFerroviáriadoNordeste(1949-1975)RFFSA(1975-1996)CFN(1996-2008),Ramal de Colégiokm 504 (1960)
+"LagoadaCanoa,AL",15.12.1950,LAGOADACANOA,RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Ramal de Colégio- km 522 (1960)
+,n/d,ANTONICO,RedeFerroviáriadoNordeste(n/d-1975)RFFSA(1975-1996),Ramal de Colégio- km 529 (1960)
+GiraudoPonciano,15.12.1950,ENG.GORDILHODECASTRO,RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Ramal de Colégio- km 542 (1960)
+"Olhod'ÁguaGrande,AL",15.12.1950,GOMESNETO,RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975-1996),Ramal de Colégio- km 559 (1960)
+"PortoRealdoColégio,AL",15.12.1950,PORTOREALDOCOLÉGIO,RedeFerroviáriadoNordeste(1950-1975)RFFSA(1975),Ramal de Colégiokm 581 (1960)
+"Fortaleza,CE",30.11.1873,PROFESSORJOÃOFELIPE(antigaESTAÇÃOCENTRALDEFORTALEZA),E.F.deBaturité(1873-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997)CBTU/Metrofor(1997-2013),Linha-troncokm 0 (1960)
+"Fortaleza,CE",12.10.1926,ÁLVAROWAYNE(antigaFLORESTA),RededeViaçãoCearense(1926-1975)RFFSA(1975-1997)Metrofor(1997-),"Linha Nortekm 4,180 (1960)"
+"Fortaleza,CE",12.10.1917,ANTONIOBEZERRA(antigaBARROVERMELHO),RededeViaçãoCearense(1917-1975)RFFSA(1975-1997)Metrofor(1997-),"Linha Nortekm 7,506 (1960)"
+"Fortaleza,CE",31.12.1922,OTÁVIOBONFIM(antigaMATADOURO),RededeViaçãoCearense(1922-1975)RFFSA(1975-1997)Metrofor(1997-2009),"Linha-tronco- km 3,468 (1960)"
+"Fortaleza,CE",31.12.1922,OTÁVIOBONFIM(antigaMATADOURO),RededeViaçãoCearense(1922-1975)RFFSA(1975-1997)Metrofor(1997-2009),"Linha-tronco- km 3,468 (1960)"
+"Fortaleza,CE",01.08.1940,COUTOFERNANDES,RededeViaçãoCearense(1940-1975)RFFSA(1975-1997)Metrofor(1997-2009),"Linha-tronco- km 7,166 (1960)"
+"Fortaleza,CE",01.08.1940,COUTOFERNANDES,RededeViaçãoCearense(1940-1975)RFFSA(1975-1997)Metrofor(1997-2009),"Linha-tronco- km 7,166 (1960)"
+"Fortaleza,CE",30.11.1873,PARANGABA(antigaARRONCHES),E.F.deBaturité(1873-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 9,109 (1960)"
+"Fortaleza,CE",30.11.1873,PARANGABA(antigaARRONCHES),E.F.deBaturité(1873-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 9,109 (1960)"
+"Caucaia,CE",12.10.1917,CAUCAIA(antigaSOURE),RededeViaçãoCearense(1917-1975)RFFSA(1975-1997)Metrofor(1997-2010),"Linha Norte km 19,600 (1960)"
+"Fortaleza,CE",,MUCURIPE,E.F.deBaturité(1891-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997)CFN(1997-2009),"ramal de             Mucuripe km 24,860 (1960)"
+"Fortaleza,CE",14.01.1875,MONDUBIM,E.F.deBaturité(1875-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997)CBTU/Metrofor(1997-2009),"Linha-tronco- km 13,243 (1960)"
+"Fortaleza,CE",14.01.1875,MONDUBIM,E.F.deBaturité(1875-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997)CBTU/Metrofor(1997-2009),"Linha-tronco- km 13,243 (1960)"
+"Caucaia,CE",15.11.1920,BOQUEIRÃO,RededeViaçãoCearense(1920-1975)RFFSA(1975-1997)Metrofor(1997-2010),"Linha Norte km 32,440 (1960)"
+"Fortaleza,CE",24.05.1918,PAJUÇARA,RededeViaçãoCearense(1918-1975)RFFSA(1975-1997)CBTU/Metrofor(1997-),"Linha-tronco            km 19,041 (1960)"
+"Fortaleza,CE",24.05.1918,PAJUÇARA,RededeViaçãoCearense(1918-1975)RFFSA(1975-1997)CBTU/Metrofor(1997-),"Linha-tronco            km 19,041 (1960)"
+"Caucaia,CE",15.11.1920,GUARARU(antigaARARA),RededeViaçãoCearense(1920-1975)RFFSA(1975-1997),"Linha Norte km 35,620 (1960)"
+"Maracanaú,CE",14.01.1875,MARACANAÚ,E;F;Baturité(1875-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997)CBTU/Metrofor(1997-),"Linha-tronco- km 22,649 (1960)"
+"Maracanaú,CE",14.01.1875,MARACANAÚ,E;F;Baturité(1875-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997)CBTU/Metrofor(1997-),"Linha-tronco- km 22,649 (1960)"
+,24.02.1926,CAUIPE,RededeViaçãoCearense(1926-1975)RFFSA(1975-1997),"Linha Norte km 42,940 (1960)"
+"Maranguape,CE",,MARANGUAPE,E.F.deBaturité(1880-1909)RededeViaçãoCearense(1909-1963),"Ramal de             Maranguape km 29,895 (1960)"
+"Fortaleza,CE",09.01.1876,MONGUBA,E.F.Baturité(1876-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997)CBTU/Metrofor(1997-c.2012),"Linha-tronco- km 28,334 (1960)"
+,12.12.1926,CATUANA,RededeViaçãoCearense(1926-1975)RFFSA(1975-1997),"Linha Norte km 49,760 (1960)"
+"Pacatuba,CE",09.01.1876,PACATUBA,E.F.deBaturité(1876-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-tronco- km 34,901 (1960)"
+"SaoGoncalodoAmarante,CE",01.05.1927,UMARITUBA,RededeViaçãoCearense(1927-1975)RFFSA(1975-1997),"Linha Norte km 57,500 (1960)"
+"Guaiúba,CE",14.06.1879,GUAIÚBA,E.F.deBaturité(1879-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 41,805 (1960)"
+"SãoGonçalodoAmarante,CE",30.12.1932,CROATÁ,RededeViaçãoCearense(1932-1975)RFFSA(1975-1997),"Linha Norte- km 73,008 (1960)"
+,14.03.1880,JOÃONOGUEIRA(antigaBAÚ),E.F.deBaturité(1880-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-tronco- km 53,120 (1960)"
+"SãoLuísdoCuru,CE",30.01.1933,CURU,RededeViaçãoCearense(1933-1975)RFFSA(1975-1997),"Linha Norte km 86,928 (1960)"
+"Guaiuba,CE",28.09.1879,ÁGUAVERDE,E.F.deBaturité(1879-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-tronco- km 59,134 (1960)"
+"Umirim,CE",05.06.1933,UMIRIM(antigaRIACHODASELA),RededeViaçãoCearense(1933-1975)RFFSA(1975-1997),"Linha Norte km 99,720 (1960)"
+"Acarape,CE",26.10.1879,ACARAPE,E.F.deBaturité(1879-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 67,657 (1960)"
+"Tururu,CE",04.07.1940,TURURU,RededeViaçãoCearense(1940-1975)RFFSA(1975-1997),"Linha Norte km 115,280 (1960)"
+"Redenção,CE",20.09.1896,AMAROCAVALCANTE(antigaITAPAÍ),E.F.deBaturité(1896-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 74,768 (1960)"
+,04.07.1940,RAJADA,RededeViaçãoCearense(1940-1975)RFFSA(1975-1997),"Linha Norte km 120,983 (1960)"
+"Redenção,CE",14.03.1880,ANTONIODIOGO(antigaCANAFÍSTULA),E.F.deBaturité(1880-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 80,793 (1960)"
+"Itapipoca,CE",04.07.1940,ITAPIPOCA,RededeViaçãoCearense(1940-1975)RFFSA(1975-1997),"Linha Norte- km 138,680 (1960)"
+"Aracoiaba,CE",14.03.1880,ARACOIABA(antigaCANOA),E.F.deBaturité(1880-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 92,733 (1960)"
+"Itapipoca,CE",28.10.1940,ANÁRIOBRAGA(antigaCRAÚNA),RededeViaçãoCearense(1940-1975)RFFSA(1975-1997),"Linha Norte- km 159,690 (1960)"
+"Baturité,CE",02.02.1882,BATURITÉ,E.F.deBaturité(1882-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 102,890 (1960)"
+"Itapipoca,CE",29.10.1948,MIRAIMA,RededeViaçãoCearense(1948-1975)RFFSA(1975-1997),"Linha Norte- km 185,083 (1960)"
+"Baturité,CE",23.12.1921,ALFREDODUTRA(antigaAÇUDINHO),RededeViaçãoCearense(1921-1975)RFFSA(1975-1997),"Linha-troncokm 112,446 (1960)"
+"Sobral,CE",15.11.1950,TEÓGENESROCHA(antigaCACIMBAS),RededeViaçãoCearense(1950-1975)RFFSA(1975-1997),"Linha Norte- km 206,187 (1960)"
+"Capistrano,CE",08.12.1890,CAPISTRANO(antigaRIACHÃOeCAPISTRANODEABREU),E.F.deBaturité(1890-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 121,894 (1960)"
+"Sobral,CE",15.11.1950,HUMBERTOMONTE(antigaCAIOCA),RededeViaçãoCearense(1950-1975)RFFSA(1975-1997),"Linha Norte km 218,870 (1960)"
+"Itapiúna,CE",01.06.1891,ITAPIÚNA(antigaITAÚNA),E.F.deBaturité(1891-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 135,205 (1960)"
+"Sobral,CE",31.12.1882,SOBRAL,E.F.deSobral(1882-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha Nortekm 234,604 (1960)"
+"Massapé,CE",31.12.1881,MASSAPÉ,E.F.deSobral(1881-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-c.1980),"Ramal de Camocim km 257,204 (1960)"
+"SenadorSá,CE",02.07.1881,SENADORSÁ(antigaPITOMBEIRAS),E.F.deSobral(1881-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-c.1980),"Ramal de Camocim- km 284,391 (1960)"
+"Uruoca,CE",10.01.1894,URUOCA(antigaRIACHÃO),E.F.deSobral(1894-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-c.1980),"Ramal de Camocim- km 297,904 (1960)"
+"Martinópole,CE",14.03.1881,MARTINÓPOLE(antigaANGICA),E.F.deSobral(1881-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-c.1980),"Ramal de Camocim km 318,364 (1960)"
+"Granja,CE",15.01.1881,GRANJA,E.F.deSobral(1881-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-c.1980),"Ramal de Camocimkm 339,099 (1960)"
+"Camocim,CE",12.09.1926,DOUTORPRIVAT,RededeViaçãoCearense(1915-1975)RFFSA(1975-c.1980),"Ramal de Camocim- km 348,842 (1960)"
+"Camocim,CE",15.01.1881,CAMOCIM,E.F.deSobral(1881-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1977),"Ramal de Camocim- km 363,524 (1960)"
+"Itapiúna,CE",08.12.1890,CAIOPRADO(antigaCANGATY),E.F.deBaturité(1890-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-tronco- km 148,498 (1960)"
+"Sobral,CE",30.12.1924,JAIBARAS,RededeViaçãoCearense(1924-1975)RFFSA(1975-1997),"Linha Nortekm 250,740 (1960)"
+"Quixadá,CE",31.12.1922,MUQUÉM,RededeViaçãoCearense(1922-1975)RFFSA(1975-1997),"Linha-tronco- km 159,801 (1960)"
+"Carirê,CE",01.11.1893,CARIRÊ,E.F.deSobral(1893-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha Nortekm 267,354 (1960)"
+"Quixadá,CE",07.09.1891,DANIELDEQUEIROZ(antigaJUNCOeMUXIOPÓ),E.F.deBaturité(1891-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-tronco- km 171,872 (1960)"
+"Reriutaba,CE",03.12.1929,AMANAIARA(antigaSINIMBU),RededeViaçãoCearense(1929-1975)RFFSA(1975-1997),"Linha Norte- km 283,238 (1960)"
+,31.12.1922,TAPIRUSSU,RededeViaçãoCearense(1922-1975)RFFSA(1975-1997),"Linha-tronco- km 179,530 (1960)"
+"Reriutaba,CE",01.12.1893,RERIUTABA(antigaSANTACRUZeSANTACRUZDONORTE),E.F.deSobral(1893-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha Nortekm 294,174 (1960)"
+"Quixadá,CE",07.09.1891,QUIXADÁ,E.F.deBaturité(1891-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 189,780 (1960)"
+"PiresFerreira,CE",21.01.1925,PIRESFERREIRA,RededeViaçãoCearense(1925-1975)RFFSA(1975-1997),"Linha Norte km 309,157 (1960)"
+"Quixadá,CE(vejaodistrito)",04.08.1894,JUATAMA(antigaJUÁeFLORIANOPEIXOTO),E.F.deBaturité(1894-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-tronco            km 203,411 (1960)"
+"Ipu,CE",10.10.1894,IPU,E.F.deSobral(1894-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha Norte- km 322,141 (1960)"
+"Quixadá,CE",27.04.1919,FRANCISCODEHOLANDA,RededeViaçãoCearense(1919-1975)RFFSA(1975-1997),"Linha-tronco- km 203,411 (1960)"
+"Ipu,CE",05.08.1951,ABÍLIOMARTINS,RededeViaçãoCearense(1951-1975)RFFSA(1975-1997),"Linha Norte km 339,684 (1960)"
+"Quixeramobim,CE",04.08.1894,URUQUÊ(antigaFRANCISCOSÁ),E.F.deBaturité(1894-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 221,622 (1960)"
+"Ipueiras,CE",01.05.1910,IPUEIRAS,RededeViaçãoCearense(1910-1975)RFFSA(1975-1997),"Linha Nortekm 349,071 (1960)"
+"Quixeramobim,CE",04.08.1894,QUIXERAMOBIM,E.F.deBaturité(1894-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 237,467 (1960)"
+"Ipueiras,CE",03.11.1910,ENGENHEIROJOÃOTHOMÉ(antigaCHARITOS),RededeViaçãoCearense(1910-1975)RFFSA(1975-1997),"Linha Norte- km 366,090 (1960)"
+"Quixeramobim,CE",09.01.1921,SALVA-VIDAS,RededeViaçãoCearense(1921-1975)RFFSA(1975-1997),"Linha-tronco- km 251,091 (1960)"
+"NovaRussas,CE",03.11.1910,NOVARUSSAS,RededeViaçãoCearense(1910-1975)RFFSA(1975-1997),"Linha Norte- km 382,838 (1960)"
+"Quixeramobim,CE",04.06.1899,PRUDENTEDEMORAES,E.F.Baturité(1899-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-tronco- km 260,735 (1960)"
+"Tamboril,CE",01.01.1912,SUCESSO(antigaPINHEIRO),RededeViaçãoCearense(1912-1975)RFFSA(1975-1997),"Linha Nortekm 410,917 (1960)"
+"Quixeramobim,CE",14.06.1899,VICENTEDECASTRO(antigaSEBASTIÃODELACERDA),E.F.deBaturité(1899-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-tronco- km 270,399 (1960)"
+"Crateús,CE",11.11.1950,SANTATEREZINHA,RededeViaçãoCearense(1950-1975)RFFSA(1975-1997),"Linha Nortekm 425,520 (1960)"
+"SenadorPompeu,CE",07.09.1927,AMANAJU,RededeViaçãoCearense(1927-1975)RFFSA(1975-1997),"Linha-tronco- km 280,352 (1960)"
+"Crateús,CE",12.12.1912,CRATEÚS,RededeViaçãoCearense(1912-1975)RFFSA(1975-1997)CFN(1997-),"Linha Norte- km 442,158 (1960)"
+"Crateús,CE",1961,ADÃO,RededeViaçãoCearense(1961),Ramal de Independência- km 23
+"Independência,CE",1961,INDEPENDÊNCIA,RededeViaçãoCearense(1961),Ramal de Independência- km 48
+"SenadorPompeu,CE",02.07.1900,SENADORPOMPEU(antigaHUMAITÁ),E.F.deBaturité(1900-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-troncokm 289,972 (1960)"
+"Crateús,CE",01.01.1917,POTI,RededeViaçãoCearense(1916-1975)RFFSA(1975-1997),"Linha Nortekm 464,360 (1960)"
+"SenadorPompeu,CE",31.12.1922,ENGENHEIROJOSÉLOPES,RededeViaçãoCearense(1922-1975)RFFSA(1975-1997),"Linha-tronco- km 304,064 (1960)"
+"Crateús,CE",03.09.1918,IBIAPABA,RededeViaçãoCearense(1918-1975)RFFSA(1975-1997),"Linha Norte- km 479,177 (1960)"
+"PiquetCarneiro,CE",15.11.1907,PIQUETCARNEIRO(antigaGIRAU),E.F.deBaturité(1907-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-tronco- km 319,822 (1960)"
+"Crateús,CE",30.11.1932,OITICICA,RededeViaçãoCearense(1932-1975)RFFSA(1975-1997),"Linha Norte- km 500,077 (1960)"
+"PiquetCarneiro,CE",03.05.1908,IBICUÃ(antigaMIGUELCALMON),E.F.deBaturité(1908-1909)RededeViaçãoCearense(1909-1975)RFFSA(1975-1997),"Linha-tronco km 338,166 (1960)"
+,31.12.1922,ENGENHEIROVERAS(LUNA),RededeViaçãoCearense(1922-1975)RFFSA(1975-1997),"Linha-tronco km 349,007 (1960)"
+"Acopiara,CE",10.07.1910,ACOPIARA(antigaLAJESeAFONSOPENA),RededeViaçãoCearense(1910-1975)RFFSA(1975-1997),"Linha-troncokm 365,173 (1960)"
+"Acopiara,CE",,QUINCOÊ,RededeViaçãoCearense(1910-1975)RFFSA(1975-1997),"Linha-tronco             km 384,369 (1960)"
+"Iguatu,CE",15.11.1910,ENGENHEIROBARRETO(antigaSUSSUARANA),RededeViaçãoCearense(1910-1975)RFFSA(1975-1997),"Linha-tronco- km 400,820 (1960)"
+"Iguatu,CE",05.11.1910,IGUATU,RededeViaçãoCearense(1910-1975)RFFSA(1975-1997)CFN(1997-2011),"Linha-tronco km 416,298 (1960)"
+"Iguatu,CE",31.12.1922,JAGUARIBE,RededeViaçãoCearense(1922-1975)RFFSA(1975-1997),"Linha-tronco km 424,293 (1960)"
+"Jucás,CE",n/d,MAURÍCIA,RededeViaçãoCearense(1921-1975)RFFSA(1975-1994),Ramal de Cariús km
+"Cariús,CE",31.12.1922,CARIÚS(antigaPOÇODOSPAUS),RededeViaçãoCearense(1922-1975)RFFSA(1975-1994),"Ramal de Cariús km 457,208 (1960)"
+"Iguatu,CE",30.03.1916,ALENCAR(antigaJOSÉDEALENCAR),RededeViaçãoCearense(1916-1975)RFFSA(1975-1997),"Linha-troncokm 436,984 (1960)"
+"Icó,CE",,IGAROÍ(antigaÁGUAFRIA),RededeViaçãoCearense(1922-1968),"Ramal de             Orós km 452,421 (1960)"
+"Orós,CE",31.12.1922,ORÓS,RededeViaçãoCearense(1922-1969),"Ramal de Oróskm 479,901 (1960)"
+"Cedro,CE",15.08.1916,VARZEA,RededeViaçãoCearense(1916-1975)RFFSA(1975-1997),"Linha-troncokm 448,754 (1960)"
+,15.08.1916,MALHADAGRANDE,RededeViaçãoCearense(1916-1975)RFFSA(1975-1997),"Linha-tronco km 454,095 (1960)"
+"Cedro,CE",15.11.1916,CEDRO,RededeViaçãoCearense(1916-1975)RFFSA(1975-1997),"Linha-troncokm 467,819 (1960)"
+"LavrasdaMangabeira,CE",31.12.1922,ARROJADO(antigaPAIANO),RededeViaçãoCearense(1922-1975)RFFSA(1975-1997)CFN(1997-2009),"Linha-tronco km 477,406 (1960)"
+"LavrasdaMangabeira,CE",05.08.1923,AMANIUTUBA(antigaGALINHAS),RededeViaçãoCearense(1923-1975)RFFSA(1975-1997),"Ramal da Paraíba493,390             (1960)"
+"Baixio,CE",05.08.1923,BAIXIO,RededeViaçãoCearense(1923-1975)RFFSA(1975-1997),"Ramal da Paraíba515,926             (1960)"
+"SãoJoãodoRiodoPeixe,PB",05.08.1923,SANTAHELENA(antigaPOÇODEADÃO),RededeViaçãoCearense(1923-1975)RFFSA(1975-1997),"Ramal da Paraíbakm 526,324             (1960)"
+"SãoJoãodoRiodoPeixe,PB",05.08.1923,BREJODASFREIRAS(antigaSÃOJOÃO),RededeViaçãoCearense(1923-1975)RFFSA(1975-1997),"Ramal da Paraíba538,384             (1960)"
+"SãoJoãodoRiodoPeixe,PB",05.08.1923,ANTENORNAVARRO(SÃOJOÃODORIODOPEIXE),RededeViaçãoCearense(1923-1975)RFFSA(1975-1997),"Ramal da Paraíbakm 549,017             (1960)"
+"Cajazeiras,PB",05.08.1926,CAJAZEIRAS,RededeViaçãoCearense(1926-1971),"Ramal da Paraíbakm 572,907             (1960)"
+"Sousa,PB",13.05.1926,SOUSA,RededeViaçãoCearense(1926-1975)RFFSA(1975-1997)CFN(1997-),"Ramal da Paraíbakm 576,200             (1960)"
+"LavrasdaMangabeira,CE",01.12.1917,LAVRASDAMANGABEIRA,RededeViaçãoCearense(1917-1975)RFFSA(1975-1997),"Linha-tronco km 491,036 (1960)"
+"LavrasdaMangabeira,CE",,IBOREPI(antigaRIACHOFUNDO),RededeViaçãoCearense(1920-1975)RFFSA(1975-1997),"Linha-tronco             km 503,138 (1960)"
+"Aurora,CE",07.09.1922,INGAZEIRAS,RededeViaçãoCearense(1920-1975)RFFSA(1975-1997),"Linha-tronco538,712 (1960)"
+"MissãoVelha,CE",10.09.1925,MISSÃOVELHA,RededeViaçãoCearense(1925-1975)RFFSA(1975-1997),"Linha-troncokm 564,053 (1960)"

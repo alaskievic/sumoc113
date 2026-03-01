@@ -1,2 +1,23 @@
 municipality,start_date,station,railway,branch
-"Votuporanga,SP",10.12.1944,VOTUPORANGA,E.F.Araraquara(1944-1971)FEPASA(1971-1998),"Linha-troncokm 302,811 (1960)"
+"Louveira,SP",n/d,ABADIA,E.F.Itatibense(n/d-1952),Linha-troncokm
+"SãoVicente,SP",01.03.1938,ACARAÚ,C.E.F.Sorocabana(1938-1971)FEPASA(1971-1998),"Mairinque-Santoskm 96,79 (1986)"
+,20.04.1950,"ADAMANTINAMunic�piodeAdamantina,SP",Cia.PaulistadeEstradasdeFerro(1950-1971)FEPASA(1971-1998),"Linha-tronco oestekm 613,432             (1958)"
+"Barretos,SP",01.07.1929,ADOLFOPINTO(antigaGORDURAL),Cia.PaulistadeEstradasdeFerro(1929-1971)FEPASA(1971-1998),"Linha-tronco km 483,463 (1958)"
+"Guarulhos,SP",31.03.2018,AEROPORTODEGUARULHOS,CPTM(2018-),"Ramal de Cumbica (linha 13)km 12,2 km"
+"Mongaguá,SP",16.09.1942,AGENORDECAMPOS,E.F.Sorocabana(1942-1971)Fepasa(1971-1998),"Ramal de Juquiákm 137,557             (1986)"
+"SãoPaulo,SP",20.01.1951?,AGENTECÍCERO,E.F.CentraldoBrasil(1951-c.1975),"Variante de Poákm 496,061             (1960)"
+"Pindamonhangaba,SP",1953,AGENTEHELY,E.F.CamposdoJordão(1953-),Linha-troncokm 11 (2005)
+"EuclidesdaCunha,SP",18.09.1965,AGENTEROMEU,E.F.Sorocabana(1965-1971)FEPASA(1971-c.1988),"Ramal de Dourados-km 876,499 (1986)"
+"SãoPaulo,SP",16.02.1867,AGUABRANCA,SãoPauloRailway(1867-1946)E.F.Santos-Jundiaí(1946-1975)RFFSA(1975-1994)CPTM(1994-),"Linha-troncokm 84,320 (1935)"
+"SãoCarlos,SP",01.04.1892,ÁGUAVERMELHA,Cia.PaulistadeEstradasdeFerro(1892-1962),"Ramal de Água Vermelhakm 39,107"
+,01.01.1887,"AGUAÍ(antigaCASCAVEL)MunicípiosdeSãoJoãodaBoaVista,SP(1887-1945)Aguaí,SP(1945-)",Cia.MogianadeEstradasdeFerro(1887-1971)FEPASA(1971-1998)FCA(1999-),"Linha-tronco originalkm 124,833"
+"Valparaíso,SP",25.04.1933,AGUAPEÍ,E.F.NoroestedoBrasil(1933-1975)RFFSA(1975-1996),"Variante de Jupiákm 71,652             (1937)Linha-troncokm 352,652 (1949)"
+"ÁguasdaPrata,SP",01.10.1886,ÁGUASDAPRATA(antigaPRATA),Cia.MogianadeEstradasdeFerro(1886-1971)FEPASA(1971-1998),"Ramal de Caldaskm 42,452"
+"Altinópolis,SP",c.1910,ÁGUASVIRTUOSAS,E.F.SãoPaulo-Minas(c.1910-1971)FEPASA(1971-c.1990),"Linha-tronco originalkm 46,000             (1960)"
+"Cotia,SP",24.05.1931,AGUASSAÍ,E.F.Sorocabana(1931-1971)FEPASA(1971-1998),"Mairinque-Santoskm 21,186 (1937)"
+"Agudos,SP",07.12.1903,AGUDOSPAULISTA,Cia.PaulistadeEstradasdeFerro(1903-1966),"Ramal de Agudos originalkm 93,551"
+"Agudos,SP",25.09.1903,AGUDOS,Cia.UniãoSorocabanaeYtuana(1903-1907)SorocabanaRailway(1907-1919)E.F.Sorocabana(1919-1971)FEPASA(1971-1998),"Ramal de Baurukm 398,038 (1931)"
+"Bauru,SP",24.02.1928,AIMORÉS,Cia.PaulistadeEstradasdeFerro(1928-1971)FEPASA(1971-1998),"Ramal de Baurukm 28,800"
+"RioClaro,SP",15.10.1884,AJAPI(antigaMORROGRANDE),Cia.PaulistadeEstradasdeFerro(1896-1892)Cia.Rioclarense(1892-1966),"E. F. Rioclarensekm 14,290"
+"Piratininga(1924-),SP",09.02.1924,ALBA(antigaAMÉRICA),Cia.PaulistadeEstradasdeFerro(1924-1971)FEPASA(1971-1976),"Ramal de Agudos original km123,107tronco oestekm 360,772 (1957)"
+"Jaboticabal,SP",n/d,ALBANIA,E.F.Jaboticabal(n/d-1951)Cia.PaulistadeEstradasdeFerro(1951-1966),Ramal de Luzitaniakm
