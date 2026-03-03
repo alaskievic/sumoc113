@@ -11,7 +11,7 @@ import csv
 region_list = ["ne", "ba", "es", "go", "mg", "mt", "pa", "rj", "rs"]
 
 # Open the output file
-output_file_path = 'region_station_teste.csv'
+output_file_path = 'region_station.csv'
 with open(output_file_path, mode='w', newline='') as csvfile:
     # Create a CSV writer object
     csv_writer = csv.writer(csvfile)
@@ -126,6 +126,28 @@ def main_region():
                 htm_fix = htm.replace("ce_crato/ce_sobral", "ce_sobral")
             elif "alagoas/pernambuco" in htm:
                 htm_fix = htm.replace("alagoas/pernambuco", "pernambuco")
+            elif "efcb_rj_auxiliar/efcb_rj_linha_centro" in htm:
+                htm_fix = htm.replace("efcb_rj_auxiliar/efcb_rj_linha_centro", "efcb_rj_linha_centro")
+            elif "ba_lbras/efcb_mg_linhacentro" in htm:
+                htm_fix = htm.replace("ba_lbras/efcb_mg_linhacentro", "efcb_mg_linhacentro")
+            elif "ba_lbras/ba_monte%20azul" in htm:
+                htm_fix = htm.replace("ba_lbras/ba_monte%20azul", "ba_monte%20azul")
+            elif "ba_lbras/ba_paulistana" in htm:
+                htm_fix = htm.replace("ba_lbras/ba_paulistana", "ba_paulistana")
+            elif "ba_lbras/ba_catuicara" in htm:
+                htm_fix = htm.replace("ba_lbras/ba_catuicara", "ba_catuicara")
+            elif "ba_lbras/ba_propria" in htm:
+                htm_fix = htm.replace("ba_lbras/ba_propria", "ba_propria")
+            elif "efl_mg_manhuacu/efl_mg_linhadocentro" in htm:
+                htm_fix = htm.replace("efl_mg_manhuacu/efl_mg_linhadocentro", "efl_mg_linhadocentro")
+            elif "efl_mg_manhuacu/efl_ramais_2" in htm:
+                htm_fix = htm.replace("efl_mg_manhuacu/efl_ramais_2", "efl_ramais_2")
+            elif "rs_uruguaiana/rs_linhaspoa" in htm:
+                htm_fix = htm.replace("rs_uruguaiana/rs_linhaspoa", "rs_linhaspoa")
+            elif "rs_uruguaiana/rs_marcelino-stamaria" in htm:
+                htm_fix = htm.replace("rs_uruguaiana/rs_marcelino-stamaria", "rs_marcelino-stamaria")
+            elif "rs_uruguaiana/rs_bage_riogrande" in htm:
+                htm_fix = htm.replace("rs_uruguaiana/rs_bage_riogrande", "rs_bage_riogrande")
             else:
                 htm_fix = htm
             url = f"http://www.estacoesferroviarias.com.br/{htm_fix}"
@@ -157,3 +179,13 @@ if __name__ == "__main__":
     main_region()
 
 # %%
+
+# Remove duplicates from dataset and create a final version
+df = pd.read_csv('ibge_cidades.csv')
+# Remove duplicate rows
+df.drop_duplicates(inplace=True)
+df.to_csv('ibge_cidades_final.csv', index=False)
+
+
+
+

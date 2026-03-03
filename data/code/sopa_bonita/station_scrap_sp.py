@@ -115,3 +115,11 @@ def main_sp():
 # run the main function
 if __name__ == "__main__":
     main_sp()
+
+#%%
+
+# Remove duplicates from dataset and create a final version
+df = pd.read_csv('sp_station.csv')
+# Remove duplicate rows
+df.drop_duplicates(inplace=True)
+df.to_csv('sp_station_final.csv', index=False)
