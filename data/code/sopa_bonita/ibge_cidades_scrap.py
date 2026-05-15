@@ -11,7 +11,6 @@ from urllib.request import urlopen
 import pandas as pd
 import csv
 
-
 state_list = ["Acre", "Alagoas", "Amapá", "Amazonas", "Bahia", "Ceará", "Distrito Federal",
               "Espírito Santo", "Goiás", "Maranhão", "Mato Grosso", "Mato Grosso do Sul",
               "Minas Gerais", "Pará", "Paraíba", "Paraná", "Pernambuco", "Piauí", "Rio de Janeiro",
@@ -120,7 +119,8 @@ def main_ibge():
                         csv_writer = csv.writer(csvfile)
                         csv_writer.writerow(data_final)
         except:
-            print(mun_name)
+            # print(mun_name)
+            # print(mun)
             continue
     return data_final
 
@@ -130,3 +130,9 @@ if __name__ == "__main__":
 
 
 # %%
+
+# Remove duplicates from dataset and create a final version
+df = pd.read_csv('ibge_cidades.csv')
+# Remove duplicate rows
+df.drop_duplicates(inplace=True)
+df.to_csv('ibge_cidades_final.csv', index=False)
