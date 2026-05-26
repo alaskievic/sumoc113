@@ -1,0 +1,4 @@
+interface:
+  display_name: "Historical PDF OCR"
+  short_description: "OCR workflow for historical scanned PDFs"
+  default_prompt: "Use $historical-pdf-ocr to extract text and structured data from scanned historical PDFs."

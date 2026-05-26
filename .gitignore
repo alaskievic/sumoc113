@@ -37,3 +37,4 @@ _*.m
 .RData
 *.pdf
 *.stswp
+.claude/
