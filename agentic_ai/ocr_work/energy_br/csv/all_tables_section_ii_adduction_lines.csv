@@ -1,0 +1,226 @@
+source_file,page,source_table_id,row_in_table,state_context,adduction_material,pipe_diameter_mm,pipe_thickness_mm,transmission_line_km,distribution_line_km,transmission_voltage,distribution_voltage,transformer_stations,watercourse_used,reservoir_capacity_m3
+all_tables.pdf,34,tbl-95.md,1,,Aço e cimento.,3800,20,110,—,44000,110,1,Rio Paraguassú.,—
+all_tables.pdf,34,tbl-95.md,2,,Aço.,1200,6,59,9,21500,220,1,Rio Itahype ou Almada.,—
+all_tables.pdf,34,tbl-95.md,3,,—,—,—,5,—,220,220,—,Rio Una.,—
+all_tables.pdf,34,tbl-96.md,1,,Canal.,—,—,2,3,2200,220,—,Rio do Peixe.,—
+all_tables.pdf,34,tbl-96.md,2,,Aço doce.,60,5,20,12,6600,220,—,Rio Alegre.,—
+all_tables.pdf,34,tbl-96.md,3,,Canal.,—,—,1,4,2300,220,1,Rio Santa Maria.,3000
+all_tables.pdf,34,tbl-96.md,4,,Aço.,900,10,42,—,30000,3000,2,Rio Fructeiras.,—
+all_tables.pdf,34,tbl-96.md,5,,Canal.,—,—,4,6,2200,220,—,Rio Itapemirim.,—
+all_tables.pdf,34,tbl-96.md,6,,Canal.,—,—,1,1,110,110,—,Rio Vargem Grande.,—
+all_tables.pdf,34,tbl-96.md,7,,Canal.,—,—,6,2,2000,120,1,Rio Iconha.,—
+all_tables.pdf,34,tbl-96.md,8,,Aço.,1100,10,25,32,20000,2000,1,Rio Jucú.,—
+all_tables.pdf,34,tbl-96.md,9,,Ferro batido.,500,3,1,1,220,220,—,Rio Timbohy.,—
+all_tables.pdf,34,tbl-96.md,10,,Chapas de aço.,997,12,31,3,6600,220,2,Rio Muquy do Sul.,—
+all_tables.pdf,34,tbl-97.md,1,,Ferro.,550,12,9,7,11000,220,1,Corrego Ceroulas.,—
+all_tables.pdf,36,tbl-101.md,1,,Ferro e madeira...,-,-,1,4,220,220,-,Rio Sant'Anna.,-
+all_tables.pdf,36,tbl-101.md,2,,Chapas de aço...,800,18,13,10,10000,2200,1,Rio Pissarrão.,-
+all_tables.pdf,36,tbl-101.md,3,,Ferro...,1000,10,11,40,3300,110,1,Rio Tamanduá.,-
+all_tables.pdf,36,tbl-101.md,4,,Aço...,1800,20,14,-,16000,220,1,Rio das Mortes.,-
+all_tables.pdf,36,tbl-101.md,5,,Chapas de ferro...,750,8,12,4,4400,220,1,Rio Piranga.,-
+all_tables.pdf,36,tbl-101.md,6,,Ferro batido...,-,-,2,2,110,110,-,Ribeirão Assumpção.,-
+all_tables.pdf,36,tbl-101.md,7,,Aço doce...,500,6,4,6,3200,220,1,Ribeirão Caethé.,-
+all_tables.pdf,36,tbl-101.md,8,,Ferro batido...,1000,6,58,-,11400,220,1,Rio Verde.,-
+all_tables.pdf,36,tbl-101.md,9,,Aço...,1000,7,18,17,11000,220,1,Correço Palmella.,-
+all_tables.pdf,36,tbl-101.md,10,,Ferro batido...,-,-,4,8,3000,120,1,Correço da Cachoeira.,-
+all_tables.pdf,36,tbl-101.md,11,,Canal...,-,-,9,-,220,110,1,Ribeirão Araras.,-
+all_tables.pdf,36,tbl-101.md,12,,Aço...,1800,15,200,120,4000,4000,1,Rio Carangola.,-
+all_tables.pdf,36,tbl-101.md,13,,Aço...,300,-,6,4,2300,120,1,Rio Lage.,-
+all_tables.pdf,36,tbl-101.md,14,,Aço...,400,20,27,50,11000,110,-,Rio Santa Quiteria.,-
+all_tables.pdf,36,tbl-101.md,15,,Ferro batido...,900,4,12,-,5600,220,1,Ribeirão das Furnas.,-
+all_tables.pdf,36,tbl-101.md,16,,Ferro batido...,230,2,1,3,3000,220,-,Rio do Bóde.,-
+all_tables.pdf,36,tbl-101.md,17,,Chapas de aço...,600,2,10,3,4000,110,-,Correço Lambaryzinho.,-
+all_tables.pdf,36,tbl-101.md,18,,Aço...,1000,5,1,1,270,220,-,Ribeirão Santo Antonio.,80000
+all_tables.pdf,36,tbl-101.md,19,,Chapas de ferro...,500,6,11,10,10000,220,1,Rio Santa Maria.,1000
+all_tables.pdf,38,tbl-104.md,1,,Aço.,650,6,2,1,220,220,—,Ribeirão Chiqueiro.,—
+all_tables.pdf,38,tbl-104.md,2,,Cimento.,600,50,9,10,6600,220,—,Rio São Pedro.,64
+all_tables.pdf,38,tbl-104.md,3,,—,—,—,3,3,2100,110,1,Rio Camapuam.,—
+all_tables.pdf,38,tbl-104.md,4,,Aço.,750,4,2,—,2200,110,1,Rios Formiga e Matacavallos.,—
+all_tables.pdf,38,tbl-104.md,5,,—,—,—,18,3,6000,220,—,Ribeirão do Maribondo.,—
+all_tables.pdf,38,tbl-104.md,6,,Aço.,1000,7,6,16,6600,110,1,Rio Canôas.,600000
+all_tables.pdf,38,tbl-104.md,7,,Aço.,600,7,4,12,6600,110,—,Rio Muzambinho.,400000
+all_tables.pdf,38,tbl-104.md,8,,Ferro fundido.,1500,6,34,70,15000,4000,2,Rio Lourenço Velho.,4000
+all_tables.pdf,38,tbl-104.md,9,,Chapas de ferro.,400,4,10,10,6600,2200,1,Rio Cafôfo.,150
+all_tables.pdf,38,tbl-104.md,10,,Aço.,500,3,4,15,5000,220,2,Rio São João.,—
+all_tables.pdf,38,tbl-104.md,11,,Ferro batido.,500,5,18,4,11000,110,1,Rio São João.,—
+all_tables.pdf,38,tbl-104.md,12,,Aço.,800,5,50,6,11000,220,—,Rio Sant'Anna.,—
+all_tables.pdf,38,tbl-104.md,13,,Ferro batido.,800,12,1,5,2000,120,—,Rio Camanducaia.,—
+all_tables.pdf,38,tbl-104.md,14,,Ferro fundido.,1500,6,28,—,6600,220,—,Rio Parahybuna.,—
+all_tables.pdf,38,tbl-104.md,15,,Aço laminado.,800,9,24,12,10000,3000,1,Rio Cervo.,—
+all_tables.pdf,38,tbl-104.md,16,,Aço.,1960,4,490,300,22000,2000,11,Rio Novo.,5000
+all_tables.pdf,38,tbl-104.md,17,,Alvenaria.,2000,1000,3,—,6600,220,—,Rio Pomba.,3000
+all_tables.pdf,38,tbl-104.md,18,,Aço.,750,7,41,50,10000,2200,2,Rio Preto.,—
+all_tables.pdf,40,tbl-107.md,1,,Aço.,500,10,9,5,10000,220,-,Rio Brumado.,-
+all_tables.pdf,40,tbl-107.md,2,,Aço.,400,4,3,5,2200,220,1,Rio Carmo.,-
+all_tables.pdf,40,tbl-107.md,3,,Aço.,250,4,,,220,,,,
+all_tables.pdf,40,tbl-107.md,4,,Ferro.,1000,12,54,-,10500,220,1,Ribeirão Pinheirinho.,14000
+all_tables.pdf,40,tbl-107.md,5,,Aço.,800,5,20,5,10000,2000,1,Rio Jacaré.,-
+all_tables.pdf,40,tbl-107.md,6,,Ferro batido.,700,10,34,-,5000,220,1,Ribeirão São Paulo.,-
+all_tables.pdf,40,tbl-107.md,7,,Ferro batido.,1225,7,123,135,10500,220,1,Rio Dourado.,5000
+all_tables.pdf,40,tbl-107.md,8,,Ferro batido.,2500,8,150,185,10000,220,1,Rio Verde.,-
+all_tables.pdf,40,tbl-107.md,9,,Ferro batido.,-400,3,50,76,10000,220,1,Ribeirão Vermelho.,-
+all_tables.pdf,40,tbl-107.md,10,,Aço.,-,-,47,-,45000,220,1,"Rio de Pedras, Rio das Velhas e Rio Maracujá.",-
+all_tables.pdf,40,tbl-107.md,11,,Aço.,1000,6,3,15,2300,220,1,Rio Funil.,100
+all_tables.pdf,40,tbl-107.md,12,,Aço.,1200,6,16,-,25000,-,1,Rio Pinho ou Formoso.,-
+all_tables.pdf,40,tbl-107.md,13,,Ferro.,200,3,14,4,5000,220,1,Rio Passa Quatro.,25
+all_tables.pdf,40,tbl-107.md,14,,-,-,-,12,9,6600,110,1,Ribeirão da Matta.,-
+all_tables.pdf,40,tbl-107.md,15,,Ferro.,600,6,7,6,6600,110,1,Ribeirão dos Coelhos.,-
+all_tables.pdf,40,tbl-107.md,16,,Canal.,-,-,2,10,110,110,-,Rio São Francisco.,-
+all_tables.pdf,42,tbl-110.md,1,,Canal.,-,-,9,10,5000,220,2,Rio Pará.,-
+all_tables.pdf,42,tbl-110.md,2,,Ferro e cimento.,800,20,34,8,6600,110,1,Ribeirão das Araras.,-
+all_tables.pdf,42,tbl-110.md,3,,Chapas de aço.,930,6,5,20,2300,110,1,Rio das Antas.,-
+all_tables.pdf,42,tbl-110.md,4,,Aço e cimento.,-,-,12,6,10000,220,1,Rio Piranga.,-
+all_tables.pdf,42,tbl-110.md,5,,Ferro batido.,1400,8,29,18,15000,220,1,Rio Mogy.,120000
+all_tables.pdf,42,tbl-110.md,6,,Aço.,900,6,15,32,22000,3000,1,Ribeirão Pé do Morro.,-
+all_tables.pdf,42,tbl-110.md,7,,,600,,,,,220,,,
+all_tables.pdf,42,tbl-110.md,8,,Ferro.,250,7,2,3,250,250,-,Ribeirão Diogo de Oliveira.,240000
+all_tables.pdf,42,tbl-110.md,9,,Ferro batido.,800,5,4,7,6000,220,-,Correço do Bananal.,-
+all_tables.pdf,42,tbl-110.md,10,,-,-,-,4,9,4000,120,-,Rio Sabará.,-
+all_tables.pdf,42,tbl-110.md,11,,Aço.,800,5,12,4,6000,220,1,Rio Vermelho.,-
+all_tables.pdf,42,tbl-110.md,12,,Ferro.,800,20,13,8,10500,220,1,Ribeirão Borá.,11
+all_tables.pdf,42,tbl-110.md,13,,-,-,-,1,-,220,220,1,Ribeirão da Matta.,-
+all_tables.pdf,42,tbl-110.md,14,,Aço.,550,4,4,4,6000,220,-,Ribeirão Betim.,5
+all_tables.pdf,42,tbl-110.md,15,,Ferro fundido.,610,5,36,20,22000,3000,1,Rio Turvo.,800
+all_tables.pdf,42,tbl-110.md,16,,Ferro.,600,5,4,6,2200,120,1,Ribeirão dos Borges.,6
+all_tables.pdf,42,tbl-110.md,17,,Ferro.,400,10,2,2,5100,220,1,Rio Prata.,20
+all_tables.pdf,44,tbl-114.md,1,,Ferro fundido...,600,3,1,7,220,220120,-,Correço Confusão...,-
+all_tables.pdf,44,tbl-114.md,2,,-,500,8,3,9,3000,220110,-,Rio Angú...,-
+all_tables.pdf,44,tbl-114.md,3,,Chapas de ferro...,600,12,7,70,6000,220120,1,Rio dos Aventureiros...,-
+all_tables.pdf,44,tbl-114.md,4,,Ferro fundido...,1000,20,18,13,5000,220,3,Correço do Carmo...,-
+all_tables.pdf,44,tbl-114.md,5,,Aço...,105,10,11,72,6600,1000110,1,Rio Carandahy...,-
+all_tables.pdf,44,tbl-114.md,6,,Ferro...,800,3,9,8,6000,110,1,Rio Tapanhús...,-
+all_tables.pdf,44,tbl-114.md,7,,Chapas de ferro...,1250,20,6,25,4000,220,-,Rio Uberabinha...,-
+all_tables.pdf,44,tbl-114.md,8,,Ferro...,-,-,4,(1),110,(1)110,-,Rio Turvo Sujo...,-
+all_tables.pdf,44,tbl-114.md,9,,-,-,-,7,-,6600,110,-,Correço Grande ou Bagre...,-
+all_tables.pdf,44,tbl-114.md,10,,Aço...,800,4,,,30000,5000,1,Rio do Peixe...,4100000
+all_tables.pdf,44,tbl-114.md,11,,,1020,8,50,68,15000,380,,Rio de Veiga...,
+all_tables.pdf,44,tbl-114.md,12,,,1090,10,,,5000,220,,Rio de Veiga dos Macacos...,
+all_tables.pdf,44,tbl-114.md,13,,,1120,,,,,,,Rio de Veiga dos Crystaes...,
+all_tables.pdf,44,tbl-114.md,14,,,,,,,,,,Rio de Veiga do Retiro...,
+all_tables.pdf,44,tbl-114.md,15,,Ferro...,300,2,10,5,2200,110,1,Rio de Veiga Cardoso...,-
+all_tables.pdf,44,tbl-114.md,16,,Madeira...,-,-,3,4,2200,10,1,Rio Conquista ou das Almas...,-
+all_tables.pdf,46,tbl-121.md,1,,Ferro e cimento.,500,9,16,18,2000,120,3,Rio Camuçá.,500
+all_tables.pdf,46,tbl-121.md,3,Paraná,-,-,-,-,2,-,220,-,Rio Irahyzinho.,10000
+all_tables.pdf,46,tbl-121.md,4,Paraná,Ferro.,800,20,12,4,5000,110,1,Rio do Salto.,40
+all_tables.pdf,46,tbl-121.md,5,Paraná,Aço.,600,20,16,20,11000,220,1,Rio Miranda.,-
+all_tables.pdf,46,tbl-121.md,6,Paraná,-,300,10,16,20,11000,110,1,Rio Miranda.,-
+all_tables.pdf,46,tbl-121.md,7,Paraná,-,-,-,-,4,-,220,-,Ribeirão Pirahy.,4000
+all_tables.pdf,46,tbl-121.md,8,Paraná,Aço.,900,7,8,17,10000,220,1,Rio Pitanguy.,-
+all_tables.pdf,46,tbl-121.md,9,Paraná,Aço.,550,5,7,-,3200,120,1,Rio dos Patos.,-
+all_tables.pdf,46,tbl-121.md,10,Paraná,Madeira.,440,50,1,-,220,220,-,Ribeirão da Pescaria.,-
+all_tables.pdf,46,tbl-121.md,12,Pernambuco,-,-,-,-,-,-,220,-,,-
+all_tables.pdf,46,tbl-121.md,14,Rio de Janeiro,Ferro fundido.,600,7,31,6,13200,2300,1,Ribeirão do Quirino.,-
+all_tables.pdf,46,tbl-121.md,15,Rio de Janeiro,Ferro batido.,400,3,6,4,3300,220,1,Rio da Bocaina.,-
+all_tables.pdf,46,tbl-121.md,16,Rio de Janeiro,Aço e cimento.,450,3,19,-,2200,220,4,Rio Grande.,1600
+all_tables.pdf,46,tbl-121.md,17,Rio de Janeiro,Ferro.,400,3,18,12,6600,220,3,Rio Negro.,-
+all_tables.pdf,46,tbl-121.md,18,Rio de Janeiro,Chapas de ferro.,500,4,39,8,11000,220,2,Rio Negro.,60
+all_tables.pdf,46,tbl-121.md,19,Rio de Janeiro,Ferro batido.,800,3,1,6,3000,220,1,Rio Emboque.,-
+all_tables.pdf,48,tbl-125.md,2,Rio de Janeiro,Nature du matériel employé,DiametrodostubosM/m,EspessuraM/m,Detrans-missãoDetrans-mission,Dedistri-buçãoDedistri-bution,Detrans-missãoDetrans-mission,Dedistri-buçãoDedistri-bution,,,
+all_tables.pdf,48,tbl-126.md,1,Rio de Janeiro,Ferro.,400,3,3,3,1500,220,1,Rio Negro.,-
+all_tables.pdf,48,tbl-126.md,2,Rio de Janeiro,Ferro.,900,15,7,50,5000,220,1,Rio Santo Antonio.,-
+all_tables.pdf,48,tbl-126.md,3,Rio de Janeiro,Aço.,2500,20,98,-,44000,220,1,Rios Piabanha e Fagundes,2000
+all_tables.pdf,48,tbl-126.md,4,Rio de Janeiro,Madeira.,-,-,120,62,30000,220,1,Rio Parahybuna.,-
+all_tables.pdf,48,tbl-126.md,5,Rio de Janeiro,Aço.,2450,10,81,7474,88000,217,3,Rio Pirahy.,192000000
+all_tables.pdf,48,tbl-126.md,6,Rio de Janeiro,Canal.,-,-,6,22,2200,216,2,Rio Piqué-assé.,-
+all_tables.pdf,48,tbl-126.md,7,Rio de Janeiro,Canal.,-,-,200,100,15750,220,1,Rio Muriahé.,-
+all_tables.pdf,48,tbl-126.md,8,Rio de Janeiro,Aço.,450,3,1,1,120,120,-,Ribeirão das Neves.,-
+all_tables.pdf,48,tbl-126.md,9,Rio de Janeiro,Ferro.,800,16,2,2,220,220,-,Rio Paquequer.,-
+all_tables.pdf,48,tbl-127.md,1,Rio de Janeiro,Aço.,500,6,-,5,-,220,-,Rio Retiro.,-
+all_tables.pdf,48,tbl-127.md,2,Rio de Janeiro,Ferro.,1100,15,14,13,10000,220,2,Arroio Ingles.,120000
+all_tables.pdf,48,tbl-127.md,3,Rio de Janeiro,Ferro.,500,6,6,24,3300,220,1,Arroio Estrella.,-
+all_tables.pdf,48,tbl-127.md,4,Rio de Janeiro,-,-,-,1,1,1250,220,-,Arroio da Sella.,-
+all_tables.pdf,48,tbl-127.md,5,Rio de Janeiro,Ferro.,700,6,21,22,10000,220,-,Rio Taquary.,9000
+all_tables.pdf,48,tbl-127.md,6,Rio de Janeiro,-,-,-,-,1,-,250,-,-,-
+all_tables.pdf,48,tbl-127.md,7,Rio de Janeiro,Ferro e cimento.,800,15,30,30,5250,220,8,Arroio Feitoria.,-
+all_tables.pdf,50,tbl-132.md,1,Rio de Janeiro,Water-castle,-,-,130,43,220008500,220,6,Rio Itajahy-assú.,-
+all_tables.pdf,50,tbl-132.md,2,Rio de Janeiro,Canal,-,-,3,3,220,220,-,Rio Turvo.,3000
+all_tables.pdf,50,tbl-132.md,3,Rio de Janeiro,Ferro,650,10,17,35,11000,400200,1,Rio Imaroim.,11000
+all_tables.pdf,50,tbl-132.md,4,Rio de Janeiro,Aço,500,168,17,34,20000,220,1,Rio Pirahy.,3000
+all_tables.pdf,50,tbl-132.md,5,Rio de Janeiro,-,-,-,18,-,10000,214,-,-,-
+all_tables.pdf,50,tbl-132.md,6,Rio de Janeiro,Ferro,1000800750,3,15,30,60002000,2000220,2,Rio São Lourenço.,10000
+all_tables.pdf,50,tbl-132.md,7,Rio de Janeiro,-,-,-,5,5,220,220110,-,Ribeirão Alferes.,-
+all_tables.pdf,50,tbl-132.md,8,Rio de Janeiro,Ferro e cimento,900,18,7,4,3600,220,1,Rio Humboldt ou Vermelho,-
+all_tables.pdf,50,tbl-132.md,9,Rio de Janeiro,Canal,-,-,1,-,220,220,-,Rio Urussanga.,-
+all_tables.pdf,50,tbl-133.md,1,Rio de Janeiro,Ferro,1000800,7,12,180,187506000,2200220110,4,Ribeirão do Chibarro.,40000
+all_tables.pdf,50,tbl-133.md,2,Rio de Janeiro,Ferro,2800,5,32,-,30000,6000220,3,Rio Jacaré-guassú.,-
+all_tables.pdf,50,tbl-133.md,3,Rio de Janeiro,-,-,-,32,-,30000,6000220,5,Rio Jahú.,-
+all_tables.pdf,50,tbl-133.md,4,Rio de Janeiro,Aço,600,8,38,-,10000,110,1,Rio Novo.,-
+all_tables.pdf,50,tbl-133.md,5,Rio de Janeiro,Ferro,250,20,9,-,1800,110,1,Rio Bananal.,-
+all_tables.pdf,50,tbl-133.md,6,Rio de Janeiro,Ferro,650,15,15,15,6000,120,1,Ribeirão Batataes.,-
+all_tables.pdf,50,tbl-133.md,7,Rio de Janeiro,Ferro,900,5,27,14,6000,205120,1,Corrego Bebedouro.,600000
+all_tables.pdf,52,tbl-137.md,1,Rio de Janeiro,-,-,-,12,15,6000,220,1,Rio Pardo.,-
+all_tables.pdf,52,tbl-137.md,2,Rio de Janeiro,-,-,-,3,18,15000,220,3,Rio Jahú.,-
+all_tables.pdf,52,tbl-137.md,3,Rio de Janeiro,Ferro.,1000,6,30,72,11000,220,3,Rio Lenções.,-
+all_tables.pdf,52,tbl-137.md,4,Rio de Janeiro,-,-,-,160,150,30000,220,1,Rio Tieté.,-
+all_tables.pdf,52,tbl-137.md,5,Rio de Janeiro,Aço.,1800,8,16,45,22500,8000,4,Rio Jaguary.,300
+all_tables.pdf,52,tbl-137.md,6,Rio de Janeiro,Aço.,2000,8,,,13000,200,,,800
+all_tables.pdf,52,tbl-137.md,7,Rio de Janeiro,,,,,,8000,114,,,
+all_tables.pdf,52,tbl-137.md,8,Rio de Janeiro,Aço.,-,-,48,53,15000,220,2,Rio Jacaré-pepira.,-
+all_tables.pdf,52,tbl-137.md,9,Rio de Janeiro,-,-,-,2,3,220,220,-,Rio Ferrão.,-
+all_tables.pdf,52,tbl-137.md,10,Rio de Janeiro,Ferro.,600,20,30,20,6000,110,-,Ribeirão Guaxinduha.,12000
+all_tables.pdf,52,tbl-137.md,11,Rio de Janeiro,Aço.,1000,5,24,250,6000,220,2,Arroio do Bravo.,-
+all_tables.pdf,52,tbl-137.md,12,Rio de Janeiro,Aço.,1600,7,5,9,6600,110,1,Rio Pardo.,-
+all_tables.pdf,52,tbl-137.md,13,Rio de Janeiro,Aço.,2004,12,18,-,11000,2080,4,Rio Atibaia.,1600
+all_tables.pdf,52,tbl-137.md,14,Rio de Janeiro,Aço.,2010,14,20,-,,230,,Rio Jaguary.,-
+all_tables.pdf,52,tbl-137.md,15,Rio de Janeiro,,,,,,115,,,,
+all_tables.pdf,52,tbl-137.md,16,Rio de Janeiro,Aço.,2200,7,40,30,20000,220,6,Rio Atibaia.,-
+all_tables.pdf,52,tbl-137.md,17,Rio de Janeiro,,,,,,8000,,,,
+all_tables.pdf,52,tbl-137.md,18,Rio de Janeiro,Aço.,750,6,26,11,6500,220,2,Rio Congonhas.,200
+all_tables.pdf,52,tbl-137.md,19,Rio de Janeiro,,,,,,,110,,,
+all_tables.pdf,52,tbl-137.md,20,Rio de Janeiro,Aço.,2300,15,85,37,6000,2000,2,Rio Mogy-Guassú.,-
+all_tables.pdf,52,tbl-137.md,21,Rio de Janeiro,,,,,,,220,,,
+all_tables.pdf,52,tbl-137.md,22,Rio de Janeiro,,,,,,,110,,,
+all_tables.pdf,54,tbl-141.md,1,Rio de Janeiro,Ferro,390,5,95,50,33000,220,5,Rio Apiahy,-
+all_tables.pdf,54,tbl-141.md,2,Rio de Janeiro,Ferro,900,20,6,8,6600,110,,,
+all_tables.pdf,54,tbl-141.md,3,Rio de Janeiro,Aço,914,10,22,24,5250,220,-,Rio Putim,-
+all_tables.pdf,54,tbl-141.md,4,Rio de Janeiro,,,6,,,,220,1,Rio Piaguy,4000
+all_tables.pdf,54,tbl-141.md,5,Rio de Janeiro,,,3,,,,220,,,
+all_tables.pdf,54,tbl-141.md,6,Rio de Janeiro,Aço,650,10,75,350,30000,6000,14,Ribeirão Bandeira,-
+all_tables.pdf,54,tbl-141.md,7,Rio de Janeiro,,,5,55,,,2200,,Rio Sapucahy,-
+all_tables.pdf,54,tbl-141.md,8,Rio de Janeiro,Aço,2730,5,55,350,220,220,,,
+all_tables.pdf,54,tbl-141.md,9,Rio de Janeiro,,2070,6,,,,220,,,
+all_tables.pdf,54,tbl-141.md,10,Rio de Janeiro,Ferro,1000,12,54,15,22000,2000,1,Rio Turvinho,-
+all_tables.pdf,54,tbl-141.md,11,Rio de Janeiro,,,,,,,220,,,
+all_tables.pdf,54,tbl-141.md,12,Rio de Janeiro,-,-,-,27,-,5250,220,1,Rio São Lourenço,450000
+all_tables.pdf,54,tbl-141.md,13,Rio de Janeiro,-,-,-,3,-,5300,220,1,Rio Fartura,-
+all_tables.pdf,54,tbl-141.md,14,Rio de Janeiro,Aço,1500,6,3,-,5300,220,1,Rio do Peixe,-
+all_tables.pdf,54,tbl-141.md,15,Rio de Janeiro,Ferro,2300,6,3,8,3000,220,-,Rio Tres Barras,-
+all_tables.pdf,54,tbl-141.md,16,Rio de Janeiro,,,,,,,220,,,
+all_tables.pdf,54,tbl-141.md,17,Rio de Janeiro,Ferro,-,-,75,89,30000,220,3,Corrego Rico,-
+all_tables.pdf,54,tbl-141.md,18,Rio de Janeiro,,,,,,6000,110,,,
+all_tables.pdf,54,tbl-141.md,19,Rio de Janeiro,Ferro,660,6,6,3,2000,110,-,Ribeirão da Moenda,-
+all_tables.pdf,54,tbl-141.md,20,Rio de Janeiro,Ferro,600,5,9,7,3800,125,-,Corrego Itahim,-
+all_tables.pdf,54,tbl-141.md,21,Rio de Janeiro,,,,,,,2000,,,
+all_tables.pdf,54,tbl-141.md,22,Rio de Janeiro,-,-,-,42,22,10000,220,3,Rio Mogy-Guassú,-
+all_tables.pdf,54,tbl-141.md,23,Rio de Janeiro,,,,,,,110,,,
+all_tables.pdf,54,tbl-141.md,24,Rio de Janeiro,Ferro,500,5,8,4,4000,120,-,Ribeirão Itapéra,37000
+all_tables.pdf,56,tbl-145.md,1,Rio de Janeiro,Aço,36584572,1195,30,2422,8800040000,2300,(2),Rio Tieté,202000000
+all_tables.pdf,56,tbl-145.md,2,Rio de Janeiro,Aço,17301500,2010,63,192,8800024000,2080,(2),Rio Sorocaba,23008200
+all_tables.pdf,56,tbl-145.md,3,Rio de Janeiro,Aço,750,5,80,50,16500,220110,1,Rio Esmeril,—
+all_tables.pdf,56,tbl-145.md,4,Rio de Janeiro,Aço,530,10,3,3,2000,220114,—,Rio Cutiano,80000
+all_tables.pdf,56,tbl-145.md,5,Rio de Janeiro,Aço,2600,8,50,5,30000,2000,1,Rio Turvo,—
+all_tables.pdf,56,tbl-145.md,6,Rio de Janeiro,Aço,500400,256,100,37,30000,220110,4,Corrego Saccatrapó,400000
+all_tables.pdf,56,tbl-145.md,7,Rio de Janeiro,Aço,14001300,7,6,5,4000,200,—,Rio Cachoeira,—
+all_tables.pdf,56,tbl-145.md,8,Rio de Janeiro,Ferro,2500,6,—,35,4000,2300110,—,Rio Piracicaba,—
+all_tables.pdf,56,tbl-145.md,9,Rio de Janeiro,Aço,500,5,12,10,5050,100,1,Ribeirão do Bebedouro,2000
+all_tables.pdf,56,tbl-145.md,10,Rio de Janeiro,—,—,—,90,200,120004500,220120,2,Rio Corumbatahy,—
+all_tables.pdf,56,tbl-145.md,11,Rio de Janeiro,—,—,—,—,—,—,—,—,Rio Mogy-Guassú,—
+all_tables.pdf,56,tbl-145.md,12,Rio de Janeiro,Aço,1000,5,84,16,11000,220,1,Rio Tietê,25000000
+all_tables.pdf,58,tbl-149.md,1,Rio de Janeiro,Alvenaria,-,-,40,22,6600,220,1,Rio Tieté,-
+all_tables.pdf,58,tbl-149.md,2,Rio de Janeiro,-,-,-,24,9,2200,110,-,Rio Pardo,-
+all_tables.pdf,58,tbl-149.md,3,Rio de Janeiro,Ferro,1000,10,1,6,10000,220,-,-,-
+all_tables.pdf,58,tbl-149.md,4,Rio de Janeiro,Ferro,800,15,40,300,2000,110,-,Rio Claro,1000000
+all_tables.pdf,58,tbl-149.md,5,Rio de Janeiro,-,-,-,60,-,8500,220,1,Rio Pardo,-
+all_tables.pdf,58,tbl-149.md,6,Rio de Janeiro,Aço,900,32,28,53,8000,220,1,Rio Itatinga,-
+all_tables.pdf,58,tbl-149.md,7,Rio de Janeiro,,800,26,,,,110,,,
+all_tables.pdf,58,tbl-149.md,8,Rio de Janeiro,,700,23,,,,110,,,
+all_tables.pdf,58,tbl-149.md,9,Rio de Janeiro,,600,16,,,,110,,,
+all_tables.pdf,58,tbl-149.md,10,Rio de Janeiro,Aço,1100,5,72,368,10000,220,3,Rios Quilombo e Negrão,5356000
+all_tables.pdf,58,tbl-149.md,11,Rio de Janeiro,Aço,600,4,5,,2000,110,,Rio Monjolinho,-
+all_tables.pdf,58,tbl-149.md,12,Rio de Janeiro,-,-,-,1,72,8000,220,4,Rio Taquary-mirim,-
+all_tables.pdf,58,tbl-149.md,13,Rio de Janeiro,Ferro,350,4,4,4,6600,120,1,Rio Cachoeira,-
+all_tables.pdf,58,tbl-149.md,14,Rio de Janeiro,Ferro,600,6,20,-,6000,220,-,Rio Turvo,-
+all_tables.pdf,58,tbl-149.md,15,Rio de Janeiro,Ferro,1000,5,14,10,2200,220,-,Rio do Peixe,20000
+all_tables.pdf,58,tbl-149.md,16,Rio de Janeiro,Ferro,2000,8,93,57,22000,2000,3,Rio Sorocaba,-
+all_tables.pdf,58,tbl-149.md,17,Rio de Janeiro,-,-,-,18,-,6000,220,1,Rio Sorocaba,-
+all_tables.pdf,58,tbl-149.md,18,Rio de Janeiro,Cimento,-,-,2,4,120,120,-,Cachoeira Nossa Senhora da Aluda,-

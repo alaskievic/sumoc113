@@ -1,0 +1,71 @@
+{
+  "source": "/Users/alaskievic/Desktop/missing_rj_1980.pdf",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 484222
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 4,
+        "markdown": "IX RICENSEAMENTO GERAL - 1980\n\n2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICROPREGIMES, MUNICIPIOS E GÉNEROS DE INDÚSTRIA\n\n[tbl-0.html](tbl-0.html)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-0.html",
+            "content": "<table><tr><td>NUM.</td><td>DE</td><td>MICROREGIDOS, MUNICIPIOS</td><td>E GÉNEROS DE INDÚSTRIA</td></tr><tr><td>N.</td><td>N</td><td>N</td><td>1980</td></tr><tr><td>DEM</td><td>DE</td><td>MICROREGIDOS, MUNICIPIOS</td><td>E GÉNEROS DE INDÚSTRIA</td></tr><tr><td>713</td><td>UNIDADES AUXILIARES ADMINISTRATIVAS (3)</td><td>21</td><td>659</td></tr><tr><td>714</td><td>PARAGAMBI</td><td>38</td><td>1 546</td></tr><tr><td>715</td><td>EXTRACAO DE MINERAIS</td><td>6</td><td>31</td></tr><tr><td>716</td><td>TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS</td><td>3</td><td>64</td></tr><tr><td>717</td><td>METALURSICA</td><td>2</td><td>(8)</td></tr><tr><td>718</td><td>MICANICA</td><td>2</td><td>(8)</td></tr><tr><td>719</td><td>TEXTIL</td><td>6</td><td>993</td></tr><tr><td>720</td><td>VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS</td><td>4</td><td>200</td></tr><tr><td>721</td><td>PRODUTOS ALIMENTARES</td><td>12</td><td>54</td></tr><tr><td>722</td><td>EDITORIAL E GRAFICA</td><td>2</td><td>(8)</td></tr><tr><td>723</td><td>DIVERSAS</td><td>1</td><td>(8)</td></tr><tr><td>724</td><td>UNIDADES AUXILIARES ADMINISTRATIVAS (3)</td><td>2</td><td>(8)</td></tr><tr><td>725</td><td>SÃO GONCALO</td><td>622</td><td>14 361</td></tr><tr><td>726</td><td>EXTRACAO DE MINERAIS</td><td>7</td><td>71</td></tr><tr><td>727</td><td>TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS</td><td>79</td><td>1 287</td></tr><tr><td>728</td><td>METALURSICA</td><td>41</td><td>1 454</td></tr><tr><td>729</td><td>MICANICA</td><td>24</td><td>1 065</td></tr><tr><td>730</td><td>MATERIAL ELÉTRICO E DE COMUNICACIONES</td><td>6</td><td>523</td></tr><tr><td>731</td><td>MATERIAL DE TRANSPORTE</td><td>7</td><td>190</td></tr><tr><td>732</td><td>MADEIRA</td><td>9</td><td>279</td></tr><tr><td>733</td><td>MOBILIARIO</td><td>49</td><td>459</td></tr><tr><td>734</td><td>PAPEL E PAPELÃO</td><td>11</td><td>523</td></tr><tr><td>735</td><td>BORRACHA</td><td>1</td><td>(8)</td></tr><tr><td>736</td><td>COUROS E PELES E PRODUTOS SIMILARES, E ARTEFATOS DE SELARIA E CORREARIA, PARA VIAGEM E USO PESSOAL - EXCLUSIVE CALCADOS E ARTIGOS DO VESTUARIO</td><td>2</td><td>(8)</td></tr><tr><td>737</td><td>QUEMICA</td><td>9</td><td>1 077</td></tr><tr><td>738</td><td>PRODUTOS FARMACOLÓTICOS E VETERINÁRIOS</td><td>4</td><td>610</td></tr><tr><td>739</td><td>PERFUMARIA, SABDES E VELAS</td><td>5</td><td>83</td></tr><tr><td>740</td><td>PRODUTOS DE MATERIAS PLASTICAS</td><td>10</td><td>509</td></tr><tr><td>741</td><td>VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS</td><td>70</td><td>1 370</td></tr><tr><td>742</td><td>PRODUTOS ALIMENTARES</td><td>223</td><td>3 863</td></tr><tr><td>743</td><td>BEBIDAS</td><td>6</td><td>135</td></tr><tr><td>744</td><td>EDITORIAL E GRAFICA</td><td>18</td><td>152</td></tr><tr><td>745</td><td>DIVERSAS</td><td>15</td><td>762</td></tr><tr><td>746</td><td>UNIDADES AUXILIARES DE APOIO OUTILIDADES E DE SERVIÇOS DE NATUREZA INDUSTRIAL</td><td>6</td><td>114</td></tr><tr><td>747</td><td>UNIDADES AUXILIARES ADMINISTRATIVAS (3)</td><td>4</td><td>46</td></tr><tr><td>748</td><td>SÃO JORO DE MERITI</td><td>423</td><td>5 266</td></tr><tr><td>749</td><td>TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS</td><td>18</td><td>233</td></tr><tr><td>750</td><td>METALURSICA</td><td>80</td><td>584</td></tr><tr><td>751</td><td>MICANICA</td><td>13</td><td>335</td></tr><tr><td>752</td><td>MATERIAL ELÉTRICO E DE COMUNICACIONES</td><td>12</td><td>158</td></tr><tr><td>753</td><td>MATERIAL DE TRANSPORTE</td><td>6</td><td>404</td></tr><tr><td>754</td><td>MADEIRA</td><td>11</td><td>90</td></tr><tr><td>755</td><td>MOBILIARIO</td><td>54</td><td>391</td></tr><tr><td>756</td><td>PAPEL E PAPELÃO</td><td>3</td><td>56</td></tr><tr><td>757</td><td>BORRACHA</td><td>3</td><td>61</td></tr><tr><td>758</td><td>COUROS E PELES E PRODUTOS SIMILARES, E ARTEFATOS DE SELARIA E CORREARIA, PARA VIAGEM E USO PESSOAL - EXCLUSIVE CALCADOS E ARTIGOS DO VESTUARIO</td><td>1</td><td>(8)</td></tr><tr><td>759</td><td>QUEMICA</td><td>9</td><td>97</td></tr><tr><td>760</td><td>PRODUTOS FARMACOLÓTICOS E VETERINÁRIOS</td><td>1</td><td>(8)</td></tr><tr><td>761</td><td>PERFUMARIA, SABDES E VELAS</td><td>4</td><td>29</td></tr><tr><td>762</td><td>PRODUTOS DE MATERIAS PLASTICAS</td><td>9</td><td>465</td></tr><tr><td>763</td><td>TEXTIL</td><td>1</td><td>(8)</td></tr><tr><td>764</td><td>VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS</td><td>26</td><td>437</td></tr><tr><td>765</td><td>PRODUTOS ALIMENTARES</td><td>134</td><td>1 065</td></tr><tr><td>766</td><td>BEBIDAS</td><td>3</td><td>33</td></tr><tr><td>767</td><td>EDITORIAL E GRAFICA</td><td>17</td><td>99</td></tr><tr><td>768</td><td>DIVERSAS</td><td>15</td><td>78</td></tr><tr><td>769</td><td>UNIDADES AUXILIARES DE APOIO OUTILIDADES E DE SERVIÇOS DE NATUREZA INDUSTRIAL</td><td>3</td><td>633</td></tr><tr><td>770</td><td>UNIDADES AUXILIARES ADMINISTRATIVAS (3)</td><td>6</td><td>52</td></tr><tr><td>771</td><td>CARO FRIO</td><td>305</td><td>4 505</td></tr><tr><td>772</td><td>ARARUAMA</td><td>100</td><td>975</td></tr><tr><td>773</td><td>EXTRACAO DE MINERAIS</td><td>42</td><td>194</td></tr><tr><td>774</td><td>TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS</td><td>16</td><td>317</td></tr><tr><td>775</td><td>METALURSICA</td><td>9</td><td>51</td></tr><tr><td>776</td><td>MATERIAL DE TRANSPORTE</td><td>1</td><td>531</td></tr><tr><td>777</td><td>MADEIRA</td><td>7</td><td>52</td></tr><tr><td>778</td><td>MOBILIARIO</td><td>2</td><td>(8)</td></tr><tr><td>779</td><td>QUEMICA</td><td>1</td><td>(8)</td></tr></table>",
+            "format": "html",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 98,
+          "height": 1016,
+          "width": 766
+        },
+        "confidence_scores": null,
+        "blocks": []
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 484222
+    }
+  },
+  "pages": [
+    {
+      "page": 5,
+      "markdown": "IX RICENSEAMENTO GERAL - 1980\n\n2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICROPREGIMES, MUNICIPIOS E GÉNEROS DE INDÚSTRIA\n\n[tbl-0.html](tbl-0.html)",
+      "lines": [
+        "IX RICENSEAMENTO GERAL - 1980",
+        "2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICROPREGIMES, MUNICIPIOS E GÉNEROS DE INDÚSTRIA",
+        "[tbl-0.html](tbl-0.html)"
+      ],
+      "dimensions": {
+        "dpi": 98,
+        "height": 1016,
+        "width": 766
+      },
+      "confidence_scores": null,
+      "tables": [
+        {
+          "id": "tbl-0.html",
+          "content": "<table><tr><td>NUM.</td><td>DE</td><td>MICROREGIDOS, MUNICIPIOS</td><td>E GÉNEROS DE INDÚSTRIA</td></tr><tr><td>N.</td><td>N</td><td>N</td><td>1980</td></tr><tr><td>DEM</td><td>DE</td><td>MICROREGIDOS, MUNICIPIOS</td><td>E GÉNEROS DE INDÚSTRIA</td></tr><tr><td>713</td><td>UNIDADES AUXILIARES ADMINISTRATIVAS (3)</td><td>21</td><td>659</td></tr><tr><td>714</td><td>PARAGAMBI</td><td>38</td><td>1 546</td></tr><tr><td>715</td><td>EXTRACAO DE MINERAIS</td><td>6</td><td>31</td></tr><tr><td>716</td><td>TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS</td><td>3</td><td>64</td></tr><tr><td>717</td><td>METALURSICA</td><td>2</td><td>(8)</td></tr><tr><td>718</td><td>MICANICA</td><td>2</td><td>(8)</td></tr><tr><td>719</td><td>TEXTIL</td><td>6</td><td>993</td></tr><tr><td>720</td><td>VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS</td><td>4</td><td>200</td></tr><tr><td>721</td><td>PRODUTOS ALIMENTARES</td><td>12</td><td>54</td></tr><tr><td>722</td><td>EDITORIAL E GRAFICA</td><td>2</td><td>(8)</td></tr><tr><td>723</td><td>DIVERSAS</td><td>1</td><td>(8)</td></tr><tr><td>724</td><td>UNIDADES AUXILIARES ADMINISTRATIVAS (3)</td><td>2</td><td>(8)</td></tr><tr><td>725</td><td>SÃO GONCALO</td><td>622</td><td>14 361</td></tr><tr><td>726</td><td>EXTRACAO DE MINERAIS</td><td>7</td><td>71</td></tr><tr><td>727</td><td>TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS</td><td>79</td><td>1 287</td></tr><tr><td>728</td><td>METALURSICA</td><td>41</td><td>1 454</td></tr><tr><td>729</td><td>MICANICA</td><td>24</td><td>1 065</td></tr><tr><td>730</td><td>MATERIAL ELÉTRICO E DE COMUNICACIONES</td><td>6</td><td>523</td></tr><tr><td>731</td><td>MATERIAL DE TRANSPORTE</td><td>7</td><td>190</td></tr><tr><td>732</td><td>MADEIRA</td><td>9</td><td>279</td></tr><tr><td>733</td><td>MOBILIARIO</td><td>49</td><td>459</td></tr><tr><td>734</td><td>PAPEL E PAPELÃO</td><td>11</td><td>523</td></tr><tr><td>735</td><td>BORRACHA</td><td>1</td><td>(8)</td></tr><tr><td>736</td><td>COUROS E PELES E PRODUTOS SIMILARES, E ARTEFATOS DE SELARIA E CORREARIA, PARA VIAGEM E USO PESSOAL - EXCLUSIVE CALCADOS E ARTIGOS DO VESTUARIO</td><td>2</td><td>(8)</td></tr><tr><td>737</td><td>QUEMICA</td><td>9</td><td>1 077</td></tr><tr><td>738</td><td>PRODUTOS FARMACOLÓTICOS E VETERINÁRIOS</td><td>4</td><td>610</td></tr><tr><td>739</td><td>PERFUMARIA, SABDES E VELAS</td><td>5</td><td>83</td></tr><tr><td>740</td><td>PRODUTOS DE MATERIAS PLASTICAS</td><td>10</td><td>509</td></tr><tr><td>741</td><td>VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS</td><td>70</td><td>1 370</td></tr><tr><td>742</td><td>PRODUTOS ALIMENTARES</td><td>223</td><td>3 863</td></tr><tr><td>743</td><td>BEBIDAS</td><td>6</td><td>135</td></tr><tr><td>744</td><td>EDITORIAL E GRAFICA</td><td>18</td><td>152</td></tr><tr><td>745</td><td>DIVERSAS</td><td>15</td><td>762</td></tr><tr><td>746</td><td>UNIDADES AUXILIARES DE APOIO OUTILIDADES E DE SERVIÇOS DE NATUREZA INDUSTRIAL</td><td>6</td><td>114</td></tr><tr><td>747</td><td>UNIDADES AUXILIARES ADMINISTRATIVAS (3)</td><td>4</td><td>46</td></tr><tr><td>748</td><td>SÃO JORO DE MERITI</td><td>423</td><td>5 266</td></tr><tr><td>749</td><td>TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS</td><td>18</td><td>233</td></tr><tr><td>750</td><td>METALURSICA</td><td>80</td><td>584</td></tr><tr><td>751</td><td>MICANICA</td><td>13</td><td>335</td></tr><tr><td>752</td><td>MATERIAL ELÉTRICO E DE COMUNICACIONES</td><td>12</td><td>158</td></tr><tr><td>753</td><td>MATERIAL DE TRANSPORTE</td><td>6</td><td>404</td></tr><tr><td>754</td><td>MADEIRA</td><td>11</td><td>90</td></tr><tr><td>755</td><td>MOBILIARIO</td><td>54</td><td>391</td></tr><tr><td>756</td><td>PAPEL E PAPELÃO</td><td>3</td><td>56</td></tr><tr><td>757</td><td>BORRACHA</td><td>3</td><td>61</td></tr><tr><td>758</td><td>COUROS E PELES E PRODUTOS SIMILARES, E ARTEFATOS DE SELARIA E CORREARIA, PARA VIAGEM E USO PESSOAL - EXCLUSIVE CALCADOS E ARTIGOS DO VESTUARIO</td><td>1</td><td>(8)</td></tr><tr><td>759</td><td>QUEMICA</td><td>9</td><td>97</td></tr><tr><td>760</td><td>PRODUTOS FARMACOLÓTICOS E VETERINÁRIOS</td><td>1</td><td>(8)</td></tr><tr><td>761</td><td>PERFUMARIA, SABDES E VELAS</td><td>4</td><td>29</td></tr><tr><td>762</td><td>PRODUTOS DE MATERIAS PLASTICAS</td><td>9</td><td>465</td></tr><tr><td>763</td><td>TEXTIL</td><td>1</td><td>(8)</td></tr><tr><td>764</td><td>VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS</td><td>26</td><td>437</td></tr><tr><td>765</td><td>PRODUTOS ALIMENTARES</td><td>134</td><td>1 065</td></tr><tr><td>766</td><td>BEBIDAS</td><td>3</td><td>33</td></tr><tr><td>767</td><td>EDITORIAL E GRAFICA</td><td>17</td><td>99</td></tr><tr><td>768</td><td>DIVERSAS</td><td>15</td><td>78</td></tr><tr><td>769</td><td>UNIDADES AUXILIARES DE APOIO OUTILIDADES E DE SERVIÇOS DE NATUREZA INDUSTRIAL</td><td>3</td><td>633</td></tr><tr><td>770</td><td>UNIDADES AUXILIARES ADMINISTRATIVAS (3)</td><td>6</td><td>52</td></tr><tr><td>771</td><td>CARO FRIO</td><td>305</td><td>4 505</td></tr><tr><td>772</td><td>ARARUAMA</td><td>100</td><td>975</td></tr><tr><td>773</td><td>EXTRACAO DE MINERAIS</td><td>42</td><td>194</td></tr><tr><td>774</td><td>TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS</td><td>16</td><td>317</td></tr><tr><td>775</td><td>METALURSICA</td><td>9</td><td>51</td></tr><tr><td>776</td><td>MATERIAL DE TRANSPORTE</td><td>1</td><td>531</td></tr><tr><td>777</td><td>MADEIRA</td><td>7</td><td>52</td></tr><tr><td>778</td><td>MOBILIARIO</td><td>2</td><td>(8)</td></tr><tr><td>779</td><td>QUEMICA</td><td>1</td><td>(8)</td></tr></table>",
+          "format": "html",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 5.993,
+  "remote_file_id": null
+}

@@ -1,0 +1,74 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+EEFELISIZIESFELSELEAASFESSELLRSACEEESSCAEASSEAAEFLERLLLASACECSELTEESLTAAFTELCLLAKCICASREISCASLTLASIACEENLLSTRALRASCLETAC SEAT
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO COMERCIAL DE 1980 E 1985
+EEESXEASEEEEASFERESECASEARELERATECREMEEELECASRREERRECAAEERESCLERTERESEASELCLRLALKSESSESCRRRACESEISSSECCEACLRERESSESRECLAR AA RRE AR TE
+N x *
+* 2 CENSO DE 1980 *
+* * *
+x * BEFSLAISCIIXESASEENALIEELATEASCEESRLASALEECELAASEEARECECALETLAA TAC ELIANA
+* = * PESSOAL OCUPADO . *
+z * * . = ANO DE 1980 *
+NUM, + Ed * EM 31-12-1880 * x
+E a MEFSLESLAZEAASSSLCLAELEACACASCACAEEESEACESANSERESKCARKICEEAARAS RS EHAE
+* = s * , + =
+DE = MUNICIPIOS x *. * * . RECEITAS x
+* —..— z * * * SALARIOS, z x
+x - *NUMERO DE* + z Deh do dada dedo ddaddo dedão doddadaçdo had ehaçdo data doddo doida]
+OR- x * z * * RETIRADAS a * *
+* CLASSES E GENEROS DE COMERCIO sESTABELE-* * LIGADO A « Ed a *
+x * + * *"E OUTRAS 2 * VENDAS DE *
+DEM * *CIMENTOS + TOTAL * COMERCIA- = o * TOTAL x *
+> x x * . * REMUNERAÇÕES = * MERCADORIAS +
+* * x x LIZAÇAÃO = * + +
+x x + * * sz x s
+* x * * CRSFESCCRESACEREEARERASEREREEEEREERESRERRRRA
+* * * * * s
+* * * * , (MIL CRUZEIROS) *
+* * * : 2 z
+CECTLEGESEECESECXTARCEEERSECSATENKACESEEEEERCAAA EASTER TERESRALESSSSSREREA ERRA ESACEAS ESEC CATARATA
+553 BARBALHA... .iiciscccrrnecarerare rise rare Bo 187 67 6 898 17º 882 178 864
+584 BARRC....ccciciscrrrcr rece rerrerarerareva 32 66 18 4 869 76 237 75 227
+585 BATURITE.....cc css cr crsraranarrr renan wa 274 117 25 386 367 238 365 432
+586 BEBERIBE.......cccccec cicero as 86 17. 4 067 45 753 as 669
+587 BELA CRUZ.....cccccccreccraicrerararrrrrs 52 6a 17 6 287 73 170 73 020
+- s88 BOA VIAGEM. ......ccccliicre crise cererereo 150 427 124 59 279 591 376 591 12€
+- 588 BREJO SANTO....cccccccsccessrcrra raras 126 310 106 20 413 296 820 298 813
+590 CAMOCIM.......cccs ossec criscrarrariras 149 272 55 21 783 352 714 348 154
+591 CAMPOS SALES.,....cccccrisccrrrrerire rentes 128 : 284 51 16 471 285 895 282 645
+592 CANINDE,.....ccsc cce ccrc serraria rcrcacrero 325 728 207 52 496 605 783 604 304
+5s3 CAPISTRANO.......ccccs cce rs rara carrera 35 E7 21 3 706 37 936 37 936
+594 CARIDADE.......csccsess cce errera centros 33 60 153 3 127 38 744 38 444
+595 CARIRE.....cics cer cerrer re rarar rare servos 49 67 2 2137 23 849 23 733 .
+596 CARERIAÇU. erre ereerrerenee rece 22 40 1 2 824 20 188 +98 635
+587 CARIUS.....ciscssscr crer recair carrear 52 sg 14 5 524 38 478 38 476
+598 CARNAUBAL.....ccrcecrrra rear ererrrvesa 27 40 3 1 745 23 876 21 083
+sea CASCAVEL.....cicrccscercerrcararsertarerea 135 234 48 13 781 233 820 233 404
+600 CATARINA... cccrrrrecr errar rara rara rosas e3 107 - 5 508 46 990 46 859
+601 CEDRO......sscicccccaccri sr era cerne re ras 86 180 38 9 251 170 299 170 209
+602 CHAVAL,..clssc erre roncar runner erra 36 60 s 2 516 20 449 20 144
+603 COREAU,...cccces scenes cerne rerrarra 37 53 2 3 667 42 078 42 078
+604 CRATEUS.....cccrcccs rca serena ceras coro 463 1 054 366 54 797 1 013 490 1011 803
+605 CRATO.....cccccss cerne rrrarcrarrrroacs 394 1 457 750 113 944 4 973 075 4 954 698
+606 FARIAS BRITO.,......cocccsciciccrrarrrrra a 44 73 5 5 416 28 771 28 441
+607 FRECHEIRINHA.......crcscreresarrea cartas 17 33 12 2 630 28 995 29 995
+608 GENERAL SAMPAIO... ..ccciccsccrrrrrareasveso 14 24 4 958 13 345 13 345
+- 609 GRANJA.....cciccrcrrera err rr earrrsere rara 122 174 15 8 s22 158 304 157 725
+610 GRANJEIRO.....cscrcerre ca rarenarannerrecra 13 21 1 944 10 190 9 890
+611 GROAIRAS....ccccsccrs rr rena carona sus 44 8o 4 4 884 34 076 34 051
+612 GUARACIABA DO NORTE.......ccsisicscsarasos 84 153 13 5 062 102 515 99 933
+613 GUARAMIRANGA. ...seccrcrererrersrrar cerrada 9 16 - 822 5 583 5 593
+614 HIDROLANDIA.........ccrrccrccrrarasaarsras so 87 s 6 682 33 278 33 268
+615 IBIAPINA.....cccsccrcererararass caras sa 56 6 3 856 87 410 87 410
+616 ICO....csccslcsres so crrarcacerrasa scene sars 203 437 117 14 152 321 895 321 553
+617 IGUATU. .ccccccccr cce rrrarrnca sarna rear 517 1 583 613 118 618 2 777 844 2 772 527
+618 INDEPENDENCIA.........ccccrsciiisccsrarrads 146 291 44 16 799 191 668 188 211
+619 IPAUMIRIM...,,csccercrerc era rareerc serrana 8s - 180 25 10 901 190 120 187 437
+620 IPU...ccccciscs cc crreererarenara rara sas sos 135 234 47 8 763 201 119 195 566
+621 IPUEIRAS.....cccccclerrce cre sererssaresavs 87 124 s 11 208 102 896 102 BO6
+622 IRACEMA.....ciccrrccrrere re rara serasa vraa 78 124 15 a 998 Bs 428 &4 890
+623 IRAUÇUBA......crcriererre rca cc rrrrerra sro 50 94 21 5 386 47 870 47 BTO
+624 ITAIÇABA......ccccccc rc cerrercrrararerers 22 43 5 + 813 18 727 18 662
+625 ITAPAGE.....scccere cer res cre rrancasca rasto 134 265 Bs 14 425 240 275 239 975
+626 ITAPIPOCA....cicrcrererecarrerraesrranares z0+ 455 136 28 794 451 705 447 214
+627 ITAPIUNA.....crlcercaccrr e renerarsrra aires as 70 13 5 243 69 106 69 106
+108

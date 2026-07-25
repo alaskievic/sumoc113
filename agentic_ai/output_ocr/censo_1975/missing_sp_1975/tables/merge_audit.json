@@ -1,0 +1,204 @@
+{
+  "source_pdf": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/censo_1985/missing_sp_1975.pdf",
+  "table": "Industrial Census 1975 - Table 2",
+  "row_count": 599,
+  "order_range": [
+    4543,
+    5141
+  ],
+  "order_sequence_complete": true,
+  "missing_left_orders": [],
+  "missing_right_orders_with_supplied_page": [],
+  "unpaired_right_orders": [],
+  "unmatched_entry_orders": [],
+  "notes": [
+    {
+      "page": 2,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 56,
+      "found": 55
+    },
+    {
+      "page": 2,
+      "order": 4546,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 4547,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 4548,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 4549,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 4551,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 4553,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 4560,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 4545,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 3,
+      "order": 4613,
+      "issue": "left_row_not_parsed",
+      "cells": [
+        "4613",
+        "SERRA ZIMMO",
+        "238",
+        "3 880",
+        "? 440",
+        "3 870"
+      ]
+    },
+    {
+      "page": 3,
+      "order": 4613,
+      "issue": "damaged_left_row_restored_from_scan"
+    },
+    {
+      "page": 6,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 62,
+      "found": 61
+    },
+    {
+      "page": 6,
+      "order": 4696,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 8,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 53,
+      "found": 52
+    },
+    {
+      "page": 8,
+      "order": 4737,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 9,
+      "order": 4785,
+      "issue": "damaged_left_row_restored_from_scan"
+    },
+    {
+      "page": 10,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 54,
+      "found": 51
+    },
+    {
+      "page": 10,
+      "order": 4786,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 10,
+      "order": 4822,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 10,
+      "order": 4798,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 12,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 58,
+      "found": 57
+    },
+    {
+      "page": 12,
+      "order": 4830,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": 4850
+    },
+    {
+      "page": 12,
+      "order": 4831,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": 4851
+    },
+    {
+      "page": 12,
+      "order": 4836,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 17,
+      "order": 5027,
+      "issue": "damaged_left_row_restored_from_scan"
+    },
+    {
+      "page": 20,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 61,
+      "found": 54
+    },
+    {
+      "page": 20,
+      "order": 5092,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 20,
+      "order": 5094,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 20,
+      "order": 5063,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 20,
+      "order": 5068,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 20,
+      "order": 5078,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 20,
+      "order": 5051,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 20,
+      "order": 5093,
+      "issue": "damaged_right_order_restored_from_scan"
+    }
+  ]
+}

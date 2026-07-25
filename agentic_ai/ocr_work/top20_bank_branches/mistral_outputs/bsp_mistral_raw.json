@@ -1,0 +1,75 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bsp.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 172638
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "# BANCO DE SÃO PAULO S. A.\n\n(Fundado em 1889)\n\nSEDE — RUA 15 DE NOVEMBRO, 347 — (SÃO PAULO)\n\nCAPITAL ... Cr$ 400.000.000,00 FUNDO DE RESERVA ... Cr$ 80.000.000,00\nRUNDO DE RESERVA ... Cr$ 330.000.000,00\n\n## AGÊNCIAS\n\n[tbl-0.md](tbl-0.md)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-0.md",
+            "content": "|  NA CIDADE DE SÃO PAULO | SÃO JOÃO | IBITINGA | SÃO CARLOS  |\n| --- | --- | --- | --- |\n|  AURORA | SETE DE ABRIL | ITAPEVA | SÃO JOÃO DA BOA VISTA  |\n|  BARRA FUNDA | TATUAPÉ | ITAPUÍ | SÃO JOAQUIM DA BARRA  |\n|  BELENZINHO | VILA MARIANA | ITARARÉ | SÃO JOSÉ DOS CAMPOS  |\n|  BRÁS |  | JUNDIAÍ | SÃO JOSÉ DO RIO PRÊTO  |\n|  CAMBUCI | NO ESTADO DE SÃO PAULO | LINS | SOROCABA  |\n|  CONSOLAÇÃO | AMPARO | MARÍLIA | TAUBATÉ  |\n|  IPIRANGA | ARACATUBA | MIRASSOL | VALPARAISO  |\n|  JARDIM AMÉRICA | ARARAQUARA | MOGÍ DAS CRUZES | VARGEM GRANDE DO SUL  |\n|  LAPA | BARIRI | NOVA GRANADA | VILA TIBÉRIO (Ribeirão Preto)  |\n|  LIBERDADE | BATATAIS | OSVALDO CRUZ |   |\n|  MERCADO | BOCAINA | OURINHOS | NO ESTADO DO PARANÁ  |\n|  MOÓCA | CAMPINAS | PEDERNEIRAS |   |\n|  OSASCO | CATANDUVA | PINDORAMA | APUCARANA  |\n|  PARAÍSO | CEDRAL | PIRASSUNUNGA | ARAPONGAS  |\n|  PARI | COLINA | POMPEIA | JACARÉZINHO  |\n|  PENHA | DOIS CORREGOS | RIBEIRÃO PRETO | LONDRINA  |\n|  PINHEIROS | FRANCA | SANTO ANDRÉ | MARINGÁ  |\n|  SANTANA | GARCA | SANTOS | PARANAGUIÁ  |\n|  SANTO AMARO | GETULINA | SÃO CAETANO DO SUL | PARANAVAI  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 551,
+          "width": 1261
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 172638
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "# BANCO DE SÃO PAULO S. A.\n\n(Fundado em 1889)\n\nSEDE — RUA 15 DE NOVEMBRO, 347 — (SÃO PAULO)\n\nCAPITAL ... Cr$ 400.000.000,00 FUNDO DE RESERVA ... Cr$ 80.000.000,00\nRUNDO DE RESERVA ... Cr$ 330.000.000,00\n\n## AGÊNCIAS\n\n[tbl-0.md](tbl-0.md)",
+      "lines": [
+        "# BANCO DE SÃO PAULO S. A.",
+        "(Fundado em 1889)",
+        "SEDE — RUA 15 DE NOVEMBRO, 347 — (SÃO PAULO)",
+        "CAPITAL ... Cr$ 400.000.000,00 FUNDO DE RESERVA ... Cr$ 80.000.000,00",
+        "RUNDO DE RESERVA ... Cr$ 330.000.000,00",
+        "## AGÊNCIAS",
+        "[tbl-0.md](tbl-0.md)"
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 551,
+        "width": 1261
+      },
+      "confidence_scores": null,
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  NA CIDADE DE SÃO PAULO | SÃO JOÃO | IBITINGA | SÃO CARLOS  |\n| --- | --- | --- | --- |\n|  AURORA | SETE DE ABRIL | ITAPEVA | SÃO JOÃO DA BOA VISTA  |\n|  BARRA FUNDA | TATUAPÉ | ITAPUÍ | SÃO JOAQUIM DA BARRA  |\n|  BELENZINHO | VILA MARIANA | ITARARÉ | SÃO JOSÉ DOS CAMPOS  |\n|  BRÁS |  | JUNDIAÍ | SÃO JOSÉ DO RIO PRÊTO  |\n|  CAMBUCI | NO ESTADO DE SÃO PAULO | LINS | SOROCABA  |\n|  CONSOLAÇÃO | AMPARO | MARÍLIA | TAUBATÉ  |\n|  IPIRANGA | ARACATUBA | MIRASSOL | VALPARAISO  |\n|  JARDIM AMÉRICA | ARARAQUARA | MOGÍ DAS CRUZES | VARGEM GRANDE DO SUL  |\n|  LAPA | BARIRI | NOVA GRANADA | VILA TIBÉRIO (Ribeirão Preto)  |\n|  LIBERDADE | BATATAIS | OSVALDO CRUZ |   |\n|  MERCADO | BOCAINA | OURINHOS | NO ESTADO DO PARANÁ  |\n|  MOÓCA | CAMPINAS | PEDERNEIRAS |   |\n|  OSASCO | CATANDUVA | PINDORAMA | APUCARANA  |\n|  PARAÍSO | CEDRAL | PIRASSUNUNGA | ARAPONGAS  |\n|  PARI | COLINA | POMPEIA | JACARÉZINHO  |\n|  PENHA | DOIS CORREGOS | RIBEIRÃO PRETO | LONDRINA  |\n|  PINHEIROS | FRANCA | SANTO ANDRÉ | MARINGÁ  |\n|  SANTANA | GARCA | SANTOS | PARANAGUIÁ  |\n|  SANTO AMARO | GETULINA | SÃO CAETANO DO SUL | PARANAVAI  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 4.329,
+  "remote_file_id": null
+}

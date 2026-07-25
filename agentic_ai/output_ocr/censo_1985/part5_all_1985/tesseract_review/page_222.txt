@@ -1,0 +1,104 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+EENLSRESASERACACSLKASEERKEESLRANAESRSCESEREESARASESSCSREEACISAREEACSESRSAESRASISECSRECASCEESSAIATAAS SARA RANA RAR
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO DOS SERVIÇOS DE 1980 E 1985
+Dad dada dd hd add add dah had ao dd hd a a
+* +
+* * CENSO DE 1980 t
+* *
+x ESESERESCRKILESRRSUASSEREASASLSRDLAESES TREE ER EE
+NUM. * * * PESSOAL OCUPADO * hd
+x * * > ANO DE 1980 há
+* * Ed EM 31-12-1980 * *
+DE «= MUNICIPIOS * ERLAASEESESALSTESESCESSASESR EDER
+z * NUMERO «+ * * * x
+* * * * LIGADO A x SALARIOS, + *
+OR- * * DE * * * RETIRADAS TOTAL DA *
+* CLASSES E GENEROS DE SERVIÇOS * * * ATIVIDADE + E OUTRAS, «* *
+* : * ESTABELE-+ * * REMUNERAÇÕES* RECEITA *
+DEM + * x TOTAL * DA x * hd
+* * CIMENTOS + * os * *
+> * * * PRESTAÇÃO *HEESSLERAMLASEAPHAMEEARA EAFA
+* * * * * *
+* * * *DE SERVIÇOS* (MIL CRUZEIROS) s
+* * * * * *
+ESTES SITIO dada dd taddo de elontacio dd ahad
+1311 AUX. PRESTADOS A EMPRESAS E PESSOAS...........cccicrcros 46 254 170 23 194 40 815
+1312 DEMAIS GENEROS... .....ccccsccrecaren cercar rarnase rasa 93 406 225 35 639 159 094
+1313 CAMPINAS... peccrercncer cr rerarrarca ares rr sara na pra rna ses 3 067 19 472 13 380 2 405 799 10 284 257
+1314 ALIMENTAÇÃO... ..ccccpcecrar errar ear nara caraca serasa 1 194 4 791 2 756 404 369 2 872 242
+1315 AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS............... 98 639 465 132 289 1 052 025
+13165 AUX. PRESTADOS A EMPRESAS E PESSDAS......cccsccccrecreas 372 3 611 2 900 575 155 1 388 132
+1317 DEMAIS GENEROS........cccccccrcicertca serra rerce rrenan 1 403 10 431 7 259 1 293 986 4 971 858
+1318 CARAPICUIBA,.....cecccsccrcareccsus rec era era reste raro 424 1 079 369 72 933 315 6568
+1319 ALIMENTAÇÃO. .....lipec certos penso racer rara cvs 263 478 45 28 790 181 381
+1320 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO,.........ccctcrrecros B6 177 46 12 693 31 409
+1321 AUX. PRESTADOS A EMPRESAS E PESSDAS........ccerccaeceros 26 114 69 12 140 34 801
+1322 DEMAIS GENEROS.......ccscccrrccrerarerer use ranerarrrcns 48 310 209 19 310 68 077
+1323 DIADEMA... j.crrcrccrcrernrar encerrar ra aa ra res ra na 717 2 219 1017 236 719 1 010 711
+1324 ALIMENTAÇÃO... ..rccperere src rrrrgercnrrrranarno rrenan 477 1139 399 98 957 613 132
+1325 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... ....cscccrucccccra 83 352 189 40 875 109 518
+1326 AUX. PRESTADOS A EMPRESAS E PESSDAS,.......rcccccrccraas 60 277 173 38 118 105 579
+1327 DEMAIS GENEROS........cccccccrrrrarcsserrera cares rr or va ra 97 451 256 58 769 182 482
+1328 EMBU.......cccccrnrs pers nrrrr rara ra scan rara carros 275 10 185 9 495 770 179 1 780 128
+1329 AUX. COMERCIO, LOCAÇÃO DE BENS E SERVIÇOS............... - - - - -
+1330 AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC.......ccrrcrercrcraro 12 7 528 7 369 489 021 879 418
+1331 AUX. PRESTADOS A EMPRESAS E PESSOAS........cccrcerereros 17 1 942 1 799 216 959 607 776
+1332 DEMAIS GENEROS......cccccscrccrerartas era rananc aa rea ras 246 715 327 64 199 292 934
+1333 FRANCA. ..iperecare ce rena care rna cara va sra nara runs sera read 594 2 270 1 336 250 175 1 101 787
+1334 ALIMENTAÇÃO... .....ccpccrrecc nen errra carrera r carrera 251 465 140 34 473 269 014
+1335 AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS,......,......, 22 68 36 12 645 33 206
+1336 AUX. PRESTADOS A EMPRESAS E PESSDAS........iccicccreriro 87 591 531 B5 315 269 375
+1337 DEMAIS GENEROS......cccccecrresenarcrarerse roca recuos 234 1 046 629 117 742 530 192
+1338 GUARUJA...ccececar rr ro cana rear caserna res oanna ss nc rr a 677 3 355 2 o20 271 552 1 282 048
+1339 ALOJAMENTO... cscccree crer re rena rc rarr reco arara rante 22 409 248 34 840 207 425
+. 1340 ALIMENTAÇÃO... .scssses rr caraca recriar renas pra seres 364 + 484 795 104 729 620 170
+1341 AUX. PRESTADOS A EMPRESAS E PESSDAS...,...cccccrceccuses 57 512 415 43 405 83 564
+1342 DEMAIS GENEROS....,iccccccrrrecrecarrrrarar ore erra raras 234 950 562 88 578 370 889
+1343 GUARULHOS. ,.ccrcccecscerrrerrrar serra yaesir carencia + 850 7 423 4 082 907 457 5 908 977
+1344 ALIMENTAÇÃO... cc. cipcscrrrra cercar vera re seca re craas + 084 2 960 1 231 278 663 1 756 678
+1345 REPARAÇÃO, MANUTENÇÃO E INSFALAÇÃO.......ciccsiuccrerrrs 309 1 384 772 150 906 503 199
+1346 AUXILIARES DOS TRANSPORTES........ccccricerrerancrcrc res 23 116 67 7 417 23 300
+1947 DEMAIS GENEROS.........cscerrercrae nerve ra serc carris raros 434 2 963 2 012 460 471 3 625 BOO
+1348 ITAPETININGA... cs cccsccserrra or rrne rena sra rr ru crer 478 1 761 aB4 115 066 520 812
+1349 ALIMENTAÇÃO... .cscsperccarrena ripar ercra cerva rraceras 291 559 124 27 754 237 304
+1350 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO. .....cisicrrcrrereras 78 317 196 24 397 56 654
+1351 AUX. PRESTADOS A EMPRESAS E PESSOAS........cscrercrercas 44 269 208 20 830 41 378
+1352 DEMAIS GENEROS.....ccccccrcccicrrasenaarere rasa renas 65 506 356 42 085 185 476
+1353 SACARET.. percas rr ce rrra errar ren crer serras sra rr rave 520 1 B20 857 160 538 TES 847
+1354 ALIMENTAÇÃO... iscrgrere rec rr rr pre carrier arrasar 326 865 288 54 206 401 813
+1355 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... ...ccscrrcrrerastas Bs 296 145 27 294 99 062
+1356 AUX. PRESTADOS A EMPRESAS E PESSOAS... ....cccssiscrecccas 38 263 189 33 626 68 609
+1357 DEMAIS GENEROS.......ccccccrrerarercrrrarresarerace rasos 58 396 235 45 412 200 363
+1358 JUNDIAI..cpsecicccrcscrcc re rrra rare erca soares eras a ras 1 172 5 577 3 4789 666 541 2 845 308
+1359 ALIMENTAÇÃO. sic cprcrerrorcasa ge cerrereroare rr nas rena 593 1 587 663 122 534 923 437
+1360 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO,.......ccssrcrrreraros 207 + 043 623 143 311 366 450
+1361 AUX. PRESTADOS A EMPRESAS E PESSOAS... .....ccstrierseraas 122 EEE) 686 107 039 234 484
+1362 DEMAIS GENEROS......siisccricrsrtr errar ore re rr crises 250 2 052 1 507 293 657 1 320 928
+1363 LIMEIRA... cpccsrccra rrenan rare raros ss aerea eras 800 3 024 1 795 289 145 1 369 215
+1364 ALIMENTAÇÃO... ..sllsra css raca rara rasa rca rr ss raras 427 1 035 475 75 076 540 782
+1365 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO,....cciccsrecaracres 144 577 340 61 8465 185 235
+1366 AUX. PRESTADOS A EMPRESAS E PESSDAS...,....cccrcrecreseas 99 673 516 67 856 131 386
+1367 DEMAIS GENEROS......ccscecertrcecarrasosasererarr care ses 130 739 464 84 367 511 812
+1368 MARILIA.. ,percasscra serrana nt esa ranma re susana surra 669 2 978 17982 238 246 1 010 253
+1368 ALIMENTAÇÃO... ,ccsccsiccrc erre se narrar err eras varas 289 727 246 38 074 913 759
+1370 AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS............... 28 138 73 20 983 61 B15
+1371 AUX. PRESTADOS A EMPRESAS E PESSOAS..,..,.scsrrccararaso 71 402 281 38 209 83 045
+1372 DEMAIS GENEROS..,..cccccccctccsriceercarasc erra serena 270 1711 1192 140 980 551 634
+1373 MAUA e ssecrpace ra arserero racer crrre rear vaserrarre re rrssas 648 1 880 863 174 831 869 721
+1374 ALIMENTAÇÃO. ... cc c sra carrccs puras rar ertrra crase 453 1 057 397 so 026 6198 187
+1375 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO,.....isscscercrertaas 75 265 145 26 147 66 245
+1376 AUX. PRESTADOS A EMPRESAS E PESSOAS......scccsiccrrecaas 39 218 116 24 275 51 257
+1377 DEMAIS GENEROS.,,....ccciscccerecrcanarrarcerce ro cranera 81 339 205 34 383 ':133 032
+1378 MOJI DAS CRUZES.,.....cccccscccccccarer sera rererrrrasrrs 991 4 086 2 269 381 194 1371 307
+1379 ALIMENTAÇÃO... cscsrgrcrraras e rrrpre raso sera rear raras 515 1,360 431 87 205 529 782
+1380 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... ccccccccrceraracs 214 B55 505 Ba 7:3 270 663
+1381 AUX. PRESTADOS A EMPRESAS E PESSOAS,.....ccreccrcrcasaas 8B 633 493 94 457 219 262
+1382 DEMAIS GENEROS........ccccscriscrsrreccncercrrsareora ros 174 1 238 840 115 813 351 600
+1383 OSASCO. ..ipcceccrrcerrrc racer e serrana rr rara sen c arrasa 1 780 8 051 4 319 1 025 956 5 368 084
+1384 ALIMENTAÇÃO. .....cccrrcs narra rsrrepoceresrrrasra rec sado 958 2 536 892 261 794 1 244 102
+1385 AUX. FINANC., SEGUROS E CAPITALIZAÇÃO,.......crcccsccoas 2 (B) (A) (XxX) (A)
+1386 AUX. PRESTADOS A EMPRESAS E PESSOAS......,..cccccerarers 154 (F) (F) (X) (G)
+1387 DEMAIS GENEROS.....cccccccccrcrercre sara roca rencre sara 665 3 259 1 810 442 527 3 108 538
+13588 PIRACICABA,......crrccccrrrrrraraseverenacrscrerrccrerera 1 156 65 043 3 452 B77 818 2 470 325
+1389 ALIMENTAÇÃO. .....crsciscrrer ren rrrrarr rca ra raca saronaes 459 1 190 440 so 378 648 057
+228

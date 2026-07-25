@@ -1,0 +1,58 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bestadopr.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 94240
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "177\n\n# BANCO DO ESTADO DO PARANÁ S. A.\n\nSede: CURITIBA — RUA XV DE NOVEMBRO, 332 — CAIXA POSTAL, \"A\"\n\nAndirá, Antonina, Apucarana, Arapongas, Araucária, Assai, Bandeirantes, Barracão (em instalação), Bela Vista do Paraíso, Cambará, Cambé, Campo Largo, Campo Mourão, Cascável, Centenário do Sul, Cleve Jândia, Cornélio Procópio, Foz do Iquacu, Francisco Beltrão, Golo-Erê, Guaira, Guarapuava, Ibaiti, Irati, Jacarézinho, Jaquapitã, Jaquariaiva, Laranjeiras dos Sul, Loanda, Londrina, Mandaquari, Maringá, Nova Fátima, Palmas, Paranaguá, Paranavai, Pato Branco, Pirai do Sul, Pitanga, Ponta Grossa, Primeiro de Maio, Ribeirão do Pinhal, Rio Negro, Rolândia, Santa Izabel do Ivai, Santa Mariana, Santo Antônio da Platina, São Jerônimo da Serra, São José dos Pinhais, São Mateus do Sul, São Paulo (Estado de São Paulo), Sertanópolis, Terra Rica, Toledo, União da Vitória e Urai.",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 249,
+          "width": 1256
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 94240
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "177\n\n# BANCO DO ESTADO DO PARANÁ S. A.\n\nSede: CURITIBA — RUA XV DE NOVEMBRO, 332 — CAIXA POSTAL, \"A\"\n\nAndirá, Antonina, Apucarana, Arapongas, Araucária, Assai, Bandeirantes, Barracão (em instalação), Bela Vista do Paraíso, Cambará, Cambé, Campo Largo, Campo Mourão, Cascável, Centenário do Sul, Cleve Jândia, Cornélio Procópio, Foz do Iquacu, Francisco Beltrão, Golo-Erê, Guaira, Guarapuava, Ibaiti, Irati, Jacarézinho, Jaquapitã, Jaquariaiva, Laranjeiras dos Sul, Loanda, Londrina, Mandaquari, Maringá, Nova Fátima, Palmas, Paranaguá, Paranavai, Pato Branco, Pirai do Sul, Pitanga, Ponta Grossa, Primeiro de Maio, Ribeirão do Pinhal, Rio Negro, Rolândia, Santa Izabel do Ivai, Santa Mariana, Santo Antônio da Platina, São Jerônimo da Serra, São José dos Pinhais, São Mateus do Sul, São Paulo (Estado de São Paulo), Sertanópolis, Terra Rica, Toledo, União da Vitória e Urai.",
+      "lines": [
+        "177",
+        "# BANCO DO ESTADO DO PARANÁ S. A.",
+        "Sede: CURITIBA — RUA XV DE NOVEMBRO, 332 — CAIXA POSTAL, \"A\"",
+        "Andirá, Antonina, Apucarana, Arapongas, Araucária, Assai, Bandeirantes, Barracão (em instalação), Bela Vista do Paraíso, Cambará, Cambé, Campo Largo, Campo Mourão, Cascável, Centenário do Sul, Cleve Jândia, Cornélio Procópio, Foz do Iquacu, Francisco Beltrão, Golo-Erê, Guaira, Guarapuava, Ibaiti, Irati, Jacarézinho, Jaquapitã, Jaquariaiva, Laranjeiras dos Sul, Loanda, Londrina, Mandaquari, Maringá, Nova Fátima, Palmas, Paranaguá, Paranavai, Pato Branco, Pirai do Sul, Pitanga, Ponta Grossa, Primeiro de Maio, Ribeirão do Pinhal, Rio Negro, Rolândia, Santa Izabel do Ivai, Santa Mariana, Santo Antônio da Platina, São Jerônimo da Serra, São José dos Pinhais, São Mateus do Sul, São Paulo (Estado de São Paulo), Sertanópolis, Terra Rica, Toledo, União da Vitória e Urai."
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 249,
+        "width": 1256
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 2.809,
+  "remote_file_id": null
+}

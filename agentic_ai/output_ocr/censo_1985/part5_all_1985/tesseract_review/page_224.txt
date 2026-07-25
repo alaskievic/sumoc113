@@ -1,0 +1,103 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+MRBMSESERGRASSEEELESCCLEESSLLEASSLEASSSEEEEESSSLLEAACESESESLSCLISSSELSACLAASEASALTES FACAS SEITAS CATAR SIS TAARRES RSS
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO DOS SERVIÇOS DE 1980 E 1985
+CRESCCRCKCLESCEECACSKESSSECEENSELLESSLKASSSSLLTACERLSSSESSSLASESSSEESRESSESSSRLCESSSAASTESSSESESSESSARAARCE ESSAS
+* * *
+Ed Ed CENSO DE 1980 bd
+* *
+* ESLUSESSASSSERSACESASESEESSASESRE CESSAR
+NUM. * * * PESSOAL OCUPADO hd hd
+*x x - x * ANO DE 1980 x
+* * * EM 31-12-1980 * *
+DE = MUNICIPIOS x dada dada editada dart dat dad dada do shot edecdaeindo add efa daed dando doada dad
+* * NUMERO + * * * *
+* * * * LIGADO A + SALARIOS, +* *
+oR- < * DE * * * RETIRADAS * TOTAL DA *
+Ed CLASSES E GENEROS DE SERVIÇOS x * * ATIVIDADE + E OUTRAS. * *
+* * ESTABELE-* * * REMUNERAÇÕES* RECEITA *
+DEM * * * TOTAL * DA * * *
+Ed * CIMENTOS + * .* * *
+* * * * PRESTAÇÃO sumussseeseesarasassastazdsaesas
+* * Ed * * *
+* * * *DE SERVIÇOS* (MIL CRUZEIROS) *
+* * * * * Led
+CESALTRRALASXSLARLSICESSAEMEESERESESEETESAEESSRASTRESESSSREE SRI EE E E O E E E E OE ODE E e
+1390 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO........cccenrcrtacros 272 919 525 103 274 249 504
+1391 AUX. PRESTADOS A EMPRESAS E PESSDAS........cccrcccercras 147 1 200 944 154 123 297 062
+1392 DEMAIS GENEROS.......ccccrccrrecerere cr cenrrrervrecraros 278 2 734 1 543 530 043 Y 275 703
+1393 PRESIDENTE PRUDENTE.......ccrccsrceereranana cer arre corres 690 3 439 z 254 338 377 1 278 026
+1394 ALIMENTAÇÃO. ....ccrpcrarra rc cera grana oras enunarca ssa 205 666 348 42 228 279 145
+1395 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO......ecccccrccrraros 230 1 206 B19 125 113 418 838
+1396 AUX. PRESTADOS A EMPRESAS E PESSOAS.........cccrccrceros 74 538 399 56 602 198 3865
+1397 DEMAIS GENEROS........crcccrerrrcrnerecera rara re rees 181 1 028 688 114 434 381 657
+1398 RIBEIRÃO PRETO......cccccecrcererennacra raro reraraacanra ss 2 103 9 828 6 033 1 002 252 4 654 929
+1399 ALIMENTAÇÃO......cccprrrocercnercraro rena sera rr canas 947 2 375 900 177 487 1 364 797
+1400 AUX. COMERCIO, LOCAÇÃO DE BENS E SERVIÇOS............,.. 115 524 268 78 482 702 905
+1401 AUX. PRESTADOS A EMPRESAS E PESSOAS.........ccccerterros 218 1 633 1 187 182 176 679 000
+1402 DEMAIS GENEROS.........cccccrcrarccarerecorrrr ora rnasos» B23 5 295 3 678 564 107 + gos 227
+1403 RIO CLARO. ,....ccierccccraracarce rare cara raro raras 653 2 060 1 O75 162 685 668 707
+1404 ALIMENTAÇÃO... ..cccpraarerrcrrra genero rena rasa ros senass 280 618 200 38 174 300 072
+1405 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO........iccccereccsoss 167 381 170 26 244 78 285
+1406 AUX. PRESTADOS A EMPRESAS E PESSOAS.........cccurereeros 72 430 327 39 184 78 096
+1407 DEMAIS GENEROS.......cccrcccceraacerrerccsacerercrrcors 134 631 379 59 083 212 254
+1408 SANTO ANDRE......cccrecrrrenra rece rarres errar ar renas 2 461 12 391 7 963 1591 111 5 503 0564
+1409 ALIMENTAÇÃO... .crccipercercrr ro rsnnascrrre rear ccre rsrs 1 263 3 572 1 559 334 119 2 228 334
+1410 AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS.,.............. 33 313 249 37 649 145 337
+1411 AUX. PRESTADOS A EMPRESAS E PESSOAS.........ccrcciscresos 280 2 952 2 268 613 310 1 452 007
+1412 DEMAIS GENEROS.......iccrccrecarocenerrrra caraca carrera 885 5 554 3 887 606 033 1 677 3865
+1413 SANTOS... cpu rreanr ceras sra ac un ao o o ao ru vaca sarna na 3 193 21 114 13 828 2 964 082 12 470 602
+1414 ALIMENTAÇÃO... . cresce cercrrr ore rararer crer rare raca ra a 1 053 4 362 2 402 324 851 2 461 900
+1415 AUXILIARES DOS TRANSPORTES........ccccrrsriccreresccuco 226 4 433 3 267 972 894 4 053 495
+1415 AUX. PRESTADOS A EMPRESAS E PESSOAS.........ccrcrrerecos 565 5 483 4 039 833 261 3 041 282
+1417 DEMAIS GENEROS.......icsccccortrcccerererr arco rcrco reco 1 349 6 836 4 120 833 076 2 913 925
+1418 SÃO BERNARDO DO CAMPO.......ccccsciscrcscrsercestrastecos 1 940 14 701 10 482 2 389 721 9 314 944
+1419 ALIMENTAÇÃO... .ccccrpeccenerrarrererano rara raa crer a sra 1 054 4 901 2 956 626 772 3 420 262
+1420 AUX. COMERCIO, LOCAÇÃO DE BENS E SERVIÇOS,.............. 29 282 195 105 392 907 678
+1421 AUX. PRESTADOS A EMPRESAS E PESSDOAS........cccrccrtrenas 191 2 187 1 686 823 402 1 829 335
+1422 DEMAIS GENEROS......cccrcrecerercunccrrrerro vencesse r raro 666 7 331 5 645 B34 155 3 157 669
+1423 SÃO CAETANO DO SUL.,....ccccereccercanerarccerorenantraro 1 254 6 430 4 228 916 968 3 678 790
+1424 ALIMENTAÇÃO... ,ccscsccssrrrgre carrera rear rea sore rrcs 608 1 730 792 186 185 1 114 745
+1425 AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC..........ccscccrrcrs 7 650 634 57 940 213 985
+1426 AUX. PRESTADOS A EMPRESAS E PESSOAS.......ccccrcrcerras 146 1 882 1 550 a58 585 1 029 021
+1427 DEMAIS GENEROS... ..iiccccccrccecerecnarcnranrrcerrenraos 493 2 168 1 252 314 258 1 321 0939
+1428 sÃO CARLOS, .isccrcrcrscr renan acre rr ro rr cora ra rare ras 559 2 2265 1 196 217 428 1 054 995
+1429 ALIMENTAÇÃO... .cccsprscraca cr reri pec era era rua as ra 245 663 268 41 644 432 637
+1430 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... ....cscccrcrerareca 130 442 238 47 868 145 642
+1431 AUX. PRESTADOS A EMPRESAS E PESSOAS........sccccrccrrero 58 257 167 26 760 56 614
+1432 DEMAIS GENEROS... ..cccccrsrrrcralerorrea re sarc cr ercrrars 136 864 523 101 156 420 102
+1433 SÃO JOSE DO RIO PRETO,.....ccccccccscrecersrreraacereresa 1 011 5 157 3 368 484 80% 1 918 899
+1434 ALIMENTAÇÃO, ...ssccigre re rran rec ernrarrsrvr ara r or rena 366 1 041 456 74 394 566 0BB
+1435 AUX. COMERCIO, LOCAÇÃO DE BENS E SERVIÇOS............... 26 194 137 26 706 104 862
+1436 AUX. PRESTADOS A EMPRESAS E PESSOAS.....cccccensicrecros 117 695 492 75 040 222 543
+1437 DEMAIS GENEROS..,...cccrrccracrarrce area caras ra raras 502 3 227 2 283 308 661 1 025 406
+1438 SÃO JOSE DOS CAMPOS,.....cccrscrarerarecca sarro re reves 1 164 6 900 4.490 940 379 3 826 450
+1439 ALIMENTAÇÃO, . cce crrepasrs ron ra cera sa cara ro veres 589 2 404 1 403 259 668 + 527 996
+1440 AUX. COMERCIO, LOCAÇÃO DE BENS E SERVIÇOS... :............ 24 312 276 54 811 2981 388
+1441 AUX. PRESTADOS A EMPRESAS E PESSOAS....c.ccccrcircrceras 146 1 527 1 227 291 978 573 148
+1442 DEMAIS GENEROS........ccsccccciisccrrre rena vero raca 405 2 657 1 584 333 922 1 433 918
+1443 SÃO VICENTE......cccscccccrccrererrrr carrear crase 680 2 617 1 395 200 614 825 018
+1444 ALIMENTAÇÃO... .llispccrrrrrr crepes ressarcir ras 360 1 108 485 75 115 533 381
+1445 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO........cccscccctrrars 95 240 82 17 866 44 916
+1446 AUX. PRESTADOS A EMPRESAS E PESSOAS.......cscrcccrrcases 63 599 475 51 372 95 474
+1447 DEMAIS GENEROS... ...cccrccccrecrerrenarrra era ra carros 162 669 353 S6 261 151 247
+1448 SOROCABA... .cicccccrerarra caca rr ra varas ae rr rc raro 1373 s 31 2 951 486 928 2 908 163
+1449 ALIMENTAÇÃO, ....csspecerrrrarte perene ressaca ra rarcraro 753 1 915 795 119 371 1 020 297
+1450 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... ..cessrssrcererasos 216 948 612 98 036 353 554
+1451 AUX. PRESTADOS A EMPRESAS E PESSDAS......,..cccceccreaos 131 851 649 B4 839 230 159
+1452 DEMAIS GENEROS........ciccrcrcceccrerera raras sa rrraara 273 1 597 B95 184 682 1 304 153
+1483 SUMARE..cepcccccrere rr rrr rara r ro ces raras serra re ssa rea 282 1 869 593 129 306 624 896
+1454 ALIMENTAÇÃO... ..cccncrncransse regue enero o rare nr c rca rss 176 522 267 62 085 327 012
+1455 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO......c.ccccctrecrrere 36 (F) (E) (XxX) (Fr)
+1456 AUXILIARES DOS TRANSPORTES. .......ccccccersucccerrcraves 1 (Cc) (c) (XxX) (Cc)
+1457 DEMAIS GENEROS... ...ccccccrrerteccerarce na rrrre caracteres 78 1161 : 214 37 780 147 788
+1458 SUZANO. ...pccerrerrrarca serva ra rca rre rr renan err serra 363 1 442 795 146 522 504 435
+1459 ALIMENTAÇÃO, .,.ccscpca rec cesarrrperre rr rrre nen r revive ras 188 544 205 39 188 216 587
+1460 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO.........ccrerrcracros 79 318 196 31 526 85 839
+1461 AUX. PRESTADOS A EMPRESAS E PESSOAS.......cccccrcrcacaro 32 271 220 - 39 304 108 586
+1462 DEMAIS GENEROS......cccccrcercrererer renas ari sicass 64 309 174 36 504 83 423
+1463 TABOÃO DA SERRA......ccpccrertrncerrre raca rcararrcnc sra 320 2 70 1 875 + O70 834 3 222 581
+1464 RADIODIFUSÃO E TELEVISÃO... .,...icccrerereracrrorcarecss - - - - -
+1465 AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC........ccrccrecraceos 2 (c) (B) (XxX) (D)
+1466 AUX. PRESTADOS A EMPRESAS E PESSOAS.......cccrvercrrcces 23 1 858 1 512 863 306 2 639 707
+1467 - DEMAIS GENEROS........cicucerercaaenererrrrar erre sacras 295 (F) tr) [E 9) 46)
+230

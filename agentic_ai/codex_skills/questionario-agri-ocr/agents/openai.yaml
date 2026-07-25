@@ -1,0 +1,4 @@
+interface:
+  display_name: "Questionario Agri OCR"
+  short_description: "PaddleOCR workflow for quest_agri PDFs"
+  default_prompt: "Use $questionario-agri-ocr for quest_agri_<state>.pdf and save the CSV."

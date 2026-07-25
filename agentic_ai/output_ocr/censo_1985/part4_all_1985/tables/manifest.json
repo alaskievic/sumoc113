@@ -1,0 +1,23 @@
+{
+  "source_pdf": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/censo_1985/part4_all_1985.pdf",
+  "mistral_json": "output_ocr/censo_1985/part4_all_1985/part4_all_1985_mistral_raw.json",
+  "processed_pdf_pages": "1-245",
+  "appendix_excluded_from_page": 246,
+  "files": [
+    "industrial_table_1.csv",
+    "industrial_table_2.csv",
+    "industrial_table_3_merged.csv",
+    "commerce_table_1.csv",
+    "commerce_table_2.csv",
+    "commerce_table_3_merged.csv",
+    "services_table_1.csv",
+    "services_table_2.csv",
+    "services_table_3_merged.csv",
+    "table_3_merge_audit.json"
+  ],
+  "notes": [
+    "Raw OCR strings are preserved; thousands separators are not normalized.",
+    "Table 3 joins use the printed order number.",
+    "needs_review=yes means one side of the printed pair was not parsed."
+  ]
+}

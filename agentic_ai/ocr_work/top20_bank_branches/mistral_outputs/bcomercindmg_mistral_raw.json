@@ -1,0 +1,58 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bcomercindmg.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 171680
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "# BANCO COMÉRCIO E INDÚSTRIA DE MINAS GERAIS S. A.\n\nFUNDADO EM JANEIRO DE 1923 — CARTA PATENTE N.º 3.189 — Casa Matriz BELO HORIZONTE\n\nFILIAIS: BELEM (PARÁ), FORTALEZA, PÓRTO ALEGRE, RECIFE, RIO DE JANEIRO, SALVADOR, SÃO PAULO\n\nOUTROS DEPARTAMENTOS: No Est. de Minas Gerais: — Alto Rio Doce, Araguari, Araxá, Areado, Bambuí, Bicas, Bocaiuva, Campo Belo, Campos Altos, Campos Gerais, Caratinga, Carmo do Rio Claro, Cássia, Cataquases, Cazambu, Conceição do Rio Verde, Formiga, Governador Valadares; Ibirací, Itabira, Itapecerica, Itauna, Itulutaba, João Montevade, Juiz de Fora, Montes Claros, Muriaé, Ouro Preto, Pará de Minas, Paraguacu, Patos de Minas, Pirapora, Pitanqui, Piuí, Pompéu, Ponte Nova, Rio Casca, Sacramento, Santa Rita do Jacutinga, Santos Dumont, São Gotardo, São Sebastião do Paraíso, São Tomaz de Aquino, Uberaba, Uberlândia, Varginha, Visconde do Rio Branco e Metropolitanos da Avenida, Barroca, Caetés, Carlos Prates, Floresta, Lagoinha e Mercado (Belo Horizonte). — No Est. da Bahia: — Ilhéus e Metropolitanos da Baixa do Sapateiro, Calçada, Rua Chile e São Pedro (Salvador). — No Est. do Espírito Santo: — Cachoeiro de Itapemirim, Colatina, Guacuí, Vila Rubim (Vitória) e Vitória. — No Est. de Goiás: — Anápolis, Campinas (Goiânia), Goiânia, Itaberaí, Jataí, Morrinhos, Pires do Rio e Rio Verde. — No Est. da Guanabara: — Metropolitanos da Alfândega-Passos, Avenida Castelo, Bonsucesso, Botafogo, Campo Grande, Carioca, Copacabana, Madureira, Mauá-Acre, Pilares, Praça da Bandeira e Tiradentes (Rio de Janeiro). — No Est. de Pernambuco: — Metropolitanos de Santo Antônio e São José (Recife). — No Est. do Rio de Janeiro: — Angra dos Reis, Barra Mansa, Barra do Piraí, Bom Jesus do Ifabapoana, Campos, Duque de Caxias, Engenheiro Paulo de Frontin, Itaperuna, Magé, Natividade do Carangola, Nilópolis, Niterói, Nova Friburgo, Nova Iguaçu, Petrópolis, Santo Antônio de Pádua, São Fidelis, São João de Meriti, Três Rios, Valença e Volta Redonda. — No Est. de São Paulo: — Cubatão, Santos, São Vicente e Metropolitanos do Belém, Bom Retiro, Brás, Cambuci, Consolação, Ipiranga, Lapa, Luz, Mooca, Oriente, Penha, Pinheiros, Santa Cecília, Santa Efigênia e Santa Rosa (São Paulo).",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 448,
+          "width": 1252
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 171680
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "# BANCO COMÉRCIO E INDÚSTRIA DE MINAS GERAIS S. A.\n\nFUNDADO EM JANEIRO DE 1923 — CARTA PATENTE N.º 3.189 — Casa Matriz BELO HORIZONTE\n\nFILIAIS: BELEM (PARÁ), FORTALEZA, PÓRTO ALEGRE, RECIFE, RIO DE JANEIRO, SALVADOR, SÃO PAULO\n\nOUTROS DEPARTAMENTOS: No Est. de Minas Gerais: — Alto Rio Doce, Araguari, Araxá, Areado, Bambuí, Bicas, Bocaiuva, Campo Belo, Campos Altos, Campos Gerais, Caratinga, Carmo do Rio Claro, Cássia, Cataquases, Cazambu, Conceição do Rio Verde, Formiga, Governador Valadares; Ibirací, Itabira, Itapecerica, Itauna, Itulutaba, João Montevade, Juiz de Fora, Montes Claros, Muriaé, Ouro Preto, Pará de Minas, Paraguacu, Patos de Minas, Pirapora, Pitanqui, Piuí, Pompéu, Ponte Nova, Rio Casca, Sacramento, Santa Rita do Jacutinga, Santos Dumont, São Gotardo, São Sebastião do Paraíso, São Tomaz de Aquino, Uberaba, Uberlândia, Varginha, Visconde do Rio Branco e Metropolitanos da Avenida, Barroca, Caetés, Carlos Prates, Floresta, Lagoinha e Mercado (Belo Horizonte). — No Est. da Bahia: — Ilhéus e Metropolitanos da Baixa do Sapateiro, Calçada, Rua Chile e São Pedro (Salvador). — No Est. do Espírito Santo: — Cachoeiro de Itapemirim, Colatina, Guacuí, Vila Rubim (Vitória) e Vitória. — No Est. de Goiás: — Anápolis, Campinas (Goiânia), Goiânia, Itaberaí, Jataí, Morrinhos, Pires do Rio e Rio Verde. — No Est. da Guanabara: — Metropolitanos da Alfândega-Passos, Avenida Castelo, Bonsucesso, Botafogo, Campo Grande, Carioca, Copacabana, Madureira, Mauá-Acre, Pilares, Praça da Bandeira e Tiradentes (Rio de Janeiro). — No Est. de Pernambuco: — Metropolitanos de Santo Antônio e São José (Recife). — No Est. do Rio de Janeiro: — Angra dos Reis, Barra Mansa, Barra do Piraí, Bom Jesus do Ifabapoana, Campos, Duque de Caxias, Engenheiro Paulo de Frontin, Itaperuna, Magé, Natividade do Carangola, Nilópolis, Niterói, Nova Friburgo, Nova Iguaçu, Petrópolis, Santo Antônio de Pádua, São Fidelis, São João de Meriti, Três Rios, Valença e Volta Redonda. — No Est. de São Paulo: — Cubatão, Santos, São Vicente e Metropolitanos do Belém, Bom Retiro, Brás, Cambuci, Consolação, Ipiranga, Lapa, Luz, Mooca, Oriente, Penha, Pinheiros, Santa Cecília, Santa Efigênia e Santa Rosa (São Paulo).",
+      "lines": [
+        "# BANCO COMÉRCIO E INDÚSTRIA DE MINAS GERAIS S. A.",
+        "FUNDADO EM JANEIRO DE 1923 — CARTA PATENTE N.º 3.189 — Casa Matriz BELO HORIZONTE",
+        "FILIAIS: BELEM (PARÁ), FORTALEZA, PÓRTO ALEGRE, RECIFE, RIO DE JANEIRO, SALVADOR, SÃO PAULO",
+        "OUTROS DEPARTAMENTOS: No Est. de Minas Gerais: — Alto Rio Doce, Araguari, Araxá, Areado, Bambuí, Bicas, Bocaiuva, Campo Belo, Campos Altos, Campos Gerais, Caratinga, Carmo do Rio Claro, Cássia, Cataquases, Cazambu, Conceição do Rio Verde, Formiga, Governador Valadares; Ibirací, Itabira, Itapecerica, Itauna, Itulutaba, João Montevade, Juiz de Fora, Montes Claros, Muriaé, Ouro Preto, Pará de Minas, Paraguacu, Patos de Minas, Pirapora, Pitanqui, Piuí, Pompéu, Ponte Nova, Rio Casca, Sacramento, Santa Rita do Jacutinga, Santos Dumont, São Gotardo, São Sebastião do Paraíso, São Tomaz de Aquino, Uberaba, Uberlândia, Varginha, Visconde do Rio Branco e Metropolitanos da Avenida, Barroca, Caetés, Carlos Prates, Floresta, Lagoinha e Mercado (Belo Horizonte). — No Est. da Bahia: — Ilhéus e Metropolitanos da Baixa do Sapateiro, Calçada, Rua Chile e São Pedro (Salvador). — No Est. do Espírito Santo: — Cachoeiro de Itapemirim, Colatina, Guacuí, Vila Rubim (Vitória) e Vitória. — No Est. de Goiás: — Anápolis, Campinas (Goiânia), Goiânia, Itaberaí, Jataí, Morrinhos, Pires do Rio e Rio Verde. — No Est. da Guanabara: — Metropolitanos da Alfândega-Passos, Avenida Castelo, Bonsucesso, Botafogo, Campo Grande, Carioca, Copacabana, Madureira, Mauá-Acre, Pilares, Praça da Bandeira e Tiradentes (Rio de Janeiro). — No Est. de Pernambuco: — Metropolitanos de Santo Antônio e São José (Recife). — No Est. do Rio de Janeiro: — Angra dos Reis, Barra Mansa, Barra do Piraí, Bom Jesus do Ifabapoana, Campos, Duque de Caxias, Engenheiro Paulo de Frontin, Itaperuna, Magé, Natividade do Carangola, Nilópolis, Niterói, Nova Friburgo, Nova Iguaçu, Petrópolis, Santo Antônio de Pádua, São Fidelis, São João de Meriti, Três Rios, Valença e Volta Redonda. — No Est. de São Paulo: — Cubatão, Santos, São Vicente e Metropolitanos do Belém, Bom Retiro, Brás, Cambuci, Consolação, Ipiranga, Lapa, Luz, Mooca, Oriente, Penha, Pinheiros, Santa Cecília, Santa Efigênia e Santa Rosa (São Paulo)."
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 448,
+        "width": 1252
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 2.981,
+  "remote_file_id": null
+}

@@ -1,0 +1,70 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bank_deposit_2_1960.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 263153
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "28 DE FEVEREIRO DE 1961\n\n[tbl-0.md](tbl-0.md)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-0.md",
+            "content": "|  EM | EM | EM | EM | B A N C O S | MILHÕES DE CRUZEIROS  |\n| --- | --- | --- | --- | --- | --- |\n|  31/12/60 | 30/6/60 | 31/12/59 | 30/6/59 |  |   |\n|  × 40 | 39 | 39 | 38 | Banco Auxiliar de São Paulo S.A. | 3.772 ×  |\n|  41 | 40 | 41 | 45 | Banco América do Sul S.A. | 3.683  |\n|  42 | 44 | 43 | 40 | Banco do Estado da Guanabara S.A. | 3.559  |\n|  43 | 48 | 45 | 53 | Banco Mercantil e Industrial do Paraná S.A. | 3.488  |\n|  44 | 41 | 35 | 37 | Banco Bandeirantes do Comércio S.A. (*) | 3.387  |\n|  × 45 | 43 | 44 | 42 | Banco Industrial e Comercial do Sul S.A. | 3.212 ×  |\n|  46 | 45 | 42 | 51 | Banco Paulista do Comércio S.A. | 3.016  |\n|  47 | 47 | 54 | 56 | The First National Bank of Boston | 2.820  |\n|  48 | 52 | 46 | 44 | Banco Andrade Arnaud S.A. | 2.803  |\n|  49 | 51 | 53 | 55 | Banco Nacional do Norte S.A. | 2.662  |\n|  × 50 | 46 | 50 | 47 | Banco Agrícola Mercantil S.A. | 2.568 ×  |\n|  51 | 50 | 47 | 49 | Banco do Comércio S.A. | 2.535  |\n|  52 | 54 | 56 | 58 | Banco Federal de Crédito S.A. | 2.535  |\n|  53 | 49 | 48 | 52 | Banco Nacional do Comércio de São Paulo S.A. | 2.438  |\n|  54 | 53 | 52 | 46 | Banco Ultramarino Brasileiro S.A. | 2.317  |\n|  × 55 | 55 | 51 | 48 | Banco Sul Americano do Brasil S.A. | 2.164 ×  |\n|  56 | 57 | 55 | 57 | Banco Nacional de Pernambuco S.A. (**) | 2.068  |\n|  57 | 58 | 59 | — | Banco Mogiano do Comércio e Indústria S.A. (***) | 1.777  |\n|  58 | 56 | 57 | 54 | The Royal Bank of Canada | 1.674  |\n|  59 | 59 | 60 | — | Banco Ribeiro Junqueira S.A. | 1.531  |\n|  × 60 | 61 | — | — | Banco A.E. Carvalho S.A. | 1.496 ×  |\n|  61 | 63 | — | — | Banco Comércio e Indústria de Pernambuco S.A. | 1.411  |\n|  62 | 60 | 58 | — | Banco do Estado do Paraná S.A. | 1.409  |\n|  63 | 62 | 61 | — | Banco Crédito e Com. de Minas Gerais S.A. (***) | 1.327  |\n|  64 | 64 | — | — | Banco Mercantil de Niterói S.A. | 1.283  |\n|  × 65 | 65 | — | — | Banco de Crédito Nacional S.A. | 1.202 ×  |\n|  66 | — | — | — | Banco Faro S.A. | 1.132  |\n|  67 | — | — | — | Banco Belo Horizonte S.A. | 1.077  |\n|  68 | — | — | — | Banco do Estado do Rio de Janeiro S.A. | 1.071  |\n|  69 | — | — | — | Banco Holandês Unido S.A. | 1.051  |\n|  70 | — | — | — | Banco F. Barretto S.A. | 1.043  |\n|  71 | — | — | — | Banco Lowndes S.A. | 1.011  |\n|   |  |  |  | T O T A L | 688.970  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 1201,
+          "width": 1318
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 263153
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "28 DE FEVEREIRO DE 1961\n\n[tbl-0.md](tbl-0.md)",
+      "lines": [
+        "28 DE FEVEREIRO DE 1961",
+        "[tbl-0.md](tbl-0.md)"
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 1201,
+        "width": 1318
+      },
+      "confidence_scores": null,
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  EM | EM | EM | EM | B A N C O S | MILHÕES DE CRUZEIROS  |\n| --- | --- | --- | --- | --- | --- |\n|  31/12/60 | 30/6/60 | 31/12/59 | 30/6/59 |  |   |\n|  × 40 | 39 | 39 | 38 | Banco Auxiliar de São Paulo S.A. | 3.772 ×  |\n|  41 | 40 | 41 | 45 | Banco América do Sul S.A. | 3.683  |\n|  42 | 44 | 43 | 40 | Banco do Estado da Guanabara S.A. | 3.559  |\n|  43 | 48 | 45 | 53 | Banco Mercantil e Industrial do Paraná S.A. | 3.488  |\n|  44 | 41 | 35 | 37 | Banco Bandeirantes do Comércio S.A. (*) | 3.387  |\n|  × 45 | 43 | 44 | 42 | Banco Industrial e Comercial do Sul S.A. | 3.212 ×  |\n|  46 | 45 | 42 | 51 | Banco Paulista do Comércio S.A. | 3.016  |\n|  47 | 47 | 54 | 56 | The First National Bank of Boston | 2.820  |\n|  48 | 52 | 46 | 44 | Banco Andrade Arnaud S.A. | 2.803  |\n|  49 | 51 | 53 | 55 | Banco Nacional do Norte S.A. | 2.662  |\n|  × 50 | 46 | 50 | 47 | Banco Agrícola Mercantil S.A. | 2.568 ×  |\n|  51 | 50 | 47 | 49 | Banco do Comércio S.A. | 2.535  |\n|  52 | 54 | 56 | 58 | Banco Federal de Crédito S.A. | 2.535  |\n|  53 | 49 | 48 | 52 | Banco Nacional do Comércio de São Paulo S.A. | 2.438  |\n|  54 | 53 | 52 | 46 | Banco Ultramarino Brasileiro S.A. | 2.317  |\n|  × 55 | 55 | 51 | 48 | Banco Sul Americano do Brasil S.A. | 2.164 ×  |\n|  56 | 57 | 55 | 57 | Banco Nacional de Pernambuco S.A. (**) | 2.068  |\n|  57 | 58 | 59 | — | Banco Mogiano do Comércio e Indústria S.A. (***) | 1.777  |\n|  58 | 56 | 57 | 54 | The Royal Bank of Canada | 1.674  |\n|  59 | 59 | 60 | — | Banco Ribeiro Junqueira S.A. | 1.531  |\n|  × 60 | 61 | — | — | Banco A.E. Carvalho S.A. | 1.496 ×  |\n|  61 | 63 | — | — | Banco Comércio e Indústria de Pernambuco S.A. | 1.411  |\n|  62 | 60 | 58 | — | Banco do Estado do Paraná S.A. | 1.409  |\n|  63 | 62 | 61 | — | Banco Crédito e Com. de Minas Gerais S.A. (***) | 1.327  |\n|  64 | 64 | — | — | Banco Mercantil de Niterói S.A. | 1.283  |\n|  × 65 | 65 | — | — | Banco de Crédito Nacional S.A. | 1.202 ×  |\n|  66 | — | — | — | Banco Faro S.A. | 1.132  |\n|  67 | — | — | — | Banco Belo Horizonte S.A. | 1.077  |\n|  68 | — | — | — | Banco do Estado do Rio de Janeiro S.A. | 1.071  |\n|  69 | — | — | — | Banco Holandês Unido S.A. | 1.051  |\n|  70 | — | — | — | Banco F. Barretto S.A. | 1.043  |\n|  71 | — | — | — | Banco Lowndes S.A. | 1.011  |\n|   |  |  |  | T O T A L | 688.970  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 5.139,
+  "remote_file_id": null
+}

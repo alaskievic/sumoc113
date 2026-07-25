@@ -1,0 +1,535 @@
+order_number,entry,establishments_1980,personnel_total_1980,personnel_linked_to_service_activity_1980,salaries_withdrawals_1980_mil_cruzeiros,total_revenue_1980_mil_cruzeiros,companies_headquartered_in_municipality_1985,establishments_1985,personnel_total_1985,personnel_linked_to_service_activity_1985,salaries_withdrawals_1985_mil_cruzeiros,total_revenue_1985_mil_cruzeiros,source_page_1980,source_page_1985,left_extraction_method,right_extraction_method,needs_review
+1,BRASIL,,,,,,,,,,,,54,55,mistral_table_partial,mistral_table_partial,yes
+2,ALOJAMENTO E ALIMENTAÇÃO,,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+3,ALOJAMENTO,,,,,,,,,,,,54,55,mistral_table_partial,missing,yes
+4,ALIMENTAÇÃO,,,,,,325,329,9a3,1 367,16 086 305,79 na 120,54,55,mistral_table_partial,pdf_text_layout,yes
+5,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",,,,,,,,,,,,54,55,mistral_table_partial,missing,yes
+6,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+7,"PESSOAIS, DE HIGIENE E ESTETICA PESSOAL",,,,,,26 S97,27 536,93 53E,55 223,630 335 406,1 803 070 259,54,55,mistral_table_partial,pdf_text_layout,yes
+8,PESSOAIS,,,,,,,,,,,,54,55,mistral_table_partial,missing,yes
+9,HIGIENE E DE ESTETICA PESSOAL,,,,,,,,,,,,54,55,mistral_table_partial,mistral_table_partial,yes
+10,"RADIODIFUSÃO, TELEVISÃO E DIVERSÕES",,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+11,RADIODIFUSÃO E TELEVISÃO,,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+12,DIVERSÕES,,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+13,AUXILIARES DIVERSOS,,,,,,77 435,as 785,1 234 963,1 012 962,17 A90 327 257,'50 551 009 729,54,55,mistral_table_partial,pdf_text_layout,yes
+14,AUX. DA AGROPECUARIA E REFLORESTAMENTO,,,,,,1 S50,1 9a6,80 286,65 742,", 275 850 146",2. 721 ~30 762,54,55,mistral_table_partial,pdf_text_layout,yes
+15,"AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS",,,,,,,,,,,,54,55,mistral_table_partial,missing,yes
+16,"AUX. FINANC., SEGUROS E CAPITALIZAÇÃO",,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+17,AUXILIARES DOS TRANSPORTES,,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+18,"AUX. CONSTRUÇÃO, OBRAS, GEODESIA, ETC",,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+19,"AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC",,,,,,32,38,651 483,5,971 328,22 189,54,55,mistral_table_partial,mistral_table,yes
+20,AUX. PRESTADOS À EMPRESAS E PESSOAS,,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_tokens_partial,yes
+21,AUXILIARES DA SAÚDE,,,,,,s 719,6 045,33 945,23 027,316 919 422,139 368 677,54,55,mistral_table_partial,pdf_text_layout,yes
+22,"COMPRA, VENDA, ADMINISTRAÇÃO BENS IMÓVEIS",,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+23,COMPRA E VENDA DE BENS IMÓVEIS,,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+24,"ADMINISTRAÇÃO, LOCAÇÃO, ETC",,,,,,6 661,6 8SS,46 SS3,32· 358,561 535 189,3S3 551 787,54,55,mistral_table_partial,pdf_text_layout,yes
+25,REGIÃO CENTRO-OESTE,,,,,,302,309,870 478,6,791 719,18 145,54,55,mistral_table_partial,mistral_table,yes
+26,ALOJAMENTO E ALIMENTAÇÃO,,,,,,11 972,1 2 161,43 1as,23 690,24S 070 1 96,1 281 79S 097,54,55,mistral_table_partial,pdf_text_layout,yes
+27,ALOJAMENTO,,,,,,1 353,1 402,11 535,B 726,86 701 741,380 049 116,54,55,mistral_table_partial,pdf_text_layout,yes
+28,ALIMENTAÇÃO,,,,,,10 619,10 779,32 250,14 964,1 58 368 45S,901 74S 981,54,55,mistral_table_partial,pdf_text_layout,yes
+29,"REPARAÇÂQ, MANUTENÇÂQ E l NS T ALAÇÃQ",334,20 692,12 58 s,848 396,231 750,704 811,22 826,13 250,18.4,142 361,SS9 569 476,54,55,pdf_text_layout,pdf_text_layout,no
+30,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+31,"PESSOAIS, DE HIGlENE E ESTETICA PESSOAL",",",581,109 970,392 321,1 226 260,,,,,,,54,55,pdf_text_layout,pdf_text_layout_partial,yes
+32,PESSOAIS,563,2 073,1 205,164 397,679 638,,,,,,,54,55,mistral_table,mistral_table_partial,yes
+33,HIGIENE E DE ESTETICA PESSOAL,1 018,3 036,1 765,227 924,546 622,,,,,,,54,55,mistral_table,pdf_text_layout_partial,yes
+34,"RADIODIFUSÃO, TELEVISÃO E DIVERSÕES",407,695,263,740 195,576 711,314,371,s 126,A 1 94,76 676 233,270 522 729,54,55,pdf_text_layout,pdf_text_layout,no
+35,RADIODIFUSÃO E TELEVISÃO,,,,,,84,107,4 047,3 466,69 366 349,228 ass 316,54,55,mistral_table_partial,pdf_text_layout,yes
+36,DIVERSÕES,318,1 653,1 119,128 402,639 488,137 201,6 213,4 546,122 993,202 308,754 266,54,55,mistral_table,pdf_text_tokens,no
+37,AUXlLIARES DIVERSOS,4 611,69 OE 1,55 973,10 615 947,37 239 225,,,,,,,54,55,pdf_text_layout,pdf_text_layout_partial,yes
+38,AUX. DA AGROPECUARIA E REFLORESTAMENTO,,,,,,137 201,6 213,4 546,122 993,202 308,754 266,54,55,mistral_table_partial,tesseract_por_review,yes
+39,"AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS",,,,,,564 704,5 022,3 soo,77 060,559 550,564 394,54,55,mistral_table_partial,pdf_text_layout,yes
+40,"AUX. FINANC., SEGUROS E CAPITALIZAÇÃO",51,223,166,35 351,279 372,,,,,,,54,55,mistral_table,pdf_text_tokens_partial,yes
+41,AUXILIARES DOS TRANSPORTES,,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+42,"AUX. CONSTRUÇÃO, OBRAS, GEODESIA, ETC",,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_tokens_partial,yes
+43,"AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC",,,,,,40,63,297 191,4,230 954,49 041,54,55,mistral_table_partial,mistral_table,yes
+44,AUX. PRESTADOS À EMPRESAS E PESSOAS,,,,,,493,2 666,31 708,24 75S,356 681 637,1 918 361 563,54,55,mistral_table_partial,pdf_text_layout,yes
+45,AUXILIARES DA SAUOE,436,2 463,1 432,308 433,1 086 891,40a,424,2 001,1 257,18 625. 883,65 305 190,54,55,pdf_text_layout,pdf_text_layout,no
+46,"COMPRA, VENDA, ADM!NISTRAÇÂO BENS !MOVEIS",793,370,890,1 327 560,6 232 346,S89,601,131,1 982,27 962 375,144 816 829,54,55,pdf_text_layout,pdf_text_layout,no
+47,COMPRA E VE(<DA DE BE~S ]MOVEIS,".... , , ...... .",604,1 54 789,91 o 342,S79 370,264,272,148,61S,11 876 070,65 038 709,54,55,pdf_text_layout,pdf_text_layout,no
+48,"ADMINISTRAÇÃO, LOCAÇÃO, ETC",,,,,,325 329,1 983,1 367,16 086,305 798,778 120,54,55,mistral_table_partial,tesseract_por_review,yes
+49,MATO GROSSO DO SUL,,,,,,,,,,,,54,55,mistral_table_partial,pdf_text_layout_partial,yes
+50,ALOJAMENTO E ALIMENTACÂD,2 061,7 243,:; 044,350 923,2 006 392,2 062,2 085,7 263,527,37 202 473,170 931 521,54,55,pdf_text_layout,pdf_text_layout,no
+51,ALOJAMENTO,367,2 099,1 171,111 667,493 478,318,327,2 176 569,14 131,", 26",54 435 174,54,55,mistral_table,pdf_text_layout,no
+52,ALIMENTAÇÃO,,,,,,1 744,1 758,067,956,23 071 347,11·5 496 347,54,55,mistral_table_partial,pdf_text_layout,yes
+53,"REPARAÇÂQ, MANUTENÇÂQ E INSTALAÇÃQ",409,697,2 506,3E2 455,465 859,564,584 673,2 447,32 224,520 101,014 814,54,55,pdf_text_layout,pdf_text_tokens,no
+54,"REPARAÇ40, MANUTENÇAO E !NSTALAÇAO",409,697,2 506,362 459,465 859,564,584 673,2 4A7,32 224 S20,101,014 814,54,55,pdf_text_layout,pdf_text_layout,no
+55,"PESSOAIS, DE HIGIENE E ESTETICA PESSOAL",268,674,307,48 192,154 371,302,309,870,47a,791 71 9,1a 145 02S,54,55,mistral_table,pdf_text_layout,no
+56,PESSOAIS,115,286,107,18 689,87 560,12S,131,357,17&,201 602,8 795 09S,54,55,mistral_table,pdf_text_layout,no
+57,HIGIENE E DE ESTETICA PESSOAL,153,388,200,29 503,68 811,177,176,513 300,590 117,9,349 930,54,55,mistral_table,pdf_text_tokens,no
+58,"RADIODIFUSÃO, TELEVISÃO E DIVERSÕES",100,799,526,65 566,345 507,70,79 801,56a,6,914 418,25 245 199,54,55,mistral_table,pdf_text_layout,no
+59,RADIODIFUSÃO E TELEVISÃO,26,438,292,44 638,244 772,32,38,651,4a3,5 971 326,22 189 019,54,55,mistral_table,pdf_text_layout,no
+60,DIVERSÕES,74,361,234,20 928,100 735,36,41,1SO,85,943 090,3 056 180,54,55,mistral_table,pdf_text_layout,no
+61,AUXILIARES DIVERSOS,985,7 239,5 214,882 027,2 872,989,", ,,,",9 655 427,106 916 218,31S,419 470,54,55,mistral_table,pdf_text_layout,no
+62,AUX. DA AGROPECUARIA E REFLORESTAMENTO,108,1,336,979 276,923 948,45,75,1 756 283,33 940 305,89,690 337,54,55,mistral_table,pdf_text_layout,no
+63,"AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS",76,299,160,56 687,232 764,102 132,705 424,a 193 104,42,93S,32S,54,55,mistral_table,pdf_text_layout,no
+64,"AUX. FINANC., SEGUROS E CAPITALIZAÇÃO",10,10,10,3 159,73 121,,,,,,,54,55,mistral_table,pdf_text_layout_partial,yes
+65,AUXILIARES DOS TRANSPORTES,90,779,536,97 949,457 084,61,93,800 666,9 637 87S,33,892 169,54,55,mistral_table,pdf_text_layout,no
+66,"AUX. CONSTRUÇÃO, OBRAS, GEODESIA, ETC",55,408,240,52 693,230 713,588,613,363 322,42 534 010,",, 1 748",372,54,55,mistral_table,pdf_text_layout,no
+67,"AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC",23,514,468,21 211,49 887,33,33,43S,389,6 570 729,17 216 197,54,55,mistral_table,pdf_text_layout,no
+68,AUX. PRESTADOS À EMPRESAS E PESSOAS,542,3 576,2,660 330,247 760,,,,,,,54,55,mistral_table,missing,yes
+69,AUXILIARES DA SAÚDE,81,317,164,43 158,121 168,90,92,325,189,3 007 672,8 892 172,56,57,mistral_table,mistral_table,no
+70,"COMPRA, VENDA, ADMINISTRAÇÃO BENS IMÓVEIS",132,666,333,94 343,537 921,115,117,495,300,4 643 013,17 354 535,56,57,mistral_table,mistral_table,no
+71,COMPRA E VENDA DE BENS IMÓVEIS,90,455,227,73 712,466 560,48,50,212,132,2 631 392,7 264 984,56,57,mistral_table,mistral_table,no
+72,"ADMINISTRAÇÃO, LOCAÇÃO, ETC",42,209,106,20 631,69 361,67,67,284,168,2 211 621,9 989 541,56,57,mistral_table,mistral_table,no
+73,CAMPO GRANDE,1 304,8 525,5 803,888 682,3 380 381,1 539,607,10 922,7 753,103 710 520,317 868 716,56,57,mistral_table,mistral_table,no
+74,ALOJAMENTO E ALIMENTAÇÃO,358,1 817,1 113,102 881,570 701,450,456,2 132,1 327,12 081 065,51 070 400,56,57,mistral_table,mistral_table,no
+75,ALOJAMENTO,66,602,438,39 909,179 546,74,77,824,667,6 181 904,22 826 146,56,57,mistral_table,mistral_table,no
+76,ALIMENTAÇÃO,292,1 215,675,62 972,391 155,376,379,1 306,660,5 895 161,26 342 254,56,57,mistral_table,mistral_table,no
+77,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",390,1 450,830,118 814,495 380,488,495,1 451,742,9 550 633,31 591 705,56,57,mistral_table,mistral_table,no
+78,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",390,1 450,830,118 814,495 380,488,495,1 451,742,9 550 633,31 591 705,56,57,mistral_table,mistral_table,no
+79,"PESSOAIS, DE HIGIENE E ESTÉTICA PESSOAL",101,286,149,19 514,69 446,135,136,444,274,3 515 742,8 890 187,56,57,mistral_table,mistral_table,no
+80,PESSOAIS,40,115,56,7 358,37 852,40,40,144,92,1 044 345,3 911 665,56,57,mistral_table,mistral_table,no
+81,HIGIENE E DE ESTÉTICA PESSOAL,61,171,93,12 156,31 594,95,96,300,182,2 471 397,4 978 522,56,57,mistral_table,mistral_table,no
+82,"RADIODIFUSÃO, TELEVISÃO E DIVERSÕES",18,277,203,31 999,227 544,18,20,270,179,1 944 734,9 105 492,56,57,mistral_table,mistral_table,no
+83,RADIODIFUSÃO E TELEVISÃO,7,202,144,27 499,196 975,6,7,233,158,1 700 742,8 468 218,56,57,mistral_table,mistral_table,no
+84,DIVERSÕES,11,75,59,4 530,30 569,12,13,37,21,243 992,637 274,56,57,mistral_table,mistral_table,no
+85,AUXILIARES DIVERSOS,371,4 317,3 313,559 407,1 696 232,383,435,6 293,5 011,73 250 958,204 998 704,56,57,mistral_table,mistral_table,no
+86,AUX. DA AGROPECUÁRIA E REFLORESTAMENTO,19,821,666,210 720,473 584,8,15,1 220,858,28 895 020,58 991 092,56,57,mistral_table,mistral_table,no
+87,"AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS",49,221,129,45 912,205 736,71,91,549,336,6 795 544,39 176 080,56,57,mistral_table,mistral_table,no
+88,"AUX. FINANCIA, SEGUROS E CAPITALIZAÇÃO",6,10,7,3 159,73 121,6,8,31,16,301 954,2 772 348,56,57,mistral_table,mistral_table,no
+89,AUXILIARES DOS TRANSPORTES,42,367,192,40 544,248 882,35,42,387,287,4 481 327,15 097 166,56,57,mistral_table,mistral_table,no
+90,"AUX. CONSTRUÇÃO, OBRAS, GEOGESIA, ETC",34,303,188,29 778,153 841,25,25,121,76,1 076 180,4 832 880,56,57,mistral_table,mistral_table,no
+91,"AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC",14,396,366,15 877,38 866,20,20,1 183,1 156,5 495 093,15 058 518,56,57,mistral_table,mistral_table,no
+92,AUX. PRESTADOS A EMPRESAS E PESSOAS,183,2 075,1 701,187 429,451 694,193,208,2 663,2 191,24 678 793,65 362 668,56,57,mistral_table,mistral_table,no
+93,AUXILIARES DA SAÚDE,24,124,64,18 988,50 508,25,26,139,91,1 327 047,3 707 952,56,57,mistral_table,mistral_table,no
+94,"COMPRA, VENDA, ADMINISTRAÇÃO BENS IMÓVEIS",66,378,195,56 067,321 078,65,65,332,220,3 367 388,12 212 228,56,57,mistral_table,mistral_table,no
+95,COMPRA E VENDA DE BENS IMÓVEIS,42,259,131,42 566,271 076,26,27,149,106,1 812 096,5 149 914,56,57,mistral_table,mistral_table,no
+96,"ADMINISTRAÇÃO, LOCAÇÃO, ETC",24,119,64,13 501,50 002,39,38,183,114,1 555 292,7 062 314,56,57,mistral_table,mistral_table,no
+97,DOURADOS,289,1 642,854,139 158,639 656,386,410,1 961,1 303,15 981 166,57 234 054,56,57,mistral_table,mistral_table,no
+98,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",109,452,257,40 068,105 566,130,133,527,333,3 277 083,11 128 453,56,57,mistral_table,mistral_table,no
+99,RADIODIFUSÃO E TELEVISÃO,4,40,18,2 424,6 855,4,6,125,88,2 374 302,7 642 891,56,57,mistral_table,mistral_table,no
+100,AUX. PRESTADOS A EMPRESAS E PESSOAS,49,219,145,22 880,47 615,61,66,364,264,3 778 085,9 902 685,56,57,mistral_table,mistral_table,no
+101,DEMAIS GÊNEROS,227,931,434,73 786,479 420,191,205,945,618,6 551 696,28 560 025,56,57,mistral_table,mistral_table,no
+102,AGUA CLARA,16,95,74,11 844,105 654,12,14,45,25,247 300,2 140 883,56,57,mistral_table,mistral_table,no
+103,AMAMBAI,202,605,244,43 986,153 584,229,232,793,418,8 039 386,18 908 876,56,57,mistral_table,mistral_table,no
+104,ANASTÁCIO,27,78,36,5 988,23 349,21,22,65,32,273 529,2 491 296,56,57,mistral_table,mistral_table,no
+105,ANAURILANDIA,30,68,14,2 487,15 635,37,37,60,14,296 783,1 339 686,56,57,mistral_table,mistral_table,no
+106,ANGÉLICA,23,61,12,3 679,10 245,13,13,17,4,44 950,443 500,56,57,mistral_table,mistral_table,no
+107,ANTÔNIO JOÃO,18,53,27,3 632,9 969,31,31,103,50,1 179 170,4 012 849,56,57,mistral_table,mistral_table,no
+108,APARECIDA DO TABOADO,59,161,65,11 667,56 868,69,69,201,94,1 086 386,3 862 326,56,57,mistral_table,mistral_table,no
+109,AQUIDAUANA,144,530,243,26 057,129 512,87,88,221,98,1 075 737,5 063 659,56,57,mistral_table,mistral_table,no
+110,ARAL MOREIRA,19,48,18,3 642,11 618,9,11,27,15,237 146,708 724,56,57,mistral_table,mistral_table,no
+111,BANDEIRANTES,6,38,31,2 774,6 108,22,22,52,19,154 968,1 199 871,56,57,mistral_table,mistral_table,no
+112,BATAQUASSU,42,145,74,8 916,57 124,31,32,97,35,394 991,1 990 196,56,57,mistral_table,mistral_table,no
+113,BATAIPORÃ,20,57,11,1 885,9 817,20,20,55,20,143 031,481 285,56,57,mistral_table,mistral_table,no
+114,BELA VISTA,41,122,44,5 333,26 302,63,65,188,89,1 371 976,4 326 200,56,57,mistral_table,mistral_table,no
+115,BODOQUENA,-,-,-,-,-,8,8,10,2,38 953,434 784,56,57,mistral_table,mistral_table,no
+116,BONITO,37,91,44,5 769,34 508,32,32,114,47,327 228,2 014 995,56,57,mistral_table,mistral_table,no
+117,BRASILANDIA,25,74,27,4 137,15 445,32,32,175,125,1 632 785,3 507 631,56,57,mistral_table,mistral_table,no
+118,CAARAPO,95,280,113,16 353,46 852,78,80,204,94,1 398 886,3 989 770,56,57,mistral_table,mistral_table,no
+119,CAMAPUÃ,96,287,125,21 883,130 309,61,64,193,100,1 288 919,4 776 932,56,57,mistral_table,mistral_table,no
+120,CARACOL,3,7,3,487,1 720,9,9,26,10,111 800,420 095,56,57,mistral_table,mistral_table,no
+121,CASSILANDIA,74,260,135,17 387,76 691,68,71,254,153,1 526 562,6 727 970,56,57,mistral_table,mistral_table,no
+122,CORQUINHO,2,(B),(A),(X),(A),,,,,,,56,57,mistral_table,pdf_text_layout_partial,yes
+123,CORUMBA,298,1 315,726,92 479,507 102,262,274,1 239,796,8 974 577,28 358 936,56,57,mistral_table,mistral_table,no
+124,COSTA RICA,-,-,-,-,-,40,40,109,49,711 457,2 453 777,56,57,mistral_table,mistral_table,no
+125,COXIM,121,432,261,30 291,106 905,97,99,331,178,1 368 582,5 290 270,56,57,mistral_table,mistral_table,no
+126,DEODAPOLIS,32,89,31,3 574,15 209,40,40,93,25,362 616,1 638 175,56,57,mistral_table,mistral_table,no
+127,DOURADINA,-,-,-,-,-,10,10,30,11,397 100,1 336 000,56,57,mistral_table,mistral_table,no
+128,,,,,,,,,,,,,56,57,missing,missing,yes
+129,"J:""ATlMA DO SUL",297,11:::,20 €19,B1,573,101,101,246,97,1 334 806,4 617 873,58,59,pdf_text_layout,mistral_table,no
+130,GLORIA OE DOURADOS,65 207,51,12,67E,47 796,58,60,171,59,1 029 486,3 354 724,58,59,pdf_text_tokens,mistral_table,no
+131,GUIA LOPES DA LAGUNA .. 1S 5<,27,2,444,16,656,14,14,44,14,374 605,1 490 031,58,59,pdf_text_tokens,mistral_table,no
+132,IGUATEMI,,,,,,52,54,116,40,695 433,2 453 859,58,59,mistral_table_partial,mistral_table,yes
+133,lNOCENCIA,10,27,12,895,7 582,14,14,43,9,325 649,1 158 305,58,59,pdf_text_tokens,mistral_table,no
+134,ITAPORA,101,(E),2,847,12 418,36,37,110,51,378 544,1 874 509,58,59,tesseract_por_review,mistral_table,no
+135,ITAQUIRAI,,,,,,17,17,39,7,100 558,560 724,58,59,mistral_table_partial,mistral_table,yes
+136,"IVINHEMA . . . . . . . . . , 6C",21,5,11,2 210,93 638,56,56,189,81,881 551,3 139 516,58,59,pdf_text_tokens,mistral_table,no
+137,JARAGUARI,30,(E),867,13,449,4,4,6,-,31 137,338 990,58,59,pdf_text_tokens,mistral_table,no
+138,JARDIM,62,216,93,662,55 388,78,80,294,153,3 804 607,8 987 841,58,59,pdf_text_tokens,mistral_table,no
+139,JATEI,,,,,,5,5,10,-,18 716,113 636,58,59,mistral_table_partial,mistral_table,yes
+140,LADARlO,15,55,26,2 5•,12 186,3,3,6,1,30 500,69 831,58,59,pdf_text_layout,mistral_table,no
+141,MARACAJU,90 276,29,23,39E,98 427,84,90,255,122,1 458 117,7 882 373,58,59,pdf_text_tokens,mistral_table,no
+142,MIRANDA,171,46,6,206,37 095,66,67,170,67,520 801,4 808 329,58,59,pdf_text_tokens,mistral_table,no
+143,MUNDO NOVO,1 25,350,112,2 1 52A,63 716,86,91,247,99,1 183 651,6 077 962,58,59,pdf_text_layout,mistral_table,no
+144,NAVIRAI,143,501,252,33 476,155 491,108,110,331,147,1 788 331,7 008 420,58,59,tesseract_por_review,mistral_table,no
+145,N 1 OAQUE,19,51,",.",008,", 2 679",7,8,23,10,106 173,460 551,58,59,pdf_text_layout,mistral_table,no
+146,NOVA ANORAOINA,86,366',231,31 026,147 573,88,91,309,178,2 516 772,8 325 645,58,59,pdf_text_tokens,mistral_table,no
+147,PARANAIBA,11,5,227,33 994,105 103,106,108,368,177,3 924 516,10 149 525,58,59,pdf_text_tokens,mistral_table,no
+148,PEDRO GOMES,30,96,46,266,16 792,28,29,87,49,653 193,2 259 672,58,59,pdf_text_tokens,mistral_table,no
+149,PONTA PORÃ,209,83•,465,77 453,345 300,198,208,785,485,6 029 543,25 497 876,58,59,pdf_text_tokens,mistral_table,no
+150,PORTO MURTlNHO,26,155,9E,7 384,26 512,10,10,104,82,1 034 484,3 228 694,58,59,pdf_text_tokens,mistral_table,no
+151,R 1 BAS DO R 1 O PARDO,13,33,",",366,3 852,21,23,311,245,2 031 692,7 792 168,58,59,pdf_text_layout,mistral_table,no
+152,RIO BRILMANTE,50,168,97,12 382,53 073,45,52,202,128,1 508 086,8 257 884,58,59,tesseract_por_review,mistral_table,no
+153,RIO NEGRO,,,,,,14,14,24,7,66 989,421 446,58,59,mistral_table_partial,mistral_table,yes
+154,RIO VERDE DE MATO GROSSO,71,21<,60,18 728,73 284,37,39,99,36,407 016,2 687 692,58,59,pdf_text_tokens,mistral_table,no
+155,ROCHEDO,5,16,7,574,1 416,9,9,16,-,26 620,340 514,58,59,tesseract_por_review,mistral_table,no
+156,SÃO GABRIEL DO OESTE,-,-,-,-,-,38,40,151,87,714 613,3 104 287,58,59,tesseract_por_review,mistral_table,no
+157,SETE QUEDAS,-,-,-,-,-,40,40,129,69,631 152,4 025 003,58,59,tesseract_por_review,mistral_table,no
+158,SELVIRIA,-,-,-,-,-,14,14,35,17,204 855,1 034 374,58,59,tesseract_por_review,mistral_table,no
+159,SIDROLANDIA,,,,,,23,27,110,52,696 520,2 780 558,58,59,mistral_table_partial,mistral_table,yes
+160,TACURU,-,-,-,-,-,9,9,27,12,79 730,561 800,58,59,tesseract_por_review,mistral_table,no
+161,TAQUARUSSU,-,-,-,-,-,11,11,21,4,69 085,305 039,58,59,tesseract_por_review,mistral_table,no
+162,TERENOS .•. ',19,60,31,168,13 757,10,10,34,9,81 912,446 213,58,59,pdf_text_tokens,mistral_table,no
+163,TRES LAGOAS,260,903,404,65 897,223 420,222,224,824,458,6 447 413,24 802 105,58,59,pdf_text_tokens,mistral_table,no
+164,MATO GROSSO,736,15 912,8 682,1 566 721,7 407 692,4 928,5 112,20 931,12 697,211 026 015,692 119 117,58,59,pdf_text_layout,mistral_table,no
+165,ALOJAMENTO E ALIMENTAÇÃO,,,,,,2 338,2 363,7 703,3 839,47 939 851,209 568 681,58,59,mistral_table_partial,mistral_table,yes
+166,ALOJAMENTO,2,107,1 068,141 437,667 172,358,372,2 046,1 251,13 251 215,47 674 959,58,59,tesseract_por_review,mistral_table,no
+167,ALIMENTAÇÃO,,,,,,1 980,1 991,5 657,2 588,34 688 636,161 893 722,58,59,mistral_table_partial,mistral_table,yes
+168,"REPARAÇÂQ, MANUTENÇÃQ E lNSTALAÇÃQ",937,3 348,954,334 283,057 097,1 380,1 391,4 600,2 680,45 024 087,129 169 248,58,59,pdf_text_layout,mistral_table,no
+169,"REPARAÇAO, MANUTENÇAO E INSTALAÇAO",937,3 348,954,334 283,057 097,1 380,1 391,4 600,2 680,45 024 087,129 169 248,58,59,pdf_text_layout,mistral_table,no
+170,"PESSOAIS, DE HIGIENE E ESTETlCA PESSOAL",2ÔO,523,257,47 240,152 790,310,316,884,479,8 271 439,19 419 623,58,59,pdf_text_layout,mistral_table,no
+171,"PESSOAIS •. ,, .. , . • . . . , ..• , •. , . • . . . . . . . • . . . · .. · · · · · · • · • • · · '64",210,86,18,17~,84 933,115,117,343,174,2 752 414,7 869 335,58,59,pdf_text_tokens,mistral_table,no
+172,HIGIENE E DE ESTETlCA PESSOAL,11 6,313,171,29 064,67 857,195,199,541,305,5 519 025,11 550 288,58,59,pdf_text_layout,mistral_table,no
+173,"RADIODIFUSÃO, TELCVISÂO_E DIVERSÕES",75,441 277,so,i37,294 075,76,80,720,561,9 761 209,33 988 639,58,59,pdf_text_tokens,mistral_table,no
+174,RADIODIFUSÃO E TELEVISÃO,,,,,,14,17,504,436,7 940 411,27 958 702,58,59,mistral_table_partial,mistral_table,yes
+175,Dl VERSÕES,63,226,124,22 689,138 792,62,63,216,125,1 820 798,6 029 937,58,59,pdf_text_layout,mistral_table,no
+176,AUXILIARES DIVERSOS,619,A A18,200,609 397,2 260 165,745,880,6 688,4 966,96 748 902,279 635 639,58,59,pdf_text_layout,mistral_table,no
+177,AUX. DA AGROPECUARIA E REFLORESTAMENTO,,,,,,24,34,931,636,35 028 746,57 691 898,58,59,mistral_table_partial,mistral_table,yes
+178,"AUX. FINANC., SEGUROS",,,,,,88,88,1595,450,8 769 060,52 047 378,60,61,tesseract_por_review_partial,mistral_table,yes
+179,"AUX. FINANCI, SEGUROS E CAPITALIZAÇÃO",4,13,6,6,1 576,,,,,,,60,61,mistral_table,missing,yes
+180,AUXILIARES DOS TRANSPORTES,80,504,1,1,290 836,47,111,1 214,890,17 935 136,37 114 677,60,61,mistral_table,mistral_table,no
+181,"AUX. CONSTRUÇÃO, OBRAS, GEODÉSIA, ETC",43,283,166,43 528,210 117,,,,,,,60,61,mistral_table,missing,yes
+182,"AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC",3,195,183,18 472,46 465,,,,,,,60,61,mistral_table,missing,yes
+183,AUX. PRESTAÇÃO A EMPRESAS E PESSOAS,312,2 349,1 816,242 241,599 340,461,507,3 225,2 520,27 257 864,69 721 038,60,61,mistral_table,mistral_table,no
+184,AUXILIARES DA SAÚDE,42,161,90,24 857,84 696,56,59,221,128,2 347 237,6 829 666,60,61,mistral_table,mistral_table,no
+185,"COMPRA, VENDA, ADMINISTRAÇÃO BENS IMÓVEIS",106,724,431,116 533,1 271 774,79,82,336,172,3 280 527,20 337 287,60,61,mistral_table,mistral_table,no
+186,COMPRA E VENDA DE BENS IMÓVEIS,92,662,406,110 955,1 253 284,1 638,1 710,9 687,6 457,123 328 757,357 586 935,60,61,mistral_table,mistral_table,no
+187,"ADMINISTRAÇÃO, LOCAÇÃO, ETC",14,62,25,5 578,18 490,,,,,,,60,61,mistral_table,missing,yes
+188,CUIABÁ,945,5 514,3 653,670 386,2 771 064,,,,,,,60,61,mistral_table,missing,yes
+189,ALGUAMENTO E ALIMENTAÇÃO,369,1 572,797,107 176,549 342,680,692,2 579,1 467,19 163 394,77 561 460,60,61,mistral_table,mistral_table,no
+190,ALGUAMENTO,56,513,347,36 069,127 506,55,61,635,446,5 166 113,16 084 908,60,61,mistral_table,mistral_table,no
+191,ALIMENTAÇÃO,311,1 055,450,71 107,421 836,625,631,1 944,1 015,13 997 281,61 476 552,60,61,mistral_table,mistral_table,no
+192,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",242,920,571,91 603,299 237,436,441,1 716,1 096,19 805 621,50 222 834,60,61,mistral_table,mistral_table,no
+193,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",242,920,571,91 603,299 237,435,441,1 716,1 066,19 805 621,50 222 834,60,61,mistral_table,mistral_table,no
+194,"PESSOAIS, DE HIGIENE E ESTÉTICA PESSOAL",80,240,123,22 418,75 578,138,142,456,266,4 467 634,9 624 340,60,61,mistral_table,mistral_table,no
+195,PESSOAIS,25,84,39,7 794,37 205,40,41,155,95,1 208 822,3 139 394,60,61,mistral_table,mistral_table,no
+196,HIGIENE E DE ESTÉTICA PESSOAL,55,156,84,14 624,38 373,98,101,297,171,3 258 612,6 464 546,60,61,mistral_table,mistral_table,no
+197,"RADIODIFUSÃO, TELEVISÃO E DIVERSÕES",14,205,162,27 947,171 007,18,19,430,361,7 074 297,27 413 540,60,61,mistral_table,mistral_table,no
+198,RADIODIFUSÃO E TELEVISÃO,7,153,117,22 819,141 666,7,7,381,332,6 903 733,25 330 765,60,61,mistral_table,mistral_table,no
+199,DIVERSÕES,7,52,45,5 128,25 341,11,12,49,29,570 564,2 082 775,60,61,mistral_table,mistral_table,no
+200,AUXILIARES DIVERSOS,189,2 219,1 787,371 331,1 320 829,323,372,4 283,3 175,70 537 980,177 818 425,60,61,mistral_table,mistral_table,no
+201,AUX. DA AGROPECUÁRIA E REFLORESTAMENTO,13,289,261,127 815,412 776,4,7,820,564,33 351 822,48 530 805,60,61,mistral_table,mistral_table,no
+202,"AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS",18,103,76,21 381,231 977,32,48,414,342,5 897 155,42 177 152,60,61,mistral_table,mistral_table,no
+203,"AUX. FINANCI, SEGUROS E CAPITALIZAÇÃO",4,13,6,1 576,16 866,3,8,36,21,361 509,2 626 256,60,61,mistral_table,mistral_table,no
+204,AUXILIARES DOS TRANSPORTES,3,218,21,38 755,142 059,37,44,572,266,10 559 332,19 558 279,60,61,mistral_table,mistral_table,no
+205,"AUX. CONSTRUÇÃO, OBRAS, GEODÉSIA, ETC",14,144,99,24 405,156 266,23,27,219,139,2 993 612,16 555 793,60,61,mistral_table,mistral_table,no
+206,"AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC",15,15,12,914,2 263,12,12,119,99,785 806,2 867 065,60,61,mistral_table,mistral_table,no
+207,AUX. PRESTAÇÃO A EMPRESAS E PESSOAS,103,1 360,1 143,142 205,303 283,193,205,1 979,1 661,15 508 008,39 380 810,60,61,mistral_table,mistral_table,no
+208,AUXILIARES DA SAÚDE,12,77,51,15 276,55 339,15,21,124,81,1 679 736,4 122 269,60,61,mistral_table,mistral_table,no
+209,"COMPRA, VENDA, ADMINISTRAÇÃO BENS IMÓVEIS",51,358,213,49 911,355 071,43,44,223,122,2 179 831,14 946 336,60,61,mistral_table,mistral_table,no
+210,COMPRA E VENDA DE BENS IMÓVEIS,44,324,195,46 389,347 047,17,18,91,51,1 031 759,6 449 584,60,61,mistral_table,mistral_table,no
+211,"ADMINISTRAÇÃO, LOCAÇÃO, ETC",7,34,18,3 522,8 024,26,26,132,71,1 148 072,6 496 752,60,61,mistral_table,mistral_table,no
+212,RONDONÓPOLIS,349,1 582,953,124 224,453 534,314,326,1 349,891,8 788 269,33 585 744,60,61,mistral_table,mistral_table,no
+213,ALIMENTAÇÃO,88,(F),(F),(F),(F),57,57,213,127,760 819,4 338 261,60,61,mistral_table,mistral_table,no
+214,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",124,523,341,46 540,121 518,122,122,396,245,2 551 937,9 226 625,60,61,mistral_table,mistral_table,no
+215,AUXILIARES DOS TRANSPORTES,2,(E),(E),(E),(E),2,4,76,74,1 027 545,4 915 188,60,61,mistral_table,mistral_table,no
+216,DEMAIS GÉNEROS,135,699,429,55 211,203 296,133,143,664,444,4 447 968,15 105 669,60,61,mistral_table,mistral_table,no
+217,VARZEA GRANDE,201,995,621,112 492,601 914,294,303,1 245,767,13 030 588,43 083 564,60,61,mistral_table,mistral_table,no
+218,ALIMENTAÇÃO,74,271,127,22 300,200 551,118,121,377,193,2 546 235,11 323 006,60,61,mistral_table,mistral_table,no
+219,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",72,295,166,33 798,137 860,95,96,312,171,3 993 869,11 328 532,60,61,mistral_table,mistral_table,no
+220,"AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS",3,13,6,2 151,50 500,6,6,72,54,2 259 409,7 075 641,60,61,mistral_table,mistral_table,no
+221,DEMAIS GÉNEROS,52,416,322,54 243,213 003,75,80,484,349,4 231 074,13 356 385,60,61,mistral_table,mistral_table,no
+222,ACORIZAL,11,28,7,1 008,4 412,21,21,54,18,350 666,1 480 865,60,61,mistral_table,mistral_table,no
+223,AQUA BOA,14,48,13,2 316,16 848,32,33,97,37,922 130,4 241 135,60,61,mistral_table,mistral_table,no
+224,ALTA FLORESTA,97,402,232,48 245,534 253,104,109,360,180,2 596 048,8 744 890,60,61,mistral_table,mistral_table,no
+225,ALTO ARAQUAIA,57,218,104,11 677,43 328,147,148,381,183,1 884 093,9 078 425,60,61,mistral_table,mistral_table,no
+226,ALTO GARÇAS,36,106,29,3 209,21 822,34,34,80,33,299 766,2 077 221,60,61,mistral_table,mistral_table,no
+227,ALTO PARAGUAI,9,12,-,550,2 638,10,10,44,21,578 438,1 213 172,60,61,mistral_table,mistral_table,no
+228,ARAQUAINHA,-,-,-,-,-,2,2,(A),(A),(X),(A),60,61,mistral_table,mistral_table,no
+229,ARAPUTANGA,32,114,47,5 818,24 044,15,16,46,21,481 403,1 506 715,60,61,mistral_table,mistral_table,no
+230,ARENAPOLIS,35,75,12,6 062,30 629,17,18,45,12,146 279,1 587 987,60,61,mistral_table,mistral_table,no
+231,ARIPUANÁ,77,246,122,19 660,101 917,33,33,89,36,255 990,1 697 106,60,61,mistral_table,mistral_table,no
+232,BARÃO DE MELGAÇO,6,27,10,1 323,9 011,5,5,18,10,86 119,353 726,60,61,mistral_table,mistral_table,no
+233,BARRA DO BUGRES,67,184,52,12 810,47 576,38,40,120,66,897 236,3 878 445,60,61,mistral_table,mistral_table,no
+234,BARRA DO GARÇAS,231,793,415,68 377,289 014,199,207,862,548,6 692 284,20 866 847,60,61,mistral_table,mistral_table,no
+235,CACERES,180,773,430,58 344,288 273,156,160,578,347,4 115 054,12 686 537,60,61,mistral_table,mistral_table,no
+236,CANARANA,33,108,35,8 575,33 528,60,60,164,66,2 519 132,7 698 806,60,61,mistral_table,mistral_table,no
+237,CHAPADA DOS GUIMARÃES,15,58,28,4 692,36 768,28,29,69,41,385 377,1 707 373,60,61,mistral_table,mistral_table,no
+238,COLIDER,87,244,111,33 155,194 537,132,136,454,201,3 860 624,14 318 790,60,61,mistral_table,mistral_table,no
+239,DENISE,-,-,-,-,-,17,17,33,6,250 350,1 166 393,60,61,mistral_table,mistral_table,no
+240,DIAMANTINO,72,318,146,31 832,138 641,100,112,409,240,3 714 991,17 459 300,60,61,mistral_table,mistral_table,no
+241,DOM AQUINO,29,93,35,6 044,24 513,7,8,29,18,175 959,545 157,60,61,mistral_table,mistral_table,no
+242,GENERAL CARNEIRO,4,12,3,345,1 656,2,2,(C),(B),(X),(B),62,63,mistral_table,mistral_table,no
+243,GUIRATINGA,52,151,76,8 881,29 465,39,41,107,50,853 553,3 254 934,62,63,mistral_table,mistral_table,no
+244,ITIQUIRA,23,70,23,2 295,10 443,23,24,64,32,246 987,935 370,62,63,mistral_table,mistral_table,no
+245,JACIARA,52,167,88,18 236,76 160,118,119,331,178,2 278 856,10 633 475,62,63,mistral_table,mistral_table,no
+246,JAURU,21,75,37,2 295,9 259,16,17,36,14,218 363,1 045 827,62,63,mistral_table,mistral_table,no
+247,JUARA,-,-,-,-,-,90,92,220,115,808 616,5 214 565,62,63,mistral_table,mistral_table,no
+248,JUINA,-,-,-,-,-,80,83,321,193,2 360 675,11 222 326,62,63,mistral_table,mistral_table,no
+249,JUSCIMEIRA,11,32,14,2 476,11 592,27,27,78,35,666 191,1 510 829,62,63,mistral_table,mistral_table,no
+250,LUCIARA,16,84,48,9 018,82 039,67,69,162,88,723 358,3 520 093,62,63,mistral_table,mistral_table,no
+251,VILA BELA DA SANTISSIMA TRINDADE,17,88,45,5 509,34 768,10,11,26,11,308 080,669 194,62,63,mistral_table,mistral_table,no
+252,MIRASSOL D'OESTE,59,238,115,10 402,51 548,33,34,117,70,474 344,2 733 814,62,63,mistral_table,mistral_table,no
+253,NOBRES,32,93,36,12 447,76 980,78,83,265,137,1 480 220,11 402 635,62,63,mistral_table,mistral_table,no
+254,NORTELANDIA,37,73,6,5 283,22 435,16,16,46,13,714 000,3 079 000,62,63,mistral_table,mistral_table,no
+255,NOSSA SENHORA DO LIVRAMENTO,5,9,1,283,3 882,19,19,59,35,807 500,1 500 490,62,63,mistral_table,mistral_table,no
+256,NOVA BRASILANDIA,9,27,12,2 152,9 400,22,23,52,30,292 246,1 509 623,62,63,mistral_table,mistral_table,no
+257,NOVA XAVANTINA,51,190,86,11 824,51 699,89,93,316,187,3 245 709,11 190 158,62,63,mistral_table,mistral_table,no
+258,PARANATINGA,28,119,43,3 761,64 057,59,60,205,124,3 835 951,9 539 494,62,63,mistral_table,mistral_table,no
+259,PEDRA PRETA,28,91,33,4 355,24 552,23,24,56,28,293 360,1 154 153,62,63,mistral_table,mistral_table,no
+260,POCONE,50,201,101,15 392,72 264,34,35,118,77,1 456 405,3 642 414,62,63,mistral_table,mistral_table,no
+261,PONTE BRANCA,12,34,15,2 874,9 738,11,12,42,23,304 647,1 158 510,62,63,mistral_table,mistral_table,no
+262,PONTES E LACERDA,73,236,53,22 978,78 603,58,59,171,92,911 651,4 508 710,62,63,mistral_table,mistral_table,no
+263,PORTO DOS GAUCHOS,68,223,55,22 478,93 625,36,38,105,65,416 744,3 198 857,62,63,mistral_table,mistral_table,no
+264,POXOREO,58,155,59,9 057,40 115,69,72,222,96,1 377 874,6 204 268,62,63,mistral_table,mistral_table,no
+265,SÃO JOSE DOS QUATRO MARCOS,41,134,51,5 789,27 555,34,35,123,63,927 999,3 386 667,62,63,mistral_table,mistral_table,no
+266,RIO BRANCO,33,74,14,3 302,19 737,39,41,119,63,703 686,2 176 458,62,63,mistral_table,mistral_table,no
+267,SÃO JOSE DO RIO CLARO,14,49,12,6 822,25 258,53,53,157,82,886 063,3 471 346,62,63,mistral_table,mistral_table,no
+268,ROSARIO OESTE,54,126,53,13 258,66 628,35,35,83,38,1 072 704,3 406 083,62,63,mistral_table,mistral_table,no
+269,SALTO DO C'U,11,26,9,1 287,9 448,6,7,24,17,125 575,351 027,62,63,mistral_table,mistral_table,no
+270,SANTA TEREZINHA,10,32,5,986,6 567,35,35,98,48,663 309,2 955 876,62,63,mistral_table,mistral_table,no
+271,SANTO ANTONIO DO LEVERGER,20,56,18,2 588,16 736,22,23,52,20,220 093,1 355 325,62,63,mistral_table,mistral_table,no
+272,SÃO FELIX DO ARAGUAIA,19,79,22,5 753,24 461,69,70,210,109,1 169 017,3 783 381,62,63,mistral_table,mistral_table,no
+273,SINOP,127,600,311,92 237,558 153,116,120,402,198,3 715 488,16 511 516,62,63,mistral_table,mistral_table,no
+274,TANGARA DA SERRA,94,325,156,26 935,112 272,62,67,217,112,1 161 808,6 054 852,62,63,mistral_table,mistral_table,no
+275,TESOURO,7,28,3,648,-5 096,13,13,31,8,78 149,346 481,62,63,mistral_table,mistral_table,no
+276,TORIXOREU,17,57,20,3 975,11 237,22,23,68,40,771 641,2 551 130,62,63,mistral_table,mistral_table,no
+277,GOIAS,10 269,48 829,29 318,4 195 492,15 742 563,10 664,11 050,49 025,31 695,366 501 483,1 426 916 324,62,63,mistral_table,mistral_table,no
+278,ALOJAMENTO E ALIMENTAÇÃO,4 886,15 271,6 203,741 608,4 701 525,5 291,5 357,16 387,8 084,76 381 584,424 671 049,62,63,mistral_table,mistral_table,no
+279,ALOJAMENTO,675,3 964,2 153,213 975,613 046,608,622,4 529,3 389,29 049 446,138 403 333,62,63,mistral_table,mistral_table,no
+280,ALIMENTAÇÃO,4 211,11 307,4 050,527 633,3 788 479,4 683,4 735,11 858,4 695,47 332 138,286 267 716,62,63,mistral_table,mistral_table,no
+281,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",2 261,9 183,5 988,738 926,2 202 037,2 794,2 840,9 454,5 629,67 894 622,202 065 307,62,63,mistral_table,mistral_table,no
+282,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",2 261,9 183,5 988,738 926,2 202 037,2 794,2 840,9 454,5 629,67 894 622,202 065 307,62,63,mistral_table,mistral_table,no
+283,"PESSOAIS, DE HIGIENE E ESTETICA PESSOAL",633,2 096,1 282,145 893,505 526,628,644,1 949,1 182,12 342 915,35 629 472,62,63,mistral_table,mistral_table,no
+284,PESSOAIS,202,902,585,61 875,313 708,226,240,761,465,4 536 284,17 407 496,62,63,mistral_table,mistral_table,no
+285,HIGIENE E DE ESTETICA PESSOAL,431,1 194,697,84 018,191 818,402,404,1 188,717,7 806 631,18 221 976,62,63,mistral_table,mistral_table,no
+286,"RADIODIFUSÃO, TELEVISÃO E DIVERSÕES",161,1 871,1 435,222 417,941 225,122,141,1 930,1 699,22 504 467,89 862 960,62,63,mistral_table,mistral_table,no
+287,RADIODIFUSÃO E TELEVISÃO,38,1 114,910,166 971,702 946,35,39,1 513,1 398,20 100 809,74 417 395,62,63,mistral_table,mistral_table,no
+288,DIVERSÕES,123,757,525,55 446,238 279,87,102,417,301,2 403 658,15 445 565,62,63,mistral_table,mistral_table,no
+289,AUXILIARES DIVERSOS,1 983,18 186,13 488,2 087 141,5 921 442,1 636,1 871,18 301,14 464,178 882 552,627 126 519,62,63,mistral_table,mistral_table,no
+290,AUX. DA AGROPECUARIA E REFLORESTAMENTO,130,2 647,1 590,576 839,1 209 708,56,79,3 291,2 472,48 147 037,148 911 758,62,63,mistral_table,mistral_table,no
+291,"AUX. COMERCIO, LOCAÇÃO DE BENS E SERVIÇOS",174,1 083,690,155 906,944 289,206,253,1 776,1 447,23 131 764,98 083 263,62,63,mistral_table,mistral_table,no
+292,"AUX. FINANC., SEGUROS E CAPITALIZAÇÃO",19,64,42,7 362,60 777,13,21,85,59,874 377,4 998 505,62,63,mistral_table,mistral_table,no
+293,AUXILIARES DOS TRANSPORTES,213,1 816,1 140,220 945,684 311,132 240,2 221,1 582,27 072,647 128,934 633,64,65,mistral_table,tesseract_por_review,no
+294,"AUX. CONSTRUÇÃO, OBRAS, GEODÉSIA, ETC",105,781,523,114 518,363 047,75,78,624,445,7 898 446,40 616 617,64,65,mistral_table,mistral_table,no
+295,"AUX. DE IMPEZA, HIGIENIZAÇÃO, ETC",66,4 745,4 578,278 056,774 344,75,79,2 451,2 291,11 273 129,24 430 269,64,65,mistral_table,mistral_table,no
+296,AUX. PRESTADOS A EMPRESAS E PESSOAS,1 072,5 908,4 244,809 551,1 437 751,900,938,7 004,5 626,53 779 743,156 819 819,64,65,mistral_table,mistral_table,no
+297,AUXILIARES DA SAÚDE,204,1 142,681,121 964,447 235,178,183,849,532,6 705 409,27 331 655,64,65,mistral_table,mistral_table,no
+298,"COMPRA, VENDA, ADMINISTRAÇÃO BENS IMÓVEIS",345,2 222,922,259 507,1 470 808,193,197,1 004,637,8 495 343,47 561 017,64,65,mistral_table,mistral_table,no
+299,COMPRA E VENDA DE BENS IMÓVEIS,295,1 749,627,202 531,1 272 243,107,111,459,249,4 248 069,28 189 507,64,65,mistral_table,mistral_table,no
+300,"ADMINISTRAÇÃO, LOCAÇÃO, ETC",50,473,295,56 976,198 565,86,86,545,388,4 247 274,19 371 510,64,65,mistral_table,mistral_table,no
+301,GOIANIA,3 426,24 576,16 754,2 644 867,9 075 394,2 847,3 026,21 441,15 544,194 057 595,636 057 302,64,65,mistral_table,mistral_table,no
+302,ALOJAMENTO E ALIMENTAÇÃO,1 347,4 695,2 455,290 236,1 721 416,1 224,1 253,4 719,2 705,23 716 125,129 209 287,64,65,mistral_table,mistral_table,no
+303,ALOJAMENTO,97,855,610,60 748,254 805,85,91,1 109,926,7 133 140,30 898 736,64,65,mistral_table,mistral_table,no
+304,ALIMENTAÇÃO,1 250,3 840,1 845,229 488,1 466 611,1 139,1 162,3 610,1 779,16 582 989,98 310 551,64,65,mistral_table,mistral_table,no
+305,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",716,3 379,2 238,320 808,994 288,741,764,3 033,1 847,21 912 837,69 500 228,64,65,mistral_table,mistral_table,no
+306,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",716,3 379,2 238,320 808,994 288,741,764,3 033,1 847,21 912 837,69 500 228,64,65,mistral_table,mistral_table,no
+307,"PESSOAIS, DE HIGIENE E ESTÉTICA PESSOAL",237,1 001,682,74 770,293 222,177,185,729,492,4 324 761,12 870 458,64,65,mistral_table,mistral_table,no
+308,PESSOAIS,64,440,332,32 555,193 718,47,53,266,195,1 334 509,4 864 654,64,65,mistral_table,mistral_table,no
+309,HIGIENE E DE ESTÉTICA PESSOAL,173,561,350,42 215,99 504,130,132,463,297,2 990 252,8 005 804,64,65,mistral_table,mistral_table,no
+310,"RADIOCIFUSÃO, TELEVISÃO E DIVERSÕES",46,1 175,972,176 292,793 139,27,41,1 241,1 168,17 811 527,72 682 514,64,65,mistral_table,mistral_table,no
+311,RADIOCIFUSÃO E TELEVISÃO,14,767,679,146 121,639 992,7,11,1 105,1 062,17 023 717,63 433 609,64,65,mistral_table,mistral_table,no
+312,DIVERSÕES,32,388,293,30 171,153 147,20,30,136,106,787 810,9 248 905,64,65,mistral_table,mistral_table,no
+313,AUXILIARES DIVERSOS,879,12 619,9 701,1 572 105,4 192 011,564,668,11 028,8 855,120 723 442,326 507 285,64,65,mistral_table,mistral_table,no
+314,AUX. DA AGROPECUARIA E REFLORESTAMENTO,25,1 426,674,453 651,684 619,6,12,1 502,794,38 430 748,51 966 856,64,65,mistral_table,mistral_table,no
+315,"AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS",127,850,545,138 063,884 020,116,148,1 362,1 159,17 448 584,76 275 585,64,65,mistral_table,mistral_table,no
+316,"AUX. FINANC., SEGUROS E CAPITALIZAÇÃO",16,55,36,6 590,55 266,8,16,74,55,837 887,4 815 317,64,65,mistral_table,mistral_table,no
+317,AUXILIARES DOS TRANSPORTES,89,929,371,121 814,228 920,64,81,4833,420,11 395 338,17 690 348,64,65,mistral_table,mistral_table,no
+318,"AUX. CONSTRUÇÃO, OBRAS, GEODÉSIA, ETC",57,588,424,92 619,292 501,34,37,501,379,7 015 745,34 844 734,64,65,mistral_table,mistral_table,no
+319,"AUX. DE IMPEZA, HIGIENIZAÇÃO, ETC",40,4 569,4 439,264 554,748 018,43,47,2 263,2 152,10 384 875,22 339 233,64,65,mistral_table,mistral_table,no
+320,AUX. PRESTADOS A EMPRESAS E PESSOAS,423,3 484,2 765,414 684,1 005 672,226,256,4 046,3 603,31 396 441,103 650 735,64,65,mistral_table,mistral_table,no
+321,AUXILIARES DA SAÚDE,102,718,447,80 130,292 995,67,71,447,293,3 813 824,14 924 475,64,65,mistral_table,mistral_table,no
+322,"COMPRA, VENDA, ADMINISTRAÇÃO BENS IMÓVEIS",201,1 707,706,210 656,1 081 318,114,115,691,477,5 568 903,25 287 530,64,65,mistral_table,mistral_table,no
+323,COMPRA E VENDA DE BENS IMÓVEIS,162,1 318,465,160 792,916 367,61,62,282,168,2 259 017,9 394 266,64,65,mistral_table,mistral_table,no
+324,"ADMINISTRAÇÃO, LOCAÇÃO, ETC",39,389,241,49 864,164 951,53,53,409,309,3 309 886,15 893 264,64,65,mistral_table,mistral_table,no
+325,ANAPOLIS,641,2 694,1 669,200 101,965 249,692,712,2 729,1 701,23 544 366,83 163 409,64,65,mistral_table,mistral_table,no
+326,ALIMENTAÇÃO,240,592,255,26 317,191 845,206,208,539,253,2 132 743,9 948 308,64,65,mistral_table,mistral_table,no
+327,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",148,749,508,66 503,223 914,189,193,686,413,6 402 332,20 701 194,64,65,mistral_table,mistral_table,no
+328,COMPRA E VENDA DE BENS IMÓVEIS,23,106,44,12 272,190 568,7,8,33,33,1 230 676,15 474 019,64,65,mistral_table,mistral_table,no
+329,DEMAIS GÉNEROS,230,1 251,862,95 009,358 922,290,303,1 451,1 002,13 778 615,37 039 888,64,65,mistral_table,mistral_table,no
+330,ABADIANIA,6,11,3,416,4 071,19,19,46,14,137 880,1 204 083,64,65,mistral_table,mistral_table,no
+331,ACREUNA,34,149,77,7 920,58 377,66,72,269,174,1 683 776,10 909 161,64,65,mistral_table,mistral_table,no
+332,AQUA LIMPA,5,10,2,260,1 033,5,5,10,-,27 020,139 154,64,65,mistral_table,mistral_table,no
+333,ALEXANIA,24,101,58,5 746,29 414,27,27,96,35,308 638,1 676 694,64,65,mistral_table,mistral_table,no
+334,ALOANDIA,6,10,4,480,1 605,3,3,3,-,11 515,67 762,64,65,mistral_table,mistral_table,no
+335,ALTO PARAÍSO DE GOIÁS,4,11,4,404,6 804,2,3,8,6,25 767,204 538,64,65,mistral_table,mistral_table,no
+336,ALVORADA DO NORTE,23,53,15,3 349,18 285,24,25,70,32,229 899,1 336 278,64,65,mistral_table,mistral_table,no
+337,AMERICANO DO BRASIL,-,-,-,-,-,6,6,17,6,23 553,162 164,64,65,mistral_table,mistral_table,no
+338,AMORINÓPOLIS,2,(B),(A),(X),(A),10,10,20,6,136 260,352 835,64,65,mistral_table,mistral_table,no
+339,ANHANGUERA,-,-,-,-,-,4,4,8,4,16 550,111 000,64,65,mistral_table,mistral_table,no
+340,ANICUNS,71,220,101,12 171,61 283,38,39,101,49,791 385,3 269 958,64,65,mistral_table,mistral_table,no
+341,APARECIDA DE GOIANIA,68,411,301,31 799,101 326,61,63,584,483,2 872 965,10 806 199,64,65,mistral_table,mistral_table,no
+342,APORE,2,(B),(A),(X),(A),1,1,(A),(A),(X),(A),64,65,mistral_table,mistral_table,no
+343,ARAÇU,8,15,4,1 067,5 037,10,10,17,4,188 600,571 204,64,65,mistral_table,mistral_table,no
+344,ARAGARÇAS,28,73,35,4 213,14 813,20,21,63,34,300 936,1 142 465,64,65,mistral_table,mistral_table,no
+345,ARAGOIANIA,9,19,-,1 103,3 833,4,4,6,-,11 850,148 192,64,65,mistral_table,mistral_table,no
+346,ARAGUAPAZ,-,-,-,-,-,5,6,9,3,28 189,268 665,64,65,mistral_table,mistral_table,no
+347,ARENÓPOLIS,-,-,-,-,-,9,9,24,14,213 118,866 946,64,65,mistral_table,mistral_table,no
+348,ARUANÁ,11,34,11,1 792,9 292,24,24,77,26,274 659,2 626 121,64,65,mistral_table,mistral_table,no
+349,AURILANDIA,8,18,5,733,3 553,9,9,19,9,66 180,618 005,64,65,mistral_table,mistral_table,no
+350,AVELINÓPOLIS,4,7,-,128,2 075,5,5,10,1,14 317,268 835,64,65,mistral_table,mistral_table,no
+351,BARRO ALTO,16,35,12,2 080,8 434,14,15,32,7,118 380,965 048,64,65,mistral_table,mistral_table,no
+352,BELA VISTA DE GOIÁS,41,96,27,4 757,25 171,42,42,82,20,298 437,1 916 831,64,65,mistral_table,mistral_table,no
+353,BOM JARDIM DE GOIÁS,17,51,27,2 090,9 149,11,11,38,23,113 047,399 169,64,65,mistral_table,mistral_table,no
+354,BOM JESUS DE GOIAS,50,186,100,13 326,76 531,52,54,293,195,1 787 232,10 865 983,66,67,mistral_table,mistral_table,no
+355,BRAZABRANTES,-,-,-,-,-,6,6,11,3,33 800,163 000,66,67,mistral_table,mistral_table,no
+356,BRITANIA,26,80,28,4 779,13 866,19,19,40,13,165 844,1 012 611,66,67,mistral_table,mistral_table,no
+357,BURITI ALEGRE,42,119,62,5 646,22 158,75,75,205,119,1 300 089,3 008 281,66,67,mistral_table,mistral_table,no
+358,CABECEIRAS,11,30,9,1 052,4 932,18,18,46,11,101 919,430 732,66,67,mistral_table,mistral_table,no
+359,CACHOEIRA ALTA,23,66,22,3 264,17 236,27,27,67,35,336 476,783 810,66,67,mistral_table,mistral_table,no
+360,CACHOEIRA DE GOIAS,2,(B),(A),(X),(A),2,2,(A),(A),(X),(A),66,67,mistral_table,mistral_table,no
+361,CACHOEIRA DOURADA,-,-,-,-,-,4,4,16,11,109 687,412 026,66,67,mistral_table,mistral_table,no
+362,CAÇU,35,120,48,8 024,31 458,45,46,137,66,597 541,3 831 520,66,67,mistral_table,mistral_table,no
+363,CAIAPONIA,58,182,91,12 316,44 993,82,83,261,147,1 962 366,6 360 306,66,67,mistral_table,mistral_table,no
+364,CALDAS NOVAS,84,1 002,485,60 110,348 395,90,93,1 472,1 270,13 028 811,69 516 602,66,67,mistral_table,mistral_table,no
+365,CAMPESTRE DE GOIAS,4,9,-,478,2 138,1,1,(A),(A),(X),(A),66,67,mistral_table,mistral_table,no
+366,CAMPINAÇU,-,-,-,-,-,9,9,19,7,43 948,269 970,66,67,mistral_table,mistral_table,no
+367,CAMPINORTE,36,120,50,4 254,18 082,35,35,103,52,560 072,1 955 904,66,67,mistral_table,mistral_table,no
+368,CAMPO ALEGRE DE GOIAS,3,3,-,127,464,13,13,25,5,57 479,397 618,66,67,mistral_table,mistral_table,no
+369,CAMPOS BELOS,36,115,56,7 334,24 132,36,38,136,77,957 484,3 398 618,66,67,mistral_table,mistral_table,no
+370,CARMO DO RIO VERDE,16,34,10,1 129,10 051,41,41,113,48,483 355,2 095 455,66,67,mistral_table,mistral_table,no
+371,CATALÃO,160,527,270,33 236,170 157,255,263,663,354,3 488 363,13 478 031,66,67,mistral_table,mistral_table,no
+372,CATURAI,3,5,2,276,1 453,3,3,3,-,1 860,11 160,66,67,mistral_table,mistral_table,no
+373,CAVALCANTE,7,23,3,609,2 972,8,8,17,7,51 935,311 300,66,67,mistral_table,mistral_table,no
+374,CERES,109,300,120,11 826,51 670,132,132,345,191,1 724 297,6 506 680,66,67,mistral_table,mistral_table,no
+375,CORREGO DO OURO,6,11,5,409,1 552,8,8,16,1,33 045,267 955,66,67,mistral_table,mistral_table,no
+376,CORUMBA DE GOIAS,41,146,61,6 026,37 823,84,85,179,91,1 218 967,3 711 889,66,67,mistral_table,mistral_table,no
+377,CORUMBAIBA,5,7,1,590,3 039,30,30,75,39,526 266,1 550 825,66,67,mistral_table,mistral_table,no
+378,CRISTALINA,28,82,37,4 300,23 444,32,32,83,37,242 469,1 163 018,66,67,mistral_table,mistral_table,no
+379,CRISTIANOPOLIS,5,8,-,230,2 297,6,6,11,2,29 134,181 835,66,67,mistral_table,mistral_table,no
+380,CRIXAS,54,158,76,7 883,30 397,21,21,55,29,667 006,1 967 778,66,67,mistral_table,mistral_table,no
+381,CROMINIA,7,15,2,425,2 739,14,14,46,14,117 460,351 000,66,67,mistral_table,mistral_table,no
+382,CUMARI,6,8,-,360,3 392,7,7,12,2,64 078,361 166,66,67,mistral_table,mistral_table,no
+383,DAMIANOPOLIS,2,(B),(A),(X),(A),3,3,8,4,17 128,133 075,66,67,mistral_table,mistral_table,no
+384,DAMOLANDIA,1,(A),(A),(X),(A),8,8,10,3,55 364,398 760,66,67,mistral_table,mistral_table,no
+385,DAVINOPOLIS,1,(A),(A),(X),(A),2,2,(B),(A),(X),(A),66,67,mistral_table,mistral_table,no
+386,DIORAMA,5,13,-,255,2 574,5,5,11,3,31 064,247 800,66,67,mistral_table,mistral_table,no
+387,DOVERLANDIA,-,-,-,-,-,30,30,78,38,405 336,1 102 040,66,67,mistral_table,mistral_table,no
+388,EDEIA,21,72,38,4 012,17 023,27,28,73,30,387 297,1 920 311,66,67,mistral_table,mistral_table,no
+389,ESTRELA DO NORTE,10,31,11,990,10 831,24,24,61,30,166 299,881 412,66,67,mistral_table,mistral_table,no
+390,FAZENDA NOVA,16,46,24,3 215,10 043,23,23,41,16,188 920,1 198 154,66,67,mistral_table,mistral_table,no
+391,FIRMINOPOLIS,30,66,29,3 679,22 673,52,52,120,46,640 933,2 308 254,66,67,mistral_table,mistral_table,no
+392,FLORES DE GOIAS,5,11,5,629,5 840,5,5,14,5,43 457,151 621,66,67,mistral_table,mistral_table,no
+393,FORMOSA,176,541,254,36 078,132 370,174,178,502,235,2 776 702,11 946 961,66,67,mistral_table,mistral_table,no
+394,FORMOSO,29,77,27,2 090,14 732,30,30,97,33,205 766,2 078 007,66,67,mistral_table,mistral_table,no
+395,GALHEIROS,5,15,5,784,3 754,6,7,13,3,42 247,159 885,66,67,mistral_table,mistral_table,no
+396,GOIANAPOLIS,4,10,5,315,1 270,6,6,9,-,11 131,110 884,66,67,mistral_table,mistral_table,no
+397,GOIANDIRA,15,29,6,1 674,7 387,9,9,24,7,78 155,378 145,66,67,mistral_table,mistral_table,no
+398,GOIANESIA,136,479,246,27 593,117 378,113,115,1 201,1 001,2 889 220,72 441 965,66,67,mistral_table,mistral_table,no
+399,GOIANIRA,12,25,11,1 523,6 963,12,12,30,9,185 126,918 832,66,67,mistral_table,mistral_table,no
+400,GOIAS,150,518,238,27 614,102 096,78,82,240,98,885 880,5 806 727,66,67,mistral_table,mistral_table,no
+401,GOIATUBA,131,521,319,37 118,141 782,131,140,569,354,4 346 995,20 460 761,68,69,mistral_table,mistral_table,no
+402,GUAPO,37,126,55,5 513,19 357,15,15,38,22,219 167,602 388,68,69,mistral_table,mistral_table,no
+403,GUARANI DE GOIAS,-,-,-,-,-,1,1,(A),(A),(X),(A),68,69,mistral_table,mistral_table,no
+404,HEITORAI,3,6,2,477,1 459,5,5,12,3,30 105,162 184,68,69,mistral_table,mistral_table,no
+405,HIDROLANDIA,15,35,9,1 294,7 360,34,34,68,25,190 469,771 920,68,69,mistral_table,mistral_table,no
+406,HIDROLINE,10,27,9,1 218,4 711,15,16,45,16,211 690,446 709,68,69,mistral_table,mistral_table,no
+407,IACIARA,27,95,50,8 807,30 527,32,32,77,22,257 635,766 887,68,69,mistral_table,mistral_table,no
+408,INDIARA,-,-,-,-,-,35,35,89,39,439 759,1 208 699,68,69,mistral_table,mistral_table,no
+409,INHUMAS,96,330,177,27 916,97 218,173,178,500,246,3 125 937,10 814 495,68,69,mistral_table,mistral_table,no
+410,IPAMERI,68,180,86,10 162,41 171,92,94,239,125,1 645 245,5 103 570,68,69,mistral_table,mistral_table,no
+411,IPORA,151,491,214,24 685,125 558,120,122,369,210,2 491 560,9 662 547,68,69,mistral_table,mistral_table,no
+412,ISRAELANDIA,3,4,-,146,1 651,8,8,19,5,82 432,590 738,68,69,mistral_table,mistral_table,no
+413,ITABERA,73,236,125,18 636,66 992,44,45,129,75,839 696,4 066 299,68,69,mistral_table,mistral_table,no
+414,ITAQUARU,12,27,6,1 173,4 270,16,16,50,23,326 387,1 289 656,68,69,mistral_table,mistral_table,no
+415,ITAJA,33,111,59,5 870,26 732,20,20,55,7,108 971,1 153 400,68,69,mistral_table,mistral_table,no
+416,ITAPACI,14,38,15,2 617,4 952,65,66,166,77,541 986,2 345 728,68,69,mistral_table,mistral_table,no
+417,ITAPIRAPUÃ,25,72,29,3 292,14 021,22,23,73,24,321 482,3 002 353,68,69,mistral_table,mistral_table,no
+418,ITAPURANGA,68,191,94,10 629,36 406,58,59,177,90,1 426 601,4 133 792,68,69,mistral_table,mistral_table,no
+419,ITARUMÃ,9,23,11,1 542,6 801,18,18,50,27,234 161,987 090,68,69,mistral_table,mistral_table,no
+420,ITAUÇU,31,93,31,3 602,26 104,33,34,91,43,538 921,2 565 103,68,69,mistral_table,mistral_table,no
+421,ITUMBIARA,335,1 391,755,86 323,372 989,260,277,1 164,755,9 033 726,49 777 592,68,69,mistral_table,mistral_table,no
+422,IVOLANDIA,8,18,-,537,4 728,6,6,17,7,45 814,102 702,68,69,mistral_table,mistral_table,no
+423,JANDAIA,23,49,18,4 209,10 960,14,15,34,17,132 381,824 753,68,69,mistral_table,mistral_table,no
+424,JARAQUA,71,220,125,12 530,79 540,38,41,168,124,1 063 880,5 876 797,68,69,mistral_table,mistral_table,no
+425,JATAI,246,957,597,73 299,262 974,293,302,1 040,626,8 467 558,26 039 969,68,69,mistral_table,mistral_table,no
+426,JAUPACI,7,13,6,351,2 127,5,5,10,3,40 815,93 996,68,69,mistral_table,mistral_table,no
+427,JOVIANIA,26,54,23,3 822,16 119,22,23,45,16,214 900,1 595 094,68,69,mistral_table,mistral_table,no
+428,JUSSARA,107,431,237,34 066,87 518,77,79,282,168,1 651 151,7 230 670,68,69,mistral_table,mistral_table,no
+429,LEOPOLDO DE BULHÕES,15,26,4,1 345,9 203,20,20,38,5,109 972,753 435,68,69,mistral_table,mistral_table,no
+430,LUZIANIA,167,677,420,51 784,226 846,174,175,691,419,4 429 215,19 192 354,68,69,mistral_table,mistral_table,no
+431,MAIRIPOTABA,2,(B),(B),(X),(A),3,3,8,3,27 930,69 200,68,69,mistral_table,mistral_table,no
+432,MAMBAI,5,7,2,555,3 154,11,11,27,1,34 102,305 759,68,69,mistral_table,mistral_table,no
+433,MARA ROSA,29,64,21,3 467,19 690,80,81,188,88,1 139 411,4 452 949,68,69,mistral_table,mistral_table,no
+434,MARZAQÃO,1,(A),(A),(X),(A),2,2,(A),(A),(X),(A),68,69,mistral_table,mistral_table,no
+435,MAURILANDIA,21,63,28,3 566,17 506,26,26,58,25,187 201,1 550 378,68,69,mistral_table,mistral_table,no
+436,MINAÇU,62,243,145,20 688,108 707,52,55,199,136,1 690 955,7 669 073,68,69,mistral_table,mistral_table,no
+437,MINEIROS,110,445,274,29 059,98 714,136,141,505,297,3 352 466,17 553 693,68,69,mistral_table,mistral_table,no
+438,MOIPORA,7,18,-,429,4 018,4,4,9,-,18 352,225 118,68,69,mistral_table,mistral_table,no
+439,MONTE ALEGRE DE GOIAS,6,15,4,692,4 055,13,13,30,11,87 287,400 470,68,69,mistral_table,mistral_table,no
+440,MONTES CLAROS DE GOIAS,24,67,25,5 274,13 634,15,16,44,21,158 116,1 235 868,68,69,mistral_table,mistral_table,no
+441,MORRINHOS,133,476,259,32 465,142 735,124,126,432,252,2 962 565,9 720 904,68,69,mistral_table,mistral_table,no
+442,MOSSAMEDES,25,57,12,1 940,14 112,24,25,54,18,113 267,816 613,68,69,mistral_table,mistral_table,no
+443,MOZARLANDIA,33,103,41,5 651,24 379,20,22,75,41,358 266,1 530 823,68,69,mistral_table,mistral_table,no
+444,MUNDO NOVO,-,-,-,-,-,15,15,38,17,128 577,827 343,68,69,mistral_table,mistral_table,no
+445,MUTUNOPOLIS,6,27,6,463,3 290,8,8,25,9,226 911,305 035,68,69,mistral_table,mistral_table,no
+446,NAZARIO,18,48,23,3 393,10 804,15,16,53,31,262 608,1 936 718,68,69,mistral_table,mistral_table,no
+447,MEROPOLIS,14,32,14,1 471,3 800,18,18,40,10,84 438,670 606,68,69,mistral_table,mistral_table,no
+448,NIQUELANDIA,68,420,245,29 699,90 372,94,97,580,448,4 434 070,14 166 264,70,71,mistral_table,mistral_table,no
+449,NOVA AMERICA,5,11,-,130,913,5,5,10,3,21 010,122 414,70,71,mistral_table,mistral_table,no
+450,NOVA AURORA,3,5,1,164,1 595,3,3,3,-,26 100,159 687,70,71,mistral_table,mistral_table,no
+451,NOVA CRIXAS,-,-,-,-,-,35,35,96,44,445 023,1 818 417,70,71,mistral_table,mistral_table,no
+452,NOVA GLORIA,-,-,-,-,-,53,54,134,52,411 594,1 548 786,70,71,mistral_table,mistral_table,no
+453,NOVA ROMA,1,(A),(A),(X),(A),3,3,6,1,13 000,229 979,70,71,mistral_table,mistral_table,no
+454,NOVA VENEZA,7,11,2,230,1 980,10,10,17,2,31 758,226 617,70,71,mistral_table,mistral_table,no
+455,NOVO BRASIL,19,54,20,3 396,8 087,13,13,29,13,102 134,751 221,70,71,mistral_table,mistral_table,no
+456,ORIZONA,20,33,7,1 084,14 012,17,17,29,9,150 376,955 900,70,71,mistral_table,mistral_table,no
+457,OURO VERDE DE GOIAS,1,(A),(A),(X),(A),3,3,8,1,11 720,29 948,70,71,mistral_table,mistral_table,no
+458,OUVIDOR,6,53,37,2 270,34 195,6,7,45,38,265 623,2 453 551,70,71,mistral_table,mistral_table,no
+459,PADRE BERNARDO,27,92,45,3 494,16 305,73,74,168,89,441 296,1 487 064,70,71,mistral_table,mistral_table,no
+460,PALMEIRAS DE GOIAS,48,134,67,11 766,41 878,49,53,156,79,947 977,3 841 546,70,71,mistral_table,mistral_table,no
+461,PALMELO,10,25,-,353,3 524,7,7,15,-,6 000,345 366,70,71,mistral_table,mistral_table,no
+462,PALMINOPOLIS,1,(A),(A),(X),(A),6,6,12,6,105 800,216 049,70,71,mistral_table,mistral_table,no
+463,PANAMA,2,(B),(A),(X),(A),-,1,(A),(A),(X),(A),70,71,mistral_table,mistral_table,no
+464,PARANAIGUARA,25,64,24,2 553,9 674,39,39,102,47,330 060,1 258 315,70,71,mistral_table,mistral_table,no
+465,PARAUNA,41,134,67,10 477,45 086,35,38,106,59,817 703,3 369 443,70,71,mistral_table,mistral_table,no
+466,PETROLINA DE GOIAS,19,42,2,758,7 741,26,26,64,25,269 200,987 017,70,71,mistral_table,mistral_table,no
+467,PILAR DE GOIAS,2,(B),(A),(X),(A),4,4,10,2,95 000,456 000,70,71,mistral_table,mistral_table,no
+468,PIRACANJUBA,78,280,104,9 838,43 920,85,86,256,134,1 180 575,5 880 519,70,71,mistral_table,mistral_table,no
+469,PIRANHAS,72,209,110,13 780,60 631,33,34,111,57,748 351,2 917 087,70,71,mistral_table,mistral_table,no
+470,PIRENOPOLIS,49,151,79,6 577,18 376,60,61,129,65,673 657,2 379 160,70,71,mistral_table,mistral_table,no
+471,PIRES DO RIO,97,231,76,9 780,46 153,89,90,186,75,955 461,5 102 383,70,71,mistral_table,mistral_table,no
+472,PLANALTINA,35,82,-,1 827,9 748,37,37,61,13,332 381,1 495 034,70,71,mistral_table,mistral_table,no
+473,PONTALINA,71,211,122,11 745,46 941,44,46,147,81,1 358 753,4 600 062,70,71,mistral_table,mistral_table,no
+474,PORANGATU,94,426,241,33 302,111 518,147,153,475,263,2 625 024,10 654 761,70,71,mistral_table,mistral_table,no
+475,PORTELANDIA,4,9,2,266,1 277,7,7,14,4,89 024,466 805,70,71,mistral_table,mistral_table,no
+476,POSSE,28,92,43,6 497,19 653,54,55,171,70,439 871,2 214 588,70,71,mistral_table,mistral_table,no
+477,QUIRINOPOLIS,114,434,272,27 322,116 012,104,107,312,172,1 872 355,10 455 099,70,71,mistral_table,mistral_table,no
+478,RIALMA,32,95,42,5 040,28 825,39,40,114,52,444 155,2 997 650,70,71,mistral_table,mistral_table,no
+479,RIANAPOLIS,12,33,18,1 150,9 255,27,28,58,22,236 686,777 039,70,71,mistral_table,mistral_table,no
+480,RIO VERDE,194,818,535,66 757,249 703,223,237,967,620,7 598 927,34 478 850,70,71,mistral_table,mistral_table,no
+481,RUBIATABA,41,124,43,4 397,17 089,71,72,174,80,797 714,3 630 996,70,71,mistral_table,mistral_table,no
+482,SANCLERLANDIA,35,65,18,2 358,24 151,44,44,107,31,246 258,1 715 652,70,71,mistral_table,mistral_table,no
+483,SANTA BARBARA DE GOIAS,9,22,4,800,3 646,4,5,409,396,3 821 661,5 729 197,70,71,mistral_table,mistral_table,no
+484,SANTA CRUZ DE GOIAS,1,(A),(A),(X),(A),1,1,(A),(A),(X),(A),70,71,mistral_table,mistral_table,no
+485,SANTA HELENA DE GOIAS,105,385,238,34 893,138 653,176,181,556,307,2 918 567,15 243 370,70,71,mistral_table,mistral_table,no
+486,SANTA ISABEL,-,-,-,-,-,5,5,6,-,26 337,167 212,70,71,mistral_table,mistral_table,no
+487,SANTA RITA DO ARAGUAIA,29,66,11,2 751,13 283,29,29,86,43,495 430,1 295 216,70,71,mistral_table,mistral_table,no
+488,SANTA ROSA DE GOIAS,9,22,5,1 806,3 378,5,6,14,8,77 222,690 871,70,71,mistral_table,mistral_table,no
+489,SANTA TEREZA DE GOIAS,14,43,3,933,9 241,31,31,61,25,177 312,1 243 306,70,71,mistral_table,mistral_table,no
+490,SANTA TEREZINHA DE GOIAS,17,60,15,1 865,7 037,42,44,137,86,770 496,2 168 472,70,71,mistral_table,mistral_table,no
+491,SANTO ANTONIO DO DESCOBERTO,-,-,-,-,-,8,8,16,1,118 864,438 633,70,71,mistral_table,mistral_table,no
+492,SÃO DOMINGOS,12,39,17,2 504,7 298,29,29,57,9,144 379,1 267 755,70,71,mistral_table,mistral_table,no
+493,SÃO FRANCISCO DE GOIAS,8,11,2,266,1 542,5,5,6,1,18 580,97 066,70,71,mistral_table,mistral_table,no
+494,SÃO JOÃO D'ALIANÇA,6,17,3,380,3 460,17,17,41,2,51 334,225 032,70,71,mistral_table,mistral_table,no
+495,SÃO LUIS DE MONTES BELOS,111,364,186,19 446,93 069,109,112,324,158,1 365 645,6 152 453,72,73,mistral_table,mistral_table,no
+496,SÃO MIGUEL DO ARAGUAIA,79,299,169,17 417,92 824,52,54,249,170,1 630 737,8 698 034,72,73,mistral_table,mistral_table,no
+497,SÃO SIMÃO,40,133,72,11 600,39 287,35,36,109,61,698 423,1 530 223,72,73,mistral_table,mistral_table,no
+498,SERRANOPOLIS,10,26,13,1 177,6 109,13,13,33,15,202 741,854 154,72,73,mistral_table,mistral_table,no
+499,SILVANIA,23,63,30,3 637,18 623,31,31,88,40,610 659,1 618 288,72,73,mistral_table,mistral_table,no
+500,SITIO D'ABADIA,2,(A),(A),(X),(A),2,2,(A),(A),(X),(A),72,73,mistral_table,mistral_table,no
+501,TAQUARAL DE GOIAS,29,77,23,4 594,15 520,19,19,43,9,128 016,519 480,72,73,mistral_table,mistral_table,no
+502,TRES RANCHOS,1,(A),(A),(X),(A),1,2,(A),(A),(X),(A),72,73,mistral_table,mistral_table,no
+503,TRINDADE,87,286,153,24 477,64 490,96,96,231,119,1 055 091,3 333 000,72,73,mistral_table,mistral_table,no
+504,TURVANIA,6,12,6,777,2 800,11,11,22,10,86 800,237 247,72,73,mistral_table,mistral_table,no
+505,URUACU,112,377,198,25 643,106 132,145,146,467,278,3 849 599,9 958 176,72,73,mistral_table,mistral_table,no
+506,URUANA,24,57,31,1 788,5 285,89,90,213,115,1 145 339,5 411 541,72,73,mistral_table,mistral_table,no
+507,URUTAI,7,12,2,532,1 462,6,6,8,2,22 997,366 018,72,73,mistral_table,mistral_table,no
+508,VARJÃO,4,10,-,192,2 254,6,7,20,10,117 900,854 000,72,73,mistral_table,mistral_table,no
+509,VIANOPOLIS,25,58,19,2 796,15 867,13,14,34,14,149 093,1 077 849,72,73,mistral_table,mistral_table,no
+510,VICENTINOPOLIS,-,-,-,-,-,7,9,45,36,564 639,6 082 249,72,73,mistral_table,mistral_table,no
+511,DISTRITO FEDERAL,4 611,59 257,46 015,9 766 554,37 310 117,4 999,5 408,56 942,43 436,668 122 018,3 440 222 611,72,73,mistral_table,mistral_table,no
+512,ALOJAMENTO E ALIMENTAÇÃO,2 099,10 418,6 454,906 194,5 257 236,2 281,2 376,12 432,8 240,83 546 288,476 623 846,72,73,mistral_table,mistral_table,no
+513,ALOJAMENTO,80,2 040,1 499,271 752,1 130 642,69,81,2 784,2 517,30 269 954,139 535 650,72,73,mistral_table,mistral_table,no
+514,ALIMENTAÇÃO,2 019,8 378,4 955,634 442,4 126 594,2 212,2 295,9 648,5 723,53 276 334,337 088 196,72,73,mistral_table,mistral_table,no
+515,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",727,3 465,2 137,412 730,1 506 757,966,996,4 099,2 494,38 999 132,127 320 107,72,73,mistral_table,mistral_table,no
+516,"REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO",727,3 465,2 137,412 730,1 506 757,966,996,4 099,2 494,38 999 132,127 320 107,72,73,mistral_table,mistral_table,no
+517,"PESSOAIS, DE HIGIENE E ESTÉTICA PESSOAL",480,1 816,1 124,150 996,413 573,477,547,1 941,1 248,10 794 269,33 406 670,72,73,mistral_table,mistral_table,no
+518,PESSOAIS,162,675,427,65 657,193 437,80,125,381,264,2 094 697,6 955 334,72,73,mistral_table,mistral_table,no
+519,HIGIENE E DE ESTÉTICA PESSOAL,318,1 141,697,85 339,220 136,417,422,1 560,984,8 699 572,26 451 336,72,73,mistral_table,mistral_table,no
+520,"RADIODIFUSÃO, TELEVISÃO E DIVERSÕES",71,1 584,1 025,402 075,995 904,46,71,1 677,1 366,37 496 139,121 425 931,72,73,mistral_table,mistral_table,no
+521,RADIODIFUSÃO E TELEVISÃO,13,1 265,789,372 736,834 222,3,13,1 379,1 151,35 355 801,104 290 200,72,73,mistral_table,mistral_table,no
+522,DIVERSÕES,58,319,236,29 339,161 682,43,58,298,215,2 140 338,17 135 731,72,73,mistral_table,mistral_table,no
+523,AUXILIARES DIVERSOS,1 024,39 216,34 071,7 037 382,26 184 804,1 027,1 213,35 498,29 215,485 942 698,2 621 782 057,72,73,mistral_table,mistral_table,no
+524,AUX. DA AGROPECUÁRIA E REFLORESTAMENTO,14,195,97,54 630,88 394,12,13,235,155,5 877 114,12 460 273,72,73,mistral_table,mistral_table,no
+525,"AUX. COMÉRCIO, LOCAÇÃO DE BENS E SERVIÇOS",176,1 224,798,316 256,5 481 248,190,231,1 646,1 479,36 966 631,357 498 430,72,73,mistral_table,mistral_table,no
+526,"AUX. FINANC., SEGUROS E CAPITALIZAÇÃO",22,136,111,23 254,128 608,18,26,145,95,2 693 114,38 643 934,72,73,mistral_table,mistral_table,no
+527,AUXILIARES DOS TRANSPORTES,63,2 547,846,926 759,776 685,31,56,2 688,1 681,83 838 733,358 077 321,72,73,mistral_table,mistral_table,no
+528,"AUX. CONSTRUÇÃO, OBRAS, GEOGESIA, ETC",85,1 185,853,472 649,1 213 675,64,79,1 244,902,49 485 149,108 034 687,72,73,mistral_table,mistral_table,no
+529,"AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC",118,12 304,11 768,750 580,1 812 241,104,110,11 522,11 208,67 406 392,144 743 361,72,73,mistral_table,mistral_table,no
+530,AUX. PRESTADOS À EMPRESAS E PESSOAS,437,20 784,19 101,4 374 800,16 248 161,524,608,17 116,13 287,233 110 000,1 580 072 356,72,73,mistral_table,mistral_table,no
+531,AUXILIARES DA SAÚDE,109,843,497,118 454,435 792,84,90,602,408,6 565 565,22 251 695,72,73,mistral_table,mistral_table,no
+532,"COMPRA, VENDA, ADMINISTRAÇÃO BENS IMÓVEIS",210,2 756,1 204,857 177,2 951 843,202,205,1 295,873,11 343 492,59 664 000,72,73,mistral_table,mistral_table,no
+533,COMPRA E VENDA DE BENS IMÓVEIS,127,1 284,529,523 144,1 885 283,67,68,312,155,3 242 320,19 426 653,72,73,mistral_table,mistral_table,no
+534,"ADMINISTRAÇÃO, LOCAÇÃO, ETC",83,1 472,675,334 033,1 066 560,135,137,983,718,8 101 172,40 237 347,72,73,mistral_table,mistral_table,no

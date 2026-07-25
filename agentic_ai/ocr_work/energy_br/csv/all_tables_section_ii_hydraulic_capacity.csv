@@ -1,0 +1,207 @@
+source_file,page,source_table_id,row_in_table,state,company,municipality_plant_location,plant,electrical_installation_capacity_hp,total_waterfall_capacity_hp,waterfall_height_m,extension_m
+all_tables.pdf,33,tbl-93.md,3,,Companhia Brasileira de Energia Eléctrica,Cachoeira,Bananeiras,15600,30000,35,1500
+all_tables.pdf,33,tbl-93.md,4,,Companhia Luz e Força,Ilhéos,—,900,—,21,163
+all_tables.pdf,33,tbl-93.md,5,,Companhia Valença Industrial,Valença,Nossa Senhora do Amparo,100,1000,5,—
+all_tables.pdf,33,tbl-93.md,7,,"C Força e Luz, Limitada, de Affonso Claudio",Affonso Claudio,Barra do Rio do Peixe,20,2000,10,—
+all_tables.pdf,33,tbl-93.md,8,,Empresa Força e Luz Alegre-Veado,Alegre,—,300,300,100,240
+all_tables.pdf,33,tbl-93.md,9,,André Carloni,Cachoeiro de Santa Leopoldina,—,120,—,5,—
+all_tables.pdf,33,tbl-93.md,10,,Comp Serviços Reunidos do Itapemirim,Cachoeiro do Itapemirim,Fructeiras,4077,4100,220,900
+all_tables.pdf,33,tbl-93.md,11,,Municipalidade de Cachoeiro do Itapemirim,Cachoeiro do Itapemirim,Ilha da Luz,135,400,6,—
+all_tables.pdf,33,tbl-93.md,12,,De Biase & Companhia,Espírito Santo do Rio Pardo,—,8,8,2,—
+all_tables.pdf,33,tbl-93.md,13,,"Duarte, Beiriz & Companhia",Piúma,Pedra d'Agua,56,70,7,—
+all_tables.pdf,33,tbl-93.md,14,,Governo do Estado do Espírito Santo,Santa Isabel,Jucú,2226,25000,52,87
+all_tables.pdf,33,tbl-93.md,15,,Sociedade Anonyma de Melhoramentos,Santa Thereza,Santa Thereza,32,40,10,110
+all_tables.pdf,33,tbl-93.md,16,,Companhia de Electricidade Muquy do Sul,São Pedro do Itabapoana,Apparecida,460,980,17,220
+all_tables.pdf,33,tbl-93.md,18,,"Companhia Mattogrossense de Electricidade, Limitada",Campo Grande,—,350,800,76,120
+all_tables.pdf,35,tbl-99.md,1,,José Ernesto Komel,Abre Campo,—,30,50,20,—
+all_tables.pdf,35,tbl-99.md,2,,Empresa Força e Luz de Araguary,Araguary,Prada,1000,2000,50,84
+all_tables.pdf,35,tbl-99.md,3,,Municipalidade de Aiaxá,Araxá,—,170,350,10,120
+all_tables.pdf,35,tbl-99.md,4,,Municipalidade de Barbacena,Barbacena,Bias Fortes,2000,4000,37,602
+all_tables.pdf,35,tbl-99.md,5,,Sociedade Carandahyense de Electricidade,Barbacena,—,120,800,20,27
+all_tables.pdf,35,tbl-99.md,6,,Municipalidade de Cabo Verde,Cabo Verde,Municipal,14,42,30,100
+all_tables.pdf,35,tbl-99.md,7,,Municipalidade de Caché,Caché,Funil,107,170,19,60
+all_tables.pdf,35,tbl-99.md,8,,Empresa Sul Mineira de Força e Luz,Caldas,Rio Verde,320,1800,27,27
+all_tables.pdf,35,tbl-99.md,9,,"The Conquista — Xicão Gold Mines Company, Limited",Campanha,—,1300,2000,106,1300
+all_tables.pdf,35,tbl-99.md,10,,Municipalidade de Campo Bello,Campo Bello,Municipal,60,80,30,200
+all_tables.pdf,35,tbl-99.md,11,,Empresa Força e Luz de Campos Geraes,Campos Geraes,—,170,250,4,—
+all_tables.pdf,35,tbl-99.md,12,,"Companhia Brasileira de Tramways, Luz e Força",Carangula,Tombos,4000,12000,75,200
+all_tables.pdf,35,tbl-99.md,13,,Companhia Industrial de Caratinga,Caratinga,Cachoeira do Lage,120,300,170,700
+all_tables.pdf,35,tbl-99.md,14,,S A Força e Luz de Carmo do Rio Claro,Carmo do Rio Claro,Santa Quitéria,100,300,30,18
+all_tables.pdf,35,tbl-99.md,15,,Municipalidade de Caxambú,Caxambú,Furnas,160,270,15,30
+all_tables.pdf,35,tbl-99.md,16,,Municipalidade de Christina,Christina,Godefredo Fonseca,116,116,54,350
+all_tables.pdf,35,tbl-99.md,17,,Carneiro Junqueira & Companhia,Conceição do Rio Verde,—,125,125,18,20
+all_tables.pdf,35,tbl-99.md,18,,Companhia Codro e Cachoeira,Curvello,Fabrica da Cachoeira,200,200,16,100
+all_tables.pdf,35,tbl-99.md,19,,"Ramos, Guerra & Companhia",Diamantina,Santa Maria,300,450,108,1600
+all_tables.pdf,37,tbl-102.md,2,,Miranda & Gomes,Diamantina,—,12,12,6,12
+all_tables.pdf,37,tbl-102.md,3,,Empresa Dorense de Electricidade,Dóres da Bóa Esperança,—,55,75,11,70
+all_tables.pdf,37,tbl-102.md,4,,Empresa Lus Electrica de Entre-Rios,Entre-Rios,—,81,250,9,—
+all_tables.pdf,37,tbl-102.md,5,,Municipalidade de Formiga,Formiga,Santa Maria,200,200,11,28
+all_tables.pdf,37,tbl-102.md,6,,Municipalidade de Fructal,Fructal,—,22,195,4,—
+all_tables.pdf,37,tbl-102.md,7,,Empresa Nacional de Electricidade,Guaranesia,Santa Cleonice,600,1500,19,40
+all_tables.pdf,37,tbl-102.md,8,,,Muzambinho,Santa Nair,500,500,46,210
+all_tables.pdf,37,tbl-102.md,9,,Companhia Industrial Sul Mineira,Itajubá,Lourenço Velho,2100,3000,28,200
+all_tables.pdf,37,tbl-102.md,10,,Municipalidade de Itapecerica,Itapecerica,—,75,90,36,100
+all_tables.pdf,37,tbl-102.md,11,,Companhia Industrial Itaúnense,Itaúna,—,560,1300,50,200
+all_tables.pdf,37,tbl-102.md,12,,"Siqueira, Meirelles, Junqueira & Companhia",Jacuhy,—,190,4500,25,30
+all_tables.pdf,37,tbl-102.md,13,,,,,300,4000,19,20
+all_tables.pdf,37,tbl-102.md,14,,Municipalidade de Jaguary,Jaguary,Municipal,100,100,13,20
+all_tables.pdf,37,tbl-102.md,15,,Companhia Mineira de Electricidade,Juiz de Fóra,Marmellos,6150,6580,51,40
+all_tables.pdf,37,tbl-102.md,16,,Municipalidade de Lavras e Estrada de Ferro Oeste de Minas,Lavras,—,555,800,18,96
+all_tables.pdf,37,tbl-102.md,17,,,Leopoldina,Mauricio,3000,12000,60,309
+all_tables.pdf,37,tbl-102.md,18,,Companhia Força e Lus Cataguazes—Leopoldina,Pomba,Santo Antonio,150,1000,12,11
+all_tables.pdf,37,tbl-102.md,19,,,São Paulo do Muriahé,Coronel Domiciano,400,3000,150,100
+all_tables.pdf,39,tbl-105.md,3,,Companhia Regional de Força e Luz,Iima Duarte,—,125,1100,48,105
+all_tables.pdf,39,tbl-105.md,4,,"The Ouro Preto Gold Mines of Brazil, Limited",Matianna,—,43,1800,50,80
+all_tables.pdf,39,tbl-105.md,5,,Rossetti & Centola,Monte Santo,—,40,1800,33,60
+all_tables.pdf,39,tbl-105.md,6,,Municipalidade de Oliveira,Oliveira.,Jacaré,660,1200,27,110
+all_tables.pdf,39,tbl-105.md,7,,Companhia Sol Mineira de Electricidade,Ouro Fino,—,700,700,49,160
+all_tables.pdf,39,tbl-105.md,8,,,São Gonçalo do Sapucahy,Rio Dourado,1000,1500,17,100
+all_tables.pdf,39,tbl-105.md,9,,,Varginha,Rio Verde,1250,2000,8,34
+all_tables.pdf,39,tbl-105.md,10,,,Pataisopolis,Dr Bueno de Paiva,460,700,150,666
+all_tables.pdf,39,tbl-105.md,11,,Companhia de Electricidade e Viação Urbana de Minas Gerais,Ouro Preto,Rio de Pedras,2450,3800,50,—
+all_tables.pdf,39,tbl-105.md,12,,Companhia Ouropretana de Electricidade,Ouro Preto,Tombadouro,320,370,25,22
+all_tables.pdf,39,tbl-105.md,13,,Companhia Brasileira de Carbureto de Calcio,Palmyra,Guaiy,7800,9000,72,660
+all_tables.pdf,39,tbl-105.md,14,,Municipalidade de Passa Quatro,Passa Quatro,—,160,160,104,300
+all_tables.pdf,39,tbl-105.md,15,,Municipalidade de Patos,Patos,—,120,125,—,—
+all_tables.pdf,39,tbl-105.md,16,,Municipalidade de Perdões,Perdões,—,120,120,46,600
+all_tables.pdf,39,tbl-105.md,17,,Companhia Industria e Viação de Pirapora,Pirapora,—,180,15000,6,—
+all_tables.pdf,41,tbl-108.md,3,,Companhia Industrial Pitanguyense,Pitanguy,—,400,3000,8,—
+all_tables.pdf,41,tbl-108.md,4,,Municipalidade de Piumhy,Piumhy,—,60,180,30,35
+all_tables.pdf,41,tbl-108.md,5,,Luiz José Dias & Companhia,Poços de Caldas,—,930,4000,90,250
+all_tables.pdf,41,tbl-108.md,6,,Municipalidade de Ponte Nova,Ponte Nova,—,516,900,8,280
+all_tables.pdf,41,tbl-108.md,7,,Municipalidade de Pouso Alegre,Pouso Alegre,Ponte de Pedras,150,150,12,15
+all_tables.pdf,41,tbl-108.md,8,,Baêta & Mello,Qusluz,Hydrodina,543,1200,86,236
+all_tables.pdf,41,tbl-108.md,9,,W T Atherton,Rio Piracicaba,Lages,7,30,15,62
+all_tables.pdf,41,tbl-108.md,10,,Empresa Hydro Electrica Nacional,Rio Preto,Ronea,200,1000,19,40
+all_tables.pdf,41,tbl-108.md,11,,Municipalidade de Sabará (I),Sabará,—,115,1000,6,—
+all_tables.pdf,41,tbl-108.md,12,,Municipalidade de Santa Luzia do Rio das Velhas,Sabará,—,200,220,50,100
+all_tables.pdf,41,tbl-108.md,13,,Municipalidade de Conquista,Sacramento,Sacramento,679,1200,16,20
+all_tables.pdf,41,tbl-108.md,14,,Companhia Industrial Bello Horizonte,Santa Luzia do Rio das Velhas,—,256,1000,21,—
+all_tables.pdf,41,tbl-108.md,15,,Dr Estevão Leite de Magalhães Pinto,Santa Quiteria,—,380,5000,75,440
+all_tables.pdf,41,tbl-108.md,16,,Companhia Poça e Luz Minas Sul,Santa Rita do Sapucahy,Delfim Moreira,500,1000,60,64
+all_tables.pdf,41,tbl-108.md,17,,Municipalidade de Santo Antonio do Monte,Santo Antonio do Monte,—,150,250,31,52
+all_tables.pdf,41,tbl-108.md,18,,Municipalidade de São Domingos do Prata,São Domingos do Prata,—,160,250,10,15
+all_tables.pdf,43,tbl-112.md,1,,Municipalidade de São Gothardo,São Gothardo,Cachoeira da Confusão,45,51,12,12
+all_tables.pdf,43,tbl-112.md,2,,Villela & Companhia,São José d'Além Parahyba,—,135,800,32,38
+all_tables.pdf,43,tbl-112.md,3,,Adão Pereira de Araujo,São José d'Além Parahyba,Rio dos Aventureiros,1300,1400,60,290
+all_tables.pdf,43,tbl-112.md,4,,Empresa Força e Luz de Silvestre Ferraz,Silvestre Ferraz,Força e Luz,150,150,12,10
+all_tables.pdf,43,tbl-112.md,5,,Municipalidade de São João d'El-Rey,Tiradentes,—,700,1200,48,80
+all_tables.pdf,43,tbl-112.md,6,,Companhia Turvense de Luz e Força,Turvo,—,130,300,50,100
+all_tables.pdf,43,tbl-112.md,7,,Companhia Luz e Força de Uberabinha,Uberabinha,—,1500,12000,27,64
+all_tables.pdf,43,tbl-112.md,8,,Companhia Fiação e Tecidos São Sylvestre,Viçosa,São Sylvestre,150,150,8,—
+all_tables.pdf,43,tbl-112.md,9,,Empresa Força e Luz Hervalense,Viçosa,—,150,150,—,—
+all_tables.pdf,43,tbl-112.md,10,,St John del Rey Mining Company Limited,Villa Nova de Lima,A,335,720,34,1770
+all_tables.pdf,43,tbl-112.md,11,,,,B,402,560,26,
+all_tables.pdf,43,tbl-112.md,12,,,,C,911,1120,53,
+all_tables.pdf,43,tbl-112.md,13,,,,D,1876,1950,78,
+all_tables.pdf,43,tbl-112.md,14,,,,E,1876,1950,78,
+all_tables.pdf,43,tbl-112.md,15,,,,Gaya,402,600,25,
+all_tables.pdf,43,tbl-112.md,16,,,,Crystacs,154,450,21,
+all_tables.pdf,43,tbl-112.md,17,,,,Retiro,67,260,13,
+all_tables.pdf,43,tbl-112.md,18,,Municipalidade de Villa Nova de Rezende,Villa Nova de Rezende,Oso,15,300,17,30
+all_tables.pdf,43,tbl-112.md,19,,,,Conquista,20,20,7,8
+all_tables.pdf,45,tbl-116.md,1,,Empresa Hydro-Electrica Borborema,Bananeiras,—,50,200,130,200
+all_tables.pdf,45,tbl-117.md,1,,Antonio Meirelles Sobrinho,Dendoro,Irahysinho,12,15,4,—
+all_tables.pdf,45,tbl-117.md,2,,Municipalidade de Palmeira,Palmeira,—,90,180,14,40
+all_tables.pdf,45,tbl-117.md,3,,E de Melhoramentos Urbanos de Paranaguá,Paranaguá,Rio Miranda,750,1500,96,300
+all_tables.pdf,45,tbl-117.md,4,,José Fanchin,Pirahy,—,20,—,4,—
+all_tables.pdf,45,tbl-117.md,5,,Martins & Carvalho,Ponta Grossa,Pitanguy,600,1200,15,74
+all_tables.pdf,45,tbl-117.md,6,,Dursky & Companhia,Prudentopolis,—,60,1000,21,50
+all_tables.pdf,45,tbl-117.md,7,,Heraclito de Magalhães,São José da Bôa Vista,—,5,5,6,8
+all_tables.pdf,45,tbl-118.md,1,,Empresa de Luz Cabense,Cabo,—,45,(1),—,—
+all_tables.pdf,45,tbl-119.md,1,,Empresa Fluminense de Força e Luz,Barra do Pirahy,Quirino,200,250,105,2000
+all_tables.pdf,45,tbl-119.md,2,,Companhia Fiação e Tecidos São José,Barra Mansa,Chalet,120,120,25,90
+all_tables.pdf,45,tbl-119.md,3,,Luiz Corrêa da Rocha Sobrinho,Bom Jardim,Banquete,60,900,6,240
+all_tables.pdf,45,tbl-119.md,4,,Herdeiros de José Constancio Monnerat,Cantagallo,Santo Antonio,200,200,9,30
+all_tables.pdf,45,tbl-119.md,5,,Empresa Força e Luz Ibero-Americana,Cantagallo,Chave do Vaz,1500,1500,70,120
+all_tables.pdf,45,tbl-119.md,6,,Municipalidade de Carmo,Carmo,Emboque,150,150,36,150
+all_tables.pdf,47,tbl-123.md,1,Rio de Janeiro,Regino Monastat,Duas Barras,São José,25,50,12,25
+all_tables.pdf,47,tbl-123.md,2,Rio de Janeiro,Julius Alp & Companhia,Nova Friburgo,—,500,500,57,380
+all_tables.pdf,47,tbl-123.md,3,Rio de Janeiro,Companhia Brasileira de Energia Eléctrica,Parahyba do Sul,Alberto Torres,18000,18000,50,4000
+all_tables.pdf,47,tbl-123.md,4,Rio de Janeiro,"The Rio de Janeiro Tramway, Light and Power Company, Limited",Parahyba do Sul,Parahybuna,1200,1200,7,300
+all_tables.pdf,47,tbl-123.md,5,Rio de Janeiro,,Pirahy,Ribeirão das Lages,60000,80000,310,8726
+all_tables.pdf,47,tbl-123.md,6,Rio de Janeiro,Empresa Industrial Santa Theresa,Pariaty,—,120,1000,27,—
+all_tables.pdf,47,tbl-123.md,7,Rio de Janeiro,Companhia Força e Luz Norte Fluminense,Santo Antonio de Padua,—,700,3000,16,—
+all_tables.pdf,47,tbl-123.md,8,Rio de Janeiro,J Moraes,São Francisco de Paula,—,40,—,11,130
+all_tables.pdf,47,tbl-123.md,9,Rio de Janeiro,Municipalidade de Sumidouro,Sumidouro,Sumidouro,30,50,3,30
+all_tables.pdf,47,tbl-124.md,1,Rio de Janeiro,Municipalidade de Alfredo Chaves,Alfredo Chaves,—,42,52,12,85
+all_tables.pdf,47,tbl-124.md,2,Rio de Janeiro,Salathiel Soares de Barros & Companhia,Cruz Alta,—,200,300,7,12
+all_tables.pdf,47,tbl-124.md,3,Rio de Janeiro,Ruschel & Irmãos,Estrella,—,80,80,16,35
+all_tables.pdf,47,tbl-124.md,4,Rio de Janeiro,Guilherme Mollmann,Garibaldi,—,6,14,5,—
+all_tables.pdf,47,tbl-124.md,5,Rio de Janeiro,Municipalidade de Passo Fundo,Passo Fundo,Municipal,560,600,18,30
+all_tables.pdf,47,tbl-124.md,6,Rio de Janeiro,Irmãos Corso & Companhia,São Francisco de Paula de Cima da Serra,—,16,20,5,—
+all_tables.pdf,47,tbl-124.md,7,Rio de Janeiro,Municipalidade de São Leopoldo,São Leopoldo,Picada 48,300,300,48,120
+all_tables.pdf,49,tbl-129.md,1,Rio de Janeiro,Empresa Força e Luz de Santa Catharina,Blumenau,—,5000,20000,15,—
+all_tables.pdf,49,tbl-129.md,2,Rio de Janeiro,Izabel Knonz Duarte,Campo Alegre,Santa Izabel,12,100,24,—
+all_tables.pdf,49,tbl-129.md,3,Rio de Janeiro,Governo do Estado de Santa Catharina,Florianopolis,Maroim,900,1200,35,225
+all_tables.pdf,49,tbl-129.md,4,Rio de Janeiro,"E Joinvillense de Electricidade, Luz e Força",Joinville,Pirahy,900,2000,335,961
+all_tables.pdf,49,tbl-129.md,5,Rio de Janeiro,Empresa de Electricidade de Lages,Lages,—,150,1500,—,—
+all_tables.pdf,49,tbl-129.md,6,Rio de Janeiro,N Bley Netto,Mafra,São Lourenço,480,1200,38,80
+all_tables.pdf,49,tbl-129.md,7,Rio de Janeiro,João Bauer,Nova Trento,—,12,50,10,120
+all_tables.pdf,49,tbl-129.md,8,Rio de Janeiro,Henrique Moeller & Companhia,São Bento,—,120,350,37,230
+all_tables.pdf,49,tbl-129.md,9,Rio de Janeiro,Antonio Ferraro & Angelo Antonio Nichel,Urussanga,—,7,—,4,—
+all_tables.pdf,49,tbl-130.md,1,Rio de Janeiro,Empresa de Electricidade de Araraquara,Araraquara,Chibarro,2500,3000,75,163
+all_tables.pdf,49,tbl-130.md,2,Rio de Janeiro,Empresa Força e Luz do Jahú,Araraquara,Gavião Peixoto,6000,10000,13,50
+all_tables.pdf,49,tbl-130.md,3,Rio de Janeiro,,Jahú,—,500,—,—,—
+all_tables.pdf,49,tbl-130.md,4,Rio de Janeiro,Empresa de Electricidade de Avaré,Avaré,—,200,800,15,200
+all_tables.pdf,49,tbl-130.md,5,Rio de Janeiro,Empresa Força e Luz de Bananal,Bananal,—,330,500,220,50
+all_tables.pdf,49,tbl-130.md,6,Rio de Janeiro,Companhia de Melhoramentos de Batataes,Batataes,—,200,600,22,50
+all_tables.pdf,49,tbl-130.md,7,Rio de Janeiro,Empresa Electrica de Bebedouro,Bebedouro,—,200,—,7,12
+all_tables.pdf,51,tbl-135.md,1,Rio de Janeiro,Companhia Paulista de Força e Luz,Botucatá,Rio Pardo,200,200,16,30
+all_tables.pdf,51,tbl-135.md,2,Rio de Janeiro,,Dous Corregos,—,250,250,—,—
+all_tables.pdf,51,tbl-135.md,3,Rio de Janeiro,,Lenções,Central,2000,3000,24,120
+all_tables.pdf,51,tbl-135.md,4,Rio de Janeiro,,Pennapolis,Avanhandava,3000,60000,18,—
+all_tables.pdf,51,tbl-135.md,5,Rio de Janeiro,Empresa Electrica Bragantina,Bragança,Guaraciaba,900,1200,12,90
+all_tables.pdf,51,tbl-135.md,6,Rio de Janeiro,,»,Flôtes,1500,2500,23,82
+all_tables.pdf,51,tbl-135.md,7,Rio de Janeiro,Companhia Força e Luz de Brotas,Brotas,—,1500,1500,18,20
+all_tables.pdf,51,tbl-135.md,8,Rio de Janeiro,Empresa Força e Luz de Buquira,Buquira,Odette,20,1000,20,—
+all_tables.pdf,51,tbl-135.md,9,Rio de Janeiro,Emilio Kunch & Companhia,Cabreúva,Guazinduba,125,1000,80,800
+all_tables.pdf,51,tbl-135.md,10,Rio de Janeiro,E Hydro-Electrica da Serra da Bocaina,Cachoeira,Patmos,400,3000,250,460
+all_tables.pdf,51,tbl-135.md,11,Rio de Janeiro,Empresa Nacional de Electricidade,Caconde,Santa Celida,600,15000,15,25
+all_tables.pdf,51,tbl-135.md,12,Rio de Janeiro,"Companhia Campineira de Tracção, Luz e Força",Campinas,Salto Grande,5000,6000,24,100
+all_tables.pdf,51,tbl-135.md,13,Rio de Janeiro,,»,Jaguary,7000,21000,50,120
+all_tables.pdf,51,tbl-135.md,14,Rio de Janeiro,"Rawlinson, Muller & Companhia",Campinas,Salto Grande,4000,5000,15,23
+all_tables.pdf,51,tbl-135.md,15,Rio de Janeiro,Companhia Força e Luz de Casa Branca,Casa Branca,Santa Rita,250,300,30,75
+all_tables.pdf,51,tbl-135.md,16,Rio de Janeiro,Companhia Mogyana de Luz e Força,Espírito Santo do Pinhal,Salto Grande,1250,2500,13,14
+all_tables.pdf,53,tbl-139.md,1,Rio de Janeiro,Empresa Luz e Força Meridional Paulista,Faxina,—,205,—,22,43
+all_tables.pdf,53,tbl-139.md,2,Rio de Janeiro,Companhia Força e Luz Jacarêhy-Guararema,Guararema,Putim,800,900,19,70
+all_tables.pdf,53,tbl-139.md,3,Rio de Janeiro,Companhia Luz e Força de Guaratinguetá,Guaratinguetá,Sodré,1110,1200,127,1500
+all_tables.pdf,53,tbl-139.md,4,Rio de Janeiro,Emp Força e Luz de Ribeirão Preto,Igarapava,Buritys,1360,2660,150,250
+all_tables.pdf,53,tbl-139.md,5,Rio de Janeiro,,Ituverava,Evangelina,5000,10000,18,55
+all_tables.pdf,53,tbl-139.md,6,Rio de Janeiro,Empresa de Electricidade Sul Paulista,Itapetininga,Turvinho,500,1000,38,23
+all_tables.pdf,53,tbl-139.md,7,Rio de Janeiro,Companhia Paulista de Energia Eléctrica,Itapolia,São Lourenço,300,500,7,—
+all_tables.pdf,53,tbl-139.md,8,Rio de Janeiro,,São José do Rio Pardo,Santa Alice,1000,—,—,—
+all_tables.pdf,53,tbl-139.md,9,Rio de Janeiro,,Soccorro,Soccorro,150,1000,11,25
+all_tables.pdf,53,tbl-139.md,10,Rio de Janeiro,"Novaes, Ribas & Companhia",Itaraté,Symphoroso Queiroz,90,220,32,29
+all_tables.pdf,53,tbl-139.md,11,Rio de Janeiro,Companhia Força e Luz de Jaboticabal,Jaboticabal,Corrego Rico,475,—,7,—
+all_tables.pdf,53,tbl-139.md,12,Rio de Janeiro,Empresa Electrica Curcalinhense,Joanopolis,—,100,—,14,114
+all_tables.pdf,53,tbl-139.md,13,Rio de Janeiro,Governo do Estado de São Paulo,Juquery,Hospício,300,300,25,55
+all_tables.pdf,53,tbl-139.md,14,Rio de Janeiro,Municipalidade de Mogy-Mirim,Mogy-Mirim,—,540,1200,3,—
+all_tables.pdf,53,tbl-139.md,15,Rio de Janeiro,Empresa Força e Luz Parahybanense,Parahybanu,—,100,200,40,60
+all_tables.pdf,55,tbl-143.md,1,Rio de Janeiro,"The São Paulo Tramway, Light and Power Company, Limited",Parnahyba,Parnahyba,21500,32000,21,2740
+all_tables.pdf,55,tbl-143.md,2,Rio de Janeiro,São Paulo Electric Company Limited,Sorocaba,Sorocaba,71400,71400,202,2760
+all_tables.pdf,55,tbl-143.md,3,Rio de Janeiro,Companhia Francana de Electricidade,Patrocinio do Sapucahy,Esmeril,2500,2500,62,120
+all_tables.pdf,55,tbl-143.md,4,Rio de Janeiro,Rosa & Companhia,Piedade,—,105,150,27,35
+all_tables.pdf,55,tbl-143.md,5,Rio de Janeiro,Companhia Nacional de Estamparia,Pilar,Baptista,1770,1770,32,90
+all_tables.pdf,55,tbl-143.md,6,Rio de Janeiro,Empresa de Electricidade São Paulo e Rio,Pindamonhangaba,Izabel,4075,4075,9,2500
+all_tables.pdf,55,tbl-143.md,7,Rio de Janeiro,Matheus & Companhia,Pitacais,Lagrado,110,200,5,70
+all_tables.pdf,55,tbl-143.md,8,Rio de Janeiro,Empresa Electrica de Piracicaba,Piracicaba,—,1150,6000,12,110
+all_tables.pdf,55,tbl-143.md,9,Rio de Janeiro,Municipalidade de Pirassununga,Pirassununga,Central Electrica,90,90,29,80
+all_tables.pdf,55,tbl-143.md,10,Rio de Janeiro,S A Central Electrica de Rio Claro,Rio Claro,Corumbatahy,450,—,25,—
+all_tables.pdf,55,tbl-143.md,11,Rio de Janeiro,S A Central Electrica de Rio Claro,Rio Claro,Nova Mogy-Guassó,2870,—,8,—
+all_tables.pdf,55,tbl-143.md,12,Rio de Janeiro,Companhia Fosca e Luz Norte de São Paulo,Sallesopolis,—,3000,3000,75,85
+all_tables.pdf,57,tbl-147.md,1,Rio de Janeiro,Companhia Ituana Força e Luz,Salto,Lavras,2200,2200,8,—
+all_tables.pdf,57,tbl-147.md,2,Rio de Janeiro,Companhia Força e Luz Santa Cruz,Santa Cruz do Rio Pardo,Santa Cruz,1200,1500,—,—
+all_tables.pdf,57,tbl-147.md,3,Rio de Janeiro,Germano Feha,Santa Izabel,—,120,200,5,30
+all_tables.pdf,57,tbl-147.md,4,Rio de Janeiro,Companhia Força e Luz São Valentim,Santa Rita do Passa Quatro,São Valentim,1000,1000,70,104
+all_tables.pdf,57,tbl-147.md,5,Rio de Janeiro,Companhia de Electricidade São Simão-Cajurú,Santa Rosa,Itaipava,2000,4000,8,—
+all_tables.pdf,57,tbl-147.md,6,Rio de Janeiro,Companhia Dócas de Santos,Santos,Itatinga,20000,20000,664,10300
+all_tables.pdf,57,tbl-147.md,7,Rio de Janeiro,Companhia Paulista de Electricidade,São Carlos,Capão Preto,4890,6000,74,203
+all_tables.pdf,57,tbl-147.md,8,Rio de Janeiro,,» »,Moniclinho,800,800,76,215
+all_tables.pdf,57,tbl-147.md,9,Rio de Janeiro,E. Força e Luz de São João da Bôa Vista,São João da Bôa Vista,Santa Ignez,1600,1900,7,—
+all_tables.pdf,57,tbl-147.md,10,Rio de Janeiro,Empresa Força e Luz do Barreiro,São José do Barreiro,—,15,—,50,65
+all_tables.pdf,57,tbl-147.md,11,Rio de Janeiro,Companhia Força e Luz São José,São José dos Campos,—,200,1000,12,—
+all_tables.pdf,57,tbl-147.md,12,Rio de Janeiro,Municipalidade de Serra Negra,Serra Negra,Costas,250,4500,15,30
+all_tables.pdf,57,tbl-147.md,13,Rio de Janeiro,Companhia Luz e Força de Tatuhy,Tietê,Jurumirim,2040,4000,11,75
+all_tables.pdf,57,tbl-147.md,14,Rio de Janeiro,Empresa Luz e Força de Tietê,Tietê,—,200,2000,5,—
+all_tables.pdf,57,tbl-147.md,15,Rio de Janeiro,Municipalidade de Villa Bella,Villa Bella,—,4,8,18,1000

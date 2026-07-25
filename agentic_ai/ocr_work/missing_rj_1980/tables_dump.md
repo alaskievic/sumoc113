@@ -1,0 +1,790 @@
+
+
+# Page 1
+
+## tbl-0.md
+
+|  * | * | * | * | * | *  |
+| --- | --- | --- | --- | --- | --- |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  NUM. | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  DE | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  OR- | * | E GENEROS DE INDUSTRIA | 14 | 1580 | TOTAL  |
+|  * | * | * | * | * | *  |
+|  DEM | * | * | * | * | *  |
+
+## tbl-1.md
+
+|  575 | VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS | 58 | 2 723 | 2 404 | 2 664  |
+| --- | --- | --- | --- | --- | --- |
+|  576 | PRODUTOS ALIMENTARES | 156 | 2 168 | 1 319 | 2 106  |
+|  577 | RESIDAS | 6 | 77 | 55 | 71  |
+|  578 | EDITORIAL E GRÁFICA | 32 | 156 | 75 | 153  |
+|  579 | DIVERSAS | 28 | 344 | 280 | 310  |
+|  580 | UNIDADES AUXILIARES DE APOIO (UTILIDADES) E DE SERVIÇOS DE NATUREZA INDUSTRIAL | 14 | 706 | 653 | 843  |
+|  581 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 14 | 1 338 | - | 1 347  |
+
+## tbl-2.md
+
+|  582 | ITABORAT | 221 | 3 343 | 2 776 | 3 274  |
+| --- | --- | --- | --- | --- | --- |
+|  583 | EXTRACRO DE MINERATS | 25 | 251 | 180 | 245  |
+|  584 | TRANSFORMACRO DE PRODUTOS DE MINERAIS NAD-METÁLICOS | 110 | 2 002 | 1 793 | 2 028  |
+|  585 | METALURGICA | 13 | 79 | 56 | 70  |
+|  586 | MECANICA | 2 | (8) | (8) | (8)  |
+|  587 | MATERIAL DE TRANSPORTE | 2 | (8) | (8) | (8)  |
+|  588 | MADEIRA | 5 | 19 | 12 | 19  |
+|  589 | MOBILIARIO | 4 | 21 | 14 | 20  |
+|  590 | QUÍMICA | 2 | (8) | (8) | (8)  |
+|  591 | PRODUTOS FARMACÑOTICOS E VETERINARIOS | 1 | (8) | (8) | (8)  |
+|  592 | PERFUMARIA, SABDES E VELAS | 1 | (8) | (8) | (8)  |
+|  593 | PRODUTOS DE MATERIAS PLÁSTICAS | 1 | (8) | (8) | (8)  |
+|  594 | VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS | 3 | 50 | 41 | 46  |
+|  595 | PRODUTOS ALIMENTARES | 27 | 344 | 206 | 500  |
+|  596 | BEBIDAS | 4 | 22 | 13 | 21  |
+|  597 | EDITORIAL E GRÁFICA | 5 | 12 | 5 | 9  |
+|  598 | DIVERSAS | 2 | (8) | (8) | (8)  |
+|  599 | UNIDADES AUXILIARES DE APOIO (UTILIDADES) E DE SERVIÇOS DE NATUREZA INDUSTRIAL | 14 | 101 | 72 | 100  |
+
+## tbl-3.md
+
+|  600 | ITAGUAY | 110 | 1 641 | 1 306 | 1 560  |
+| --- | --- | --- | --- | --- | --- |
+|  601 | EXTRACRO DE MINERATS | 34 | 165 | 101 | 159  |
+|  602 | TRANSFORMACRO DE PRODUTOS DE MINERAIS NAD-METÁLICOS | 19 | 382 | 297 | 374  |
+|  603 | METALURGICA | 6 | 541 | 509 | 525  |
+|  604 | MECANICA | 3 | 26 | 22 | 25  |
+|  605 | MATERIAL DE TRANSPORTE | 1 | (8) | - | (8)  |
+|  606 | MADEIRA | 4 | 62 | 52 | 59  |
+|  607 | MOBILIARIO | 2 | (8) | (8) | (8)  |
+|  608 | BORRACHA | 1 | (8) | (8) | (8)  |
+|  609 | QUÍMICA | 4 | 151 | 99 | 134  |
+|  610 | TEXTEL | 1 | (8) | (8) | (8)  |
+|  611 | VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS | 2 | (8) | (8) | (8)  |
+|  612 | PRODUTOS ALIMENTARES | 21 | 210 | 153 | 204  |
+|  613 | EDITORIAL E GRÁFICA | 6 | 26 | 19 | 26  |
+|  614 | DIVERSAS | 4 | 10 | 5 | 9  |
+|  615 | UNIDADES AUXILIARES DE APOIO (UTILIDADES) E DE SERVIÇOS DE NATUREZA INDUSTRIAL | 2 | (8) | (8) | (8)  |
+|  616 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 1 | (8) | - | (8)  |
+
+## tbl-4.md
+
+|  617 | MAGE | 172 | 5 486 | 4 889 | 5 363  |
+| --- | --- | --- | --- | --- | --- |
+|  618 | EXTRACRO DE MINERATS | 17 | 97 | 68 | 92  |
+|  619 | TRANSFORMACRO DE PRODUTOS DE MINERAIS NAD-METÁLICOS | 39 | 544 | 456 | 479  |
+|  620 | METALURGICA | 11 | 275 | 216 | 298  |
+|  621 | MECANICA | 7 | 141 | 124 | 140  |
+|  622 | MATERIAL ELÉTRICO E DE COMUNICAÇÕES | 1 | (8) | (8) | (8)  |
+|  623 | MATERIAL DE TRANSPORTE | 3 | 375 | 349 | 377  |
+|  624 | MADEIRA | 5 | 45 | 34 | 39  |
+|  625 | MOBILIARIO | 6 | 165 | 147 | 151  |
+|  626 | PAPEL E PAPELÃO | 3 | 261 | 206 | 262  |
+|  627 | BORRACHA | 1 | (8) | (8) | (8)  |
+|  628 | COUROS E PELES E PRODUTOS SIMILARES, E ARTEFATOS DE SELARIA E CORRENTA, PARA VIAGEM E USO PESSOAL - EXCLUSIVE CALCADOS E ARTIGOS DO VESTUARIO... | 1 | (8) | (8) | (8)  |
+|  629 | QUÍMICA | 4 | 176 | 170 | 166  |
+|  630 | PRODUTOS DE MATERIAS PLÁSTICAS | 1 | (8) | (8) | (8)  |
+|  631 | TEXTEL | 10 | 2 515 | 2 475 | 2 496  |
+|  632 | VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS | 9 | 184 | 149 | 163  |
+|  633 | PRODUTOS ALIMENTARES | 37 | 310 | 160 | 282  |
+|  634 | BEBIDAS | 3 | 181 | (8) | (8)  |
+|  635 | EDITORIAL E GRÁFICA | 3 | 25 | 16 | 18  |
+|  636 | DIVERSAS | 10 | 59 | 37 | 54  |
+|  637 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 6 | 540 | - | 559  |
+
+## tbl-5.md
+
+|  638 | MANGARATIBA | 9 | 41 | 23 | 43  |
+| --- | --- | --- | --- | --- | --- |
+|  639 | EXTRACRO DE MINERATS | 1 | (8) | - | (8)  |
+|  640 | MATERIAL DE TRANSPORTE | 1 | (8) | (8) | (8)  |
+|  641 | MADEIRA | 1 | (8) | (8) | (8)  |
+|  642 | PRODUTOS ALIMENTARES | 6 | 34 | (8) | 38  |
+|  643 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 2 | (8) | - | (8)  |
+
+
+# Page 2
+
+## tbl-6.md
+
+|  208 059 | 168 963 | 67 727 | 871 097 | 841 885 | 1 903 340 | 1 032 243 | 575  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  171 499 | 103 458 | 83 668 | 1 855 806 | 1 768 233 | 2 462 445 | 606 639 | 576  |
+|  4 596 | 3 665 | 3 102 | 12 750 | 12 288 | 32 463 | 19 713 | 577  |
+|  9 095 | 7 530 | 3 002 | 19 422 | 17 317 | 46 791 | 27 369 | 578  |
+|  32 009 | 26 319 | 9 257 | 120 026 | 117 482 | 249 128 | 129 102 | 579  |
+|  364 288 | 325 175 | 35 381 | 3 060 982 | 147 205 | 4 045 710 | 984 728 | 580  |
+|  493 680 | - | 426 457 | - | - | - | - | 581  |
+|  251 168 | 226 006 | 85 241 | 1 121 074 | 953 097 | 2 105 795 | 984 721 | 582  |
+|  59 699 | 27 812 | 4 224 | 31 742 | 12 126 | 173 202 | 141 460 | 583  |
+|  109 524 | 102 512 | 25 971 | 163 358 | 54 596 | 442 468 | 279 110 | 584  |
+|  5 472 | 5 212 | 2 509 | 21 256 | 17 724 | 36 816 | 15 560 | 585  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | (X)  |
+|  686 | 686 | 233 | 6 376 | 6 271 | 9 095 | 2 719 | 588  |
+|  1 324 | 1 275 | 338 | 2 923 | 2 790 | 6 452 | 3 529 | 589  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 590  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 591  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 592  |
+|  1 996 | 1 996 | 331 | 4 477 | 3 187 | 8 458 | 3 981 | 594  |
+|  19 016 | 17 354 | 10 822 | 475 762 | 467 465 | 580 126 | 104 344 | 595  |
+|  947 | 834 | 1 613 | 6 051 | 5 920 | 11 192 | 5 141 | 596  |
+|  315 | 315 | 109 | 677 | 616 | 1 595 | 918 | 597  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 598  |
+|  4 173 | 4 113 | 3 238 | 10 437 | 7 105 | 21 727 | 11 290 | 599  |
+|  117 578 | 100 541 | 52 121 | 775 310 | 637 920 | 1 504 424 | 729 114 | 600  |
+|  8 383 | 7 428 | 15 220 | 12 360 | 236 | 37 544 | 25 184 | 601  |
+|  22 775 | 17 579 | 10 944 | 41 003 | 14 292 | 113 175 | 72 172 | 602  |
+|  50 779 | 47 383 | 4 194 | 379 425 | 300 253 | 784 400 | 404 975 | 603  |
+|  2 243 | 2 189 | 273 | 1 109 | 39 | 5 070 | 3 961 | 604  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 605  |
+|  7 261 | 6 283 | 2 489 | 11 324 | 8 711 | 44 111 | 32 787 | 606  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 607  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 608  |
+|  7 579 | 3 992 | 13 429 | 91 071 | 82 490 | 169 607 | 78 536 | 609  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 610  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 611  |
+|  11 641 | 9 510 | 3 590 | 221 971 | 217 760 | 314 669 | 92 698 | 612  |
+|  1 964 | 1 912 | 1 161 | 5 501 | 5 286 | 11 728 | 6 227 | 613  |
+|  257 | 257 | 205 | 1 504 | 1 421 | 3 942 | 2 438 | 614  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 615  |
+|  (X) | - | (X) | - | - | - | - | 616  |
+|  700 832 | 578 109 | 159 453 | 3 443 200 | 3 060 160 | 8 119 354 | 4 676 154 | 617  |
+|  7 213 | 6 651 | 10 802 | 11 297 | 3 568 | 49 945 | 38 648 | 618  |
+|  39 334 | 27 593 | 18 728 | 48 643 | 33 013 | 145 675 | 97 030 | 619  |
+|  169 202 | 81 291 | 19 391 | 190 324 | 179 712 | 419 793 | 223 469 | 620  |
+|  16 762 | 14 903 | 602 | 5 237 | 2 976 | 31 229 | 25 992 | 621  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 622  |
+|  101 581 | 95 748 | 45 040 | 527 262 | 424 931 | 3 638 396 | 3 111 134 | 623  |
+|  2 936 | 2 845 | 586 | 11 526 | 10 968 | 18 712 | 7 186 | 624  |
+|  6 859 | 6 240 | 3 783 | 102 300 | 101 434 | 129 329 | 27 029 | 625  |
+|  26 799 | 21 322 | 6 059 | 273 722 | 192 380 | 440 736 | 167 014 | 626  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 627  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 628  |
+|  33 734 | 33 160 | 2 155 | 34 425 | 32 570 | 109 743 | 73 318 | 629  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 630  |
+|  233 076 | 226 928 | 16 890 | 1 850 694 | 1 707 967 | 2 549 856 | 699 162 | 631  |
+|  9 152 | 7 514 | 1 479 | 29 261 | 28 433 | 60 547 | 31 286 | 632  |
+|  14 107 | 10 071 | 4 826 | 43 095 | 37 805 | 85 901 | 42 806 | 633  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 634  |
+|  923 | 827 | 396 | 2 089 | 1 971 | 4 275 | 2 186 | 635  |
+|  2 395 | 2 278 | 1 762 | 10 420 | 8 054 | 19 193 | 8 773 | 636  |
+|  154 914 | - | 108 795 | - | - | - | - | 637  |
+|  2 484 | 2 158 | 1 504 | 7 104 | 5 912 | 13 187 | 6 083 | 638  |
+|  - | - | (X) | (X) | - | (X) | (X) | 639  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 640  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 641  |
+
+
+# Page 3
+
+## tbl-7.md
+
+|  NÚM. | DE | MICROBREGIOS, MUNICIPIOS | MESTABELE | MÉDIA | CUMADO | CUMULO  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Nº | DE | MICROMREGIOS, MUNICIPIOS | CIMENTOS | MEDIA | CUMADO | CUMULO  |
+|  OR- | E | GÉNEROS DE INDUSTRIA | 1980 | TOTAL | A | PESGUAL  |
+|  E | GÉNEROS DE INDUSTRIA |  | 1980 | TOTAL | A | PESGUAL  |
+
+## tbl-8.md
+
+|  644 | MARICA | 34 | 404 | 512 | 369  |
+| --- | --- | --- | --- | --- | --- |
+|  645 | EXTRACRO DE MINERAIS | 6 | 64 | 42 | 54  |
+|  646 | TRANSFORMACRO DE PRODUTOS DE MINERAIS MRO-METALICOS | 14 | 196 | (R) | 181  |
+|  647 | MADEIRA | 2 | (R) | (R) | (R)  |
+|  648 | PRODUTOS ALIMENTARES | 10 | 116 | 91 | 107  |
+|  649 | EDITORIAL E GRÁFICA | 2 | (R) | - | (R)  |
+|  650 | MILÓPOLIS | 151 | 1 351 | 889 | 1 272  |
+|  651 | TRANSFORMACRO DE PRODUTOS DE MINERAIS MRO-METALICOS | 6 | 89 | 43 | 88  |
+|  652 | METALÚRGICA | 13 | 107 | 73 | 99  |
+|  653 | MECANICA | 2 | (R) | (R) | (R)  |
+|  654 | MATERIAL ELÉTRICO E DE COMUNICAÇÕES | 3 | 26 | 20 | 21  |
+|  655 | MATERIAL DE TRANSPORTE | 2 | (R) | (R) | (R)  |
+|  656 | MADEIRA | 5 | 21 | 8 | 19  |
+|  657 | MOBILIÁRIO | 8 | 48 | 29 | 44  |
+|  658 | PAPEL E PAPELÃO | 3 | 62 | 42 | 56  |
+|  659 | BORRACUM | 2 | (R) | (R) | (R)  |
+|  660 | COUROS E PELES E PRODUTOS SIMILARES, E ARTEFATOS DE SELARIA E CORREARIA, PARA VIAGEM E USO PESSOAL - EXCLUSIVE CALCADOS E ARTIGOS DO VESTUÁRIO... | 2 | (R) | (R) | (R)  |
+|  661 | QUÍMICA | 6 | 48 | 22 | 45  |
+|  662 | PERFUMÁRIA, SABOES E VELAS | 3 | 44 | 30 | 42  |
+|  663 | PRODUTOS DE MATERIAS PLÁSTICAS | 2 | (R) | (R) | (R)  |
+|  664 | VESTUÁRIO, CALCADOS E ARTEFATOS DE TÉCIDOS | 10 | 228 | 194 | 215  |
+|  665 | PRODUTOS ALIMENTARES | 62 | 342 | 200 | 310  |
+|  666 | EDITORIAL E GRÁFICA | 16 | 70 | 34 | 63  |
+|  667 | DIVERSAS | 7 | 125 | 97 | 114  |
+|  668 | MOTÉRGI | 408 | 18 092 | 15 735 | 18 269  |
+|  669 | TRANSFORMACRO DE PRODUTOS DE MINERAIS MRO-METALICOS | 19 | 528 | 453 | 493  |
+|  670 | METALÚRGICA | 31 | 245 | 180 | 295  |
+|  671 | MECANICA | 23 | 1 972 | 1 848 | 1 899  |
+|  672 | MATERIAL ELÉTRICO E DE COMUNICAÇÕES | 6 | 67 | 48 | 62  |
+|  673 | MATERIAL DE TRANSPORTE | 59 | 7 468 | 6 714 | 7 620  |
+|  674 | MADEIRA | 2 | (R) | (R) | (R)  |
+|  675 | MOBILIÁRIO | 19 | 200 | 149 | 185  |
+|  676 | BORRACUM | 1 | (R) | (R) | (R)  |
+|  677 | QUÍMICA | 3 | 94 | 50 | 86  |
+|  678 | PRODUTOS FARMACÊUTICOS E HETERINÁRIOS | 1 | (R) | (R) | (R)  |
+|  679 | PERFUMÁRIA, SABOES E VELAS | 2 | (R) | (R) | (R)  |
+|  680 | PRODUTOS DE MATERIAS PLÁSTICAS | 4 | 162 | 139 | 165  |
+|  681 | TEXTIL | 9 | 961 | 946 | 917  |
+|  682 | VESTUÁRIO, CALCADOS E ARTEFATOS DE TÉCIDOS | 22 | 289 | 217 | 245  |
+|  683 | PRODUTOS ALIMENTARES | 156 | 3 421 | 2 720 | 3 364  |
+|  684 | BEBIDAS | 2 | (R) | (R) | (R)  |
+|  685 | EDITORIAL E GRÁFICA | 27 | 635 | 539 | 589  |
+|  686 | DIVERSAS | 9 | 60 | 39 | 59  |
+|  687 | UNIDADES AUXILIARES DE APOIO (UTILIDADES) E DE SERVIÇOS DE NATUREZA INDUSTRIAL | 11 | 1 379 | 1 187 | 1 720  |
+|  688 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 39 | 1 878 | - | 1 870  |
+|  689 | NOVA IGURCÍA | 807 | 18 716 | 14 557 | 18 107  |
+|  690 | EXTRACRO DE MINERAIS | 24 | 211 | 122 | 168  |
+|  691 | TRANSFORMACRO DE PRODUTOS DE MINERAIS MRO-METALICOS | 79 | 1 652 | 1 293 | 1 578  |
+|  692 | METALÚRGICA | 91 | 2 249 | 1 928 | 2 261  |
+|  693 | MECANICA | 38 | 2 073 | 1 806 | 2 109  |
+|  694 | MATERIAL ELÉTRICO E DE COMUNICAÇÕES | 6 | 109 | 92 | 104  |
+|  695 | MATERIAL DE TRANSPORTE | 18 | 1 772 | 1 571 | 1 697  |
+|  696 | MADEIRA | 12 | 135 | 81 | 148  |
+|  697 | MOBILIÁRIO | 62 | 1 098 | 702 | 1 057  |
+|  698 | PAPEL E PAPELÃO | 5 | 673 | 570 | 685  |
+|  699 | BORRACUM | 8 | 508 | 439 | 506  |
+|  700 | COUROS E PELES E PRODUTOS SIMILARES, E ARTEFATOS DE SELARIA E CORREARIA, PARA VIAGEM E USO PESSOAL - EXCLUSIVE CALCADOS E ARTIGOS DO VESTUÁRIO... | 2 | (R) | (R) | (R)  |
+|  701 | QUÍMICA | 22 | 102 065 | 1 484 | 1 949  |
+|  702 | PRODUTOS FARMACÊUTICOS E HETERINÁRIOS | 1 | (R) | (R) | (R)  |
+|  703 | PERFUMÁRIA, SABOES E VELAS | 9 | 215 | 161 | 193  |
+|  704 | PRODUTOS DE MATERIAS PLÁSTICAS | 6 | 145 | 125 | 136  |
+|  705 | TEXTIL | 4 | 77 | 61 | 63  |
+|  706 | VESTUÁRIO, CALCADOS E ARTEFATOS DE TÉCIDOS | 43 | 471 439 | 1 222 | 1 87  |
+|  707 | PRODUTOS ALIMENTARES | 300 | 2 624 | 1 695 | 2 427  |
+|  708 | BEBIDAS | 11 | 438 | 212 | 408  |
+|  709 | FUMO | 3 | (R) | (R) | (R)  |
+|  710 | EDITORIAL E GRÁFICA | 32 | 163 | 77 | 164  |
+|  711 | DIVERSAS | 24 | 541 | 477 | 539  |
+|  712 | UNIDADES AUXILIARES DE APOIO (UTILIDADES) E DE SERVIÇOS DE NATUREZA INDUSTRIAL | 7 | 175 | 108 | 162  |
+
+
+# Page 4
+CENSO INDUSTRIAL - RIO DE JANEIRO
+
+2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO RIGORROSIDES,
+
+MUNICIPIOS E GÊNEROS DE INDÚSTRIA
+
+(CONTINUA)
+
+ANO DE 1980
+
+SALARIOS
+DESPESAS COM AS
+OPERAÇÕES INDUSTRIAIS (1)
+VALOR
+VALOR DA
+DE
+TRANSFORMACÃO
+DR
+INDUSTRIAL
+COM
+PRIMARIAIS E
+PRIMARIAIS E
+COMPONENTES
+DEM
+( MIL CRUZEIROS )
+
+23 081 20 280 29 604 87 025 74 828 198 059 111 034 644
+3 844 2 885 21 164 14 368 9 270 76 682 62 314 645
+12 431 11 665 5 271 24 364 18 461 44 631 20 267 646
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+5 138 4 183 2 632 43 501 42 653 67 240 23 739 648
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+77 976 62 702 37 605 386 989 370 221 695 024 308 035 650
+7 016 3 155 980 22 682 22 388 36 232 13 550 651
+5 764 5 281 3 622 21 957 21 147 49 378 27 421 652
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+1 006 989 551 4 082 3 903 9 838 5 756 654
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+968 584 2 833 7 934 7 850 16 046 8 112 656
+2 089 670 5 056 4 827 12 197 7 141 657
+4 195 3 005 1 376 19 235 18 747 32 489 13 254 658
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+3 631 1 972 4 481 31 356 30 079 44 497 13 361 661
+3 085 2 540 874 5 154 4 928 12 946 7 792 662
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+8 583 7 636 2 596 44 501 43 892 72 323 27 822 664
+16 227 14 761 6 308 86 716 79 428 141 381 54 665 665
+4 384 3 100 1 998 15 950 15 290 31 230 15 280 666
+7 212 6 551 3 351 10 643 9 680 39 699 29 056 667
+2 598 469 2 269 175 577 801 13 204 678 11 075 891 25 210 775 12 006 097 668
+42 808 38 620 43 358 148 662 131 249 362 825 214 163 669
+16 650 15 354 9 938 199 748 195 507 247 355 47 607 670
+514 872 488 586 68 190 374 006 277 973 1 105 899 731 893 671
+5 725 5 115 3 013 10 204 9 787 37 593 27 389 672
+1 172 347 984 634 227 355 7 816 874 6 127 260 15 125 327 7 308 453 673
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+14 110 11 640 5 519 37 686 36 040 84 173 46 487 675
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+8 274 3 490 5 447 23 983 23 069 56 940 32 957 677
+( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+10 672 8 863 3 066 44 191 41 016 91 237 47 046 680
+103 260 100 784 13 322 751 728 632 620 965 816 214 088 681
+17 299 15 586 7 442 58 327 56 207 125 605 67 308 682
+283 370 242 747 68 777 2 610 348 2 498 305 4 131 075 1 520 727 683
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+94 306 90 484 17 884 155 164 124 096 728 215 578 051 685
+5 943 5 144 1 813 7 863 7 616 28 212 20 349 686
+225 166 189 439 56 500 61 967 37 062 844 775 782 808 687
+599 850 - 261 610 - - - - 688
+2 663 882 2 130 149 940 465 15 565 005 14 862 585 28 707 354 13 142 349 689
+11 022 9 295 9 379 8 117 36 68 938 60 821 690
+155 183 123 001 94 536 295 766 226 309 580 999 685 233 691
+374 738 341 693 206 132 2 855 299 2 697 501 4 870 085 2 814 786 692
+467 418 407 742 57 448 809 723 740 487 2 151 662 1 341 939 693
+28 234 23 120 6 023 26 081 25 449 68 822 42 741 694
+373 609 322 203 72 300 1 044 511 968 996 2 469 848 1 423 337 695
+13 974 7 702 11 020 41 024 38 775 90 079 49 095 696
+127 556 68 943 45 971 499 025 489 972 885 669 386 644 697
+64 553 37 554 24 109 263 270 254 900 580 826 317 556 698
+83 810 76 823 27 414 2 277 594 2 249 415 3 563 069 1 285 475 699
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+421 774 285 901 168 324 3 166 108 3 041 897 5 625 570 2 459 462 701
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+13 035 9 947 7 340 109 686 106 815 206 766 97 080 705
+14 946 14 311 2 581 35 668 33 412 81 841 66 173 704
+5 116 4 679 3 819 51 746 44 758 78 255 26 509 705
+109 796 96 432 19 412 339 976 333 551 715 487 375 511 706
+184 957 141 162 71 790 2 973 634 2 908 974 4 431 892 1 458 258 707
+29 450 11 656 19 774 86 419 83 621 139 781 53 362 708
+( X ) ( X ) ( X ) ( X ) ( X ) ( X ) ( X )
+10 169 9 264 3 030 17 818 15 719 53 012 35 194 710
+65 924 64 863 4 282 188 211 194 443 526 028 327 817 711
+46 541 26 291 16 320 52 919 6 075 150 996 98 077 712
+
+
+# Page 5
+
+## tbl-9.md
+
+|  NUM. | DE | MICROREGIDOS, MUNICIPIOS | E GÉNEROS DE INDÚSTRIA  |
+| --- | --- | --- | --- |
+|  N. | N | N | 1980  |
+|  DEM | DE | MICROREGIDOS, MUNICIPIOS | E GÉNEROS DE INDÚSTRIA  |
+|  713 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 21 | 659  |
+|  714 | PARAGAMBI | 38 | 1 546  |
+|  715 | EXTRACAO DE MINERAIS | 6 | 31  |
+|  716 | TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS | 3 | 64  |
+|  717 | METALURSICA | 2 | (8)  |
+|  718 | MICANICA | 2 | (8)  |
+|  719 | TEXTIL | 6 | 993  |
+|  720 | VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS | 4 | 200  |
+|  721 | PRODUTOS ALIMENTARES | 12 | 54  |
+|  722 | EDITORIAL E GRAFICA | 2 | (8)  |
+|  723 | DIVERSAS | 1 | (8)  |
+|  724 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 2 | (8)  |
+|  725 | SÃO GONCALO | 622 | 14 361  |
+|  726 | EXTRACAO DE MINERAIS | 7 | 71  |
+|  727 | TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS | 79 | 1 287  |
+|  728 | METALURSICA | 41 | 1 454  |
+|  729 | MICANICA | 24 | 1 065  |
+|  730 | MATERIAL ELÉTRICO E DE COMUNICACIONES | 6 | 523  |
+|  731 | MATERIAL DE TRANSPORTE | 7 | 190  |
+|  732 | MADEIRA | 9 | 279  |
+|  733 | MOBILIARIO | 49 | 459  |
+|  734 | PAPEL E PAPELÃO | 11 | 523  |
+|  735 | BORRACHA | 1 | (8)  |
+|  736 | COUROS E PELES E PRODUTOS SIMILARES, E ARTEFATOS DE SELARIA E CORREARIA, PARA VIAGEM E USO PESSOAL - EXCLUSIVE CALCADOS E ARTIGOS DO VESTUARIO | 2 | (8)  |
+|  737 | QUEMICA | 9 | 1 077  |
+|  738 | PRODUTOS FARMACÕUTICOS E VETERINÁRIOS | 4 | 610  |
+|  739 | PERFUMÁRIA, SABDES E VELAS | 5 | 83  |
+|  740 | PRODUTOS DE MATERIAS PLASTICAS | 10 | 509  |
+|  741 | VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS | 70 | 1 370  |
+|  742 | PRODUTOS ALIMENTARES | 223 | 3 863  |
+|  743 | BEBIDAS | 6 | 135  |
+|  744 | EDITORIAL E GRAFICA | 18 | 152  |
+|  745 | DIVERSAS | 15 | 762  |
+|  746 | UNIDADES AUXILIARES DE APOIO OUTILIDADES E DE SERVIÇOS DE NATUREZA INDUSTRIAL | 6 | 114  |
+|  747 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 4 | 46  |
+|  748 | SÃO JORO DE MERITI | 423 | 5 266  |
+|  749 | TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS | 18 | 233  |
+|  750 | METALURSICA | 80 | 584  |
+|  751 | MICANICA | 13 | 335  |
+|  752 | MATERIAL ELÉTRICO E DE COMUNICACIONES | 12 | 158  |
+|  753 | MATERIAL DE TRANSPORTE | 6 | 404  |
+|  754 | MADEIRA | 11 | 90  |
+|  755 | MOBILIARIO | 54 | 391  |
+|  756 | PAPEL E PAPELÃO | 3 | 56  |
+|  757 | BORRACHA | 3 | 61  |
+|  758 | COUROS E PELES E PRODUTOS SIMILARES, E ARTEFATOS DE SELARIA E CORREARIA, PARA VIAGEM E USO PESSOAL - EXCLUSIVE CALCADOS E ARTIGOS DO VESTUARIO | 1 | (8)  |
+|  759 | QUEMICA | 9 | 97  |
+|  760 | PRODUTOS FARMACÕUTICOS E VETERINÁRIOS | 1 | (8)  |
+|  761 | PERFUMÁRIA, SABDES E VELAS | 4 | 29  |
+|  762 | PRODUTOS DE MATERIAS PLASTICAS | 9 | 465  |
+|  763 | TEXTIL | 1 | (8)  |
+|  764 | VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS | 26 | 437  |
+|  765 | PRODUTOS ALIMENTARES | 134 | 1 065  |
+|  766 | BEBIDAS | 3 | 33  |
+|  767 | EDITORIAL E GRAFICA | 17 | 99  |
+|  768 | DIVERSAS | 15 | 78  |
+|  769 | UNIDADES AUXILIARES DE APOIO OUTILIDADES E DE SERVIÇOS DE NATUREZA INDUSTRIAL | 3 | 633  |
+|  770 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 6 | 52  |
+|  771 | CARO FRIO | 305 | 4 505  |
+|  772 | ARARUAMA | 100 | 975  |
+|  773 | EXTRACAO DE MINERAIS | 42 | 194  |
+|  774 | TRANSFORMACAO DE PRODUTOS DE MINERAIS NAD-METALICOS | 16 | 317  |
+|  775 | METALURSICA | 9 | 51  |
+|  776 | MATERIAL DE TRANSPORTE | 1 | 531  |
+|  777 | MADEIRA | 7 | 52  |
+|  778 | MOBILIARIO | 2 | (8)  |
+|  779 | QUEMICA | 1 | (8)  |
+
+
+# Page 6
+
+## tbl-10.md
+
+|  ANO DE 1980  |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  SALARIOS  |   |   |   |   |   |   |   |   |
+|  DESPESAS COM AS  |   |   |   |   |   |   |   |   |
+|  OPENACDES INDUSTRIAIS (1)  |   |   |   |   |   |   |   |   |
+|  VALOR  |   |   |   |   |   |   |   |   |
+|  VALOR DA  |   |   |   |   |   |   |   |   |
+|  PRESIDADES  |   |   |   |   |   |   |   |   |
+|  DERAS  |   |   |   |   |   |   |   |   |
+|  MATERIALS-PRIMAS,  |   |   |   |   |   |   |   |   |
+|  PRIMASFORMACAO  |   |   |   |   |   |   |   |   |
+|  INDUSTRIAL  |   |   |   |   |   |   |   |   |
+|  COMPONENTES  |   |   |   |   |   |   |   |   |
+|  DEP  |   |   |   |   |   |   |   |   |
+|  (MIL CRUZEIROS)  |   |   |   |   |   |   |   |   |
+|  140 244 | - | 299 906 | - | - | - | - | - | 713  |
+|  113 299 | 109 214 | 15 639 | 682 413 | 484 939 | 1 242 867 | 560 454 | 714 |   |
+|  1 821 | 1 434 | 1 068 | 2 478 | - | 7 925 | 5 447 | 715 |   |
+|  3 726 | 3 644 | 369 | 3 160 | 1 174 | 9 014 | 5 854 | 716 |   |
+|  (x) | (x) | (x) | (x) | (x) | (x) | (x) | (x) |   |
+|  (x) | (x) | (x) | (x) | (x) | (x) | (x) | (x) |   |
+|  67 916 | 67 916 | 3 798 | 547 759 | 363 696 | 1 001 649 | 453 890 | 719 |   |
+|  12 440 | 11 073 | 1 696 | 16 720 | 16 681 | 40 801 | 24 081 | 720 |   |
+|  4 267 | 3 517 | 2 075 | 33 427 | 28 505 | 49 823 | 16 396 | 721 |   |
+|  (x) | (x) | (x) | (x) | (x) | (x) | (x) | (x) |   |
+|  (x) | (x) | (x) | (x) | (x) | (x) | (x) | (x) |   |
+|  (x) | - | (x) | - | - | - | - | 724 |   |
+|  1 786 884 | 1 437 115 | 674 658 | 10 780 552 | 9 639 362 | 18 317 083 | 7 536 531 | 725 |   |
+|  4 691 | 4 387 | 10 566 | 5 249 | 3 141 | 39 381 | 34 132 | 726 |   |
+|  127 524 | 109 931 | 30 308 | 1 800 588 | 1 309 135 | 2 494 764 | 674 176 | 727 |   |
+|  202 391 | 190 333 | 33 858 | 1 936 967 | 1 750 690 | 2 653 568 | 716 601 | 728 |   |
+|  158 289 | 128 946 | 22 098 | 131 094 | 110 059 | 457 393 | 326 299 | 729 |   |
+|  141 230 | 100 743 | 180 928 | 463 680 | 409 907 | 1 211 293 | 747 613 | 730 |   |
+|  23 832 | 22 776 | 4 602 | 78 461 | 73 570 | 152 845 | 74 384 | 731 |   |
+|  15 192 | 13 417 | 10 310 | 87 630 | 85 818 | 164 701 | 77 071 | 732 |   |
+|  26 048 | 22 762 | 10 730 | 80 251 | 77 707 | 186 446 | 106 195 | 733 |   |
+|  26 657 | 22 193 | 9 492 | 151 428 | 119 317 | 258 287 | 106 859 | 734 |   |
+|  (x) | (x) | (x) | (x) | (x) | (x) | (x) | (x) |   |
+|  (x) | (x) | (x) | (x) | (x) | (x) | (x) | (x) |   |
+|  248 312 | 174 879 | 79 601 | 1 257 570 | 1 191 702 | 2 688 139 | 1 430 569 | 737 |   |
+|  62 317 | 59 980 | 17 099 | 283 182 | 269 222 | 397 779 | 114 597 | 738 |   |
+|  7 397 | 3 252 | 1 525 | 10 556 | 10 274 | 28 375 | 17 819 | 739 |   |
+|  47 320 | 46 098 | 13 813 | 309 210 | 218 293 | 600 970 | 291 760 | 740 |   |
+|  73 956 | 66 431 | 37 152 | 531 993 | 512 222 | 947 675 | 415 682 | 741 |   |
+|  447 804 | 338 806 | 187 610 | 3 269 239 | 3 153 967 | 5 213 825 | 1 944 586 | 742 |   |
+|  19 037 | 8 980 | 2 022 | 119 031 | 113 262 | 224 611 | 105 580 | 743 |   |
+|  21 161 | 19 259 | 2 354 | 58 161 | 44 659 | 105 493 | 47 332 | 744 |   |
+|  100 798 | 73 782 | 17 084 | 178 930 | 169 055 | 412 036 | 253 106 | 745 |   |
+|  29 621 | 27 315 | 1 598 | 4 428 | 2 554 | 52 589 | 48 161 | 746 |   |
+|  12 359 | - | 6 265 | - | - | - | - | 747 |   |
+|  489 713 | 417 014 | 173 257 | 2 353 836 | 2 238 854 | 4 284 735 | 1 930 899 | 748 |   |
+|  18 665 | 16 887 | 8 728 | 123 140 | 116 154 | 431 022 | 307 882 | 749 |   |
+|  45 079 | 40 168 | 22 313 | 142 863 | 126 947 | 274 830 | 131 967 | 750 |   |
+|  63 015 | 51 599 | 12 410 | 150 249 | 142 370 | 293 364 | 143 615 | 751 |   |
+|  11 563 | 9 682 | 7 934 | 28 246 | 27 328 | 75 437 | 47 191 | 752 |   |
+|  65 648 | 66 637 | 4 602 | 235 582 | 232 866 | 502 561 | 266 979 | 753 |   |
+|  6 549 | 6 033 | 5 724 | 55 558 | 54 453 | 76 974 | 21 416 | 754 |   |
+|  26 381 | 21 438 | 10 004 | 90 576 | 88 227 | 178 398 | 87 822 | 755 |   |
+|  6 315 | 4 300 | 5 983 | 112 484 | 110 953 | 136 262 | 23 778 | 756 |   |
+|  2 419 | 1 867 | 2 853 | 8 075 | 8 346 | 28 348 | 19 273 | 757 |   |
+|  (x) | (x) | (x) | (x) | (x) | (x) | (x) | (x) |   |
+|  6 312 | 3 706 | 10 180 | 84 725 | 84 245 | 132 626 | 47 901 | 759 |   |
+|  (x) | (x) | (x) | (x) | (x) | (x) | (x) | (x) |   |
+|  1 405 | 1 357 | 352 | 21 323 | 20 848 | 28 718 | 7 395 | 761 |   |
+|  53 062 | 38 785 | 27 096 | 280 276 | 239 900 | 601 106 | 320 830 | 762 |   |
+|  (x) | (x) | (x) | (x) | (x) | (x) | (x) | (x) |   |
+|  29 622 | 26 304 | 8 620 | 146 728 | 144 366 | 269 407 | 122 679 | 764 |   |
+|  71 530 | 50 591 | 34 954 | 597 751 | 574 192 | 847 264 | 249 513 | 765 |   |
+|  1 953 | 823 | 856 | 7 845 | 7 742 | 11 762 | 3 917 | 766 |   |
+|  6 327 | 6 216 | 1 242 | 20 329 | 19 981 | 34 185 | 13 856 | 767 |   |
+|  3 823 | 3 104 | 2 206 | 59 091 | 58 616 | 72 641 | 13 550 | 768 |   |
+|  66 518 | 66 318 | 4 542 | 185 727 | 179 184 | 282 888 | 97 161 | 769 |   |
+|  6 506 | - | 1 972 | - | - | - | - | 770 |   |
+|  609 391 | 562 235 | 185 768 | 3 268 026 | 12 388 721 | 5 912 532 | 2 644 506 | 771 |   |
+|  62 471 | 56 374 | 40 913 | 268 119 | 242 658 | 586 119 | 318 000 | 772 |   |
+|  11 294 | 11 085 | 7 595 | 15 874 | 2 295 | 80 208 | 64 334 | 773 |   |
+|  19 058 | 18 628 | 9 150 | 52 466 | 47 378 | 159 623 | 107 157 | 774 |   |
+|  2 232 | 2 232 | 1 916 | 13 882 | 13 497 | 24 841 | 10 959 | 775 |   |
+|  (x) | (x) | (x) | (x) | (x) | (x) | (x) | (x) |   |
+|  2 320 | 2 202 | 1 136 | 8 822 | 8 594 | 15 530 | 6 708 | 776 |   |
+|  (x) | (x) | (x) | (x) | (x) | (x) | (x) | (x) |   |
+
+
+# Page 7
+
+## tbl-11.md
+
+|  NUM. | MICROBREGIOS, MUNICIPIOS | E GÉNEROS DE INDÚSTRIA | 1980 | TOTAL | A | PORCÁULICO | MEDIA  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  DE | E GÉNEROS DE INDÚSTRIA | 1980 | TOTAL | A | PORCÁULICO | MEDIA |   |
+|  DEM |  |  |  |  |  |  |   |
+
+## tbl-12.md
+
+|  780 | PRODUTOS ALIMENTARES | 18 | 252 | 189 | 250  |
+| --- | --- | --- | --- | --- | --- |
+|  781 | EDITORIAL E GRÁFICA | 5 | 14 | 5 | 13  |
+|  782 | UNIDADES AUXILIARES DE APOIO (UTILIDADES) E DE SERVIÇOS DE NATUREZA INDUSTRIAL | 1 | (X) | (X) | (X)  |
+|  783 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 1 | (X) | - | (X)  |
+|  784 | CARO FRIO | 120 | 2 845 | 2 531 | 2 797  |
+|  785 | EXTRACKO DE MINERAIS | 42 | 1 009 | 917 | 1 038  |
+|  786 | TRANSFORMACKO DE PRODUTOS DE MINERAIS NAD-METÁLICOS | 10 | 201 | 188 | 181  |
+|  787 | METALURGICA | 5 | 14 | 6 | 12  |
+|  788 | MECANICA | 4 | 418 | 415 | 425  |
+|  789 | MATERIAL ELÉTRICO E DE COMUNICAÇÕES | 2 | (X) | (X) | (X)  |
+|  790 | MATERIAL DE TRANSPORTE | 6 | 15 | 6 | 11  |
+|  791 | MADEIRA | 5 | 31 | 18 | 25  |
+|  792 | MOBILIÁRIO | 3 | 16 | 12 | 15  |
+|  793 | QUÍMICA | 3 | 388 | 346 | 344  |
+|  794 | VESTUÁRIO, CALCADOS E ARTEFATOS DE TÉCIDOS | 8 | 35 | 18 | 27  |
+|  795 | PRODUTOS ALIMENTARES | 27 | 622 | 517 | 505  |
+|  796 | EDITORIAL E GRÁFICA | 3 | 20 | 14 | 17  |
+|  797 | UNIDADES AUXILIARES DE APOIO (UTILIDADES) E DE SERVIÇOS DE NATUREZA INDUSTRIAL | 1 | (X) | (X) | (X)  |
+|  798 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 6 | 553 | - | 556  |
+|  799 | SÃO PEDRO DA ALDEIA | 51 | 429 | 291 | 390  |
+|  800 | EXTRACKO DE MINERAIS | 15 | 133 | 84 | 116  |
+|  801 | TRANSFORMACKO DE PRODUTOS DE MINERAIS NAD-METÁLICOS | 8 | 66 | 48 | 64  |
+|  802 | METALURGICA | 5 | 12 | 7 | 9  |
+|  803 | MADEIRA | 5 | 24 | 15 | 27  |
+|  804 | MOBILIÁRIO | 2 | (X) | (X) | (X)  |
+|  805 | QUÍMICA | 1 | (X) | (X) | (X)  |
+|  806 | VESTUÁRIO, CALCADOS E ARTEFATOS DE TÉCIDOS | 1 | (X) | (X) | (X)  |
+|  807 | PRODUTOS ALIMENTARES | 15 | 164 | 121 | 146  |
+|  808 | DIVERSAS | 1 | (X) | - | (X)  |
+|  809 | SAQUAREMA | 34 | 256 | 163 | 258  |
+|  810 | EXTRACKO DE MINERAIS | 3 | 7 | 1 | 7  |
+|  811 | TRANSFORMACKO DE PRODUTOS DE MINERAIS NAD-METÁLICOS | 12 | 56 | 21 | 51  |
+|  812 | MATERIAL ELÉTRICO E DE COMUNICAÇÕES | 1 | (X) | (X) | (X)  |
+|  813 | MADEIRA | 3 | 6 | 3 | 5  |
+|  814 | MOBILIÁRIO | 5 | 7 | 2 | 7  |
+|  815 | PAPEL E PAPELÃO | 1 | (X) | (X) | (X)  |
+|  816 | VESTUÁRIO, CALCADOS E ARTEFATOS DE TÉCIDOS | 1 | (X) | (X) | (X)  |
+|  817 | PRODUTOS ALIMENTARES | 10 | 167 | 129 | 175  |
+|  818 | BAIA DA ILHA GRANDE | 82 | 4 881 | 4 597 | 4 864  |
+|  819 | ANONA DOS REIS | 56 | 4 761 | 4 534 | 4 761  |
+|  820 | EXTRACKO DE MINERAIS | 2 | (X) | (X) | (X)  |
+|  821 | TRANSFORMACKO DE PRODUTOS DE MINERAIS NAD-METÁLICOS | 2 | 24 | 19 | 23  |
+|  822 | METALURGICA | 2 | (X) | (X) | (X)  |
+|  823 | MECANICA | 2 | (X) | (X) | (X)  |
+|  824 | MATERIAL DE TRANSPORTE | 10 | 3 639 | 3 604 | 3 653  |
+|  825 | MADEIRA | 2 | (X) | (X) | (X)  |
+|  826 | MOBILIÁRIO | 1 | (X) | - | (X)  |
+|  827 | PRODUTOS ALIMENTARES | 29 | 233 | 172 | 222  |
+|  828 | EDITORIAL E GRÁFICA | 2 | (X) | (X) | (X)  |
+|  829 | UNIDADES AUXILIARES DE APOIO (UTILIDADES) E DE SERVIÇOS DE NATUREZA INDUSTRIAL | 2 | (X) | (X) | (X)  |
+|  830 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 3 | 626 | - | 634  |
+|  831 | PARATI | 26 | 120 | 63 | 103  |
+|  832 | TRANSFORMACKO DE PRODUTOS DE MINERAIS NAD-METÁLICOS | 3 | 11 | - | 11  |
+|  833 | MATERIAL DE TRANSPORTE | 3 | 11 | 6 | 11  |
+|  834 | MADEIRA | 2 | (X) | (X) | (X)  |
+|  835 | MOBILIÁRIO | 2 | (X) | (X) | (X)  |
+|  836 | PRODUTOS ALIMENTARES | 10 | 61 | 39 | 51  |
+|  837 | BERIDAS | 6 | 20 | 8 | 16  |
+
+
+# Page 8
+
+## tbl-13.md
+
+|  ANO DE 1980  |   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  SALARIOS  |   |   |   |   |   |   |   |   |
+|  DESPESAS COM AS  |   |   |   |   |   |   |   |   |
+|  OPERACOES INDUSTRIAIS (1)  |   |   |   |   |   |   |   |   |
+|  VALOR  |   |   |   |   |   |   |   |   |
+|  VALOR DA  |   |   |   |   |   |   |   |   |
+|  TRANSFORMACRO  |   |   |   |   |   |   |   |   |
+|  PESOAL  |   |   |   |   |   |   |   |   |
+|  GERAIS  |   |   |   |   |   |   |   |   |
+|  MATERIALS-PRIMAS,  |   |   |   |   |   |   |   |   |
+|  PROMOJCNO  |   |   |   |   |   |   |   |   |
+|  INDUSTRIAL  |   |   |   |   |   |   |   |   |
+|  TOTAL  |   |   |   |   |   |   |   |   |
+|  LIGADO  |   |   |   |   |   |   |   |   |
+|  MATERIAIS E  |   |   |   |   |   |   |   |   |
+|  COMPONENTES  |   |   |   |   |   |   |   |   |
+|  DEM  |   |   |   |   |   |   |   |   |
+|  (MIL CRUZEIROS)  |   |   |   |   |   |   |   |   |
+
+## tbl-14.md
+
+|  19 390 | 14 121 | 19 602 | 144 284 | 138 906 | 240 401 | 96 117 | 780  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  443 | 374 | 293 | 1 934 | 1 805 | 3 818 | 1 884 | 781  |
+|  (X) | (X) | (X) | (X) | - | (X) | (X) | 782  |
+|  (X) | - | (X) | - | - | - | - | 783  |
+|  519 958 | 484 939 | 117 971 | 2 661 143 | 1 816 196 | 4 724 873 | 2 063 730 | 784  |
+|  157 776 | 138 534 | 39 158 | 445 207 | 298 892 | 1 089 628 | 644 421 | 785  |
+|  41 017 | 40 790 | 4 288 | 233 369 | 104 014 | 373 715 | 140 346 | 786  |
+|  350 | 350 | 303 | 2 594 | 2 536 | 5 453 | 2 859 | 787  |
+|  112 885 | 112 885 | 19 208 | 3 279 | 2 220 | 176 282 | 173 003 | 788  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 789  |
+|  380 | 336 | 944 | 3 502 | 2 844 | 9 325 | 5 823 | 790  |
+|  1 295 | 962 | 826 | 5 405 | 5 185 | 13 182 | 7 777 | 791  |
+|  838 | 838 | 160 | 4 164 | 4 074 | 7 922 | 3 758 | 792  |
+|  92 852 | 87 893 | 14 765 | 1 274 994 | 1 227 393 | 1 946 288 | 671 294 | 793  |
+|  934 | 816 | 441 | 5 078 | 4 635 | 9 432 | 4 494 | 794  |
+|  86 736 | 76 869 | 33 909 | 241 985 | 153 613 | 580 159 | 338 170 | 795  |
+|  1 019 | 923 | 223 | 3 172 | 2 803 | 6 589 | 3 617 | 796  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 797  |
+|  169 035 | - | 179 950 | - | - | - | - | 798  |
+|  19 938 | 16 505 | 19 929 | 46 254 | 40 225 | 132 207 | 85 953 | 799  |
+|  10 183 | 7 937 | 5 646 | 1 023 | 235 | 29 878 | 28 855 | 800  |
+|  1 814 | 1 681 | 580 | 3 482 | 2 278 | 11 706 | 8 224 | 801  |
+|  278 | 278 | 104 | 1 290 | 1 291 | 2 218 | 928 | 802  |
+|  519 | 519 | 421 | 2 211 | 2 071 | 8 143 | 5 932 | 803  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 804  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 805  |
+|  5 567 | 4 834 | 12 228 | 33 330 | 29 775 | 72 600 | 39 270 | 807  |
+|  - | - | (X) | (X) | (X) | (X) | (X) | 808  |
+|  7 024 | 4 417 | 6 955 | 292 510 | 289 642 | 469 333 | 176 823 | 809  |
+|  288 | 144 | 448 | 330 | 58 | 3 069 | 2 739 | 810  |
+|  1 593 | 957 | 1 498 | 1 587 | 815 | 9 582 | 7 995 | 811  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 812  |
+|  135 | 135 | 93 | 530 | 487 | 2 207 | 1 677 | 813  |
+|  82 | 82 | 134 | 412 | 390 | 1 367 | 955 | 814  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 815  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 816  |
+|  4 632 | 2 853 | 4 595 | 288 472 | 286 755 | 447 893 | 159 421 | 817  |
+|  1 200 827 | 1 159 214 | 88 602 | 4 172 606 | 3 714 238 | 10 144 359 | 5 971 753 | 818  |
+|  1 196 113 | 1 154 943 | 86 681 | 4 161 045 | 3 703 495 | 10 115 497 | 5 954 452 | 819  |
+|  (X) | (X) | (X) | (X) | - | (X) | (X) | 820  |
+|  1 695 | 1 695 | 1 335 | 2 048 | 1 914 | 7 358 | 5 310 | 821  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 822  |
+|  915 008 | 910 385 | 49 981 | 3 937 090 | 3 501 608 | 9 316 710 | 5 379 620 | 824  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 825  |
+|  - | - | (X) | (X) | (X) | (X) | (X) | 826  |
+|  14 194 | 12 782 | 9 533 | 107 330 | 99 820 | 225 548 | 118 210 | 827  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 828  |
+|  (X) | (X) | (X) | (X) | - | (X) | (X) | 829  |
+|  333 237 | - | 169 752 | - | - | - | - | 830  |
+|  712 | 4 271 | 1 921 | 11 561 | 10 743 | 28 862 | 17 301 | 831  |
+|  - | - | - | 663 | 663 | 987 | 324 | 832  |
+|  312 | 312 | 107 | 539 | 524 | 1 823 | 1 284 | 833  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 834  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 835  |
+|  3 246- | 2 813 | 1 379 | 8 127 | 7 663 | 19 938 | 11 811 | 836  |
+|  537 | 529 | 134 | 746 | 466 | 2 132 | 1 386 | 837  |
+
+
+# Page 9
+
+## tbl-15.md
+
+|  * | * | * | * | * | *  |
+| --- | --- | --- | --- | --- | --- |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  NUM. | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  DE | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  MICRORREGIOES, MUNICIPIOS | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  GR- | * | * | * | * | *  |
+|  E | GENEROS DE INDUSTRIA | * | 1980 | TOTAL | A  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+|  * | * | * | * | * | *  |
+
+## tbl-16.md
+
+|  838 | RIO DE JANEIRO | 7 130 | 273 905 | 229 172 | 272 452  |
+| --- | --- | --- | --- | --- | --- |
+|  839 | RIO DE JANEIRO | 7 130 | 273 905 | 229 172 | 272 452  |
+|  840 | EXTRACAO DE MINERAIS | 25 | (X) | (X) | (X)  |
+|  841 | TRANSFORMACAO DE PRODUTOS DE MINERAIS NRO-METALICOS | 301 | 15 149 | 12 885 | 15 263  |
+|  842 | METALURGICA | 671 | 25 855 | 22 504 | 25 685  |
+|  843 | MECANICA | 404 | 28 753 | 25 054 | 28 979  |
+|  844 | MATERIAL ELETRICO E DE COMUNICACOES | 209 | 16 421 | 14 052 | 16 371  |
+|  845 | MATERIAL DE TRANSPORTE | 173 | 18 779 | 17 088 | 19 045  |
+|  846 | MADEIRA | 131 | 2 369 | 1 972 | 2 299  |
+|  847 | MOBILIARIO | 450 | 8 380 | 6 611 | 8 286  |
+|  848 | PAPEL E PAPELRO | 154 | 8 138 | 6 773 | 8 267  |
+|  849 | BORRACHA | 39 | 1 317 | 1 022 | 1 318  |
+|  850 | COUROS E PELES E PRODUTOS SIMILARES, E ARTEPATOS DE SELARIA E CORREARIA, PARA VIAGEM E USO PESSOAL - EXCLUSIVE CALCADOS E ARTIGOS DO VESTUARIO... | 26 | 3 613 | 3 430 | 3 771  |
+|  851 | QUÍMICA | 187 | 8 025 | 5 610 | 7 888  |
+|  852 | PRODUTOS FARMACEUTICOS E VETERINARIOS | 78 | 6 484 | 5 185 | 6 502  |
+|  853 | PERFUMARIA, SABOES E VELAS | 97 | 4 838 | 3 816 | 4 883  |
+|  854 | PRODUTOS DE MATERIAS PLAQTICAS | 185 | 9 308 | 8 047 | 9 661  |
+|  855 | TEXTIL | 111 | 12 488 | 11 720 | 12 786  |
+|  856 | VESTUARIO, CALCADOS E ARTEPATOS DE TECIDOS | 1 080 | 35 547 | 30 705 | 34 097  |
+|  857 | PRODUTOS ALIMENTARES | 1 460 | 25 831 | 19 234 | 25 082  |
+|  858 | BERIDAS | 27 | 4 785 | 3 640 | 4 987  |
+|  859 | FUMO | 1 | (X) | (X) | (X)  |
+|  860 | EDITORIAL E GRAPHICA | 761 | 21 264 | 16 902 | 20 895  |
+|  861 | DIVERSAS | 397 | 9 961 | 7 590 | 9 696  |
+|  862 | UNIDADES AUXILIARES DE APOIO TOTILIDADES E DE SERVICOS DE NATUREZA INDUSTRIAL | 113 | 6 068 | 5 012 | 6 188  |
+|  863 | UNIDADES AUXILIARES ADMINISTRATIVAS (3) | 1 360 | 26 111 | - | 26 094  |
+
+
+# Page 10
+
+## tbl-17.md
+
+|  SALARIOS |   | DESPESAS COR AG |   | OPENACDES INDUSTRIAIS (1) |   | VALOR |   | VALOR OA DE  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  PESGOL |   | DESPESAS |   | MATERIAIS-PRIMAS, |   | DA |   | TRANSFORMACAO  |   |
+|  LIGADO |   | GERAIS |   | MATERIAIS E |   | PRODUCADO |   | INDUSTRIAL  |   |
+|  A PRODUCADO |   | COMPONENTES |   | C2) |   | DEM |   | DEM  |   |
+|  (MIL CRUZEIROS) |   |  |   |  |   |  |   |   |   |
+
+## tbl-18.md
+
+|  43 974 460 | 36 267 594 | 14 639 829 | 236 607 508 | 219 445 824 | 486 843 144 | 250 235 636 | 838  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  43 974 460 | 36 267 594 | 14 639 829 | 236 607 508 | 219 445 824 | 486 843 144 | 250 235 636 | 839  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | (X)  |
+|  2 556 042 | 1 981 531 | 770 541 | 8 483 129 | 7 019 817 | 21 243 237 | 12 760 108 | 841  |
+|  3 771 569 | 3 279 378 | 1 086 827 | 36 610 848 | 34 235 474 | 39 277 254 | 22 666 406 | 842  |
+|  6 761 815 | 5 759 898 | 2 256 540 | 14 885 435 | 12 935 238 | 39 052 073 | 24 166 638 | 843  |
+|  3 341 832 | 2 652 335 | 891 999 | 12 587 472 | 11 176 200 | 32 121 124 | 19 533 652 | 844  |
+|  4 138 420 | 3 760 512 | 689 284 | 16 758 706 | 14 592 682 | 36 520 269 | 19 761 563 | 845  |
+|  274 934 | 228 974 | 125 515 | 979 370 | 950 475 | 1 860 005 | 883 635 | 846  |
+|  884 888 | 756 447 | 354 342 | 2 779 377 | 2 721 939 | 5 963 148 | 3 183 771 | 847  |
+|  1 061 584 | 741 235 | 352 926 | 6 759 405 | 6 532 551 | 13 440 331 | 6 680 926 | 848  |
+|  173 296 | 128 724 | 128 218 | 629 064 | 580 307 | 1 400 905 | 771 841 | 849  |
+|  483 516 | 432 979 | 167 015 | 1 980 269 | 1 917 374 | 3 438 384 | 1 458 315 | 850  |
+|  2 030 340 | 1 261 582 | 1 456 717 | 35 416 961 | 34 383 425 | 58 300 443 | 22 883 482 | 851  |
+|  1 316 671 | 924 858 | 530 568 | 7 713 364 | 7 487 308 | 22 004 987 | 14 289 623 | 852  |
+|  653 046 | 413 733 | 447 470 | 6 227 765 | 6 016 116 | 11 400 390 | 5 172 628 | 853  |
+|  1 251 386 | 1 032 282 | 495 544 | 6 714 935 | 8 180 973 | 19 377 423 | 10 662 488 | 854  |
+|  1 766 700 | 1 663 073 | 179 307 | 13 461 258 | 12 686 593 | 21 374 639 | 7 913 381 | 855  |
+|  3 105 398 | 2 689 586 | 1 250 613 | 12 465 746 | 11 651 547 | 30 238 165 | 17 792 419 | 856  |
+|  2 218 928 | 1 793 434 | 956 650 | 25 277 059 | 24 528 425 | 40 593 684 | 15 316 625 | 857  |
+|  981 917 | 742 594 | 106 036 | 4 480 045 | 4 172 769 | 8 304 815 | 4 024 770 | 858  |
+|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | (X)  |
+|  4 162 930 | 3 497 342 | 1 426 046 | 13 587 678 | 11 566 303 | 40 382 583 | 26 794 905 | 860  |
+|  1 248 070 | 892 903 | 558 341 | 5 743 507 | 5 548 224 | 15 306 221 | 9 562 714 | 861  |
+|  1 909 376 | 1 569 260 | 349 047 | 1 011 138 | 485 677 | 4 604 710 | 3 593 572 | 862  |
+|  11 307 574 | - | 6 831 968 | - | - | - | - | 863  |

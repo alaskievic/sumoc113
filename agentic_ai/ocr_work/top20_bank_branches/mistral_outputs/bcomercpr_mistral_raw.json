@@ -1,0 +1,61 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bcomercpr.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 147085
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "# BANCO COMERCIAL DO PARANÁ S. A.\n\nMatriz: PONTA GROSSA, Rua 15 de Novembro, 259 — Filiais: CURIT IBA, Rua 15 de Novembro, 310 — SÃO PAULO, Rua da Quitanda, 101\nRIO DE JANEIRO: Praça Floriano, 7 - D\nCAPITAL ... Cr$ 200.000.000,00\nCARTA PATENTE N.º 2.765. DE 14/11/1942 — OPERAÇÕES INICIADAS EM 14 DE NOVEMBRO DE 1942\n\nDEPARTAMENTOS: Abatiá, Alto Paraná, Alvorada do Sul, Andirá, Apucarana, Arapongas, Araruna, Araruva, Assaí, Astorga, Bandeirópolis, Cambará, Cambé, Cantareira (Urbana São Paulo), Campo Surgo, Campo Mourão, Carlópolis, Cascavel, Castro, Centenário do Sul, Cianorte, Colorado, Cornélio Procópio, Cruzeiro do Oeste, Curitiba, Florestópolis, Foz do Iguaçu, Guaracy, Guarapuava, Ibaítí, Ibiporã, Iguaraçu, Iratí, Itambaracá, Itararé (SP), Jacarezinho, Jaquapítã, Jaquariaiva, Jandaí, do Sul, Joaquim Távora, Joinville (SC), Juvevê, Lapa, Loanda, Londrina, Lupionópolis, Malét, Mandaquáçu, Mandaque, Quarí, Marechal Floriano, Marialva, Maringá, Monte Alegre, Morre, Nova Esperança, Nova Londrina, Palmeira, Paranacity, Paranaquá, Paraíso do Norte, Paranavaí, Peabirú, Pinhalão, Piraí do Sul, Ponta Grossa Portão, Primeiro de Maio, Prudentópolis, Quatiquá, Rebouças, Ribeirão Claro, Ribeirão do Pinhal, Rio Azul, Rio de Janeiro (GB), Rolândia, Santa Fé, Santa Felicidade, Santa Izabel do Ivaí, Santa Mariana, S. A. da Platina, Santo Inácio, Santos (SP), São João do Caiuá, São Jorge, São Martinho, São Mateus do Sul, São Paulo (SP), Seminário, Sertanópolis, Siqueira Campos, Terra Boa, Tomazina, Umuarama, União da Vitória, Uraí, Wenceslau Braz.\n\nBALANCETE EM 31 DE JANEIRO DE 1951.",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 359,
+          "width": 1262
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 147085
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "# BANCO COMERCIAL DO PARANÁ S. A.\n\nMatriz: PONTA GROSSA, Rua 15 de Novembro, 259 — Filiais: CURIT IBA, Rua 15 de Novembro, 310 — SÃO PAULO, Rua da Quitanda, 101\nRIO DE JANEIRO: Praça Floriano, 7 - D\nCAPITAL ... Cr$ 200.000.000,00\nCARTA PATENTE N.º 2.765. DE 14/11/1942 — OPERAÇÕES INICIADAS EM 14 DE NOVEMBRO DE 1942\n\nDEPARTAMENTOS: Abatiá, Alto Paraná, Alvorada do Sul, Andirá, Apucarana, Arapongas, Araruna, Araruva, Assaí, Astorga, Bandeirópolis, Cambará, Cambé, Cantareira (Urbana São Paulo), Campo Surgo, Campo Mourão, Carlópolis, Cascavel, Castro, Centenário do Sul, Cianorte, Colorado, Cornélio Procópio, Cruzeiro do Oeste, Curitiba, Florestópolis, Foz do Iguaçu, Guaracy, Guarapuava, Ibaítí, Ibiporã, Iguaraçu, Iratí, Itambaracá, Itararé (SP), Jacarezinho, Jaquapítã, Jaquariaiva, Jandaí, do Sul, Joaquim Távora, Joinville (SC), Juvevê, Lapa, Loanda, Londrina, Lupionópolis, Malét, Mandaquáçu, Mandaque, Quarí, Marechal Floriano, Marialva, Maringá, Monte Alegre, Morre, Nova Esperança, Nova Londrina, Palmeira, Paranacity, Paranaquá, Paraíso do Norte, Paranavaí, Peabirú, Pinhalão, Piraí do Sul, Ponta Grossa Portão, Primeiro de Maio, Prudentópolis, Quatiquá, Rebouças, Ribeirão Claro, Ribeirão do Pinhal, Rio Azul, Rio de Janeiro (GB), Rolândia, Santa Fé, Santa Felicidade, Santa Izabel do Ivaí, Santa Mariana, S. A. da Platina, Santo Inácio, Santos (SP), São João do Caiuá, São Jorge, São Martinho, São Mateus do Sul, São Paulo (SP), Seminário, Sertanópolis, Siqueira Campos, Terra Boa, Tomazina, Umuarama, União da Vitória, Uraí, Wenceslau Braz.\n\nBALANCETE EM 31 DE JANEIRO DE 1951.",
+      "lines": [
+        "# BANCO COMERCIAL DO PARANÁ S. A.",
+        "Matriz: PONTA GROSSA, Rua 15 de Novembro, 259 — Filiais: CURIT IBA, Rua 15 de Novembro, 310 — SÃO PAULO, Rua da Quitanda, 101",
+        "RIO DE JANEIRO: Praça Floriano, 7 - D",
+        "CAPITAL ... Cr$ 200.000.000,00",
+        "CARTA PATENTE N.º 2.765. DE 14/11/1942 — OPERAÇÕES INICIADAS EM 14 DE NOVEMBRO DE 1942",
+        "DEPARTAMENTOS: Abatiá, Alto Paraná, Alvorada do Sul, Andirá, Apucarana, Arapongas, Araruna, Araruva, Assaí, Astorga, Bandeirópolis, Cambará, Cambé, Cantareira (Urbana São Paulo), Campo Surgo, Campo Mourão, Carlópolis, Cascavel, Castro, Centenário do Sul, Cianorte, Colorado, Cornélio Procópio, Cruzeiro do Oeste, Curitiba, Florestópolis, Foz do Iguaçu, Guaracy, Guarapuava, Ibaítí, Ibiporã, Iguaraçu, Iratí, Itambaracá, Itararé (SP), Jacarezinho, Jaquapítã, Jaquariaiva, Jandaí, do Sul, Joaquim Távora, Joinville (SC), Juvevê, Lapa, Loanda, Londrina, Lupionópolis, Malét, Mandaquáçu, Mandaque, Quarí, Marechal Floriano, Marialva, Maringá, Monte Alegre, Morre, Nova Esperança, Nova Londrina, Palmeira, Paranacity, Paranaquá, Paraíso do Norte, Paranavaí, Peabirú, Pinhalão, Piraí do Sul, Ponta Grossa Portão, Primeiro de Maio, Prudentópolis, Quatiquá, Rebouças, Ribeirão Claro, Ribeirão do Pinhal, Rio Azul, Rio de Janeiro (GB), Rolândia, Santa Fé, Santa Felicidade, Santa Izabel do Ivaí, Santa Mariana, S. A. da Platina, Santo Inácio, Santos (SP), São João do Caiuá, São Jorge, São Martinho, São Mateus do Sul, São Paulo (SP), Seminário, Sertanópolis, Siqueira Campos, Terra Boa, Tomazina, Umuarama, União da Vitória, Uraí, Wenceslau Braz.",
+        "BALANCETE EM 31 DE JANEIRO DE 1951."
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 359,
+        "width": 1262
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 3.971,
+  "remote_file_id": null
+}

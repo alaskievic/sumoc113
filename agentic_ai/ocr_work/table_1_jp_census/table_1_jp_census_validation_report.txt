@@ -1,0 +1,20 @@
+Source PDF: /Users/alaskievic/Desktop/table_1_jp_census.pdf
+OCR JSON: /Users/alaskievic/Desktop/master_work/sumoc113/agentic_ai/ocr_work/table_1_jp_census/table_1_jp_census_mistral_raw.json
+CSV: /Users/alaskievic/Desktop/master_work/sumoc113/agentic_ai/ocr_work/table_1_jp_census/table_1_jp_census.csv
+Pages processed: 14
+Rows written: 778
+Heading-only rows skipped: 1
+- page 1: skipped heading-only row DISTRICTOS DE
+Corrections applied: 9
+- page 2: area Itariiri -> Itariri
+- page 2: area Parquera-Açu -> Pariquera-Açu
+- page 2 Pariquera-Açu: rural 53 -> 5
+- page 4: area Bendáequi -> Brodósqui
+- page 4: area Barriha -> Barrinha
+- page 4: area Iincão -> Rincão
+- page 4: area São Carlos e Jau -> São Carlos e Jaú
+- page 4: area Jau -> Jaú
+- page 7 Monte Castelo: descendants 186 -> 136
+Rows with remaining validation notes: 2
+- row 1 page 1 BRASIL: generation_sum_mismatch;residence_sum_mismatch
+- row 778 page 14 DESCONHECIDOS: generation_not_reported_or_mismatch;residence_not_reported_or_mismatch

@@ -1,0 +1,72 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+DESCECSCECCLSSSLLACELECCLCSCESCSCECETLCETICCCCCLCLCCSCLCLECCLESTETECSLSSCELTSASCSCLLCLCLCEAATETECETLTATECECEHCnCAANECAESACESANHASTAs
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO INDUSTRIAL DE 1980 E 1985
+
+CESCCLDESLLESCCLESCLLSCESLSSSASELCLCSLSCLSLTCCESTLLESESCLLSSLCCLCALCCCCLLCLLSCLCLILCCECSECCECLCSCCCSCESCEESCCCACALHEACAAASCCASAESAS
+be : CENSO DE 1980 .
+
+& ES eo SEE SE NA -
+NUM. e . » PESSOAL OCUPADO « a
+“ . . EM 31-12-1980 “ ANO DE 1980 hd
+
+DE : MUNICIPIOS, CLASSES 5 PERSAS SERES STO ADI RE RD ESSA DRDS RS PENAS D
+. = NUMERO + . . . . .
+
+“ E * . . . . . VALOR DA Led
+oR- + sDE ESTA-* . Ed SALARIOS E VALOR . .
+ss GENEROS DA INDUSTRIA : giigei=s E PR : RELTRNDAS : sato Ra STRANSFORMAÇÃO :
+DEM +» . * TOTAL . . REMUNERAÇÕES . INDUSTRIAL * INDUSTRIAL +*
+. * MENTOS * * PRODUÇÃO « . . -
+
+. s s . COSCESERESARArACaanaaas as aasanaaanaaasaaaa.s
+
+4 bs be é : (MIL CRUZEIROS) .
+CML EIO CISNE TLL CLANS LESTTACSUSCLSAI TILL T USA ONES LAECL CCI SICSLIL SIN TIS TC SIRI CITILICAC AS CCC INITIAL SITU SST SRSO
+351 PARANACITY..cxcorcrcococorcerc cor cc ce docs sos ovos 5 zo 7 2 977 64 047 11 351
+352 PARANAGUA... .cccrrcrrecrercrcrcooncodc ore ro soros 111 1 568 1085 254 073 11 951 403 3 965 450
+353 PARANAPOEMA....cccccrsece so ren co rorccc coco nvcans 5 14 5 763 3 254 1 740
+354 PARANAVAI.. ccrcercocoscrc ro orc nara poco reco ovos r o 182 1238 800 117 146 2 937 716 666 424
+* 255 PATO BRANCO. cosscerccoscorvecasso ses cosrvosves os 127 1 511 1 160 122 990 849 552 403 590
+986: PALA RREITAS: ssssisciassssgusssssiasssecsasess ” 113 se 6 696 40 280 25 867
+357 PAULO FRONTIN... cccccssecorcrcrr coro nc coro cocos 8 78 55 s 185 33 455 18 511
+388 PEABIRU... creo scrersoscocorenseswesc so socos sou. 33 254 173 17 457 171 898 129 465
+339 PEROLA... cerrcrcrscccrcorvorrecovorcee sacarose. 46 163 70 9 415 292 973 s+ 582
+360 PEROLA D'OESTE,.....ccccccscescrccrenccrconcnsss 16 163 111 12 128 56 748 41 651
+361 PLEN. cccccorrenccrcrorocococcao correr o co c sos vcs 23 244 197 17 547 124 973 77 845
+SOR: PENHALÇÃO ss semensasecemess ese yisis a eaça sy 10 26 7 1235 . 8 568 5 648
+E MM ea DE ESET OI SAVE A 29 1133 917 93 047 1 Sor 188 777 118
+364 PIRAI DO SUL...ccsccrrcrecocorccercoccenccccsouu 37 694 540 51 676 745 590 129 561
+365 PIRAQUARA....ccrcrcccrrcorcorero ce sucaasoc sao rss 97 1 970 1 459 230 721 1 816 566 976 752
+366 PITANGA... ccscrcorcorcncenssorcrcercass cre cas cs 114 765 514 53 930 455 822 230 342
+357 PLANALTINA DO PARANA......cucereeeeenessesesenas 8 31 8 1010 6 422 3 895
+368 PLANALTO. .eccrresrrrercor coco coro sn ostra cares cs 28 160 82 12 271 49 978 30 574:
+369 PORECATU......cccrccerrcerererrercrrcerererscroe 22 est 659 123 466 2 381 335 742 203
+370: PORTO AMAZONAS. e ccrcrsecenccro seco ronc aco css cvs 21 136 84 8 158 32 999 14 604
+371 PORTO RICO..ecccrrcscorcrcerconcocenssase veses. 18 52 z6 Z 521 27 321 6 691
+372 PORTO VITORIA... ccccscrrsccorsrsoro rc core sedc sos. 23 “08 346 26 126 193 829 116 216
+374 PRESIDENTE CASTELO BRANCO.......ccuuuuuseeeeseas 5 26 13 sso 3 491 2 224
+375 PRIMEIRO DE MAIO.....ccccseesrrercroroceronccosi zo 63 26 3 654 187 724 z0 103
+376 PRUDENTOPOLIS...cccrcscrorcccrcorcrncaccorosasos so 798 631 5s 709 601 953 386 839
+377 QUATIGUA...cccescsrcrcocenc ossec osore nossos ssocss ” 74 36 4 055 93 535 27 987
+378 QUATRO BARRAS... ..ccccecesoccrocescncasccrsrcasos 27 1 056 792 146 009 1 662 856 + 025 995
+379 QUEDAS DO IGUAÇU... .ccccercccrrcorcrsorescccccas 42 1385 1 197 144 179 2 843 100 + 520 872
+380 QUERENCIA DO NORTE......ccseccrerenaunecasaeaeos 20 158 RR) 8 471 59 223 27 387
+381 QUINTA DO SOL....ccccrcercorcosrcrccecosoroncasos 3 5 2 366 1 606 785
+382 QUITANDINHA... ..cccccssccrro receoso crrsccrccccscos 9 28 10 2 148 16 611 9 614
+383 RANCHO ALEGRE... .ccscrcercrcorccocerc nuno ncocos 3 5 1 156 562 376
+384 REALEZA... .cceresocccrerero reco vo conconrscasosos 46 534 am 31 755 295 879 151 836
+385 REBOUÇAS... ccccorrccoro src orceccocoreccssecasonos 31 225 160 12 859 93 162 57 036
+386 RENASCENÇA... ..ccccrccrcrcroscrcrccscoccoroarooos 12 300 243 19 564 182 895 79 799
+387 RESERVA. .ccsccccricrcrcor oo rose coco a cani casca so ” so 26 z 040 6 699 4 447
+Séa NIMETUÃO CLARO esmssumessss pescemecer prev 33 119 62 5 389 71 691 21 839
+389 RIBEIRÃO DO PINHAL......cceressesensssancsesesos 22 105 “6 “ 028 z0 613 s 050
+380 RIO AZUL....cccccororcccnc or corceconconucaccacaça 19 337 274 zo 068 132 507 79 501
+391 RIO BOM ceccrccrrcrcecorccrocosuccorucercncasoos 5 15 5 553. 2 539 1 704
+392 RIO BRANCO DO SUL,...cccccrcrcrcacesscssacesceso 6s 1617 1 380 203 890 5 693 365 1 064 206
+393 RIO NEGRO....ccrorceccrorcorcecoscorecesco oca sos BE 1 858 + «ss 279 172 2 937 510 9as 373
+394 ROLANDIA....crcerrrecorcerrrcorencoreranecenessa 101 1 281 s32 126 393 3 204 950 1 024 506
+395 RONCADOR. ..cccccerererercrcrcrocrcrorocccorcssos 9 258 225 23 342 249 878 as 676
+396 RONDON...csccrccerccrorescocorcorconccoonaascado 33 161 Rio) B 814 229 451 23 088
+397 SABAUDIA.,..ecerccsorcorcorcorccrvocoroncnsosesas 7 14 - 320 1 561 1 056
+
+18

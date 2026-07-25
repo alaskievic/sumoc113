@@ -1,0 +1,75 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+RESSRSSEACIASCERERLAFRREESTERTRCEREERLESREREEETEEEEESATERESEETESESALEERESAEEEELESA CREA RESSSETEEREERETEESETERKEESRERCEL DA
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DOC CENSO DOS SERVICOS DE 1980 E 1985
+EXLRRMERIERAAEEELESSLEEELLEEEEEEEECEEEELAELT LEAL EC EMEESLLEESEEEEEEEESTRRESERERE SEER ELETRO EEERT CERA E
+x 2 *
+* a CENSO DE 1980 x
+* x *
+= EREXENISRECALKALAAEECICEIEESCEECELESERSEAEE EESC RAR
+NUM, * * = PESSOAL OCUPADO ” .
+* * 2 = ANO DE 1980 x
+* * * EM 31-12-1980 * *
+DE x MUNICIPIOS * E EE SS SE E ES SS
+x a NUMERC = » x * *
+: x x * LIGADO À = SALARIOS = *
+OR- = * DE Ed x a RETIRADAS «+ TOTAL DA »
+Ed CLASSES E GENEROS DE SERVICOS * ” * ATIVIDADE * E OUTRAS = *
+» * ESTABELE-* 2 * REMUNERAÇÕES+* RECEITA *
+DEM * a * TOTAL * DA x Ea r
+a * CIMENTOS « pa a x ,
+* * = * PRESTAÇÃO =EEXEEXEETARARAKEAKERAEERERAAMA
+a * ” * * x
+x * = *DE SERVIÇOS (MIL CRUZEIROS) x
+z * * * * *
+OR RR SS DS E E RÃ E RE E E ER E E E
+128 ELDORADO... ci ccscscrss raca rrenan ra nana 53 146 az 5 B7O 2E 262
+128 FATIMA DO SUL... cc iii cre aanencanane ara ranao 107 287 112 20 €18 B1 573
+130 GLORIA DE DOURADOS.......ccsscciscscssi crencas 65 207 S1 12 B7E 47 798
+131 GUIA LOPES DA LAGUNA... cce encerra re 15 54 27 2 aaa 16 656
+132 IGUATEMI sc cccccscrcacrrrerrre re rcaaserr rr e err a a 56 170 57 12 820 41 552
+133 INOCENCIA...ccccscccs crer era rar rr rrnerraera 10 27 12 + 895 7 582
+134 ITAPORÃ,. ess csrrcr circense 3c 101 E 2 847 12 418
+138 ITAQUIRALI..... rsss cc rara rr rare nana ana aa rar - - - - -
+136 IVINHEMA... coisas sra arara rare rea race rare sra 6c 215 114 21 210 Ss: 635
+137 JARAGUARI,,scccol cc rsracrrrerrrere errar rr raca 4 30 2E 4 B67 13 449
+138 JARDIM. ossec erre rr na ea rar rr res nana rr aaa rasa E2 216 Efe 11 662 55 388
+138 JATEIT..cccicrrrrra rare rcrererra re sra serra a os sn sas rr san a E - 427 1 476
+140 LADARIO..,.cccccsscec carne errar erre rea 15 55 26 2 254 iz 186
+141 MARACAJU... elis crer era caca nec rr sra ra so 276 125 23 39€ 98 427
+142 MIRANDA.....ccccrnlics scene rena na aerea rr errar caes 6“ 171 46 6 206 37 098
+143 MUNDO NOVO... .cccscccscsrarrere rara rea rra rr ra nara aan 125 350 112 21 524 63 715
+144 NAVIRAL.. ecc r rara era rr re nu serra van ra arraia 143 501 252 33 476 155 491
+145 NIOAQUE....ccrlisccsssrice renas rara seen aa err rare 19 51 14 2 008 i2 678
+146 NOVA ANDRADINA. ....cscissrsscuneccereraa arcar rar rr aca 86 366 231 31 028 147 573
+147 PARANAIBA....ccscccrrsce rrenan era raca errr rsrsrs 115 2.19 227 33 994 105 103
+148 PEDRO GOMES......ccccrcrccsccc ceras erarcrrra raras 30 s6 as 5 266 16 792
+148 PONTA PORÃ,....cccccrciiis cce ceras erra ça zos 834 465 77 453 345 300
+150 PORTO MURTINHO... icssscsccccrrcrrera nte rare rara rara 26 155 SE 7 384 265 512
+151 RIBAS DO RIO PARDO... os csssssssa caraca err cairia ricerca 13 se 7 1 366 3 852
+152 RIO BRILHANTE. ..cceccusccssscerana encerrar rara ceara 50 168 97 12 382 53 073
+153 RIO NEGRO... .cccccrerccsiri arara rr a ra 8 21 E 784 + 89
+154 RIO VERDE DE MATO GROSSO.......cicccricsicccrercrarrccras rá! 214 60 18 728 73 284
+155 ROCHEDO. ...cccssrscscrecae rca rara ar recaa 5 16 7 574 1 416
+156 SÃO GABRIEL DO CESTE......iccccscrccctiancsarrenecasrrero - - - - -
+157 SETE QUEDAS... ..ccccrcasrrrcarrrca encerrar rr rara - - - - -
+158 SELVIRIA...csccccsra rc eanarrrrerarr rr rrsrarreree nr aa ras - - - - -
+159 SIDROLANDIA.....icccciscs carrera rente r err rena 20 69 26 a 564 23 B4s5
+160 TACURU. .s cce error err rrenan rr rare rr rr - - - - -
+161 TAQUARUSSU. . cc crsrcrccra rece rrenarrrna sanar raras - - - - -
+162 TERENOS...Lcccrcsss crase nana caes rr euro ra rua sara 19 [jo] 31 5 168 13 757
+163 TRES LAGOAS... .cecrcrisane center ra mena rente manera raras 260 903 404 65 897 223 420
+164 MATO GROSSO.....cccccccrascrrararana rr rr rr na carencia rr 3 736 15 912 8 682 1 566 721 7 407 682
+165 ALOJAMENTO E ALIMENTAÇÃO... ..cccscccrssccraerersa serias 1 789 6 455 2 563 408 131 2 371 791
+166 ALOJAMENTO, . cecrsccrsarr raras canas r ro rara ra raca s01 2 107 1 068 141 437 667 172
+167 ALIMENTAÇÃO. ci cssrcrsrrrra eua ra rca rare rr ea raso saver 1 398 4 351 1 494 267 694 1 704 619
+168 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO, ,.s.ccsscscrcrtrereres 937 3 348 1 954 334 283 1 057 097
+168 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... .csccccrceraraara 837 s 348 1 954 334 283 + 057 097
+170 PESSOAIS, DE HIGIENE E ESTETICA PESSOAL.........ccccccso. pÃojo) 523 257 47 240 152 790
+171 PESSOAIS. ....cssccscrrs erraram erra rara nara a rr 84 210 86 18 176 84 933
+172 HIGIENE E DE ESTETICA PESSOAL.......s.cccccsccscarrraas 116 313 171 29 064 67 857
+173 RADIODIFUSÃO, TELEVISÃO E DIVERSÕES..........cccccscesaco 75 441 277 So 137 284 075
+174 RADIODIFUSÃO E TELEVISAO........cicsicicaccrrcra serra 12 215 153 27 448 155 283
+175 DIVERSÕES... ..cicicscs crer aan rara narra 63 226 124 22 689 138 792
+176 AUXILIARES DIVERSOS......cccccccrerarssare recentes oras 618 4 418 3 200 609 397 2 260 165
+177 AUX. DA AGROPECUARIA E REFLORESTAMENTO. ........csscsao. 118 776 428 175 269 713 561
+64

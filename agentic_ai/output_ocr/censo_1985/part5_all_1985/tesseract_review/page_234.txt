@@ -1,0 +1,70 @@
+. CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+AA ad dada dada dados dada dade ada aa edad cada dede aca dh dinda dochefadda doada dead
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSD DOS SERVIÇOS DE 1980 E 1985
+CRRRCCREKCRSECSENEECNLLL RCC ERREI SES CCEE SCE RRSCECREECRECCEEECEKCCREEEERAC TERES SRU CRE RECCERLA REAR
+Ed * *
+. * CENSO DE 1980 *
+* * *
+* E
+NUM. x . * PESSOAL OCUPADO * *
+* * x *x AMO DE 1980 *
+* * * EM 31-12-1980 * *
+DE = MUNICIPIOS * Sd doendo edad dad dtehot sedeada de deçda dada dardo dordediadi deste sado
+id * NUMERO + * * z *
+* Ed * * LIGADO A s SALARIOS, = x
+oR- * DE * * * RETIRADAS * TOTAL DA *
+* CLASSES E GENEROS DE SERVIÇOS x Rd * ATIVIDADE s E OUTRAS. + *
+* * ESTABELE-*+ x * REMUNERAÇÕES * RECEITA *
+DEM = * x TOTAL x DA * * *
+* * CIMENTOS x x 0. * * x
+* * x * PRESTAÇÃO ETLEESERESGAESAESEEEERAAARAA
+* * * * * *
+* * * *DE SERVIÇOS* (MIL CRUZEIROS) *
+* * * * * *
+BEETLE ESSES ACSESETSAESESSESTLLEASELALLEASTLESSESESESESAAT ESEC EEE
+1658 IBIUNA......ccrrrecaccrrrercana carencia ra rr reune rsss 69 190 EX] 11 Sos 73 139
+1659 ICEM......cccccrccriranr error rancor errar era rasa na rr 23 63 14 2 793 14 768
+1660 IEPE...,...ccrccsrcrrn error o rr e rarconrr rrenan caras er 31 64 10 2 868 13 883
+1661 IGARAÇU DO TIETE........cccccccrrccrera rare raca ra seas 66 2 272 2 168 275 887 675 034
+1662 IGARAPAVA... cercrecrecrrrn arara caserna ras sa nero sra aca +00 1 430 1 241 160 669 317 839
+1663 IGARATA.....ecereneracena nero r orar eras err reuse na sa sara 11 46 16 2 408 13 898
+1664 IGUAPE..,..ccccrere crase rr rea raras sans pace sa sas 81 208 67 10 269 63 487
+1665 ILHABELA.,.. ess crsscrreranrccrrce rrenan corr res sra cars 72 276 103 W 259 82 647
+1666 INDAIATUBA......cccccrc rrenan rara eras narrou asas 253 B94 368 75 413 337 788
+1667 INDIANA,....cccccuscrrrer are rrerara rena cenas sora rss 4 18 8 881 3 521
+1668 INDIAPORÃ.....ccccccicscca ceara carccercerra cars cerrcasos 27 79 19 2 984 15 717
+1669 INUBIA PAULISTA......sccrececircracrrerrrcscrrvreronrano 7 zo 5 680 4 585
+1670 IPAUÇU.....ccccsicicrrere sarau re ro raras esa sra a rias 42 71 4 3 142 21 493
+1671 IPERO.....ccccrraacener rr rosa raca seca rea ra so rr ras recua 17 47 17 5 090 27 874
+1672 IPEUNA......crscertena cerne certas erro var runre vers ne ras 10 20 5 1 823 4 792
+1573 IPORANGA.....ccccrrrerercrcerrr nro re rare ra carr rec rss 4 [7 - 135 750
+1674 IPUÃ..ccecc rara crrraa aaa sore e re sara crer ara rasas 47 104 8 3 559 22 254
+“1675 IRACEMAPOLIS.......ccccciscs crer treco r ensaia sz 831 707 57 941 123 730
+1676 IRAPUÃ....ccccscerra crer renar seres raa raca rr ra senaste 23 64 12 2 683 . 16 655
+15677 IRAPURU,....rercrcsrr cerne rare rrenan o roca ren rare ron 38 75 10 3 436 19 398
+1678 ITABERA,..,.ccesces cre recesso rr caraca are resrr cara rrra» 36 B2 5 + 922 15 106
+1679 ITAL...ccscrecrcccc errar a aos essa ara as ron o ra a rca a 44 61 173 44 7 387 51 704
+1680 ITAJOBI.....ccccscc ceras ranaararrarra cr rara ra carr avas 29 s8 6 3 493 22 710
+1681 ITAJU..ccccrecrrrca rara rare ra erra era parar e err ss e a o nas 4 5 - 114 1177
+1682 ITANHAEM, ..siccresrrr errar sereno sonar sera sarado 202 701 362 54 122 241 454
+1683 ITAPECERICA DA SERRA... .ccccssccrercnraaccrrrecrc arara 258 713 2987 63 368 352 830
+1684 ITAPEVA. ..csccrisceca rr rr erra rara nara raca sra rr raca nara 270 1147 581 72 867 273 541
+1685 ITAPEVI....ic seres rena rs onerar rar rr arara rrenan a toa 177 416 v70 28 903 126 037
+1686 ITAPIRA,..isiccerercenc era cerar recuar re rsrsr sura rasos 252 932 436 81 543 307 720
+1687 ITAPOLIS..,..sscsscsceracarcasa a rr camara sarro rama na ser 91 264 110 9B 021 169 620
+1688 ITAPORANGA... .icccccrerer rece erarrarra crase certa a rara 66 160 42 8 427 29 910
+1689 ITAPUI...cccrsccesci see rr oras cerana vara narra se saca sas 36 189 110 14 976 43 252
+1690 ITAPURA, .,.ccccccsrrrrrsannera res erre rastreia re vao 12 29 5 B6s6 4 603
+1691 ITAQUAQUECETUBA. .....sssscrcsirrcrra ceu carrier rara 187 405 68 18 384 103 443
+1692 ITARARÉ. ..csccrcicrerscrencrcca ras senaste caserna cravo 179 4se 176 30 072 81 097
+1693 ITARIRI..ccseccrersrce cre rrara ara re rara rear re rasa aaa 24 81 37 5 129 21 848
+1694 ITATIBA,....cccccces crer centra crer rena errar rr asas 232 898 464 B6 179 365 143
+1695 ITATINGA......ccccss cr cecercererrra arena sr err re nana are 37 226 142 14 BOS 78 957
+16965 ITIRAPINA....ccicrcererrcra renan rerararrrrr er racrs ac ra vo 65 314 215 32 722 177 933
+1697 ITIRAPUÃ,..ccccrsice er renina cansrsarrnnar ars r asa rava aca 8 13 2 1 s10 s 006
+1698 ITUc case res cesacs cera cenra serras o vnaaa rara ser sonar a nr 384 1823 1 055 171 021 763 162
+1700 ITUPEVA... ..cssssss ocaso a rerrner ar rrra rena rare dad» 2º 45 14 2 222 16 108
+1701 ITUVERAVA......isccecacacaca cares nara ses raca aa asa 140 467 216 35 840 193 229
+1702 JABORANDI... .cccccsirreccenreraaa corneana rare r rasas cara 16 36 10 1 533 13 1981
+1703 JABOTICABAL... .cccsccecccera crer rs re rena serve rara erre 252 828 436 72 170 307 177
+240

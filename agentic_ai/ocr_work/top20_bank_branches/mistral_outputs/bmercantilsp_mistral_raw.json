@@ -1,0 +1,71 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bmercantilsp.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 241114
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "83\n\n# BANCO MERCANTIL DE SÃO PAULO S. A.\n\nCARTA PATENTE N.º 1.938, DE 27 DE DEZEMBRO DE 1938\nEndereço Telegráfico: \"MERCAPAULO\"\nCAPITAL ... Cr$ 1.000.000.000,00\nRESERVAS ... Cr$ 590.777.228,10\nLUCRO NÃO DISTRIBUÍDO ... Cr$ 1.973.619,10\n\n**Matriz:** SÃO PAULO — Prédio \"Gastão Vidigal\" (Fundador) — Rua Alvares Penteado, 165\n\n**CONSELHO DE ADMINISTRAÇÃO:** — Antônio Aymoré Pereira Lima, Décio Ralston da Fonseca, Fábio da Silva Prado, Gastão Eduardo de Bueno Vidigal, Gastão de Mesquita Filho, Israel Klabin, J. J. Cardozo de Mello Neto, Lauro Cardoso de Almeida, Márcio da Costa Bueno, Olavo Egydio de Souza Aranha.\n\n## AGÊNCIAS:\n\nNa Cidade de São Paulo: Água Rasa, Arouche, Barra Funda, Bela Vista, Belém, Bom Retiro, Brás, Brooklin Paulista, Cambuci, Casa Verde, Indianópolis, Ipiranga, Itaim, Jabaquara, Jardim América, Lapa, Mercado, Mooca, Osasco, Paraíso, Pari, Penha, Pinheiros; Rua Piratininga, Rua São Luís, Santa Efigênia, Santana, Santo Amaro, São João, São Miguel Paulista, Sé, Tatuapé, Tucuruvi, Vila Carrão, Vila Guilherme, Vila Maria, Vila Mariana, Vila Pompéia, Vila Prudente, 24 de Maio, 25 de Março.\n\n**No Interior Est. São Paulo:** Adamantina, Águas da Praia, Americana, Angatuba, Araraquara, Araras, Atibaia, Avaré, Bariri, Barretos, Bauru, Bebedouro, Bernardino de Campos, Borborema, Campinas, Campos do Jordão, Capivari, Catanduva, Cerqueira César, Chavantes, Conchas, Dracena, Fartura, Fernandópolis, Garça, Guararapes, Guaratinguetá, Guarulhos, Herculândia, Ibitinga, Indaiatuba, Ipauçu, Itajobi, Itapecerica da Serra, Itapeva, Itararé, Itú, Jacareí, Jales, Jendiaí, Leme, Limeira, Lins, Lorena, Louveira, Manduri, Marília, Mirante do Paranapanema, Mirassol, Moqi das Cruzes, Moqi-Guaçu, Nhandeara, Novo Horizonte, Olímpia, Oswaldo Cruz, Ourinhos, Palmital, Pedregulho, Pindamonhagaba, Piracicaba, Pirajuí, Piratininga, Pompéia, Ponqai, Porto Feliz, Pres. Bernardes, Pres. Prudente, Quatá, Quintana, Rancharia, Ribeirão Preto, Rinópolis, Rio Claro, Salto, Santa Bárbara, d'Oeste, Santa Cruz do Rio Pardo, Santo Anastácio, Santo André, Santos, São Bernardo do Campo, São Caetano do Sul, São Carlos, São João da Boa Vista, São José dos Campos, São José do Rio Preto, Sertãozinho, Sorocaba, Suzano, Taquarituba, Tupã, Tupi Paulista, Vera Cruz.\n\n**No Estado da Guanabara (Na cidade do Rio de Janeiro):** Central, Castelo, Leme, Regente Feijó, São Cristóvão.\n\n**No Estado do Paraná:** Alvorada do Sul, Apucarana, Arapongas, Astorga, Cambará, Cambé, Cianorte, Colorado, Cornélio Procópio, Cruzeiro do Oeste, Curitiba, Ivaiporã, Jandaia do Sul, Londrina, Mandaguaçu, Mandaquarií Marialva, Maringá, Nova Esperança, Paranaguá, Ponta Grossa, Primeiro de Maio, Rolândia, Santa Fé, São Jorge, Umuarama.\n\n**No Estado do Rio de Janeiro:** Niterói.\n\n**No Estado do Rio Grande do Sul:** Porto Alegre.\n\n**No Estado de Santa Catarina:** Joinville.",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 572,
+          "width": 1257
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 241114
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "83\n\n# BANCO MERCANTIL DE SÃO PAULO S. A.\n\nCARTA PATENTE N.º 1.938, DE 27 DE DEZEMBRO DE 1938\nEndereço Telegráfico: \"MERCAPAULO\"\nCAPITAL ... Cr$ 1.000.000.000,00\nRESERVAS ... Cr$ 590.777.228,10\nLUCRO NÃO DISTRIBUÍDO ... Cr$ 1.973.619,10\n\n**Matriz:** SÃO PAULO — Prédio \"Gastão Vidigal\" (Fundador) — Rua Alvares Penteado, 165\n\n**CONSELHO DE ADMINISTRAÇÃO:** — Antônio Aymoré Pereira Lima, Décio Ralston da Fonseca, Fábio da Silva Prado, Gastão Eduardo de Bueno Vidigal, Gastão de Mesquita Filho, Israel Klabin, J. J. Cardozo de Mello Neto, Lauro Cardoso de Almeida, Márcio da Costa Bueno, Olavo Egydio de Souza Aranha.\n\n## AGÊNCIAS:\n\nNa Cidade de São Paulo: Água Rasa, Arouche, Barra Funda, Bela Vista, Belém, Bom Retiro, Brás, Brooklin Paulista, Cambuci, Casa Verde, Indianópolis, Ipiranga, Itaim, Jabaquara, Jardim América, Lapa, Mercado, Mooca, Osasco, Paraíso, Pari, Penha, Pinheiros; Rua Piratininga, Rua São Luís, Santa Efigênia, Santana, Santo Amaro, São João, São Miguel Paulista, Sé, Tatuapé, Tucuruvi, Vila Carrão, Vila Guilherme, Vila Maria, Vila Mariana, Vila Pompéia, Vila Prudente, 24 de Maio, 25 de Março.\n\n**No Interior Est. São Paulo:** Adamantina, Águas da Praia, Americana, Angatuba, Araraquara, Araras, Atibaia, Avaré, Bariri, Barretos, Bauru, Bebedouro, Bernardino de Campos, Borborema, Campinas, Campos do Jordão, Capivari, Catanduva, Cerqueira César, Chavantes, Conchas, Dracena, Fartura, Fernandópolis, Garça, Guararapes, Guaratinguetá, Guarulhos, Herculândia, Ibitinga, Indaiatuba, Ipauçu, Itajobi, Itapecerica da Serra, Itapeva, Itararé, Itú, Jacareí, Jales, Jendiaí, Leme, Limeira, Lins, Lorena, Louveira, Manduri, Marília, Mirante do Paranapanema, Mirassol, Moqi das Cruzes, Moqi-Guaçu, Nhandeara, Novo Horizonte, Olímpia, Oswaldo Cruz, Ourinhos, Palmital, Pedregulho, Pindamonhagaba, Piracicaba, Pirajuí, Piratininga, Pompéia, Ponqai, Porto Feliz, Pres. Bernardes, Pres. Prudente, Quatá, Quintana, Rancharia, Ribeirão Preto, Rinópolis, Rio Claro, Salto, Santa Bárbara, d'Oeste, Santa Cruz do Rio Pardo, Santo Anastácio, Santo André, Santos, São Bernardo do Campo, São Caetano do Sul, São Carlos, São João da Boa Vista, São José dos Campos, São José do Rio Preto, Sertãozinho, Sorocaba, Suzano, Taquarituba, Tupã, Tupi Paulista, Vera Cruz.\n\n**No Estado da Guanabara (Na cidade do Rio de Janeiro):** Central, Castelo, Leme, Regente Feijó, São Cristóvão.\n\n**No Estado do Paraná:** Alvorada do Sul, Apucarana, Arapongas, Astorga, Cambará, Cambé, Cianorte, Colorado, Cornélio Procópio, Cruzeiro do Oeste, Curitiba, Ivaiporã, Jandaia do Sul, Londrina, Mandaguaçu, Mandaquarií Marialva, Maringá, Nova Esperança, Paranaguá, Ponta Grossa, Primeiro de Maio, Rolândia, Santa Fé, São Jorge, Umuarama.\n\n**No Estado do Rio de Janeiro:** Niterói.\n\n**No Estado do Rio Grande do Sul:** Porto Alegre.\n\n**No Estado de Santa Catarina:** Joinville.",
+      "lines": [
+        "83",
+        "# BANCO MERCANTIL DE SÃO PAULO S. A.",
+        "CARTA PATENTE N.º 1.938, DE 27 DE DEZEMBRO DE 1938",
+        "Endereço Telegráfico: \"MERCAPAULO\"",
+        "CAPITAL ... Cr$ 1.000.000.000,00",
+        "RESERVAS ... Cr$ 590.777.228,10",
+        "LUCRO NÃO DISTRIBUÍDO ... Cr$ 1.973.619,10",
+        "**Matriz:** SÃO PAULO — Prédio \"Gastão Vidigal\" (Fundador) — Rua Alvares Penteado, 165",
+        "**CONSELHO DE ADMINISTRAÇÃO:** — Antônio Aymoré Pereira Lima, Décio Ralston da Fonseca, Fábio da Silva Prado, Gastão Eduardo de Bueno Vidigal, Gastão de Mesquita Filho, Israel Klabin, J. J. Cardozo de Mello Neto, Lauro Cardoso de Almeida, Márcio da Costa Bueno, Olavo Egydio de Souza Aranha.",
+        "## AGÊNCIAS:",
+        "Na Cidade de São Paulo: Água Rasa, Arouche, Barra Funda, Bela Vista, Belém, Bom Retiro, Brás, Brooklin Paulista, Cambuci, Casa Verde, Indianópolis, Ipiranga, Itaim, Jabaquara, Jardim América, Lapa, Mercado, Mooca, Osasco, Paraíso, Pari, Penha, Pinheiros; Rua Piratininga, Rua São Luís, Santa Efigênia, Santana, Santo Amaro, São João, São Miguel Paulista, Sé, Tatuapé, Tucuruvi, Vila Carrão, Vila Guilherme, Vila Maria, Vila Mariana, Vila Pompéia, Vila Prudente, 24 de Maio, 25 de Março.",
+        "**No Interior Est. São Paulo:** Adamantina, Águas da Praia, Americana, Angatuba, Araraquara, Araras, Atibaia, Avaré, Bariri, Barretos, Bauru, Bebedouro, Bernardino de Campos, Borborema, Campinas, Campos do Jordão, Capivari, Catanduva, Cerqueira César, Chavantes, Conchas, Dracena, Fartura, Fernandópolis, Garça, Guararapes, Guaratinguetá, Guarulhos, Herculândia, Ibitinga, Indaiatuba, Ipauçu, Itajobi, Itapecerica da Serra, Itapeva, Itararé, Itú, Jacareí, Jales, Jendiaí, Leme, Limeira, Lins, Lorena, Louveira, Manduri, Marília, Mirante do Paranapanema, Mirassol, Moqi das Cruzes, Moqi-Guaçu, Nhandeara, Novo Horizonte, Olímpia, Oswaldo Cruz, Ourinhos, Palmital, Pedregulho, Pindamonhagaba, Piracicaba, Pirajuí, Piratininga, Pompéia, Ponqai, Porto Feliz, Pres. Bernardes, Pres. Prudente, Quatá, Quintana, Rancharia, Ribeirão Preto, Rinópolis, Rio Claro, Salto, Santa Bárbara, d'Oeste, Santa Cruz do Rio Pardo, Santo Anastácio, Santo André, Santos, São Bernardo do Campo, São Caetano do Sul, São Carlos, São João da Boa Vista, São José dos Campos, São José do Rio Preto, Sertãozinho, Sorocaba, Suzano, Taquarituba, Tupã, Tupi Paulista, Vera Cruz.",
+        "**No Estado da Guanabara (Na cidade do Rio de Janeiro):** Central, Castelo, Leme, Regente Feijó, São Cristóvão.",
+        "**No Estado do Paraná:** Alvorada do Sul, Apucarana, Arapongas, Astorga, Cambará, Cambé, Cianorte, Colorado, Cornélio Procópio, Cruzeiro do Oeste, Curitiba, Ivaiporã, Jandaia do Sul, Londrina, Mandaguaçu, Mandaquarií Marialva, Maringá, Nova Esperança, Paranaguá, Ponta Grossa, Primeiro de Maio, Rolândia, Santa Fé, São Jorge, Umuarama.",
+        "**No Estado do Rio de Janeiro:** Niterói.",
+        "**No Estado do Rio Grande do Sul:** Porto Alegre.",
+        "**No Estado de Santa Catarina:** Joinville."
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 572,
+        "width": 1257
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 3.294,
+  "remote_file_id": null
+}

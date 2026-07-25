@@ -1,0 +1,301 @@
+{
+  "source": "/Users/alaskievic/Desktop/missing_rj_1975.pdf",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 4,
+    "doc_size_bytes": 151656
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "CENSOS ECONOMICOS - 1975\n\n2. DAGOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICRORREGIDES, MUNICIPIOS E GENEROS DE INDUSTRIA\n\n[tbl-0.md](tbl-0.md)\n\nSILVA JARDIM\n\n[tbl-1.md](tbl-1.md)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-0.md",
+            "content": "|  * | * | * | * | * | * | * | * | *  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  * | * | * | * | * | * | * | ANO DE 1975 | *  |\n|  * | * | * | * | * | * | * |  | *  |\n|  * | * | * | * | * | * | * |  | *  |\n|  * | * | * | * | PESSOAL OCUPADO EM 31-12-1975 | * | * |  | *  |\n|  * | * | * | * | * | * | * |  | *  |\n|  * | * | * | * | * | * | * |  | *  |\n|  NUM.* | MICRORREGIDES, MUNICIPIOS | ESTABELE- | * | * | * | * |  | *  |\n|  DE | E | CIMENTOS | * | * | * | * |  | *  |\n|  * | GR- | E | * | * | * | * | MEDIA MENSAL | *  |\n|  DE- | GENEROS DE INDUSTRIA | ANO DE 1975 | * | * | * | * | NO | *  |\n|  DEM | * | * | * | * | LIGADO | * | PESSOAL OCUPADO | *  |\n|  * | * | * | * | TOTAL | A | * | * | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | * | * | PRODUCRO | * | * | *  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          },
+          {
+            "id": "tbl-1.md",
+            "content": "|  688 | MATERIAL ELETRICO E DE COMUNICACOES | 1 | (X) | (X) | (X)  |\n| --- | --- | --- | --- | --- | --- |\n|  689 | MADEIRA | 5 | 18 | 11 | 18  |\n|  690 | MOBILIARIO | 1 | (X) | - | (X)  |\n|  691 | QUÍMICA | 1 | (X) | - | (X)  |\n|  692 | PRODUTOS ALIMENTARES | 3 | 13 | 8 | 13  |\n|  693 | SUMIDOURO | 7 | 23 | 14 | 25  |\n|  694 | MADEIRA | 3 | 10 | 5 | (X)  |\n|  695 | PRODUTOS ALIMENTARES | 3 | 13 | 9 | 13  |\n|  696 | BEBIDAS | 1 | - | - | (X)  |\n|  697 | TERESOPOLIS | 125 | 2 501 | 2 096 | 2 467  |\n|  698 | TRANSFORMACAO DE PRODUTOS DE MINERAIS NRO METALICOS | 9 | 104 | 89 | 101  |\n|  699 | METALURGICA | 15 | 113 | 78 | 97  |\n|  700 | MECANICA | 3 | 100 | 83 | 75  |\n|  701 | MADEIRA | 18 | 179 | 92 | 169  |\n|  702 | MOBILIARIO | 26 | 171 | 123 | 154  |\n|  703 | BORRACHA | 1 | (X) | (X) | (X)  |\n|  704 | PRODUTOS FARMACUTICOS E VETERINARIOS | 1 | (X) | (X) | (X)  |\n|  705 | PRODUTOS DE MATERIAS PLASTICAS | 1 | (X) | (X) | (X)  |\n|  706 | TEXTIL | 4 | 418 | 417 | 454  |\n|  707 | VESTUARIO, CALCADOS E ARTEFATOS DE TECINOS | 4 | 26 | 19 | 23  |\n|  708 | PRODUTOS ALIMENTARES | 29 | 371 | 293 | 344  |\n|  709 | BEBIDAS | 1 | (X) | (X) | (X)  |\n|  710 | EDITORIAL E GRÁFICA | 4 | 36 | 30 | 32  |\n|  711 | DIVERSAS | 5 | 701 | 655 | 741  |\n|  712 | ATIVIDADES DE APOIO E DE SERVICOS DE CARÁTER INDUSTRIAL | 4 | 77 | 77 | 68  |\n|  713 | TRAJANO DE MORAIS | 9 | 25 | 9 | 23  |\n|  714 | MADEIRA | 3 | 7 | 2 | 5  |\n|  715 | PRODUTOS ALIMENTARES | 6 | 18 | 7 | 18  |\n|  716 | TRES RIOS | 106 | 4 647 | 4 286 | 4 275  |\n|  717 | EXTRACAO DE MINERAIS | 4 | 37 | 31 | 36  |\n|  718 | TRANSFORMACAO DE PRODUTOS DE MINERAIS NRO METALICOS | 16 | 323 | 268 | 312  |\n|  719 | METALURGICA | 11 | 335 | 306 | 318  |\n|  720 | MECANICA | 4 | 692 | 677 | 672  |\n|  721 | MATERIAL ELETRICO E DE COMUNICACOES | 1 | (X) | (X) | (X)  |\n|  722 | MATERIAL DE TRANSPORTE | 4 | 359 | 354 | 353  |\n|  723 | MADEIRA | 2 | (X) | (X) | (X)  |\n|  724 | MOBILIARIO | 4 | 21 | 16 | 19  |\n|  725 | BORRACHA | 2 | (X) | (X) | (X)  |\n|  726 | QUÍMICA | 1 | (X) | (X) | (X)  |\n|  727 | PRODUTOS FARMACUTICOS E VETERINARIOS | 1 | (X) | (X) | (X)  |\n|  728 | PERFUMARIA, SABRES E VELAS | 1 | (X) | (X) | (X)  |\n|  729 | PRODUTOS DE MATERIAS PLASTICAS | 3 | 412 | 356 | 364  |\n|  730 | TEXTIL | 4 | 1 002 | 993 | 802  |\n|  731 | VESTUARIO, CALCADOS E ARTEFATOS DE TECINOS | 4 | 12 | 8 | 11  |\n|  732 | PRODUTOS ALIMENTARES | 33 | 1 065 | 935 | 1 044  |\n|  733 | BEBIDAS | 1 | (X) | (X) | (X)  |\n|  734 | EDITORIAL E GRÁFICA | 5 | 37 | 24 | 35  |\n|  735 | DIVERSAS | 2 | (X) | (X) | (X)  |\n|  736 | ATIVIDADES DE APOIO E DE SERVICOS DE CARÁTER INDUSTRIAL | 3 | 69 | 63 | 60  |\n|  737 | VALENCA | 60 | 2 406 | 1 999 | 2 260  |\n|  738 | TRANSFORMACAO DE PRODUTOS DE MINERAIS NRO METALICOS | 5 | 204 | 150 | 210  |\n|  739 | METALURGICA | 2 | (X) | (X) | (X)  |\n|  740 | MECANICA | 3 | 89 | 82 | 80  |\n|  741 | MADEIRA | 1 | (X) | (X) | (X)  |\n|  742 | MOBILIARIO | 1 | (X) | - | (X)  |\n|  743 | TEXTIL | 7 | 1 662 | 1 454 | 1 548  |\n|  744 | VESTUARIO, CALCADOS E ARTEFATOS DE TECINOS | 3 | 70 | 68 | 48  |\n|  745 | PRODUTOS ALIMENTARES | 29 | 309 | 196 | 304  |\n|  746 | BEBIDAS | 3 | 9 | 5 | 9  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 98,
+          "height": 1018,
+          "width": 753
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9901692240659173,
+          "minimum_page_confidence_score": 0.17654192395552123
+        },
+        "blocks": []
+      },
+      {
+        "index": 1,
+        "markdown": "CENSO INDUSTRIAL - RIO DE JANEIRO\n\n2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICROPREGIOS, MUNICIPIOS E GÉNEROS DE INDÚSTRIA\n\n(CONTINUA)\n\n[tbl-2.md](tbl-2.md)\n[tbl-3.md](tbl-3.md)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-2.md",
+            "content": "|  AND DE 1975  |   |   |   |   |   |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  SALARIOS | DESPESAS | DESPESAS COM AS OPERAÇÕES | VALOR | VALOR DA | NUM. |  |   |\n|  DESPEASAS | INDUSTRIAIS (1) | VALOR DA | VALOR DA | VALOR DA | DE |  |   |\n|  DIVERSAS | PRODUCÃO | TRANSFORMAÇÃO | TRANSFORMAÇÃO | OR- |  |  |   |\n|  TOTAL | TOTAL | MATEPIAS-PRIMAS, | INDUSTRIAL | DEN |  |  |   |\n|  & PRODUCÃO | COMPONENTES | COMPONENTES | COMPONENTES | DEN |  |  |   |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          },
+          {
+            "id": "tbl-3.md",
+            "content": "|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 688  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   | 71 | 57 | 55 | 426 | 396 | 835 | 409 | 689  |\n|   | - | - | (x) | (x) | (x) | (x) | (x) | 690  |\n|   | - | - | (x) | - | - | (x) | (x) | 691  |\n|   | 47 | 30 | 46 | 247 | 235 | 688 | 441 | 692  |\n|   | 118 | 92 | 94 | 3 398 | 3 342 | 4 271 | 873 | 693  |\n|   | (x) | 30 | (x) | (x) | (x) | (x) | (x) | 694  |\n|   | 79 | 62 | 78 | 3 337 | 3 283 | 4 126 | 789 | 695  |\n|   | (x) | - | (x) | (x) | (x) | (x) | (x) | 696  |\n|   | 35 258 | 26 935 | 36 327 | 151 838 | 133 700 | 295 654 | 143 816 | 697  |\n|   | 979 | 700 | 1 418 | 2 109 | 1 964 | 4 715 | 2 606 | 698  |\n|   | 1 016 | 538 | 1 246 | 2 560 | 2 513 | 5 975 | 3 415 | 699  |\n|   | 1 800 | 1 516 | 1 384 | 565 | 448 | 3 986 | 3 421 | 700  |\n|   | 1 747 | 787 | 1 806 | 6 752 | 6 612 | 10 715 | 3 963 | 701  |\n|   | 1 635 | 1 162 | 1 201 | 2 605 | 2 479 | 6 169 | 3 564 | 702  |\n|   | (x) | (x) | (x) | (x) | - | (x) | (x) | 703  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 704  |\n|   | 8 711 | 8 699 | 12 784 | 97 880 | 85 046 | 128 865 | 30 985 | 706  |\n|   | 403 | 312 | 799 | 1 090 | 1 072 | 2 649 | 1 559 | 707  |\n|   | 2 937 | 1 952 | 2 758 | 16 039 | 15 228 | 28 718 | 12 679 | 708  |\n|   | (x) | (x) | (x) | (x) | - | (x) | (x) | 709  |\n|   | 319 | 250 | 360 | 323 | (x) | 857 | 524 | 710  |\n|   | 9 182 | 7 020 | 6 175 | 10 310 | 9 824 | 51 555 | 41 245 | 711  |\n|   | 1 385 | 1 385 | 1 265 | 2 984 | 21 | 5 737 | 2 753 | 712  |\n|   | 107 | 55 | 559 | 6 009 | 5 939 | 6 611 | 602 | 713  |\n|   | 19 | 8 | 38 | 80 | 72 | 173 | 93 | 714  |\n|   | 88 | 47 | 521 | 5 929 | 5 867 | 6 438 | 509 | 715  |\n|   | 46 573 | 41 309 | 43 200 | 544 641 | 519 983 | 783 954 | 239 313 | 716  |\n|   | 284 | 210 | 170 | 106 | 46 | 1 238 | 1 132 | 717  |\n|   | 2 029 | 1 459 | 4 244 | 3 190 | 1 383 | 13 011 | 9 821 | 718  |\n|   | 4 506 | 3 881 | 3 754 | 64 683 | 61 703 | 102 694 | 38 011 | 719  |\n|   | 9 808 | 9 586 | 5 711 | 146 569 | 134 733 | 177 787 | 31 218 | 720  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 721  |\n|   | 3 329 | 3 257 | 1 990 | 9 034 | 7 935 | 17 589 | 8 555 | 722  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 723  |\n|   | 154 | 99 | 106 | 429 | 420 | 744 | 315 | 724  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 725  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 726  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 727  |\n|   | 3 361 | 2 589 | 5 624 | 24 686 | 23 885 | 39 662 | 14 976 | 729  |\n|   | 7 487 | 7 392 | 4 513 | 40 259 | 38 348 | 78 013 | 37 754 | 730  |\n|   | 59 | 40 | 52 | 314 | 310 | 433 | 119 | 731  |\n|   | 9 685 | 7 625 | 12 934 | 235 177 | 231 821 | 300 652 | 65 475 | 732  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 733  |\n|   | 431 | 233 | 216 | 652 | 531 | 1 389 | 737 | 734  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 735  |\n|   | 2 814 | 2 763 | 1 575 | 214 | - | 4 601 | 4 387 | 736  |\n|   | 23 465 | 15 973 | 35 473 | 206 745 | 195 671 | 353 938 | 147 193 | 737  |\n|   | 2 912 | 1 803 | 3 256 | 3 244 | 1 118 | 9 685 | 6 441 | 738  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 739  |\n|   | 1 062 | 867 | 628 | 2 971 | 2 873 | 4 852 | 1 881 | 740  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 741  |\n|   | (x) | - | (x) | (x) | (x) | (x) | (x) | 742  |\n|   | 15 772 | 11 085 | 25 846 | 141 691 | 134 085 | 266 348 | 124 657 | 743  |\n|   | 320 | 320 | 417 | 2 039 | 1 859 | 3 414 | 1 375 | 744  |\n|   | 2 740 | 1 389 | 4 907 | 55 806 | 54 999 | 67 017 | 11 211 | 745  |\n|   | 54 | 30 | 65 | 55 | 45 | 231 | 176 | 746  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 98,
+          "height": 1018,
+          "width": 753
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.993335908325678,
+          "minimum_page_confidence_score": 0.1654935005349334
+        },
+        "blocks": []
+      },
+      {
+        "index": 2,
+        "markdown": "CENSOS ECONOMICOS - 1975\n\n2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICRORREGIDES, MUNICIPIOS E GENEROS DE INDUSTRIA\n\n[tbl-4.md](tbl-4.md)\n\nVALENÇA:\n\n[tbl-5.md](tbl-5.md)\n\n(1) MATERIAS-PRIMAS, MATERIAIS E COMPONENTES, ENERGIA ELÉTRICA, COMBUSTÍVEIS E LUBRIFICANTES, SERVIÇOS INDUSTRIAIS PRESTADOS POR TERCEIROS E DESPESAS COM TRABALHADORES EM DOMÍCILIO, (2) INCLUI O VALOR DOS SERVIÇOS PRESTADOS A TERCEIROS E A ESTABELECIMENTOS DA MESMA EMPRESA",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-4.md",
+            "content": "|  * | * | * | * | * | * | * | * | *  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | PESSECAL OCUPADO EM 31-12-1975 | * | * | * | * | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  NUM.* | MICRORREGIDES, MUNICIPIOS | ESTABELE- | * | * | * | * | * | *  |\n|  DE | E | CIMENTOS | * | * | * | * | * | *  |\n|  OR- | GENEROS DE INDUSTRIA | AND DE 1975 | * | * | * | * | MEDIA MENSAL | *  |\n|  DEM | * | * | * | * | LIGADO | * | OO | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | TOTAL | * | A | * | PESSOAL OCUPADO | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | * | * | PRODUÇÃO | * | * | *  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          },
+          {
+            "id": "tbl-5.md",
+            "content": "|  747 | EDITORIAL E GRAFICA | 4 | 34 | 23 | 34  |\n| --- | --- | --- | --- | --- | --- |\n|  748 | ATIVIDADES DE APOIO E DE SERVIÇOS DE CARA-TER INDUSTRIAL | 2 | (X) | (X) | (X)  |\n|  749 | VASSOURAS | 44 | 424 | 313 | 432  |\n|  750 | EXTRACÇÃO DE MINERAIS | 4 | 24 | 11 | 21  |\n|  751 | TRANSFORMAÇÃO DE PRODUTOS DE MINERAIS NÃO METÁLICOS | 13 | 261 | 217 | 250  |\n|  752 | METALÚRGICA | 2 | (X) | (X) | (X)  |\n|  753 | MECÂNICA | 1 | (X) | (X) | (X)  |\n|  754 | MADEIRA | 1 | (X) | (X) | (X)  |\n|  755 | TEXTIL | 3 | 7 | 7 | 31  |\n|  756 | PRODUTOS ALIMENTARES | 17 | 111 | 64 | 106  |\n|  757 | EDITORIAL E GRAFICA | 2 | (X) | (X) | (X)  |\n|  758 | ATIVIDADES DE APOIO E DE SERVIÇOS DE CARA-TER INDUSTRIAL | 1 | (X) | (X) | (X)  |\n|  759 | VOLTA REDONDA | 122 | 13 447 | 12 169 | 12 918  |\n|  760 | EXTRACÇÃO DE MINERAIS | 3 | 279 | 257 | 258  |\n|  761 | TRANSFORMAÇÃO DE PRODUTOS DE MINERAIS NÃO METÁLICOS | 11 | 462 | 370 | 449  |\n|  762 | METALÚRGICA | 22 | 6 106 | 5 617 | 5 877  |\n|  763 | MECÂNICA | 9 | 4 192 | 3 863 | 4 076  |\n|  764 | MATERIAL DE TRANSPORTE | 3 | 115 | 96 | 47  |\n|  765 | MADEIRA | 3 | 42 | 36 | 38  |\n|  766 | MOBILIÁRIO | 6 | 50 | 34 | 42  |\n|  767 | BORRACHA | 1 | (X) | (X) | (X)  |\n|  768 | QUÍMICA | 4 | 443 | 438 | 424  |\n|  769 | PRODUTOS ALIMENTARES | 41 | 484 | 321 | 468  |\n|  770 | EDITORIAL E GRAFICA | 10 | 147 | 73 | 146  |\n|  771 | DIVERSAS | 3 | (X) | (X) | (X)  |\n|  772 | ATIVIDADES DE APOIO E DE SERVIÇOS DE CARA-TER INDUSTRIAL | 6 | 1 101 | 1 046 | 1 069  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 98,
+          "height": 1018,
+          "width": 753
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9851797893813267,
+          "minimum_page_confidence_score": 0.15531871035981068
+        },
+        "blocks": []
+      },
+      {
+        "index": 3,
+        "markdown": "CENSO INDUSTRIAL - RIO DE JANEIRO\n\n2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICROREGIÕES, MUNICÍPIOS E GÊNEROS DE INDÚSTRIA\n\n(CONCLUSÃO)\n\n[tbl-6.md](tbl-6.md)\n[tbl-7.md](tbl-7.md)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-6.md",
+            "content": "|  ANO DE 1975  |   |   |   |   |   |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  SALARIOS  |   |   |   |   |   |   |   |\n|  DESPESAS COM AS OPERAÇÕES  |   |   |   |   |   |   |   |\n|  VALOR  |   |   |   |   |   |   |   |\n|  VALOR DA  |   |   |   |   |   |   |   |\n|  DESPESAS  |   |   |   |   |   |   |   |\n|  INDUSTRIAIS (1)  |   |   |   |   |   |   |   |\n|  VALOR DA  |   |   |   |   |   |   |   |\n|  TRANSFORMAÇÃO  |   |   |   |   |   |   |   |\n|  TRANSFORMAÇÃO  |   |   |   |   |   |   |   |\n|  DESPESAS  |   |   |   |   |   |   |   |\n|  DIÁVEIS  |   |   |   |   |   |   |   |\n|  MATERIAIS-PRIMAS, (2)  |   |   |   |   |   |   |   |\n|  INDUSTRIAL  |   |   |   |   |   |   |   |\n|  DEM  |   |   |   |   |   |   |   |\n|  TOTAL  |   |   |   |   |   |   |   |\n|  A PRODUÇÃO  |   |   |   |   |   |   |   |\n|  (MIL CRUZÉIROS)  |   |   |   |   |   |   |   |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          },
+          {
+            "id": "tbl-7.md",
+            "content": "|  295 | 188 | 229 | 478 | 453 | 1 350 | 872 | 747  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  .X) | (X) | (X) | (X) | - | (X) | (X) | 748  |\n|  3 826 | 2 712 | 6 588 | 21 345 | 18 508 | 37 771 | 16 426 | 749  |\n|  387 | 155 | 658 | 360 | - | 1 590 | 1 230 | 750  |\n|  2 043 | 1 607 | 2 454 | 1 770 | 210 | 8 211 | 6 441 | 751  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 752  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 753  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 754  |\n|  235 | 235 | 1 127 | 2 988 | 2 605 | 4 350 | 1 362 | 755  |\n|  1 011 | 576 | 2 050 | 15 752 | 15 479 | 22 522 | 6 770 | 756  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 757  |\n|  (X) | (X) | (X) | (X) | - | (X) | (X) | 758  |\n|  303 758 | 208 909 | 879 281 | 6 305 507 | 5 697 432 | 9 309 459 | 3 003 952 | 759  |\n|  4 626 | 3 399 | 34 946 | 223 562 | 209 403 | 263 828 | 40 266 | 760  |\n|  10 584 | 7 748 | 18 571 | 153 301 | 132 760 | 283 883 | 130 582 | 761  |\n|  146 010 | 95 994 | 637 861 | 4 747 959 | 4 363 775 | 7 173 818 | 2 425 859 | 762  |\n|  92 581 | 64 203 | 69 339 | 134 770 | 123 375 | 308 903 | 174 133 | 763  |\n|  1 052 | 825 | 821 | 1 308 | 1 244 | 3 369 | 2 061 | 764  |\n|  322 | 233 | 487 | 1 270 | 1 250 | 2 827 | 1 557 | 765  |\n|  311 | 247 | 180 | 643 | 615 | 1 080 | 437 | 766  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 767  |\n|  11 112 | 9 597 | 67 409 | 644 168 | 597 601 | 747 682 | 103 514 | 768  |\n|  7 278 | 3 523 | 11 818 | 171 954 | 169 815 | 209 450 | 37 496 | 769  |\n|  2 539 | 1 176 | 2 462 | 5 043 | 4 768 | 10 693 | 5 650 | 770  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 771  |\n|  27 034 | 21 759 | 35 193 | 219 261 | 90 690 | 299 429 | 80 168 | 772  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 98,
+          "height": 1018,
+          "width": 753
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9889024183993562,
+          "minimum_page_confidence_score": 0.1662571664571654
+        },
+        "blocks": []
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 4,
+      "doc_size_bytes": 151656
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "CENSOS ECONOMICOS - 1975\n\n2. DAGOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICRORREGIDES, MUNICIPIOS E GENEROS DE INDUSTRIA\n\n[tbl-0.md](tbl-0.md)\n\nSILVA JARDIM\n\n[tbl-1.md](tbl-1.md)",
+      "lines": [
+        "CENSOS ECONOMICOS - 1975",
+        "2. DAGOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICRORREGIDES, MUNICIPIOS E GENEROS DE INDUSTRIA",
+        "[tbl-0.md](tbl-0.md)",
+        "SILVA JARDIM",
+        "[tbl-1.md](tbl-1.md)"
+      ],
+      "dimensions": {
+        "dpi": 98,
+        "height": 1018,
+        "width": 753
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9901692240659173,
+        "minimum_page_confidence_score": 0.17654192395552123
+      },
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  * | * | * | * | * | * | * | * | *  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  * | * | * | * | * | * | * | ANO DE 1975 | *  |\n|  * | * | * | * | * | * | * |  | *  |\n|  * | * | * | * | * | * | * |  | *  |\n|  * | * | * | * | PESSOAL OCUPADO EM 31-12-1975 | * | * |  | *  |\n|  * | * | * | * | * | * | * |  | *  |\n|  * | * | * | * | * | * | * |  | *  |\n|  NUM.* | MICRORREGIDES, MUNICIPIOS | ESTABELE- | * | * | * | * |  | *  |\n|  DE | E | CIMENTOS | * | * | * | * |  | *  |\n|  * | GR- | E | * | * | * | * | MEDIA MENSAL | *  |\n|  DE- | GENEROS DE INDUSTRIA | ANO DE 1975 | * | * | * | * | NO | *  |\n|  DEM | * | * | * | * | LIGADO | * | PESSOAL OCUPADO | *  |\n|  * | * | * | * | TOTAL | A | * | * | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | * | * | PRODUCRO | * | * | *  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  688 | MATERIAL ELETRICO E DE COMUNICACOES | 1 | (X) | (X) | (X)  |\n| --- | --- | --- | --- | --- | --- |\n|  689 | MADEIRA | 5 | 18 | 11 | 18  |\n|  690 | MOBILIARIO | 1 | (X) | - | (X)  |\n|  691 | QUÍMICA | 1 | (X) | - | (X)  |\n|  692 | PRODUTOS ALIMENTARES | 3 | 13 | 8 | 13  |\n|  693 | SUMIDOURO | 7 | 23 | 14 | 25  |\n|  694 | MADEIRA | 3 | 10 | 5 | (X)  |\n|  695 | PRODUTOS ALIMENTARES | 3 | 13 | 9 | 13  |\n|  696 | BEBIDAS | 1 | - | - | (X)  |\n|  697 | TERESOPOLIS | 125 | 2 501 | 2 096 | 2 467  |\n|  698 | TRANSFORMACAO DE PRODUTOS DE MINERAIS NRO METALICOS | 9 | 104 | 89 | 101  |\n|  699 | METALURGICA | 15 | 113 | 78 | 97  |\n|  700 | MECANICA | 3 | 100 | 83 | 75  |\n|  701 | MADEIRA | 18 | 179 | 92 | 169  |\n|  702 | MOBILIARIO | 26 | 171 | 123 | 154  |\n|  703 | BORRACHA | 1 | (X) | (X) | (X)  |\n|  704 | PRODUTOS FARMACUTICOS E VETERINARIOS | 1 | (X) | (X) | (X)  |\n|  705 | PRODUTOS DE MATERIAS PLASTICAS | 1 | (X) | (X) | (X)  |\n|  706 | TEXTIL | 4 | 418 | 417 | 454  |\n|  707 | VESTUARIO, CALCADOS E ARTEFATOS DE TECINOS | 4 | 26 | 19 | 23  |\n|  708 | PRODUTOS ALIMENTARES | 29 | 371 | 293 | 344  |\n|  709 | BEBIDAS | 1 | (X) | (X) | (X)  |\n|  710 | EDITORIAL E GRÁFICA | 4 | 36 | 30 | 32  |\n|  711 | DIVERSAS | 5 | 701 | 655 | 741  |\n|  712 | ATIVIDADES DE APOIO E DE SERVICOS DE CARÁTER INDUSTRIAL | 4 | 77 | 77 | 68  |\n|  713 | TRAJANO DE MORAIS | 9 | 25 | 9 | 23  |\n|  714 | MADEIRA | 3 | 7 | 2 | 5  |\n|  715 | PRODUTOS ALIMENTARES | 6 | 18 | 7 | 18  |\n|  716 | TRES RIOS | 106 | 4 647 | 4 286 | 4 275  |\n|  717 | EXTRACAO DE MINERAIS | 4 | 37 | 31 | 36  |\n|  718 | TRANSFORMACAO DE PRODUTOS DE MINERAIS NRO METALICOS | 16 | 323 | 268 | 312  |\n|  719 | METALURGICA | 11 | 335 | 306 | 318  |\n|  720 | MECANICA | 4 | 692 | 677 | 672  |\n|  721 | MATERIAL ELETRICO E DE COMUNICACOES | 1 | (X) | (X) | (X)  |\n|  722 | MATERIAL DE TRANSPORTE | 4 | 359 | 354 | 353  |\n|  723 | MADEIRA | 2 | (X) | (X) | (X)  |\n|  724 | MOBILIARIO | 4 | 21 | 16 | 19  |\n|  725 | BORRACHA | 2 | (X) | (X) | (X)  |\n|  726 | QUÍMICA | 1 | (X) | (X) | (X)  |\n|  727 | PRODUTOS FARMACUTICOS E VETERINARIOS | 1 | (X) | (X) | (X)  |\n|  728 | PERFUMARIA, SABRES E VELAS | 1 | (X) | (X) | (X)  |\n|  729 | PRODUTOS DE MATERIAS PLASTICAS | 3 | 412 | 356 | 364  |\n|  730 | TEXTIL | 4 | 1 002 | 993 | 802  |\n|  731 | VESTUARIO, CALCADOS E ARTEFATOS DE TECINOS | 4 | 12 | 8 | 11  |\n|  732 | PRODUTOS ALIMENTARES | 33 | 1 065 | 935 | 1 044  |\n|  733 | BEBIDAS | 1 | (X) | (X) | (X)  |\n|  734 | EDITORIAL E GRÁFICA | 5 | 37 | 24 | 35  |\n|  735 | DIVERSAS | 2 | (X) | (X) | (X)  |\n|  736 | ATIVIDADES DE APOIO E DE SERVICOS DE CARÁTER INDUSTRIAL | 3 | 69 | 63 | 60  |\n|  737 | VALENCA | 60 | 2 406 | 1 999 | 2 260  |\n|  738 | TRANSFORMACAO DE PRODUTOS DE MINERAIS NRO METALICOS | 5 | 204 | 150 | 210  |\n|  739 | METALURGICA | 2 | (X) | (X) | (X)  |\n|  740 | MECANICA | 3 | 89 | 82 | 80  |\n|  741 | MADEIRA | 1 | (X) | (X) | (X)  |\n|  742 | MOBILIARIO | 1 | (X) | - | (X)  |\n|  743 | TEXTIL | 7 | 1 662 | 1 454 | 1 548  |\n|  744 | VESTUARIO, CALCADOS E ARTEFATOS DE TECINOS | 3 | 70 | 68 | 48  |\n|  745 | PRODUTOS ALIMENTARES | 29 | 309 | 196 | 304  |\n|  746 | BEBIDAS | 3 | 9 | 5 | 9  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 2,
+      "markdown": "CENSO INDUSTRIAL - RIO DE JANEIRO\n\n2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICROPREGIOS, MUNICIPIOS E GÉNEROS DE INDÚSTRIA\n\n(CONTINUA)\n\n[tbl-2.md](tbl-2.md)\n[tbl-3.md](tbl-3.md)",
+      "lines": [
+        "CENSO INDUSTRIAL - RIO DE JANEIRO",
+        "2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICROPREGIOS, MUNICIPIOS E GÉNEROS DE INDÚSTRIA",
+        "(CONTINUA)",
+        "[tbl-2.md](tbl-2.md)",
+        "[tbl-3.md](tbl-3.md)"
+      ],
+      "dimensions": {
+        "dpi": 98,
+        "height": 1018,
+        "width": 753
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.993335908325678,
+        "minimum_page_confidence_score": 0.1654935005349334
+      },
+      "tables": [
+        {
+          "id": "tbl-2.md",
+          "content": "|  AND DE 1975  |   |   |   |   |   |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  SALARIOS | DESPESAS | DESPESAS COM AS OPERAÇÕES | VALOR | VALOR DA | NUM. |  |   |\n|  DESPEASAS | INDUSTRIAIS (1) | VALOR DA | VALOR DA | VALOR DA | DE |  |   |\n|  DIVERSAS | PRODUCÃO | TRANSFORMAÇÃO | TRANSFORMAÇÃO | OR- |  |  |   |\n|  TOTAL | TOTAL | MATEPIAS-PRIMAS, | INDUSTRIAL | DEN |  |  |   |\n|  & PRODUCÃO | COMPONENTES | COMPONENTES | COMPONENTES | DEN |  |  |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-3.md",
+          "content": "|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 688  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   | 71 | 57 | 55 | 426 | 396 | 835 | 409 | 689  |\n|   | - | - | (x) | (x) | (x) | (x) | (x) | 690  |\n|   | - | - | (x) | - | - | (x) | (x) | 691  |\n|   | 47 | 30 | 46 | 247 | 235 | 688 | 441 | 692  |\n|   | 118 | 92 | 94 | 3 398 | 3 342 | 4 271 | 873 | 693  |\n|   | (x) | 30 | (x) | (x) | (x) | (x) | (x) | 694  |\n|   | 79 | 62 | 78 | 3 337 | 3 283 | 4 126 | 789 | 695  |\n|   | (x) | - | (x) | (x) | (x) | (x) | (x) | 696  |\n|   | 35 258 | 26 935 | 36 327 | 151 838 | 133 700 | 295 654 | 143 816 | 697  |\n|   | 979 | 700 | 1 418 | 2 109 | 1 964 | 4 715 | 2 606 | 698  |\n|   | 1 016 | 538 | 1 246 | 2 560 | 2 513 | 5 975 | 3 415 | 699  |\n|   | 1 800 | 1 516 | 1 384 | 565 | 448 | 3 986 | 3 421 | 700  |\n|   | 1 747 | 787 | 1 806 | 6 752 | 6 612 | 10 715 | 3 963 | 701  |\n|   | 1 635 | 1 162 | 1 201 | 2 605 | 2 479 | 6 169 | 3 564 | 702  |\n|   | (x) | (x) | (x) | (x) | - | (x) | (x) | 703  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 704  |\n|   | 8 711 | 8 699 | 12 784 | 97 880 | 85 046 | 128 865 | 30 985 | 706  |\n|   | 403 | 312 | 799 | 1 090 | 1 072 | 2 649 | 1 559 | 707  |\n|   | 2 937 | 1 952 | 2 758 | 16 039 | 15 228 | 28 718 | 12 679 | 708  |\n|   | (x) | (x) | (x) | (x) | - | (x) | (x) | 709  |\n|   | 319 | 250 | 360 | 323 | (x) | 857 | 524 | 710  |\n|   | 9 182 | 7 020 | 6 175 | 10 310 | 9 824 | 51 555 | 41 245 | 711  |\n|   | 1 385 | 1 385 | 1 265 | 2 984 | 21 | 5 737 | 2 753 | 712  |\n|   | 107 | 55 | 559 | 6 009 | 5 939 | 6 611 | 602 | 713  |\n|   | 19 | 8 | 38 | 80 | 72 | 173 | 93 | 714  |\n|   | 88 | 47 | 521 | 5 929 | 5 867 | 6 438 | 509 | 715  |\n|   | 46 573 | 41 309 | 43 200 | 544 641 | 519 983 | 783 954 | 239 313 | 716  |\n|   | 284 | 210 | 170 | 106 | 46 | 1 238 | 1 132 | 717  |\n|   | 2 029 | 1 459 | 4 244 | 3 190 | 1 383 | 13 011 | 9 821 | 718  |\n|   | 4 506 | 3 881 | 3 754 | 64 683 | 61 703 | 102 694 | 38 011 | 719  |\n|   | 9 808 | 9 586 | 5 711 | 146 569 | 134 733 | 177 787 | 31 218 | 720  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 721  |\n|   | 3 329 | 3 257 | 1 990 | 9 034 | 7 935 | 17 589 | 8 555 | 722  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 723  |\n|   | 154 | 99 | 106 | 429 | 420 | 744 | 315 | 724  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 725  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 726  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 727  |\n|   | 3 361 | 2 589 | 5 624 | 24 686 | 23 885 | 39 662 | 14 976 | 729  |\n|   | 7 487 | 7 392 | 4 513 | 40 259 | 38 348 | 78 013 | 37 754 | 730  |\n|   | 59 | 40 | 52 | 314 | 310 | 433 | 119 | 731  |\n|   | 9 685 | 7 625 | 12 934 | 235 177 | 231 821 | 300 652 | 65 475 | 732  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 733  |\n|   | 431 | 233 | 216 | 652 | 531 | 1 389 | 737 | 734  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 735  |\n|   | 2 814 | 2 763 | 1 575 | 214 | - | 4 601 | 4 387 | 736  |\n|   | 23 465 | 15 973 | 35 473 | 206 745 | 195 671 | 353 938 | 147 193 | 737  |\n|   | 2 912 | 1 803 | 3 256 | 3 244 | 1 118 | 9 685 | 6 441 | 738  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 739  |\n|   | 1 062 | 867 | 628 | 2 971 | 2 873 | 4 852 | 1 881 | 740  |\n|   | (x) | (x) | (x) | (x) | (x) | (x) | (x) | 741  |\n|   | (x) | - | (x) | (x) | (x) | (x) | (x) | 742  |\n|   | 15 772 | 11 085 | 25 846 | 141 691 | 134 085 | 266 348 | 124 657 | 743  |\n|   | 320 | 320 | 417 | 2 039 | 1 859 | 3 414 | 1 375 | 744  |\n|   | 2 740 | 1 389 | 4 907 | 55 806 | 54 999 | 67 017 | 11 211 | 745  |\n|   | 54 | 30 | 65 | 55 | 45 | 231 | 176 | 746  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 3,
+      "markdown": "CENSOS ECONOMICOS - 1975\n\n2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICRORREGIDES, MUNICIPIOS E GENEROS DE INDUSTRIA\n\n[tbl-4.md](tbl-4.md)\n\nVALENÇA:\n\n[tbl-5.md](tbl-5.md)\n\n(1) MATERIAS-PRIMAS, MATERIAIS E COMPONENTES, ENERGIA ELÉTRICA, COMBUSTÍVEIS E LUBRIFICANTES, SERVIÇOS INDUSTRIAIS PRESTADOS POR TERCEIROS E DESPESAS COM TRABALHADORES EM DOMÍCILIO, (2) INCLUI O VALOR DOS SERVIÇOS PRESTADOS A TERCEIROS E A ESTABELECIMENTOS DA MESMA EMPRESA",
+      "lines": [
+        "CENSOS ECONOMICOS - 1975",
+        "2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICRORREGIDES, MUNICIPIOS E GENEROS DE INDUSTRIA",
+        "[tbl-4.md](tbl-4.md)",
+        "VALENÇA:",
+        "[tbl-5.md](tbl-5.md)",
+        "(1) MATERIAS-PRIMAS, MATERIAIS E COMPONENTES, ENERGIA ELÉTRICA, COMBUSTÍVEIS E LUBRIFICANTES, SERVIÇOS INDUSTRIAIS PRESTADOS POR TERCEIROS E DESPESAS COM TRABALHADORES EM DOMÍCILIO, (2) INCLUI O VALOR DOS SERVIÇOS PRESTADOS A TERCEIROS E A ESTABELECIMENTOS DA MESMA EMPRESA"
+      ],
+      "dimensions": {
+        "dpi": 98,
+        "height": 1018,
+        "width": 753
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9851797893813267,
+        "minimum_page_confidence_score": 0.15531871035981068
+      },
+      "tables": [
+        {
+          "id": "tbl-4.md",
+          "content": "|  * | * | * | * | * | * | * | * | *  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | PESSECAL OCUPADO EM 31-12-1975 | * | * | * | * | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  NUM.* | MICRORREGIDES, MUNICIPIOS | ESTABELE- | * | * | * | * | * | *  |\n|  DE | E | CIMENTOS | * | * | * | * | * | *  |\n|  OR- | GENEROS DE INDUSTRIA | AND DE 1975 | * | * | * | * | MEDIA MENSAL | *  |\n|  DEM | * | * | * | * | LIGADO | * | OO | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | TOTAL | * | A | * | PESSOAL OCUPADO | *  |\n|  * | * | * | * | * | * | * | * | *  |\n|  * | * | * | * | * | PRODUÇÃO | * | * | *  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-5.md",
+          "content": "|  747 | EDITORIAL E GRAFICA | 4 | 34 | 23 | 34  |\n| --- | --- | --- | --- | --- | --- |\n|  748 | ATIVIDADES DE APOIO E DE SERVIÇOS DE CARA-TER INDUSTRIAL | 2 | (X) | (X) | (X)  |\n|  749 | VASSOURAS | 44 | 424 | 313 | 432  |\n|  750 | EXTRACÇÃO DE MINERAIS | 4 | 24 | 11 | 21  |\n|  751 | TRANSFORMAÇÃO DE PRODUTOS DE MINERAIS NÃO METÁLICOS | 13 | 261 | 217 | 250  |\n|  752 | METALÚRGICA | 2 | (X) | (X) | (X)  |\n|  753 | MECÂNICA | 1 | (X) | (X) | (X)  |\n|  754 | MADEIRA | 1 | (X) | (X) | (X)  |\n|  755 | TEXTIL | 3 | 7 | 7 | 31  |\n|  756 | PRODUTOS ALIMENTARES | 17 | 111 | 64 | 106  |\n|  757 | EDITORIAL E GRAFICA | 2 | (X) | (X) | (X)  |\n|  758 | ATIVIDADES DE APOIO E DE SERVIÇOS DE CARA-TER INDUSTRIAL | 1 | (X) | (X) | (X)  |\n|  759 | VOLTA REDONDA | 122 | 13 447 | 12 169 | 12 918  |\n|  760 | EXTRACÇÃO DE MINERAIS | 3 | 279 | 257 | 258  |\n|  761 | TRANSFORMAÇÃO DE PRODUTOS DE MINERAIS NÃO METÁLICOS | 11 | 462 | 370 | 449  |\n|  762 | METALÚRGICA | 22 | 6 106 | 5 617 | 5 877  |\n|  763 | MECÂNICA | 9 | 4 192 | 3 863 | 4 076  |\n|  764 | MATERIAL DE TRANSPORTE | 3 | 115 | 96 | 47  |\n|  765 | MADEIRA | 3 | 42 | 36 | 38  |\n|  766 | MOBILIÁRIO | 6 | 50 | 34 | 42  |\n|  767 | BORRACHA | 1 | (X) | (X) | (X)  |\n|  768 | QUÍMICA | 4 | 443 | 438 | 424  |\n|  769 | PRODUTOS ALIMENTARES | 41 | 484 | 321 | 468  |\n|  770 | EDITORIAL E GRAFICA | 10 | 147 | 73 | 146  |\n|  771 | DIVERSAS | 3 | (X) | (X) | (X)  |\n|  772 | ATIVIDADES DE APOIO E DE SERVIÇOS DE CARA-TER INDUSTRIAL | 6 | 1 101 | 1 046 | 1 069  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 4,
+      "markdown": "CENSO INDUSTRIAL - RIO DE JANEIRO\n\n2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICROREGIÕES, MUNICÍPIOS E GÊNEROS DE INDÚSTRIA\n\n(CONCLUSÃO)\n\n[tbl-6.md](tbl-6.md)\n[tbl-7.md](tbl-7.md)",
+      "lines": [
+        "CENSO INDUSTRIAL - RIO DE JANEIRO",
+        "2. DADOS GERAIS DAS ATIVIDADES INDUSTRIAIS, SEGUNDO MICROREGIÕES, MUNICÍPIOS E GÊNEROS DE INDÚSTRIA",
+        "(CONCLUSÃO)",
+        "[tbl-6.md](tbl-6.md)",
+        "[tbl-7.md](tbl-7.md)"
+      ],
+      "dimensions": {
+        "dpi": 98,
+        "height": 1018,
+        "width": 753
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9889024183993562,
+        "minimum_page_confidence_score": 0.1662571664571654
+      },
+      "tables": [
+        {
+          "id": "tbl-6.md",
+          "content": "|  ANO DE 1975  |   |   |   |   |   |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  SALARIOS  |   |   |   |   |   |   |   |\n|  DESPESAS COM AS OPERAÇÕES  |   |   |   |   |   |   |   |\n|  VALOR  |   |   |   |   |   |   |   |\n|  VALOR DA  |   |   |   |   |   |   |   |\n|  DESPESAS  |   |   |   |   |   |   |   |\n|  INDUSTRIAIS (1)  |   |   |   |   |   |   |   |\n|  VALOR DA  |   |   |   |   |   |   |   |\n|  TRANSFORMAÇÃO  |   |   |   |   |   |   |   |\n|  TRANSFORMAÇÃO  |   |   |   |   |   |   |   |\n|  DESPESAS  |   |   |   |   |   |   |   |\n|  DIÁVEIS  |   |   |   |   |   |   |   |\n|  MATERIAIS-PRIMAS, (2)  |   |   |   |   |   |   |   |\n|  INDUSTRIAL  |   |   |   |   |   |   |   |\n|  DEM  |   |   |   |   |   |   |   |\n|  TOTAL  |   |   |   |   |   |   |   |\n|  A PRODUÇÃO  |   |   |   |   |   |   |   |\n|  (MIL CRUZÉIROS)  |   |   |   |   |   |   |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-7.md",
+          "content": "|  295 | 188 | 229 | 478 | 453 | 1 350 | 872 | 747  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  .X) | (X) | (X) | (X) | - | (X) | (X) | 748  |\n|  3 826 | 2 712 | 6 588 | 21 345 | 18 508 | 37 771 | 16 426 | 749  |\n|  387 | 155 | 658 | 360 | - | 1 590 | 1 230 | 750  |\n|  2 043 | 1 607 | 2 454 | 1 770 | 210 | 8 211 | 6 441 | 751  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 752  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 753  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 754  |\n|  235 | 235 | 1 127 | 2 988 | 2 605 | 4 350 | 1 362 | 755  |\n|  1 011 | 576 | 2 050 | 15 752 | 15 479 | 22 522 | 6 770 | 756  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 757  |\n|  (X) | (X) | (X) | (X) | - | (X) | (X) | 758  |\n|  303 758 | 208 909 | 879 281 | 6 305 507 | 5 697 432 | 9 309 459 | 3 003 952 | 759  |\n|  4 626 | 3 399 | 34 946 | 223 562 | 209 403 | 263 828 | 40 266 | 760  |\n|  10 584 | 7 748 | 18 571 | 153 301 | 132 760 | 283 883 | 130 582 | 761  |\n|  146 010 | 95 994 | 637 861 | 4 747 959 | 4 363 775 | 7 173 818 | 2 425 859 | 762  |\n|  92 581 | 64 203 | 69 339 | 134 770 | 123 375 | 308 903 | 174 133 | 763  |\n|  1 052 | 825 | 821 | 1 308 | 1 244 | 3 369 | 2 061 | 764  |\n|  322 | 233 | 487 | 1 270 | 1 250 | 2 827 | 1 557 | 765  |\n|  311 | 247 | 180 | 643 | 615 | 1 080 | 437 | 766  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 767  |\n|  11 112 | 9 597 | 67 409 | 644 168 | 597 601 | 747 682 | 103 514 | 768  |\n|  7 278 | 3 523 | 11 818 | 171 954 | 169 815 | 209 450 | 37 496 | 769  |\n|  2 539 | 1 176 | 2 462 | 5 043 | 4 768 | 10 693 | 5 650 | 770  |\n|  (X) | (X) | (X) | (X) | (X) | (X) | (X) | 771  |\n|  27 034 | 21 759 | 35 193 | 219 261 | 90 690 | 299 429 | 80 168 | 772  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 8.328,
+  "remote_file_id": null
+}

@@ -1,0 +1,86 @@
+﻿order_number,entry,establishments_1975,personnel_occupied_total_1975,personnel_occupied_linked_to_production_1975,average_monthly_personnel_occupied_1975,salaries_total_1975_thousand_cruzeiros,salaries_production_personnel_1975_thousand_cruzeiros,miscellaneous_expenses_1975_thousand_cruzeiros,industrial_operations_expenses_total_1975_thousand_cruzeiros,industrial_operations_expenses_raw_materials_materials_components_1975_thousand_cruzeiros,production_value_1975_thousand_cruzeiros,industrial_transformation_value_1975_thousand_cruzeiros,entry_ocr,source_page_left,source_page_right,entry_correction_method,left_extraction_method,right_extraction_method,needs_review
+688,MATERIAL ELETRICO E DE COMUNICACOES,1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),MATERIAL ELETRICO E DE COMUNICACOES,1,2,ocr_exact,mistral_table,mistral_table,no
+689,MADEIRA,5,18,11,18,71,57,55,426,396,835,409,MADEIRA,1,2,ocr_exact,mistral_table,mistral_table,no
+690,MOBILIARIO,1,(X),-,(X),-,-,(X),(X),(X),(X),(X),MOBILIARIO,1,2,ocr_exact,mistral_table,mistral_table,no
+691,QUIMICA,1,(X),-,(X),-,-,(X),-,-,(X),(X),QUÍMICA,1,2,ocr_exact,mistral_table,mistral_table,no
+692,PRODUTOS ALIMENTARES,3,13,8,13,47,30,46,247,235,688,441,PRODUTOS ALIMENTARES,1,2,ocr_exact,mistral_table,mistral_table,no
+693,SUMIDOURO,7,23,14,25,118,92,94,3 398,3 342,4 271,873,SUMIDOURO,1,2,ocr_exact,mistral_table,mistral_table,no
+694,MADEIRA,3,10,5,(X),(X),30,(X),(X),(X),(X),(X),MADEIRA,1,2,ocr_exact,mistral_table,mistral_table,no
+695,PRODUTOS ALIMENTARES,3,13,9,13,79,62,78,3 337,3 283,4 126,789,PRODUTOS ALIMENTARES,1,2,ocr_exact,mistral_table,mistral_table,no
+696,BEBIDAS,1,-,-,(X),(X),-,(X),(X),(X),(X),(X),BEBIDAS,1,2,ocr_exact,mistral_table,mistral_table,no
+697,TERESOPOLIS,125,2 501,2 096,2 467,35 258,26 935,36 327,151 838,133 700,295 654,143 816,TERESOPOLIS,1,2,ocr_exact,mistral_table,mistral_table,no
+698,TRANSFORMACAO DE PRODUTOS DE MINERAIS NAO METALICOS,9,104,89,101,979,700,1 418,2 109,1 964,4 715,2 606,TRANSFORMACAO DE PRODUTOS DE MINERAIS NRO METALICOS,1,2,industry_lexicon,mistral_table,mistral_table,no
+699,METALURGICA,15,113,78,97,1 016,538,1 246,2 560,2 513,5 975,3 415,METALURGICA,1,2,ocr_exact,mistral_table,mistral_table,no
+700,MECANICA,3,100,83,75,1 800,1 516,1 384,565,448,3 986,3 421,MECANICA,1,2,ocr_exact,mistral_table,mistral_table,no
+701,MADEIRA,18,179,92,169,1 747,787,1 806,6 752,6 612,10 715,3 963,MADEIRA,1,2,ocr_exact,mistral_table,mistral_table,no
+702,MOBILIARIO,26,171,123,154,1 635,1 162,1 201,2 605,2 479,6 169,3 564,MOBILIARIO,1,2,ocr_exact,mistral_table,mistral_table,no
+703,BORRACHA,1,(X),(X),(X),(X),(X),(X),(X),-,(X),(X),BORRACHA,1,2,ocr_exact,mistral_table,mistral_table,no
+704,PRODUTOS FARMACEUTICOS E VETERINARIOS,1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),PRODUTOS FARMACUTICOS E VETERINARIOS,1,2,industry_lexicon,mistral_table,mistral_table,no
+705,PRODUTOS DE MATERIAS PLASTICAS,1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),PRODUTOS DE MATERIAS PLASTICAS,1,2,ocr_exact,mistral_table,tesseract_review_verified_all_suppressed,no
+706,TEXTIL,4,418,417,454,8 711,8 699,12 784,97 880,85 046,128 865,30 985,TEXTIL,1,2,ocr_exact,mistral_table,mistral_table,no
+707,"VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS",4,26,19,23,403,312,799,1 090,1 072,2 649,1 559,"VESTUARIO, CALCADOS E ARTEFATOS DE TECINOS",1,2,industry_lexicon,mistral_table,mistral_table,no
+708,PRODUTOS ALIMENTARES,29,371,293,344,2 937,1 952,2 758,16 039,15 228,28 718,12 679,PRODUTOS ALIMENTARES,1,2,ocr_exact,mistral_table,mistral_table,no
+709,BEBIDAS,1,(X),(X),(X),(X),(X),(X),(X),-,(X),(X),BEBIDAS,1,2,ocr_exact,mistral_table,mistral_table,no
+710,EDITORIAL E GRAFICA,4,36,30,32,319,250,360,323,(X),857,524,EDITORIAL E GRÁFICA,1,2,ocr_exact,mistral_table,mistral_table,no
+711,DIVERSAS,5,701,655,741,9 182,7 020,6 175,10 310,9 824,51 555,41 245,DIVERSAS,1,2,ocr_exact,mistral_table,mistral_table,no
+712,ATIVIDADES DE APOIO E DE SERVICOS DE CARATER INDUSTRIAL,4,77,77,68,1 385,1 385,1 265,2 984,21,5 737,2 753,ATIVIDADES DE APOIO E DE SERVICOS DE CARÁTER INDUSTRIAL,1,2,ocr_exact,mistral_table,mistral_table,no
+713,TRAJANO DE MORAIS,9,25,9,23,107,55,559,6 009,5 939,6 611,602,TRAJANO DE MORAIS,1,2,ocr_exact,mistral_table,mistral_table,no
+714,MADEIRA,3,7,2,5,19,8,38,80,72,173,93,MADEIRA,1,2,ocr_exact,mistral_table,mistral_table,no
+715,PRODUTOS ALIMENTARES,6,18,7,18,88,47,521,5 929,5 867,6 438,509,PRODUTOS ALIMENTARES,1,2,ocr_exact,mistral_table,mistral_table,no
+716,TRES RIOS,106,4 647,4 286,4 275,46 573,41 309,43 200,544 641,519 983,783 954,239 313,TRES RIOS,1,2,ocr_exact,mistral_table,mistral_table,no
+717,EXTRACAO DE MINERAIS,4,37,31,36,284,210,170,106,46,1 238,1 132,EXTRACAO DE MINERAIS,1,2,ocr_exact,mistral_table,mistral_table,no
+718,TRANSFORMACAO DE PRODUTOS DE MINERAIS NAO METALICOS,16,323,268,312,2 029,1 459,4 244,3 190,1 383,13 011,9 821,TRANSFORMACAO DE PRODUTOS DE MINERAIS NRO METALICOS,1,2,industry_lexicon,mistral_table,mistral_table,no
+719,METALURGICA,11,335,306,318,4 506,3 881,3 754,64 683,61 703,102 694,38 011,METALURGICA,1,2,ocr_exact,mistral_table,mistral_table,no
+720,MECANICA,4,692,677,672,9 808,9 586,5 711,146 569,134 733,177 787,31 218,MECANICA,1,2,ocr_exact,mistral_table,mistral_table,no
+721,MATERIAL ELETRICO E DE COMUNICACOES,1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),MATERIAL ELETRICO E DE COMUNICACOES,1,2,ocr_exact,mistral_table,mistral_table,no
+722,MATERIAL DE TRANSPORTE,4,359,354,353,3 329,3 257,1 990,9 034,7 935,17 589,8 555,MATERIAL DE TRANSPORTE,1,2,ocr_exact,mistral_table,mistral_table,no
+723,MADEIRA,2,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),MADEIRA,1,2,ocr_exact,mistral_table,mistral_table,no
+724,MOBILIARIO,4,21,16,19,154,99,106,429,420,744,315,MOBILIARIO,1,2,ocr_exact,mistral_table,mistral_table,no
+725,BORRACHA,2,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),BORRACHA,1,2,ocr_exact,mistral_table,mistral_table,no
+726,QUIMICA,1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),QUÍMICA,1,2,ocr_exact,mistral_table,mistral_table,no
+727,PRODUTOS FARMACEUTICOS E VETERINARIOS,1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),PRODUTOS FARMACUTICOS E VETERINARIOS,1,2,industry_lexicon,mistral_table,mistral_table,no
+728,"PERFUMARIA, SABOES E VELAS",1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),"PERFUMARIA, SABRES E VELAS",1,2,industry_lexicon,mistral_table,tesseract_review_verified_all_suppressed,no
+729,PRODUTOS DE MATERIAS PLASTICAS,3,412,356,364,3 361,2 589,5 624,24 686,23 885,39 662,14 976,PRODUTOS DE MATERIAS PLASTICAS,1,2,ocr_exact,mistral_table,mistral_table,no
+730,TEXTIL,4,1 002,993,802,7 487,7 392,4 513,40 259,38 348,78 013,37 754,TEXTIL,1,2,ocr_exact,mistral_table,mistral_table,no
+731,"VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS",4,12,8,11,59,40,52,314,310,433,119,"VESTUARIO, CALCADOS E ARTEFATOS DE TECINOS",1,2,industry_lexicon,mistral_table,mistral_table,no
+732,PRODUTOS ALIMENTARES,33,1 065,935,1 044,9 685,7 625,12 934,235 177,231 821,300 652,65 475,PRODUTOS ALIMENTARES,1,2,ocr_exact,mistral_table,mistral_table,no
+733,BEBIDAS,1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),BEBIDAS,1,2,ocr_exact,mistral_table,mistral_table,no
+734,EDITORIAL E GRAFICA,5,37,24,35,431,233,216,652,531,1 389,737,EDITORIAL E GRÁFICA,1,2,ocr_exact,mistral_table,mistral_table,no
+735,DIVERSAS,2,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),DIVERSAS,1,2,ocr_exact,mistral_table,mistral_table,no
+736,ATIVIDADES DE APOIO E DE SERVICOS DE CARATER INDUSTRIAL,3,69,63,60,2 814,2 763,1 575,214,-,4 601,4 387,ATIVIDADES DE APOIO E DE SERVICOS DE CARÁTER INDUSTRIAL,1,2,ocr_exact,mistral_table,mistral_table,no
+737,VALENÇA,60,2 406,1 999,2 260,23 465,15 973,35 473,206 745,195 671,353 938,147 193,VALENCA,1,2,ocr_exact,mistral_table,mistral_table,no
+738,TRANSFORMACAO DE PRODUTOS DE MINERAIS NAO METALICOS,5,204,150,210,2 912,1 803,3 256,3 244,1 118,9 685,6 441,TRANSFORMACAO DE PRODUTOS DE MINERAIS NRO METALICOS,1,2,industry_lexicon,mistral_table,mistral_table,no
+739,METALURGICA,2,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),METALURGICA,1,2,ocr_exact,mistral_table,mistral_table,no
+740,MECANICA,3,89,82,80,1 062,867,628,2 971,2 873,4 852,1 881,MECANICA,1,2,ocr_exact,mistral_table,mistral_table,no
+741,MADEIRA,1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),MADEIRA,1,2,ocr_exact,mistral_table,mistral_table,no
+742,MOBILIARIO,1,(X),-,(X),(X),-,(X),(X),(X),(X),(X),MOBILIARIO,1,2,ocr_exact,mistral_table,mistral_table,no
+743,TEXTIL,7,1 662,1 454,1 548,15 772,11 085,25 846,141 691,134 085,266 348,124 657,TEXTIL,1,2,ocr_exact,mistral_table,mistral_table,no
+744,"VESTUARIO, CALCADOS E ARTEFATOS DE TECIDOS",3,70,68,48,320,320,417,2 039,1 859,3 414,1 375,"VESTUARIO, CALCADOS E ARTEFATOS DE TECINOS",1,2,industry_lexicon,mistral_table,mistral_table,no
+745,PRODUTOS ALIMENTARES,29,309,196,304,2 740,1 389,4 907,55 806,54 999,67 017,11 211,PRODUTOS ALIMENTARES,1,2,ocr_exact,mistral_table,mistral_table,no
+746,BEBIDAS,3,9,5,9,54,30,65,55,45,231,176,BEBIDAS,1,2,ocr_exact,mistral_table,mistral_table,no
+747,EDITORIAL E GRAFICA,4,34,23,34,295,188,229,478,453,1 350,872,EDITORIAL E GRAFICA,3,4,ocr_exact,mistral_table,mistral_table,no
+748,ATIVIDADES DE APOIO E DE SERVICOS DE CARATER INDUSTRIAL,2,(X),(X),(X),(X),(X),(X),(X),-,(X),(X),ATIVIDADES DE APOIO E DE SERVIÇOS DE CARA-TER INDUSTRIAL,3,4,industry_lexicon,mistral_table,mistral_table,no
+749,VASSOURAS,44,424,313,432,3 826,2 712,6 588,21 345,18 508,37 771,16 426,VASSOURAS,3,4,ocr_exact,mistral_table,mistral_table,no
+750,EXTRACAO DE MINERAIS,4,24,11,21,387,155,658,360,-,1 590,1 230,EXTRACÇÃO DE MINERAIS,3,4,industry_lexicon,mistral_table,mistral_table,no
+751,TRANSFORMACAO DE PRODUTOS DE MINERAIS NAO METALICOS,13,261,217,250,2 043,1 607,2 454,1 770,210,8 211,6 441,TRANSFORMAÇÃO DE PRODUTOS DE MINERAIS NÃO METÁLICOS,3,4,ocr_exact,mistral_table,mistral_table,no
+752,METALURGICA,2,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),METALÚRGICA,3,4,ocr_exact,mistral_table,mistral_table,no
+753,MECANICA,1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),MECÂNICA,3,4,ocr_exact,mistral_table,mistral_table,no
+754,MADEIRA,1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),MADEIRA,3,4,ocr_exact,mistral_table,mistral_table,no
+755,TEXTIL,3,7,7,31,235,235,1 127,2 988,2 605,4 350,1 362,TEXTIL,3,4,ocr_exact,mistral_table,mistral_table,no
+756,PRODUTOS ALIMENTARES,17,111,64,106,1 011,576,2 050,15 752,15 479,22 522,6 770,PRODUTOS ALIMENTARES,3,4,ocr_exact,mistral_table,mistral_table,no
+757,EDITORIAL E GRAFICA,2,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),EDITORIAL E GRAFICA,3,4,ocr_exact,mistral_table,mistral_table,no
+758,ATIVIDADES DE APOIO E DE SERVICOS DE CARATER INDUSTRIAL,1,(X),(X),(X),(X),(X),(X),(X),-,(X),(X),ATIVIDADES DE APOIO E DE SERVIÇOS DE CARA-TER INDUSTRIAL,3,4,industry_lexicon,mistral_table,mistral_table,no
+759,VOLTA REDONDA,122,13 447,12 169,12 918,303 758,208 909,879 281,6 305 507,5 697 432,9 309 459,3 003 952,VOLTA REDONDA,3,4,ocr_exact,mistral_table,mistral_table,no
+760,EXTRACAO DE MINERAIS,3,279,257,258,4 626,3 399,34 946,223 562,209 403,263 828,40 266,EXTRACÇÃO DE MINERAIS,3,4,industry_lexicon,mistral_table,mistral_table,no
+761,TRANSFORMACAO DE PRODUTOS DE MINERAIS NAO METALICOS,11,462,370,449,10 584,7 748,18 571,153 301,132 760,283 883,130 582,TRANSFORMAÇÃO DE PRODUTOS DE MINERAIS NÃO METÁLICOS,3,4,ocr_exact,mistral_table,mistral_table,no
+762,METALURGICA,22,6 106,5 617,5 877,146 010,95 994,637 861,4 747 959,4 363 775,7 173 818,2 425 859,METALÚRGICA,3,4,ocr_exact,mistral_table,mistral_table,no
+763,MECANICA,9,4 192,3 863,4 076,92 581,64 203,69 339,134 770,123 375,308 903,174 133,MECÂNICA,3,4,ocr_exact,mistral_table,mistral_table,no
+764,MATERIAL DE TRANSPORTE,3,115,96,47,1 052,825,821,1 308,1 244,3 369,2 061,MATERIAL DE TRANSPORTE,3,4,ocr_exact,mistral_table,mistral_table,no
+765,MADEIRA,3,42,36,38,322,233,487,1 270,1 250,2 827,1 557,MADEIRA,3,4,ocr_exact,mistral_table,mistral_table,no
+766,MOBILIARIO,6,50,34,42,311,247,180,643,615,1 080,437,MOBILIÁRIO,3,4,ocr_exact,mistral_table,mistral_table,no
+767,BORRACHA,1,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),BORRACHA,3,4,ocr_exact,mistral_table,mistral_table,no
+768,QUIMICA,4,443,438,424,11 112,9 597,67 409,644 168,597 601,747 682,103 514,QUÍMICA,3,4,ocr_exact,mistral_table,mistral_table,no
+769,PRODUTOS ALIMENTARES,41,484,321,468,7 278,3 523,11 818,171 954,169 815,209 450,37 496,PRODUTOS ALIMENTARES,3,4,ocr_exact,mistral_table,mistral_table,no
+770,EDITORIAL E GRAFICA,10,147,73,146,2 539,1 176,2 462,5 043,4 768,10 693,5 650,EDITORIAL E GRAFICA,3,4,ocr_exact,mistral_table,mistral_table,no
+771,DIVERSAS,3,(X),(X),(X),(X),(X),(X),(X),(X),(X),(X),DIVERSAS,3,4,ocr_exact,mistral_table,mistral_table,no
+772,ATIVIDADES DE APOIO E DE SERVICOS DE CARATER INDUSTRIAL,6,1 101,1 046,1 069,27 034,21 759,35 193,219 261,90 690,299 429,80 168,ATIVIDADES DE APOIO E DE SERVIÇOS DE CARA-TER INDUSTRIAL,3,4,industry_lexicon,mistral_table,mistral_table,no

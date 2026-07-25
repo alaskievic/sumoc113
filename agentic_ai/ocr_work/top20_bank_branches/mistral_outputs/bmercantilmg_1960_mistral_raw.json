@@ -1,0 +1,72 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bmercantilmg_1960.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 91438
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "28 DE FEVEREIRO DE 1961\n\n# BANCO MERCANTIL DE MINAS GERAIS, S. A.\n\nCARTA PATENTE N.º 2.387 EXPEDIDA EM 24 DE JANEIRO DE 1941\n\n[tbl-0.md](tbl-0.md)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-0.md",
+            "content": "|  AGÊNCIAS URB. EM BELO HORIZONTE | MATRIZ: BELO HORIZONTE | FILIAL NO RIO DE JANEIRO  |\n| --- | --- | --- |\n|  AVENIDA: — Avenida Afonso Pena, 581 | RUA TUPINAMBÁS, 346 — CAIXA POSTAL, 836 | RUA DO OUVIDOR, 75 — Caixa Postal, 911  |\n|  BARREIRO: — Av. Architeto Morandi, 166 | Enderêco Telegráfico: “BANCANTIL” | (Edifício próprio)  |\n|  MERCADO: — Rua Goitacazes, 770 | FILIAL DE SÃO PAULO | AGÊNCIAS METROPOLITANAS  |\n|  SÃO JOSÉ: — Rua Rio de Janeiro, 669 | RUA SÃO BENTO, 366 | Copacabana:  |\n|  DEPENDÊNCIAS: — Barbacena, Brasília (DF), Canápolis, Caratinga, Carmo do Cajurú, Catalão (Goiás), Congonhas, Conselheiro Latafete, Codisburgo, Corinto, Coronel Fabriciano, Crucilândia, Curvêlo, Diamantina, Divinópolis, Ervália, Formiga, Formosa (Goiás), Goiânia, (Goiás), Governador Valadares, Guapé, Guaraciaba, Ipoema, Itabira, Itabirito, Itatina, Jequeri, Juiz de Fora, Lagoa Formosa, Lavras, Mateus Leme, Matosinhos, Nova Era, Nova Lima, Pará de Minas, Paracatu, Paraopeba, Patos de Minas, Pedro Leopoldo, Piumhi, Ponte Nova, Ribeirão Vermelho, Rio Pomba, Sabará, Sta. Barbara, Santana do Pirapama, Sete Lagoas, Teixeiras, Uberlândia, Várzea da Palma e Vitória (Esp. Santo). | Raíca: RUA CONDE DE BONFIM, 510-A |   |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 409,
+          "width": 1274
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 91438
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "28 DE FEVEREIRO DE 1961\n\n# BANCO MERCANTIL DE MINAS GERAIS, S. A.\n\nCARTA PATENTE N.º 2.387 EXPEDIDA EM 24 DE JANEIRO DE 1941\n\n[tbl-0.md](tbl-0.md)",
+      "lines": [
+        "28 DE FEVEREIRO DE 1961",
+        "# BANCO MERCANTIL DE MINAS GERAIS, S. A.",
+        "CARTA PATENTE N.º 2.387 EXPEDIDA EM 24 DE JANEIRO DE 1941",
+        "[tbl-0.md](tbl-0.md)"
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 409,
+        "width": 1274
+      },
+      "confidence_scores": null,
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  AGÊNCIAS URB. EM BELO HORIZONTE | MATRIZ: BELO HORIZONTE | FILIAL NO RIO DE JANEIRO  |\n| --- | --- | --- |\n|  AVENIDA: — Avenida Afonso Pena, 581 | RUA TUPINAMBÁS, 346 — CAIXA POSTAL, 836 | RUA DO OUVIDOR, 75 — Caixa Postal, 911  |\n|  BARREIRO: — Av. Architeto Morandi, 166 | Enderêco Telegráfico: “BANCANTIL” | (Edifício próprio)  |\n|  MERCADO: — Rua Goitacazes, 770 | FILIAL DE SÃO PAULO | AGÊNCIAS METROPOLITANAS  |\n|  SÃO JOSÉ: — Rua Rio de Janeiro, 669 | RUA SÃO BENTO, 366 | Copacabana:  |\n|  DEPENDÊNCIAS: — Barbacena, Brasília (DF), Canápolis, Caratinga, Carmo do Cajurú, Catalão (Goiás), Congonhas, Conselheiro Latafete, Codisburgo, Corinto, Coronel Fabriciano, Crucilândia, Curvêlo, Diamantina, Divinópolis, Ervália, Formiga, Formosa (Goiás), Goiânia, (Goiás), Governador Valadares, Guapé, Guaraciaba, Ipoema, Itabira, Itabirito, Itatina, Jequeri, Juiz de Fora, Lagoa Formosa, Lavras, Mateus Leme, Matosinhos, Nova Era, Nova Lima, Pará de Minas, Paracatu, Paraopeba, Patos de Minas, Pedro Leopoldo, Piumhi, Ponte Nova, Ribeirão Vermelho, Rio Pomba, Sabará, Sta. Barbara, Santana do Pirapama, Sete Lagoas, Teixeiras, Uberlândia, Várzea da Palma e Vitória (Esp. Santo). | Raíca: RUA CONDE DE BONFIM, 510-A |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 2.651,
+  "remote_file_id": null
+}

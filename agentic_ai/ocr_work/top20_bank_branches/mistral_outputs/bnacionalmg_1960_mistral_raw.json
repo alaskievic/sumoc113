@@ -1,0 +1,62 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bnacionalmg_1960.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 164815
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "BANCO NACIONAL DE MINAS GERAIS S. A.\n\nSede: FUNDADO EM 1944\nBLO HORIZONTE Carta Patente N.° 3.228, de 4/1/1944\nRUA CARIJÓS, 218 End. Telegr.: \"Walmap\"\nFiltal: SÃO PAULO - RUA 15 DE NOVEMBRO, 208\nFINAL: RIO DE JANEIRO\nAV. PRESIDENTE VARGAS, 509\n\nDEPARTAMENTOS: Est. Guanabara: Abolição, Acre, Aeroporto, Bandeira, Barata Ribeiro, Botafogo, Castelo, Catete, Engenho de Dentro, Gonçalves Dias, Ipanema, Irajá, Leblon, Lido, Madureira, Mal, Hermes, Méier, Penha, Posto 5, Ramos, Realengo, Rocha Miranda, Santa Cruz, Santana, Tijuca, Tiradentes. — Distrito Federal: Brasília. — Estado do Alagoas: Maceió. — Estado da Bahia: Calçada (na Capital), Salvador. — Estado do Ceará: Fostaleza. — Estado do Espírito Santo: Vitória. — Estado de Goiás: Goiânia. — Estado de Minas Gerais: Além Paraíba (Porto Novo), Alfenas, Araquari, Barbacena, Betim, Bom Sucesso, Botelhos, Brazópolis, Bueno Brandão, Cachoeira de Minas, Caldas, Campestre, Campos Gerais, Caratinga, Carlos Prates (na Capital), Carmo da Cachoeira, Comércio (na Capital), Coqueiral, Diamantina, Divinópolis, Floresta (na Capital), Guarani, Guaxupé, Ibitiura, Itajubá, Juiz de Fora, Lajinha, Lavras, Lima Duarte, Luminárias, Manhuacu, Manhumirim, Muriaé, Mutum, Muzambinho, Natércia, Nepomuceno, Ouro Fino, Pouso Alegre, Praça Raul Soares (na Capital), Renascença (na Capital), Rua da Bahia (na Capital), Santa Rita do Sapucaí, Santo Antônio do Amparo, Santo Antônio do Monte, São Gonçalo do Sapucaí, São Lourenço, São Tiago, Serro, Três Pontas, Tupinambás (na Capital), Ubá, Varginha. — Estado do Paraná: Cornélio Procópio, Curitiba, Curitiba-Avenida (na Capital), Jussara, Londrina, Mandaquacu, Maringá, Marumbi, São Jorão. — Estado de Pernambuco: Recife. — Estado do Rio Grande do Sul: Porto Alegre. — Estado do Rio de Janeiro: Barra do Piraí, Duque de Caxias, Niterói, Petrópolis, São João de Meriti. — Estado de São Paulo: Avenida Ipiranga (na Capital), Brás (na Capital), Campinas, Mercado (na Capital), Santa Cecília (na Capital), Santos, São Roque, Socorro e Sorocaba",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 413,
+          "width": 1248
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 164815
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "BANCO NACIONAL DE MINAS GERAIS S. A.\n\nSede: FUNDADO EM 1944\nBLO HORIZONTE Carta Patente N.° 3.228, de 4/1/1944\nRUA CARIJÓS, 218 End. Telegr.: \"Walmap\"\nFiltal: SÃO PAULO - RUA 15 DE NOVEMBRO, 208\nFINAL: RIO DE JANEIRO\nAV. PRESIDENTE VARGAS, 509\n\nDEPARTAMENTOS: Est. Guanabara: Abolição, Acre, Aeroporto, Bandeira, Barata Ribeiro, Botafogo, Castelo, Catete, Engenho de Dentro, Gonçalves Dias, Ipanema, Irajá, Leblon, Lido, Madureira, Mal, Hermes, Méier, Penha, Posto 5, Ramos, Realengo, Rocha Miranda, Santa Cruz, Santana, Tijuca, Tiradentes. — Distrito Federal: Brasília. — Estado do Alagoas: Maceió. — Estado da Bahia: Calçada (na Capital), Salvador. — Estado do Ceará: Fostaleza. — Estado do Espírito Santo: Vitória. — Estado de Goiás: Goiânia. — Estado de Minas Gerais: Além Paraíba (Porto Novo), Alfenas, Araquari, Barbacena, Betim, Bom Sucesso, Botelhos, Brazópolis, Bueno Brandão, Cachoeira de Minas, Caldas, Campestre, Campos Gerais, Caratinga, Carlos Prates (na Capital), Carmo da Cachoeira, Comércio (na Capital), Coqueiral, Diamantina, Divinópolis, Floresta (na Capital), Guarani, Guaxupé, Ibitiura, Itajubá, Juiz de Fora, Lajinha, Lavras, Lima Duarte, Luminárias, Manhuacu, Manhumirim, Muriaé, Mutum, Muzambinho, Natércia, Nepomuceno, Ouro Fino, Pouso Alegre, Praça Raul Soares (na Capital), Renascença (na Capital), Rua da Bahia (na Capital), Santa Rita do Sapucaí, Santo Antônio do Amparo, Santo Antônio do Monte, São Gonçalo do Sapucaí, São Lourenço, São Tiago, Serro, Três Pontas, Tupinambás (na Capital), Ubá, Varginha. — Estado do Paraná: Cornélio Procópio, Curitiba, Curitiba-Avenida (na Capital), Jussara, Londrina, Mandaquacu, Maringá, Marumbi, São Jorão. — Estado de Pernambuco: Recife. — Estado do Rio Grande do Sul: Porto Alegre. — Estado do Rio de Janeiro: Barra do Piraí, Duque de Caxias, Niterói, Petrópolis, São João de Meriti. — Estado de São Paulo: Avenida Ipiranga (na Capital), Brás (na Capital), Campinas, Mercado (na Capital), Santa Cecília (na Capital), Santos, São Roque, Socorro e Sorocaba",
+      "lines": [
+        "BANCO NACIONAL DE MINAS GERAIS S. A.",
+        "Sede: FUNDADO EM 1944",
+        "BLO HORIZONTE Carta Patente N.° 3.228, de 4/1/1944",
+        "RUA CARIJÓS, 218 End. Telegr.: \"Walmap\"",
+        "Filtal: SÃO PAULO - RUA 15 DE NOVEMBRO, 208",
+        "FINAL: RIO DE JANEIRO",
+        "AV. PRESIDENTE VARGAS, 509",
+        "DEPARTAMENTOS: Est. Guanabara: Abolição, Acre, Aeroporto, Bandeira, Barata Ribeiro, Botafogo, Castelo, Catete, Engenho de Dentro, Gonçalves Dias, Ipanema, Irajá, Leblon, Lido, Madureira, Mal, Hermes, Méier, Penha, Posto 5, Ramos, Realengo, Rocha Miranda, Santa Cruz, Santana, Tijuca, Tiradentes. — Distrito Federal: Brasília. — Estado do Alagoas: Maceió. — Estado da Bahia: Calçada (na Capital), Salvador. — Estado do Ceará: Fostaleza. — Estado do Espírito Santo: Vitória. — Estado de Goiás: Goiânia. — Estado de Minas Gerais: Além Paraíba (Porto Novo), Alfenas, Araquari, Barbacena, Betim, Bom Sucesso, Botelhos, Brazópolis, Bueno Brandão, Cachoeira de Minas, Caldas, Campestre, Campos Gerais, Caratinga, Carlos Prates (na Capital), Carmo da Cachoeira, Comércio (na Capital), Coqueiral, Diamantina, Divinópolis, Floresta (na Capital), Guarani, Guaxupé, Ibitiura, Itajubá, Juiz de Fora, Lajinha, Lavras, Lima Duarte, Luminárias, Manhuacu, Manhumirim, Muriaé, Mutum, Muzambinho, Natércia, Nepomuceno, Ouro Fino, Pouso Alegre, Praça Raul Soares (na Capital), Renascença (na Capital), Rua da Bahia (na Capital), Santa Rita do Sapucaí, Santo Antônio do Amparo, Santo Antônio do Monte, São Gonçalo do Sapucaí, São Lourenço, São Tiago, Serro, Três Pontas, Tupinambás (na Capital), Ubá, Varginha. — Estado do Paraná: Cornélio Procópio, Curitiba, Curitiba-Avenida (na Capital), Jussara, Londrina, Mandaquacu, Maringá, Marumbi, São Jorão. — Estado de Pernambuco: Recife. — Estado do Rio Grande do Sul: Porto Alegre. — Estado do Rio de Janeiro: Barra do Piraí, Duque de Caxias, Niterói, Petrópolis, São João de Meriti. — Estado de São Paulo: Avenida Ipiranga (na Capital), Brás (na Capital), Campinas, Mercado (na Capital), Santa Cecília (na Capital), Santos, São Roque, Socorro e Sorocaba"
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 413,
+        "width": 1248
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 3.504,
+  "remote_file_id": null
+}

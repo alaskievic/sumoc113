@@ -1,0 +1,74 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+CRSEMLLEECEERSEASELEEAMSECEEREELELLEKKTEETEELERAETEREESSTRERELTEEEEEETERRE ERAS ERRLESERLEESLEEETEE ERES ESEC SERENA
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO COMERCIAL DE 1980 E 1985
+TERARARSALEESEERSSESEEERECELESASESEERESACSCRERSEALLESRARESTARTREESACEESSEEFESERET ERES ELSE ARES
+. * bd
+p * . CENSO DE 1980 :
+* * *
+* RE SEE E DR ES SE E e SE SE
++ * * PESSOAL OCUPADO * *
+* * E * ANO DE 1980 ”
+NUM, = * * EM 31-12-1980 x *
+* x ERSSLXELEEAPLEESEKIEESASAELERLSEEERERCLESLEESETEL E E
+x x x * * * ad
+DE += MUNICIPIOS ad * * x * RECEITAS ”
++ * > * * SALARIOS, , *
+* *NUMERO DE> = x EECASTAMEKESECESESEEREE RR
+OR- + . * * * a RETIRADAS x x *
+, CLASSES E GENEROS DE COMERCIO *ESTABELE-=* * LIGADO A + * x *
+* ” x * * E OUTRAS * * VENDAS DE hd
+DEM = *CIMENTOS = TOTAL * COMERCIA- =. . * TOTAL * x
+* x * x . = REMUNERAÇÕES * MERCADORIAS +
+* * x = LIZAÇÃO * * s x
+* * a = * * * *
+s * = * ETECEEESEESEESEELECSEEESEEE ERR
+* * * * * *
+* ” * * * (MIL CRUZEIROS) =
+* x + s ” *
+EE E E E SE E E E DE E E E E E E E E
+1530 BELO MONTE... ..ccciccssccccrrrrarrr raras 2 (A) ta) (XxX) (A) (a)
+1531 BOCA DA MATA.....cccccicrrcrsarrerarrenaca 37 so 15 5 136 132 984 - 132 984
+1532 BRANQUINHA, ...ccscccsscsrc ces crrrrara eras 7 7 - 307 1 890 1 990
+1533 CACIMBINHAS.,....ciccccccrrcrsere carina Z7 57 17 6 433 111 283 111 282
+1534 CAJUEIRO...... cce rsscc caca rre nara 32 83 33 4 673 86 382 86 382
+1535 CAMPO ALEGRE. ......ccccccrssrscacice raras 26 sz 31 5 296 72 624 72 624
+1536 CAMPO GRANDE......ccccisscrcscrrrcare rara 1 (A) (a) (x (A) ta)
+1537 CANAPI....ssccccicrr race rare sereno ara 24 92 27 2 768 29 454 29 454
+1538 CAPELA.....ccccssrccr rr re secura rena ces 35 87 34 5 120 202 410 202 410
+1538 CARNEIROS.....s.ccc ecra rca rar ro caca 3 [3 2 247 3 520 3 520
+1540 CHÃ PRETA,......cccsccrcsccccccrrre ras 20 sa “ 830 11 584 11 594
+1541 COITE DO NOIA........cccccccccccrrarecae 4 s - 345 2 350 2 350
+1542 COLONIA LEOPOLDINA........cciciccecscraros 57 184 28 4 900 85 064 B5 006
+1543 COQUEIRO SECO........cccccccce srs rrera 8 15 - + 2598 5 109 5 109
+1544 CORURIPE.,....ccccscccreccscar cr rare errar 74 188 42 7 460 158 475 158 475
+1545 CRAIBAS.......cclcccissrc ce rerrrrararrers - - - - - -
+1546 DELMIRO GOUVEIA.......csccrrarcerecrr raras 78 181 68 11 587 254 789 254 585
+1547 DOIS RIACHOS..........2cccccssrercrarraros 36 so 21 4 143 62 187 62 187
+15465 FEIRA GRANDE.......cccccccrriccaser eras 8 22 - 1 422 s 050 8 050
+1548 FELIZ DESERTO.......ccccccssccc ceras 4 10 - 306 3 609 3 608
+1550 FLEXEIRAS.....csccceccsc ce rerrc carros renato 25 81 23 5 627 116 001 115 987
+1551 GIRAU DO PONCIANO.......,cccrscccccrerrea 18 47 15 3 128 47 182 47 162
+1552 IBATEGUARA........cccciscccc cr crrrr errar 33 128 47 2 596 37 661 37 661
+1553 IGACI.......ccclis scr c rare raras certa 30 74 - 3 531 24 153 24 153
+1554 IGREJA NOVA... cccssicrccrrrerarcerasaanses 15 36 1 1131 12 418 12 419
+1555 INHAPI...cccercrrrcerce cer erra aca rar rerra 25 54 - 3 462 46 315 46 315
+1556 JACARE DOS HOMENS.,.....,cccicrccrerraros 6 15 4 472 12 540 12 540
+1557 JACUIPE....seccc cre recasse ra rrrrrrarsers 18 32 2 730 6 905 6 905
+1558 JAPARATINGA...ccicerrcrrrrresara re rarisros 8 13 - 660 5 B8BO 5 880
+1559 JARAMATAIA, . sic rer rare rrrre raras 3 4 - 104 5 228 5 228
+1560 JDAQUIM GOMES......cccicrcrrcracrcrriraras 17 46 10 3 646 95 008 95 008
+1561 JUNDIA. .ecccrsrascre errar ra cera rare rraaa 27 61 “ 2 171 21 782 21 767
+1562 JUNQUEIRO, ...cccscrcrcscrcrrrrerecarr res 29 63 8 6 900 99 275 99 275
+1563 LAGOA DA CANOA.....ccrrccrccecarcrrscncrrs 13 32 2 . 1 018 8 053 s 053
+1564 LIMOEIRO DE ANADIA. .......ccccicrece ceras E 13 - 920 a 124 4 124
+1565 MAJOR ISIDORO..,...csccccsccccrrarrrcenera 48 108 43 6 543 175 524 175 264
+1566 MARAGOGI. cccccce cereal erra cesta rrrroa 33 59 1 1 943 22 825 22 825
+1567 MARAVILHA... ccsscrrerarec serras rrr rasos 7 17 3 448 9 564 8 487
+1568 MARECHAL DEODORO,........ccsiccrercarcrras 44 133 28 2 621 59 128 58 088
+1569 MARIBONDO,,....ccscriscrercrrar rara reraao 56 155 57 vO 181 288 054 288 054
+1570 MAR VERMELHO....,.cccsrecccrcrccercrara ros 1 (A) (A) (x) (a) (a)
+1571 MATA GRANDE.....cccccrcsrrerrraresar renas 38 67 4 2 114 76 473 76 473
+1572 MATRIZ DE CAMARAGIBE.........cssecrrcceros 74 212 46 8 188 | 125 904 125 854
+1573 MESSIAS. .....ccccrcrra rsrsr reraarraros 15 39 15 2 301 53 846 53 473
+1574 MINADOR DO NEGRÃO,....cccscsscsirssassanra 10 24 2 1 222 10 763 10 763
+144

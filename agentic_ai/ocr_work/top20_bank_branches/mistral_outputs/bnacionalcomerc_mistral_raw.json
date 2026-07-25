@@ -1,0 +1,66 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bnacionalcomerc.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 236909
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "Banco Nacional do Comércio S.A.\n\nFUNDADO EM 1835\n\nCapital ... Cr$ 350.000.000,00 — RESERVAS ... Cr$ 368.463.250,00\n\nSEDE: PORTO ALEGRE — Rua 7 de Setembro, 1028 — Caixa Postal, 26\n\nFilial em Brasília — Prédio conjunto C-7 quadra 7ª, da rua W. — End. Telegrá: \"BANMÉRCIO\"\n\nFilial no Rio de Janeiro: AV. PRES. VARGAS N.º 529 — End. Telegráfico: \"NACIONAMÉRCIO\"\n\nFilial em São Paulo: AVENIDA SÃO JOÃO, 239 — Endereço Telegráfico: \"NACIONAMÉRCIO\"\n\nFILIAIS URBANAS EM PORTO ALEGRE:\n\nCaminho do Meio: — Av. Oswaldo Aranha, 1414. — \"Camimercio\" — Cidade Baixa: Av. Borges de Medeiros, 1224. — \"Cidamerico\". — Navegantes: — Rua Frederico Mentz, 1836. — \"Navimercio\". — Passo da Areia: — Av. Assis Brasil, 1 850 — \"Areimerico\" — Passo do Sarandi: — Av. Assis Brasil, 6642 — \"Sarimércio\". — Independência: Rua Ramiro Barcelos, 1087 — \"Julimércio\". — Praça Otávio da Rocha: Rua Senhor dos Passos — \"Rochamércio\". — São João: Av. Presid. Franklin Roosevelt, 1219 — \"Metromércio\".\n\nPara a sede e demais filiais — End. Telegráfico: \"BANMÉRCIO\"\n\nOUTRAS DEPENDÊNCIAS\n\nNo Est. do Rio Grande do Sul: Alegrete. Bagé. Bento Gonçalves. Cachoeira do Sul. Caí. Campo Bom. Candelária. Canela. Canoas. Carozinho. Caxias do Sul. Cerro Largo. Cotiporã. Cruz Alta. Dois Lateados. Dom. Pedrito. Encruzilhada do Sul. Erechim. Estréia. Getúlio Vargas. Gramado. Gravataí. Guaíba. Guaporé. Guarani das Missões. Iiuí. Ivoti. Jaguari. Júlio de Castilhos. Livramento. Montenegro. Mostardas. Nova Prata. Nova Petrópolis. Novo Hamburgo. Palmeira das Missões. Passo Fundo. Pelotas. Quaraí. Rio Grande. Rio Grande (URB. — Cid. Nova). Rio Pardo. Rosário do Sul. Santa Cruz do Sul. Santa Maria. Santa Rosa. Santa Tereza. S. Vitória do Palmar. Santiago. Santo Ângelo. São Boria. S. Francisco de Assis. S. Francisco de Paula. São Gabriel. São José do Norte. São Leopoldo. São Luís Gonçaga. São Pedro do Sul. São Sebastião do Caí. Sapiranga. Taguara. Taquari. Três Coroas. Três de Maio. Três Passos. Tupanciretã. Uruguaiana. Venâncio Aires. Veranópolis. — No Est. de Santa Catarina: Araranquã. Blumenau. Brusque. Cacador. Canoinhas. Chapecó. Concórdia. Criciúma. Curitibanos. Florinan. Florian. (URB. — Estreito). Itajaí. Iaraquã do Sul. Icaçaba. Joinville. Laguna. Lajes. Órbães. Rio do Sul. São Bento do Sul. São Francisco do Sul. Tubarão. Videira. — No Estado do Paraná: Curitiba. Curitiba (URB. Juvevê. Portão e Super-Mercado). Guarapuava. Jacarezinho. Paranaquã. Ponta Grossa. Rio Negro. São José dos Pinhais. União da Vitória.",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 634,
+          "width": 1264
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 236909
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "Banco Nacional do Comércio S.A.\n\nFUNDADO EM 1835\n\nCapital ... Cr$ 350.000.000,00 — RESERVAS ... Cr$ 368.463.250,00\n\nSEDE: PORTO ALEGRE — Rua 7 de Setembro, 1028 — Caixa Postal, 26\n\nFilial em Brasília — Prédio conjunto C-7 quadra 7ª, da rua W. — End. Telegrá: \"BANMÉRCIO\"\n\nFilial no Rio de Janeiro: AV. PRES. VARGAS N.º 529 — End. Telegráfico: \"NACIONAMÉRCIO\"\n\nFilial em São Paulo: AVENIDA SÃO JOÃO, 239 — Endereço Telegráfico: \"NACIONAMÉRCIO\"\n\nFILIAIS URBANAS EM PORTO ALEGRE:\n\nCaminho do Meio: — Av. Oswaldo Aranha, 1414. — \"Camimercio\" — Cidade Baixa: Av. Borges de Medeiros, 1224. — \"Cidamerico\". — Navegantes: — Rua Frederico Mentz, 1836. — \"Navimercio\". — Passo da Areia: — Av. Assis Brasil, 1 850 — \"Areimerico\" — Passo do Sarandi: — Av. Assis Brasil, 6642 — \"Sarimércio\". — Independência: Rua Ramiro Barcelos, 1087 — \"Julimércio\". — Praça Otávio da Rocha: Rua Senhor dos Passos — \"Rochamércio\". — São João: Av. Presid. Franklin Roosevelt, 1219 — \"Metromércio\".\n\nPara a sede e demais filiais — End. Telegráfico: \"BANMÉRCIO\"\n\nOUTRAS DEPENDÊNCIAS\n\nNo Est. do Rio Grande do Sul: Alegrete. Bagé. Bento Gonçalves. Cachoeira do Sul. Caí. Campo Bom. Candelária. Canela. Canoas. Carozinho. Caxias do Sul. Cerro Largo. Cotiporã. Cruz Alta. Dois Lateados. Dom. Pedrito. Encruzilhada do Sul. Erechim. Estréia. Getúlio Vargas. Gramado. Gravataí. Guaíba. Guaporé. Guarani das Missões. Iiuí. Ivoti. Jaguari. Júlio de Castilhos. Livramento. Montenegro. Mostardas. Nova Prata. Nova Petrópolis. Novo Hamburgo. Palmeira das Missões. Passo Fundo. Pelotas. Quaraí. Rio Grande. Rio Grande (URB. — Cid. Nova). Rio Pardo. Rosário do Sul. Santa Cruz do Sul. Santa Maria. Santa Rosa. Santa Tereza. S. Vitória do Palmar. Santiago. Santo Ângelo. São Boria. S. Francisco de Assis. S. Francisco de Paula. São Gabriel. São José do Norte. São Leopoldo. São Luís Gonçaga. São Pedro do Sul. São Sebastião do Caí. Sapiranga. Taguara. Taquari. Três Coroas. Três de Maio. Três Passos. Tupanciretã. Uruguaiana. Venâncio Aires. Veranópolis. — No Est. de Santa Catarina: Araranquã. Blumenau. Brusque. Cacador. Canoinhas. Chapecó. Concórdia. Criciúma. Curitibanos. Florinan. Florian. (URB. — Estreito). Itajaí. Iaraquã do Sul. Icaçaba. Joinville. Laguna. Lajes. Órbães. Rio do Sul. São Bento do Sul. São Francisco do Sul. Tubarão. Videira. — No Estado do Paraná: Curitiba. Curitiba (URB. Juvevê. Portão e Super-Mercado). Guarapuava. Jacarezinho. Paranaquã. Ponta Grossa. Rio Negro. São José dos Pinhais. União da Vitória.",
+      "lines": [
+        "Banco Nacional do Comércio S.A.",
+        "FUNDADO EM 1835",
+        "Capital ... Cr$ 350.000.000,00 — RESERVAS ... Cr$ 368.463.250,00",
+        "SEDE: PORTO ALEGRE — Rua 7 de Setembro, 1028 — Caixa Postal, 26",
+        "Filial em Brasília — Prédio conjunto C-7 quadra 7ª, da rua W. — End. Telegrá: \"BANMÉRCIO\"",
+        "Filial no Rio de Janeiro: AV. PRES. VARGAS N.º 529 — End. Telegráfico: \"NACIONAMÉRCIO\"",
+        "Filial em São Paulo: AVENIDA SÃO JOÃO, 239 — Endereço Telegráfico: \"NACIONAMÉRCIO\"",
+        "FILIAIS URBANAS EM PORTO ALEGRE:",
+        "Caminho do Meio: — Av. Oswaldo Aranha, 1414. — \"Camimercio\" — Cidade Baixa: Av. Borges de Medeiros, 1224. — \"Cidamerico\". — Navegantes: — Rua Frederico Mentz, 1836. — \"Navimercio\". — Passo da Areia: — Av. Assis Brasil, 1 850 — \"Areimerico\" — Passo do Sarandi: — Av. Assis Brasil, 6642 — \"Sarimércio\". — Independência: Rua Ramiro Barcelos, 1087 — \"Julimércio\". — Praça Otávio da Rocha: Rua Senhor dos Passos — \"Rochamércio\". — São João: Av. Presid. Franklin Roosevelt, 1219 — \"Metromércio\".",
+        "Para a sede e demais filiais — End. Telegráfico: \"BANMÉRCIO\"",
+        "OUTRAS DEPENDÊNCIAS",
+        "No Est. do Rio Grande do Sul: Alegrete. Bagé. Bento Gonçalves. Cachoeira do Sul. Caí. Campo Bom. Candelária. Canela. Canoas. Carozinho. Caxias do Sul. Cerro Largo. Cotiporã. Cruz Alta. Dois Lateados. Dom. Pedrito. Encruzilhada do Sul. Erechim. Estréia. Getúlio Vargas. Gramado. Gravataí. Guaíba. Guaporé. Guarani das Missões. Iiuí. Ivoti. Jaguari. Júlio de Castilhos. Livramento. Montenegro. Mostardas. Nova Prata. Nova Petrópolis. Novo Hamburgo. Palmeira das Missões. Passo Fundo. Pelotas. Quaraí. Rio Grande. Rio Grande (URB. — Cid. Nova). Rio Pardo. Rosário do Sul. Santa Cruz do Sul. Santa Maria. Santa Rosa. Santa Tereza. S. Vitória do Palmar. Santiago. Santo Ângelo. São Boria. S. Francisco de Assis. S. Francisco de Paula. São Gabriel. São José do Norte. São Leopoldo. São Luís Gonçaga. São Pedro do Sul. São Sebastião do Caí. Sapiranga. Taguara. Taquari. Três Coroas. Três de Maio. Três Passos. Tupanciretã. Uruguaiana. Venâncio Aires. Veranópolis. — No Est. de Santa Catarina: Araranquã. Blumenau. Brusque. Cacador. Canoinhas. Chapecó. Concórdia. Criciúma. Curitibanos. Florinan. Florian. (URB. — Estreito). Itajaí. Iaraquã do Sul. Icaçaba. Joinville. Laguna. Lajes. Órbães. Rio do Sul. São Bento do Sul. São Francisco do Sul. Tubarão. Videira. — No Estado do Paraná: Curitiba. Curitiba (URB. Juvevê. Portão e Super-Mercado). Guarapuava. Jacarezinho. Paranaquã. Ponta Grossa. Rio Negro. São José dos Pinhais. União da Vitória."
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 634,
+        "width": 1264
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 4.233,
+  "remote_file_id": null
+}

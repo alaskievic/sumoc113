@@ -1,0 +1,74 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+CECECDRITENECESCSACEIO CSBICLESICUNISETU INTO ICCRLISCLASUTANI DOS OL CORNTIS TAIS DELICIA USUI STO SUTURA TCS
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO COMERCIAL DE 1980 E 1985
+
+DOCLTLSTCSCLLTECACLSLLCCCCSECTESSTLSCLCCCCCCCSTELSTESLSSESSCCSCELTCSCSESSLSSSSSSCSSCELCCCCHCHETESCLLATUVCAESECANCESEHAANCANAANASS
+“ : CENSO DE 1980 '
+
+= RE DEDE AS
+
+. . . PESSOAL OCUPADO . “
+
+. . . . ANO DE 1980 Ed
+NUM, s = e EM 31-12-1980 . .
+. - COAST anaasanaaaaanaannaaenanansaas.........
+
+DE : MUNICIPIOS : : : : RALANIDE: : RECEITAS :
+gs ps SMUMERO eae 2 É RETIRADA dn cia Rad dias
+. CLASSES E GENEROS DE COMÉRCIO sESTABELE-* e LIGADO A+ . * .
+DEM . aCIMENTOS é TOTAL . COMERCIA- : sais : TOTAL & a o :
+. pa : E Lemgto * REMUNERAÇÕES: * MERCADORIAS :
+
+. “ . “ . . . .
+
+e po a E is aa aC ita
+
+. . . . . (MIL CRUZEIROS) .
+PISTÃO SRD EESTI ERA AE à DDT AZ SED ITD O SIDE CAR SPO EEE SN RN
+702 MARAVILHA. cccercso rec corosonnncscacereaos 129 “48 209 34 591 791 644 785 825
+703 MASSARANDUBA, , ccccuseseresussecereunaranas 7 165 as 10 642 181 093 162 4a14
+704 MATOS COSTA... csscrrrccrcotrrcuerescaososs 14 24 7 1 672 28 195 27 670
+705 MELETRO...cceserrecrrr sora rcccccesracersss s3 141 23 5 849 114 267 113 738
+706 MODELO. .cccrsrercrco socorro roccrcusea casas as 202 51 10 282 231 146 229 138
+707 MONDAI, .cocrcroncccorconcorconanssencessos 125 516 176 32 306 742 700 723 207
+708 MONTE CASTELO. .cscorccccscscercroncrcscess 36 117 as 5 500 133 184 128 748
+708 MORRO DA FUMAÇA... ..ccuccunussssessecesses “9 123 32 s 715 163 369 162 779
+0 NAVEGANTES. eccsrrrerorocc cesso rreccssoss 54 275 156 22 278 339 602 339 729
+FAR! NOVA ERECHIM. ..ecesceresesenerereeesescars 13 104 53 7 259 196 735 191 610
+712 NOVA TRENTO. .ccrscssscrertorecorcssosesoas 49 140 46 6 470 120 859 120 449
+713 NOVA VENEZA. ..cccrscnracecerercenacesanass 46 96 14 5 64s 8 054 88 312
+714 ORLEANS. .ccorcscscrccscocercrorcsucosecocs sz 276 8 19 832 375 877 372 346
+715 OTACILIO COSTA... .cccrccscrcssrscrcorcreses - - - - - pq
+716 OURO. crrcrcersecescccsccc recesso censososa 19 82 36 8 824 152 131 149 452
+717 PALHOÇA. escrcrcrcrso rc rconcrcs oo nanenasoss 197 420 13 26 833 459 983 4se 793
+718 PALMA SOLA..ccrrrcoscencnoncorocensonansos 35 139 33 727 219 212 218 073
+718 PALMITOS.. cecrrcrrcororororcccsoonsosascas se am 208 “2 858 1 210 300 1 175 407
+720 PAPANDUVA. . ccsrnccnseccrceresa sereno neaeas es 253 67 12 816 416 739 411 788
+721 PAULO LOPES. .cecocccosercorccsucorsessesos 41 75 27 6 625 197 477 137 477
+722 PEDRAS GRANDES... ...ccccesenesensecesesees 26 38 2 2 305 27 003 26 823
+723 PENHA. cccrcsccrccococcoocsoncoosesaucassa se 152 51 9 152 148 451 145 451
+724 PERITIDA... corre sercccercororccorceseesoss 12 42 7 3 oso 62 sao 57 930
+25 PETROLANDIA...cssercescoccrercrrosescnacss 24 51 15 3 001 77 278 76 672
+726 PIÇARRAS. .cecccscrcro cerco rerncrcosncanesa so 157 ss 15 617 465 819 asa 649
+727 PINHALZINHO. ..ccrrercrcercrcercsrrcoscacos so 357 127 25 785 563 503 652 500
+728 PINHEIRO PRETO... .cccercrrercrccrsercrcaess 8 15 6 1579 23 724 23 724
+729 PIRATUBA, .cccrcscrccrrecorcercorceracesses 30 as 29 5 624 111 226 108 572
+730 POMERODE. .eccscrsrocescorroscococciccssêcs n 348 197 30 877 567 326 574 033
+731 PONTE ALTA, cccorercccorcerccescosasorsccas 19 68 22 Z 421 65 433 65 433
+732 PONTE SERRADA... .cccccrcercsccccrsrrcresea s6 21 7 13 470 2746 716 27 282
+733 PORTO BELO. cserererscssscocccocscssososos 54 156 56 7 sz28 153 621 163 111
+734 PORTO. UNIÃO: cocsssscacsceseso rasas nicvos 145 627 209 57 978 1155 785 1 143 495
+735 POUSO REDONDO. ....cecuesesceeseseuceesesss 42 156 54 10 896 247 160 z4s 141
+736 PRAIA GRANDE. .ceserrrrccercorsrercescaseoa 51 143 42 13 186 142 356 138 5685
+751 PRESIDENTE CASTELO BRANCO. .....ccssecesoos 6 ” 1 as6 22 121 22 063
+738 PRESIDENTE QETULIO.....ccssccseesssesenses 6 283 139 Z7 048 426 395 417 322
+738 PRESIDENTE MEREU......ccrserseereesseessss s 24 5 1 541 z0 017 20 507
+70 QUILOMBO. . cecercrisescrcrcccrcrcncorescscs 9s 314 124 21 502 471 996 465 189
+741 RANCHO QUEIMADO, .,..csercrcerereecesesases 18 28 - 2515 10 999 10 999
+742 RIO DAS ANTAS. .cccerrerercrreeessesenesass 14 as 22 2 855 64 387 64 387
+7.43 RIO DO CAMPO...ccccercorcorconcuceseneress 29 75 14 4 138 78 825 75 s60
+744 RIO DO OESTE... .ccccrccccssosorcersecercoss 23 93 36 6 996 107 125 105 859
+745 RIO DOS CEDROS......cccrcesesercerrerccess 32 123 so 7 665 148 787 147 075
+746 RIO DO BL..ccccrreceserccorccocorccccsess 292 2 190 , 225 297 660 4 906 378 “ 855 720
+
+- BO

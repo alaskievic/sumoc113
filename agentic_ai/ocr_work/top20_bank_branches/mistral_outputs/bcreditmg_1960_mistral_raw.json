@@ -1,0 +1,76 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bcreditmg_1960.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 169224
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "26 DE FEVEREIRO DE 1961\n\n# BANCO DE CRÉDITO REAL DE MINAS GERAIS S. A.\n\nFUNDADO EM 22 DE AGOSTO DE 1961\n\nCAPITAL ... Cr$ 600.000.000,00 — — — RESERVAS ... Cr$ 957.000.000,00\n\nSEDE: JUIZ DE FORA — ESTADO DE MINAS GERAIS — RUA HALFELD N.º 504 — SUCURSAIS: RIO DE JANEIRO — AVENIDA RIO BRANCO N.º 116 — BELO HORIZONTE — AVENIDA AMAZO NAS N.º 253. — SÃO PAULO — RUA SÃO BENTO, 500/506.\n\nOUTROS DEPARTAMENTOS:\n\nNo Est. de Minas Gerais: Abre Campo, Andradas, Aracitaba Araquari, Araxá, Av. Paraná (Belo Horizonte), Barbacena, Bias Fortes, Campo Belo, Campos Gerais, Candeias, Capinópolis, Carangola, Caratinga, Carmo da Mata, Cataquazes, Centralina, Conc. do Rio Verde, Cons. La-faiete, Coromandel, Curvelo, Diamantina, Floresta (Belo Horizonte), Gov. Valadares, Guarani, Ipatinga, Itanhomi, Ituiutaba, Laquinha (Belo Horizonte), Lavras, Machado, Manhumirim, Mercês, Monte Alegre de Minas, Monte Carmelo, Monte Santo de Minas, Montes Claros, Muriaé, Muzambinho, Oliveira, Ouro Branco, Ouro Fino, Parque Haldeli, (Urb. J. de Fora), Passos, Pedro Leodoido, Pocos de Caídas, Ponte Nova, Raul Soares, Rio Pomba, Sacramento, Santos Dumont, S. J. del Rei, S. J. Nepomuceno, S. Lourenço, S. Seb. do Paraíso, Teófilo Otoni, Tocantins, Três Corações, Três Pontas, Tupaciquara, Ubá, Uberaba, Uberlândia, Viçosa e Visc. do Rio Branco.\n\nNo Est. Rio: B. do Pirai, Campos Miguel Pereira, Miracema, Niterói, Nova Iguaçu, Paraíba do Sul, Petrópolis, S. Gonçalo, Teresópolis, Três Rios e Vassouras.\n\nNo Est. de São Paulo: Av. S. João (Urb. S. Paulo), Barretos, Baurú, Bom Retiro (Urb. S. Paulo), Braz (Urb. S. Paulo), Campinas, França, Praça da República (Urb. S. Paulo), Rib. Prêto, Sta. Cecília (Urb. S. Paulo), Sto. André, Santos, S. José do Rio Prêto, S. Paulo e Saúde (Urb. S. Paulo).\n\nNo Est. Goiás: Anápolis, Goiânia, Ipameri, Itumbiara e Pires do Rio.\n\nNo Est. do Espírito Santo: Alegre, Cach. Itapemirim, Castelo, Cotatina, Guacui, Iuna, Vitória.\n\nNo Estado do Paraná: Arapongas, Cambé, Curitiba, Londrina, Paranaqua e Rolândia.\n\nNo Estado da Bahia: Rua Chile (Metropolitana de Salvador) e Salvador.\n\nNo Estado de Pernambuco: Recife, e Santo Antônio (Metropolitana de Recife).\n\nNo Estado do Rio Grande do Sul: Porto Alegre — Rua Benjamin Constant (Urbana Porto Alegre).\n\nNo Estado de Santa Catarina: Blumenau, Florianópolis, Joinville.\n\nNo Estado da Guanabara: Urbanas do Rio de Janeiro: Aeroporto, Campo Grande, Catete, Copacabana, Ilha do Governador, Ipanema, Madureira, Mem. de Sá, Praça da Bandeira, Ramos, Rua da Alfândega, Rua Camerino, Rua México, Rua Voluntários da Pátria e Visc. de Inhauna.\n\nNo Est. do Ceará: Fortaleza.\n\nNo Estado do Pará: Belém e agência urbana à Rua 15 de Novembro.\n\nNo Est. de Alagoas: Maceió.\n\nNo Dist. Federal: Brasília e Setor Sul (Metropolitana de Brasília).\n\nBALANCETE EM 31 DE JANEIRO DE 1961 — Compreendendo Matriz, Sucursais e Demais Departamentos",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 575,
+          "width": 1291
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 169224
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "26 DE FEVEREIRO DE 1961\n\n# BANCO DE CRÉDITO REAL DE MINAS GERAIS S. A.\n\nFUNDADO EM 22 DE AGOSTO DE 1961\n\nCAPITAL ... Cr$ 600.000.000,00 — — — RESERVAS ... Cr$ 957.000.000,00\n\nSEDE: JUIZ DE FORA — ESTADO DE MINAS GERAIS — RUA HALFELD N.º 504 — SUCURSAIS: RIO DE JANEIRO — AVENIDA RIO BRANCO N.º 116 — BELO HORIZONTE — AVENIDA AMAZO NAS N.º 253. — SÃO PAULO — RUA SÃO BENTO, 500/506.\n\nOUTROS DEPARTAMENTOS:\n\nNo Est. de Minas Gerais: Abre Campo, Andradas, Aracitaba Araquari, Araxá, Av. Paraná (Belo Horizonte), Barbacena, Bias Fortes, Campo Belo, Campos Gerais, Candeias, Capinópolis, Carangola, Caratinga, Carmo da Mata, Cataquazes, Centralina, Conc. do Rio Verde, Cons. La-faiete, Coromandel, Curvelo, Diamantina, Floresta (Belo Horizonte), Gov. Valadares, Guarani, Ipatinga, Itanhomi, Ituiutaba, Laquinha (Belo Horizonte), Lavras, Machado, Manhumirim, Mercês, Monte Alegre de Minas, Monte Carmelo, Monte Santo de Minas, Montes Claros, Muriaé, Muzambinho, Oliveira, Ouro Branco, Ouro Fino, Parque Haldeli, (Urb. J. de Fora), Passos, Pedro Leodoido, Pocos de Caídas, Ponte Nova, Raul Soares, Rio Pomba, Sacramento, Santos Dumont, S. J. del Rei, S. J. Nepomuceno, S. Lourenço, S. Seb. do Paraíso, Teófilo Otoni, Tocantins, Três Corações, Três Pontas, Tupaciquara, Ubá, Uberaba, Uberlândia, Viçosa e Visc. do Rio Branco.\n\nNo Est. Rio: B. do Pirai, Campos Miguel Pereira, Miracema, Niterói, Nova Iguaçu, Paraíba do Sul, Petrópolis, S. Gonçalo, Teresópolis, Três Rios e Vassouras.\n\nNo Est. de São Paulo: Av. S. João (Urb. S. Paulo), Barretos, Baurú, Bom Retiro (Urb. S. Paulo), Braz (Urb. S. Paulo), Campinas, França, Praça da República (Urb. S. Paulo), Rib. Prêto, Sta. Cecília (Urb. S. Paulo), Sto. André, Santos, S. José do Rio Prêto, S. Paulo e Saúde (Urb. S. Paulo).\n\nNo Est. Goiás: Anápolis, Goiânia, Ipameri, Itumbiara e Pires do Rio.\n\nNo Est. do Espírito Santo: Alegre, Cach. Itapemirim, Castelo, Cotatina, Guacui, Iuna, Vitória.\n\nNo Estado do Paraná: Arapongas, Cambé, Curitiba, Londrina, Paranaqua e Rolândia.\n\nNo Estado da Bahia: Rua Chile (Metropolitana de Salvador) e Salvador.\n\nNo Estado de Pernambuco: Recife, e Santo Antônio (Metropolitana de Recife).\n\nNo Estado do Rio Grande do Sul: Porto Alegre — Rua Benjamin Constant (Urbana Porto Alegre).\n\nNo Estado de Santa Catarina: Blumenau, Florianópolis, Joinville.\n\nNo Estado da Guanabara: Urbanas do Rio de Janeiro: Aeroporto, Campo Grande, Catete, Copacabana, Ilha do Governador, Ipanema, Madureira, Mem. de Sá, Praça da Bandeira, Ramos, Rua da Alfândega, Rua Camerino, Rua México, Rua Voluntários da Pátria e Visc. de Inhauna.\n\nNo Est. do Ceará: Fortaleza.\n\nNo Estado do Pará: Belém e agência urbana à Rua 15 de Novembro.\n\nNo Est. de Alagoas: Maceió.\n\nNo Dist. Federal: Brasília e Setor Sul (Metropolitana de Brasília).\n\nBALANCETE EM 31 DE JANEIRO DE 1961 — Compreendendo Matriz, Sucursais e Demais Departamentos",
+      "lines": [
+        "26 DE FEVEREIRO DE 1961",
+        "# BANCO DE CRÉDITO REAL DE MINAS GERAIS S. A.",
+        "FUNDADO EM 22 DE AGOSTO DE 1961",
+        "CAPITAL ... Cr$ 600.000.000,00 — — — RESERVAS ... Cr$ 957.000.000,00",
+        "SEDE: JUIZ DE FORA — ESTADO DE MINAS GERAIS — RUA HALFELD N.º 504 — SUCURSAIS: RIO DE JANEIRO — AVENIDA RIO BRANCO N.º 116 — BELO HORIZONTE — AVENIDA AMAZO NAS N.º 253. — SÃO PAULO — RUA SÃO BENTO, 500/506.",
+        "OUTROS DEPARTAMENTOS:",
+        "No Est. de Minas Gerais: Abre Campo, Andradas, Aracitaba Araquari, Araxá, Av. Paraná (Belo Horizonte), Barbacena, Bias Fortes, Campo Belo, Campos Gerais, Candeias, Capinópolis, Carangola, Caratinga, Carmo da Mata, Cataquazes, Centralina, Conc. do Rio Verde, Cons. La-faiete, Coromandel, Curvelo, Diamantina, Floresta (Belo Horizonte), Gov. Valadares, Guarani, Ipatinga, Itanhomi, Ituiutaba, Laquinha (Belo Horizonte), Lavras, Machado, Manhumirim, Mercês, Monte Alegre de Minas, Monte Carmelo, Monte Santo de Minas, Montes Claros, Muriaé, Muzambinho, Oliveira, Ouro Branco, Ouro Fino, Parque Haldeli, (Urb. J. de Fora), Passos, Pedro Leodoido, Pocos de Caídas, Ponte Nova, Raul Soares, Rio Pomba, Sacramento, Santos Dumont, S. J. del Rei, S. J. Nepomuceno, S. Lourenço, S. Seb. do Paraíso, Teófilo Otoni, Tocantins, Três Corações, Três Pontas, Tupaciquara, Ubá, Uberaba, Uberlândia, Viçosa e Visc. do Rio Branco.",
+        "No Est. Rio: B. do Pirai, Campos Miguel Pereira, Miracema, Niterói, Nova Iguaçu, Paraíba do Sul, Petrópolis, S. Gonçalo, Teresópolis, Três Rios e Vassouras.",
+        "No Est. de São Paulo: Av. S. João (Urb. S. Paulo), Barretos, Baurú, Bom Retiro (Urb. S. Paulo), Braz (Urb. S. Paulo), Campinas, França, Praça da República (Urb. S. Paulo), Rib. Prêto, Sta. Cecília (Urb. S. Paulo), Sto. André, Santos, S. José do Rio Prêto, S. Paulo e Saúde (Urb. S. Paulo).",
+        "No Est. Goiás: Anápolis, Goiânia, Ipameri, Itumbiara e Pires do Rio.",
+        "No Est. do Espírito Santo: Alegre, Cach. Itapemirim, Castelo, Cotatina, Guacui, Iuna, Vitória.",
+        "No Estado do Paraná: Arapongas, Cambé, Curitiba, Londrina, Paranaqua e Rolândia.",
+        "No Estado da Bahia: Rua Chile (Metropolitana de Salvador) e Salvador.",
+        "No Estado de Pernambuco: Recife, e Santo Antônio (Metropolitana de Recife).",
+        "No Estado do Rio Grande do Sul: Porto Alegre — Rua Benjamin Constant (Urbana Porto Alegre).",
+        "No Estado de Santa Catarina: Blumenau, Florianópolis, Joinville.",
+        "No Estado da Guanabara: Urbanas do Rio de Janeiro: Aeroporto, Campo Grande, Catete, Copacabana, Ilha do Governador, Ipanema, Madureira, Mem. de Sá, Praça da Bandeira, Ramos, Rua da Alfândega, Rua Camerino, Rua México, Rua Voluntários da Pátria e Visc. de Inhauna.",
+        "No Est. do Ceará: Fortaleza.",
+        "No Estado do Pará: Belém e agência urbana à Rua 15 de Novembro.",
+        "No Est. de Alagoas: Maceió.",
+        "No Dist. Federal: Brasília e Setor Sul (Metropolitana de Brasília).",
+        "BALANCETE EM 31 DE JANEIRO DE 1961 — Compreendendo Matriz, Sucursais e Demais Departamentos"
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 575,
+        "width": 1291
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 3.048,
+  "remote_file_id": null
+}

@@ -1,0 +1,460 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/questionario_agri/quest_agri_go.pdf",
+  "engine": "paddleocr",
+  "lang": "pt",
+  "ocr_version": "PP-OCRv3",
+  "dpi": 220,
+  "text_det_limit_side_len": 1600,
+  "pages": [
+    {
+      "page": 127,
+      "elapsed_seconds": 7.713,
+      "lines": [
+        "119",
+        "carga, de 25$o0o a 35$co0; um: burro de sella, de 20o$o0o a",
+        "30o$000;.de carga, (arreiado) 10o$o0o a 13o$o0o; animaes de",
+        "arado nao ha; um boi carreiro ou de c6rte, de 35$ooo a 45$ooo;",
+        "um touro, 3oo$coo. para mais ; uma: vacca leiteira, produzindo de",
+        "dcis a tres litros.de leite, custa 5o$o0o; un litro de leite, 200 réis",
+        "(quando ha escassez) :",
+        ":237",
+        "93",
+        "Carnes :e toucinho-O kilo. de carne de vacca custa 4oo réis; de",
+        "porco, 50o réis; o kilo de:toucinho.custa. 50o réis. .",
+        "9.",
+        "Manteiga e queijo--O kilo de manteiga custa I$ooo, (raramente",
+        "",
+        "fazem) ; o queijo que é reputado :o melhor do Estado, custa",
+        "tambem 1$coo o kilo...",
+        "12",
+        "Aves -- Uma gallinha custa.5oo réis ; a duzia de ovos, 2oo réis.",
+        "11",
+        "Molestias -- Febre aphtosa e carbunculo symptomatico, este apparece",
+        "principalmente, no mez de Abril; sao tratadas com creolina,",
+        "fornmicida e sangrias; nas sem resultado satisfactoric.",
+        ".2:3:.",
+        "CUSTO dos. tecidos -Um metro de tecido nacional ou estrangeiro custa de",
+        "7",
+        "1$ooo para .cima, conforme a :qualidade.",
+        "ESTRADAS e pontes-Existem estradas de rodagem e :alguns caminhos",
+        "vicinaes. Geralmente mal conservados, no invernc ficam cheios",
+        "de enxurradas, difficultando o transito: Ha: pontes em mao",
+        "estado de conservacao.",
+        "EXPORTACAO e importacao-Exporta: cereaes, toucinho, gado.e fumo;",
+        "importa: sal, fazendas, ferragens, etc.",
+        "ESCOLAS--Ha, estadoaes, para. ambos os sexos.",
+        "FABRICAS -- Nao ha; existem engenhos para beneficio da canna.",
+        "FARINHA de mandioca e feijao-O litro .de farinha de mandioca custa",
+        "Ioo réis e o de feijao, de Ioo a 2oo réis",
+        "HYPOTHECAS -- Existem alguns immoveis hypothecados.",
+        "HABITACOES-- Geralmente. descuradas.",
+        "INSTRUMENTOS.agricolas-- Enxadas, foices e machados.",
+        "JUROS-Geralmente a taxa é de 2 \" mensaes, quando encontram prestamistas.",
+        "MADEIRAS de lei - Aroeira, cedro, balsamo, garapa, canjarana, vinhatico, etc.",
+        "MINAS -- Dizen haver de ouro, prata, amianto, etc., e nao serem exploradas.",
+        "MOLESTIAS da populacao --- Communs. Em certos logares ha febres palustres.",
+        "1",
+        " E pragas das plantas cultivadas-Formigas-sauvas, cupins e aves",
+        "damninhas; destas pragas, poucos atacam, unicamente as formigas",
+        "ccan formicida.",
+        "NUCLEOS coloniaes --- Nao ha:",
+        "OPEROSIDADE da populacao-E'.grande :o numero dos. desoccupados.",
+        "PADRES de terras bóas --Balsamo, cedro, acory, barriguda, jaracatia, jequi-",
+        " tiba, herva d'anta, etc.",
+        "7.1",
+        "De terras inferiores - Joao Farinha, acoita-cavallo, pao-terra, etc.",
+        "PORTOS--Nao ha.",
+        "SEMENTES - Nao escolhem."
+      ],
+      "scores": [
+        0.9941803812980652,
+        0.935234010219574,
+        0.9300574064254761,
+        0.9798916578292847,
+        0.9678118228912354,
+        0.9413174390792847,
+        0.9625381827354431,
+        0.2793219983577728,
+        0.566960334777832,
+        0.9504531621932983,
+        0.9625557065010071,
+        0.1862419694662094,
+        0.9669749736785889,
+        0.0,
+        0.9672181606292725,
+        0.9506441354751587,
+        0.31258243322372437,
+        0.9661908149719238,
+        0.7709641456604004,
+        0.9807966947555542,
+        0.9652273654937744,
+        0.968769907951355,
+        0.3774421215057373,
+        0.962633490562439,
+        0.3425687849521637,
+        0.9573057293891907,
+        0.9710739850997925,
+        0.9844329953193665,
+        0.9788734316825867,
+        0.9888893365859985,
+        0.9872889518737793,
+        0.9995241165161133,
+        0.976987898349762,
+        0.9667893648147583,
+        0.951042890548706,
+        0.9392121434211731,
+        0.9821050763130188,
+        0.9579963684082031,
+        0.9696528315544128,
+        0.9786143898963928,
+        0.9837455153465271,
+        0.9608672261238098,
+        0.9842474460601807,
+        0.6565001606941223,
+        0.9773860573768616,
+        0.9811006188392639,
+        0.9387566447257996,
+        0.9193482398986816,
+        0.9745743274688721,
+        0.9685348272323608,
+        0.9539563655853271,
+        0.6376187801361084,
+        0.9849581718444824,
+        0.9176551699638367,
+        0.9606976509094238
+      ],
+      "boxes": [
+        [
+          541,
+          116,
+          701,
+          149
+        ],
+        [
+          256,
+          223,
+          1157,
+          262
+        ],
+        [
+          261,
+          261,
+          1158,
+          298
+        ],
+        [
+          259,
+          297,
+          1160,
+          337
+        ],
+        [
+          263,
+          338,
+          1157,
+          371
+        ],
+        [
+          265,
+          374,
+          1158,
+          409
+        ],
+        [
+          267,
+          414,
+          565,
+          442
+        ],
+        [
+          1406,
+          414,
+          1413,
+          433
+        ],
+        [
+          142,
+          451,
+          160,
+          467
+        ],
+        [
+          218,
+          447,
+          1160,
+          484
+        ],
+        [
+          260,
+          486,
+          975,
+          521
+        ],
+        [
+          146,
+          526,
+          161,
+          539
+        ],
+        [
+          219,
+          523,
+          1163,
+          558
+        ],
+        [
+          1401,
+          526,
+          1416,
+          554
+        ],
+        [
+          265,
+          562,
+          1163,
+          595
+        ],
+        [
+          265,
+          602,
+          605,
+          626
+        ],
+        [
+          147,
+          638,
+          163,
+          652
+        ],
+        [
+          223,
+          638,
+          1076,
+          667
+        ],
+        [
+          149,
+          676,
+          164,
+          690
+        ],
+        [
+          224,
+          673,
+          1164,
+          707
+        ],
+        [
+          266,
+          712,
+          1165,
+          747
+        ],
+        [
+          266,
+          752,
+          987,
+          780
+        ],
+        [
+          1412,
+          776,
+          1423,
+          802
+        ],
+        [
+          88,
+          786,
+          1168,
+          820
+        ],
+        [
+          1412,
+          805,
+          1422,
+          826
+        ],
+        [
+          268,
+          827,
+          821,
+          854
+        ],
+        [
+          89,
+          861,
+          1162,
+          893
+        ],
+        [
+          269,
+          900,
+          1164,
+          930
+        ],
+        [
+          267,
+          937,
+          1164,
+          969
+        ],
+        [
+          267,
+          975,
+          580,
+          1004
+        ],
+        [
+          90,
+          1018,
+          1162,
+          1051
+        ],
+        [
+          267,
+          1058,
+          792,
+          1084
+        ],
+        [
+          91,
+          1094,
+          792,
+          1122
+        ],
+        [
+          91,
+          1129,
+          1003,
+          1160
+        ],
+        [
+          90,
+          1165,
+          1167,
+          1196
+        ],
+        [
+          270,
+          1206,
+          837,
+          1230
+        ],
+        [
+          91,
+          1241,
+          911,
+          1269
+        ],
+        [
+          94,
+          1277,
+          679,
+          1304
+        ],
+        [
+          96,
+          1318,
+          929,
+          1342
+        ],
+        [
+          97,
+          1354,
+          1164,
+          1380
+        ],
+        [
+          94,
+          1387,
+          1167,
+          1420
+        ],
+        [
+          97,
+          1426,
+          1165,
+          1456
+        ],
+        [
+          93,
+          1461,
+          1165,
+          1495
+        ],
+        [
+          160,
+          1505,
+          170,
+          1512
+        ],
+        [
+          208,
+          1500,
+          1169,
+          1532
+        ],
+        [
+          272,
+          1540,
+          1170,
+          1569
+        ],
+        [
+          275,
+          1579,
+          481,
+          1603
+        ],
+        [
+          101,
+          1613,
+          548,
+          1643
+        ],
+        [
+          95,
+          1647,
+          1169,
+          1684
+        ],
+        [
+          95,
+          1683,
+          1166,
+          1720
+        ],
+        [
+          263,
+          1726,
+          592,
+          1755
+        ],
+        [
+          157,
+          1760,
+          172,
+          1775
+        ],
+        [
+          228,
+          1759,
+          1172,
+          1794
+        ],
+        [
+          100,
+          1798,
+          387,
+          1826
+        ],
+        [
+          103,
+          1836,
+          528,
+          1866
+        ]
+      ]
+    }
+  ]
+}

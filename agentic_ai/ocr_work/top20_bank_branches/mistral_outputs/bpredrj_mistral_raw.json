@@ -1,0 +1,64 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bpredrj.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 169560
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "100\n\n# BANCO PREDIAL DO ESTADO DO RIO DE JANEIROS. A.\n\nFUNDADO EM 1917 — End. Telegráfico “PREDIAL” — Carta Patente n.º 160\n\nSede: AV. AMARAL PEIXOTO, 1 a 15 — (Edifício Próprio) — NITERÓI — Estado do Rio de Janeiro — Telefones: Direção Geral: 2-2300\n\nGerência: 5-219 — Inspetoria: 3353 — Expediente: 5273 — Caixa Postal, 47\n\nFILIAL: RUA VISCONDE DE INHAUMA, 105-107 — Rio de Janeiro — Telefones: 43-1322 e 43-0481 — Caixa Postal n.º 543\n\nAGÊNCIAS NO EST. DA GUANABARA: BANGU — Av. Con. Vasconcelos, 144; CAMPO GRANDE — Rua Campo Grande, 136; CASCA-DURA — Rua Sidônio Pais, 7; CATETE — Rua do Catete, 302; FREI CANECA — Rua Frei Caneca, 135; IPANEMA — Rua Visc. Pirajá, 261; JACAREPAGUÁ — Av. Nelson Cardoso, 125; MADUREIRA — Rua Maria Freitas, 33; MEIER — Rua Lucídio Lago, 18; PENHA — Rua dos Romeiros, 173; PRAÇA DA BANDEIRA — Praça da Bandeira, 305; RAMOS — Rua Uranos, 1.087; SANTA CRUZ — Rua Lopes Moura, 17; URUGUAIANA — Rua Uruguaiana, 94/96; VILA ISABEL — Av. 28 de Setembro, 339.\n\nAGÊNCIAS DO EST. DO RIO DE JANEIRO: Alcântara — Angra dos Reis — Araruama — Barra Mansa — Barra do Pirá — Belford Roxo — Bom Jardim — Cabo Frio — Cach. Macacú — Campos — Conceição do Macabú — Duque de Caxias — Itaboraí — Itaquai — Itacocara — Itaperuna — Macaé — Magé — Mangaratiba — Maricá — Mesquita — Neves — Nilópolis — Nova Friburgo — Nova Iguaçu — Parati — Pati do Alfares — Petrópolis — Pirá — Resende — Rio Bonito — Sto. Antônio de Pádua — São Fidelis — São Gonçalo — São João de Meriti — São José do Rio Preto — Sapucaia — Tairetá — Terezópolis — Três Rios — URBANAS: (Santa Rosa) Rua Santa Rosa, 20 - loja 1 — Niterói — (São Lourenço), Avenida Feliciano Sodré 658 — Niterói — Valença — Vassouras — Volta Redonda.\n\nAGÊNCIAS NO ESTADO DO ESPÍRITO\n\nSANTO: Vitória — Cachoeiro de Itapemirim.",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 405,
+          "width": 1253
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 169560
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "100\n\n# BANCO PREDIAL DO ESTADO DO RIO DE JANEIROS. A.\n\nFUNDADO EM 1917 — End. Telegráfico “PREDIAL” — Carta Patente n.º 160\n\nSede: AV. AMARAL PEIXOTO, 1 a 15 — (Edifício Próprio) — NITERÓI — Estado do Rio de Janeiro — Telefones: Direção Geral: 2-2300\n\nGerência: 5-219 — Inspetoria: 3353 — Expediente: 5273 — Caixa Postal, 47\n\nFILIAL: RUA VISCONDE DE INHAUMA, 105-107 — Rio de Janeiro — Telefones: 43-1322 e 43-0481 — Caixa Postal n.º 543\n\nAGÊNCIAS NO EST. DA GUANABARA: BANGU — Av. Con. Vasconcelos, 144; CAMPO GRANDE — Rua Campo Grande, 136; CASCA-DURA — Rua Sidônio Pais, 7; CATETE — Rua do Catete, 302; FREI CANECA — Rua Frei Caneca, 135; IPANEMA — Rua Visc. Pirajá, 261; JACAREPAGUÁ — Av. Nelson Cardoso, 125; MADUREIRA — Rua Maria Freitas, 33; MEIER — Rua Lucídio Lago, 18; PENHA — Rua dos Romeiros, 173; PRAÇA DA BANDEIRA — Praça da Bandeira, 305; RAMOS — Rua Uranos, 1.087; SANTA CRUZ — Rua Lopes Moura, 17; URUGUAIANA — Rua Uruguaiana, 94/96; VILA ISABEL — Av. 28 de Setembro, 339.\n\nAGÊNCIAS DO EST. DO RIO DE JANEIRO: Alcântara — Angra dos Reis — Araruama — Barra Mansa — Barra do Pirá — Belford Roxo — Bom Jardim — Cabo Frio — Cach. Macacú — Campos — Conceição do Macabú — Duque de Caxias — Itaboraí — Itaquai — Itacocara — Itaperuna — Macaé — Magé — Mangaratiba — Maricá — Mesquita — Neves — Nilópolis — Nova Friburgo — Nova Iguaçu — Parati — Pati do Alfares — Petrópolis — Pirá — Resende — Rio Bonito — Sto. Antônio de Pádua — São Fidelis — São Gonçalo — São João de Meriti — São José do Rio Preto — Sapucaia — Tairetá — Terezópolis — Três Rios — URBANAS: (Santa Rosa) Rua Santa Rosa, 20 - loja 1 — Niterói — (São Lourenço), Avenida Feliciano Sodré 658 — Niterói — Valença — Vassouras — Volta Redonda.\n\nAGÊNCIAS NO ESTADO DO ESPÍRITO\n\nSANTO: Vitória — Cachoeiro de Itapemirim.",
+      "lines": [
+        "100",
+        "# BANCO PREDIAL DO ESTADO DO RIO DE JANEIROS. A.",
+        "FUNDADO EM 1917 — End. Telegráfico “PREDIAL” — Carta Patente n.º 160",
+        "Sede: AV. AMARAL PEIXOTO, 1 a 15 — (Edifício Próprio) — NITERÓI — Estado do Rio de Janeiro — Telefones: Direção Geral: 2-2300",
+        "Gerência: 5-219 — Inspetoria: 3353 — Expediente: 5273 — Caixa Postal, 47",
+        "FILIAL: RUA VISCONDE DE INHAUMA, 105-107 — Rio de Janeiro — Telefones: 43-1322 e 43-0481 — Caixa Postal n.º 543",
+        "AGÊNCIAS NO EST. DA GUANABARA: BANGU — Av. Con. Vasconcelos, 144; CAMPO GRANDE — Rua Campo Grande, 136; CASCA-DURA — Rua Sidônio Pais, 7; CATETE — Rua do Catete, 302; FREI CANECA — Rua Frei Caneca, 135; IPANEMA — Rua Visc. Pirajá, 261; JACAREPAGUÁ — Av. Nelson Cardoso, 125; MADUREIRA — Rua Maria Freitas, 33; MEIER — Rua Lucídio Lago, 18; PENHA — Rua dos Romeiros, 173; PRAÇA DA BANDEIRA — Praça da Bandeira, 305; RAMOS — Rua Uranos, 1.087; SANTA CRUZ — Rua Lopes Moura, 17; URUGUAIANA — Rua Uruguaiana, 94/96; VILA ISABEL — Av. 28 de Setembro, 339.",
+        "AGÊNCIAS DO EST. DO RIO DE JANEIRO: Alcântara — Angra dos Reis — Araruama — Barra Mansa — Barra do Pirá — Belford Roxo — Bom Jardim — Cabo Frio — Cach. Macacú — Campos — Conceição do Macabú — Duque de Caxias — Itaboraí — Itaquai — Itacocara — Itaperuna — Macaé — Magé — Mangaratiba — Maricá — Mesquita — Neves — Nilópolis — Nova Friburgo — Nova Iguaçu — Parati — Pati do Alfares — Petrópolis — Pirá — Resende — Rio Bonito — Sto. Antônio de Pádua — São Fidelis — São Gonçalo — São João de Meriti — São José do Rio Preto — Sapucaia — Tairetá — Terezópolis — Três Rios — URBANAS: (Santa Rosa) Rua Santa Rosa, 20 - loja 1 — Niterói — (São Lourenço), Avenida Feliciano Sodré 658 — Niterói — Valença — Vassouras — Volta Redonda.",
+        "AGÊNCIAS NO ESTADO DO ESPÍRITO",
+        "SANTO: Vitória — Cachoeiro de Itapemirim."
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 405,
+        "width": 1253
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 3.953,
+  "remote_file_id": null
+}

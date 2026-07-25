@@ -1,0 +1,14 @@
+{
+  "source_pdf": "/Users/alaskievic/Desktop/missing_mg_1975.pdf",
+  "ocr_json": "/Users/alaskievic/Desktop/master_work/sumoc113/agentic_ai/output_ocr/censo_1975/missing_mg_1975/missing_mg_1975_mistral_raw.json",
+  "outputs": [
+    {
+      "table": 2,
+      "census_type": "industrial",
+      "csv": "/Users/alaskievic/Desktop/master_work/sumoc113/agentic_ai/output_ocr/censo_1975/missing_mg_1975/tables/industrial_table_2_merged.csv",
+      "rows": 966
+    }
+  ],
+  "source_contains_only_table_2_fragments": true,
+  "appendix_present": false
+}

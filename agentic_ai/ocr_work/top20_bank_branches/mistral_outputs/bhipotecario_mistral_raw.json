@@ -1,0 +1,59 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bhipotecario.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 102664
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "BANCO HIPOTECÁRIO LAR BRASILEIRO S. A.\n\nSEDE: — RIO DE JANEIRO\n\nCARTA PATENTE N.º 1.420, DE 18/11/1938\n\nBALANCETE EM 31 DE JANEIRO DE 1961\n\nCompreendendo as operações da Matriz — Rio de Janeiro e das Aências nas cidades de Fortaleza, Recife, Salvador, Niterói, São Paulo, Santos, Baurú, Campinas, Curitiba, Porto Alegre, Belo Horizonte, Goiânia e Brasília; e das Metropolitanas \"Bonsucesso\", \"Cascadura\", \"Catete\", \"Copacabana\", \"Ipanema\", \"Madureira\", \"Méter\" e \"Tijuca\" no Rio de Janeiro. — \"Braz\", \"Jardim América\", \"Lapa\", \"Luz\", \"Mooca\", \"Nove de Julho\", \"Perdizes\", \"Pinheiros\" e \"Vila Mariana\" em São Paulo e \"José Menino\" em Santos.",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 333,
+          "width": 1257
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 102664
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "BANCO HIPOTECÁRIO LAR BRASILEIRO S. A.\n\nSEDE: — RIO DE JANEIRO\n\nCARTA PATENTE N.º 1.420, DE 18/11/1938\n\nBALANCETE EM 31 DE JANEIRO DE 1961\n\nCompreendendo as operações da Matriz — Rio de Janeiro e das Aências nas cidades de Fortaleza, Recife, Salvador, Niterói, São Paulo, Santos, Baurú, Campinas, Curitiba, Porto Alegre, Belo Horizonte, Goiânia e Brasília; e das Metropolitanas \"Bonsucesso\", \"Cascadura\", \"Catete\", \"Copacabana\", \"Ipanema\", \"Madureira\", \"Méter\" e \"Tijuca\" no Rio de Janeiro. — \"Braz\", \"Jardim América\", \"Lapa\", \"Luz\", \"Mooca\", \"Nove de Julho\", \"Perdizes\", \"Pinheiros\" e \"Vila Mariana\" em São Paulo e \"José Menino\" em Santos.",
+      "lines": [
+        "BANCO HIPOTECÁRIO LAR BRASILEIRO S. A.",
+        "SEDE: — RIO DE JANEIRO",
+        "CARTA PATENTE N.º 1.420, DE 18/11/1938",
+        "BALANCETE EM 31 DE JANEIRO DE 1961",
+        "Compreendendo as operações da Matriz — Rio de Janeiro e das Aências nas cidades de Fortaleza, Recife, Salvador, Niterói, São Paulo, Santos, Baurú, Campinas, Curitiba, Porto Alegre, Belo Horizonte, Goiânia e Brasília; e das Metropolitanas \"Bonsucesso\", \"Cascadura\", \"Catete\", \"Copacabana\", \"Ipanema\", \"Madureira\", \"Méter\" e \"Tijuca\" no Rio de Janeiro. — \"Braz\", \"Jardim América\", \"Lapa\", \"Luz\", \"Mooca\", \"Nove de Julho\", \"Perdizes\", \"Pinheiros\" e \"Vila Mariana\" em São Paulo e \"José Menino\" em Santos."
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 333,
+        "width": 1257
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 2.852,
+  "remote_file_id": null
+}

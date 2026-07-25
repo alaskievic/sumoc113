@@ -1,0 +1,29 @@
+entity,establishments_1985_absolute,establishments_1985_percent,personnel_occupied_1985_absolute,personnel_occupied_1985_percent,salaries_withdrawals_other_compensation_1985_million_cruzeiros,salaries_withdrawals_other_compensation_1985_percent,gross_production_value_1985_million_cruzeiros,gross_production_value_1985_million_cruzeiros_percent,source_page,extraction_method,needs_review
+BRASIL,TOTAL DAS REGIDOS METROPOLITANAS 207 157,"100,0",5 606 704,"100,0",96 449 248,"100,0",,,1,mistral_table_partial,yes
+DEMAIS MUNICIPIOS,66 904,"32,3",2 752 062,"45,1",57 750 424,"55,9",69 458 7:28,"67 ,A",1,mistral_table_plus_pdf_text_layout,no
+REGIÃO NORTE,TOTAL DA REGIÃO METROPOLITANA 7 991,"100,0",149 820,"100,0",1 787 563,"100,0",,,1,mistral_table_partial,yes
+DEMAIS MUNICIPIOS,965,"12,1",28 495,"19,0",324 733,"16,2",,,1,mistral_table_partial,yes
+PARA,REGIÃO METROPOLITANA - BELEM 4 321,"100,0",63 302,"100,0",695 624,"100,0",,,1,mistral_table_partial,yes
+DEMAIS MUNICIPIOS,965,"22,3",28 495,"45,0",324 733,"46,7",,,1,mistral_table_partial,yes
+REGIÃO NORDESTE,TOTAL DAS REGIDOS METROPOLITANAS 40 839,"100,0",604 285,"100,0",6 661 516,"100,0",,,1,mistral_table_partial,yes
+DEMAIS MUNICIPIOS,6 809,"16,7",226 404,"37,5",3 707 343,"55,7",,,1,mistral_table_partial,yes
+CEARA,REGIÃO METROPOLITANA - FORTALEZA 6 165,"100,0",110 769,"100,0",843 527,"100,0",,,1,mistral_table_partial,yes
+DEMAIS MUNICIPIOS,2 010,"32,6",69 536,"62,8",595 504,"70,6",,,1,mistral_table_partial,yes
+PERNAMBUCO,REGIÃO METROPOLITANA - RECIFE 8 389,"100,0",151 416,"100,0",1 760 251,"100,0",,,1,mistral_table_partial,yes
+REGIÃO METROPOLITANA - SALVADOR,2 620,"33,6",86 095,"56,9",1 204 457,"66,4",,,1,mistral_table_partial,yes
+BAHIA,REGIÃO METROPOLITANA - SALVADOR 11 690,"100,0",147 913,"100,0",2 583 741,"100,0",,,1,mistral_table_partial,yes
+REGIÃO METROPOLITANA - SALVADOR,1 979,"16,9",70 773,"47,8",1 907 382,"73,8",,,1,mistral_table_partial,yes
+REGIÃO SUDESTE,TOTAL DAS REGIDOS METROPOLITANAS 103 154,"100,0",3 598 424,"100,0",72 367 032,"100,0",,,1,mistral_table_partial,yes
+DEMAIS MUNICIPIOS,49 516,"48,0",2 152 902,"59,8",48 528 937,"67,1",,,1,mistral_table_partial,yes
+MINAS GERAIS,REGIÃO METROPOLITANA - BELO HORIZONTE 23 643,"100,0",475 977,"100,0",6 897 193,"100,0",,,1,mistral_table_partial,yes
+REGIÃO METROPOLITANA - RIO DE JANEIRO,4 630,"20,4",159 308,"33,5",3 001 354,"43,5",,,1,mistral_table_partial,yes
+RIO DE JANEIRO,REGIÃO METROPOLITANA - RIO DE JANEIRO 16 892,"100,0",528 657,"100,0",9 899 642,"100,0",,,1,mistral_table_partial,yes
+REGIÃO METROPOLITANA - SAL PAULO,13 216,"78,2",427 721,"80,9",6 341 464,"84,3",,,1,mistral_table_partial,yes
+SÃO PAULO,REGIÃO METROPOLITANA - SÃO PAULO 59 343,"100,0",2 527 141,"100,0",54 514 859,"100,0",,,1,mistral_table_partial,yes
+REGIÃO METROPOLITANA - SAL PAULO,31 470,"53,0",1 565 873,"62,0",37 186 149,"68,2",,,1,mistral_table_partial,yes
+REGIÃO SUL,TOTAL DAS REGIDOS METROPOLITANAS 43 934,"100,0",1 121 737,"100,0",13 730 788,"100,0",183 42• 622,"100,0",1,mistral_table_plus_pdf_text_layout,no
+DEMAIS MUNICIPIOS,9 614,"21,9",344 281,"30,7",5 189 351,"37,8",,,1,mistral_table_partial,yes
+PARANÁ,REGIÃO METROPOLITANA - CURITIBA 12 515,"100,0",257 262,"100,0",3 069 629,"100,0",,,1,mistral_table_partial,yes
+DEMAIS MUNICIPIOS,3 102,"24,8",101 434,"39,4",1 537 092,"50,1",,,1,mistral_table_partial,yes
+RIO GRANDE DO SUL,REGIÃO METROPOLITANA - PORTO ALEGRE 20 988,"100,0",554 203,"100,0",7 125 904,"100,0",81 901 681,"100,0",1,mistral_table_plus_pdf_text_layout,no
+REGIÃO METROPOLITANA - PORTO ALEGRE,6 512,"31,0",243 847,"43,8",3 652 359,"51,3",,,1,mistral_table_partial,yes

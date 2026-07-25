@@ -1,0 +1,73 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/banespa_1960.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 167983
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "# BANCO DO ESTADO DE SÃO PAULO S. A.\n\n(AUTORIZADO A FUNCIONAR POR FÓRÇA DOS DEC. FEDERAIS N.os 17.981 de 12-11-1927 e 39.823 de 21-8-1956)\n\nEDIFÍCIO - SEDE: PRAÇA ANTÔNIO PRADO N.º 6 — SÃO PAULO\n\nBALANCETE EM 31 DE JANEIRO DE 1961 — Comp reendendo as operações da Matriz e das Agências de\n\n[tbl-0.md](tbl-0.md)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-0.md",
+            "content": "|  Adamantina | Bragança Paulista | Itu | Palmital | Santa Cruz do Rio Pardo  |\n| --- | --- | --- | --- | --- |\n|  Aerop. de Congonhas (Cap.) | Brás (Capital) | Ituverava | Penápolis | Santo Anastácio  |\n|  Amparo | Brasília (DF.) | Jaboticabal | Pinhal | Santos  |\n|  Anápolis (Goiás) | Caçapava | Jau | Piracicaba | São Bernardo do Campo  |\n|  Andradina | Campinas | Jundiaí | Pirajuí | São Carlos  |\n|  Aracatuba | C. Grande (Mato Grosso) | Lençois Paulista | Pirassununga | São João da Boa Vista  |\n|  Araraquara | Campos do Jordão | Limeira | Pompéia | São Joaquim da Barra  |\n|  Araras | Casa Branca | Lins | P. Aleare (R. G. do Sul) | São José do Rio Pardo  |\n|  Atibaia | Catanduva | Lucélia | Presidente Prudente | São José do Rio Prémio  |\n|  Avaré | Dracena | Marília | Presidente Venceslau | São Luís (Capital)  |\n|  Barretos | Franca | Mirassol | Quatá | São Simão  |\n|  Batatais | Galia | Moqi Mirim | Rancharia | Sorocaba  |\n|  Bauru | Goiânia (Goiás) | Natal (R. G. do Norte) | Registro | Tanabi  |\n|  Bebedouro | Guaratinguetá | Novo Horizonte | Ribeirão Prémio | Taubaté  |\n|  Biriqui | Ibitinga | Olímpia | Rio Claro | Tietê  |\n|  Botucatu | Itapetininga | Ourinhos | Rio de Janeiro (GB.) | Tupã  |\n|   | Itapeva |  |  | Uberlândia (Minas Gerais)  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 511,
+          "width": 1241
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 167983
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "# BANCO DO ESTADO DE SÃO PAULO S. A.\n\n(AUTORIZADO A FUNCIONAR POR FÓRÇA DOS DEC. FEDERAIS N.os 17.981 de 12-11-1927 e 39.823 de 21-8-1956)\n\nEDIFÍCIO - SEDE: PRAÇA ANTÔNIO PRADO N.º 6 — SÃO PAULO\n\nBALANCETE EM 31 DE JANEIRO DE 1961 — Comp reendendo as operações da Matriz e das Agências de\n\n[tbl-0.md](tbl-0.md)",
+      "lines": [
+        "# BANCO DO ESTADO DE SÃO PAULO S. A.",
+        "(AUTORIZADO A FUNCIONAR POR FÓRÇA DOS DEC. FEDERAIS N.os 17.981 de 12-11-1927 e 39.823 de 21-8-1956)",
+        "EDIFÍCIO - SEDE: PRAÇA ANTÔNIO PRADO N.º 6 — SÃO PAULO",
+        "BALANCETE EM 31 DE JANEIRO DE 1961 — Comp reendendo as operações da Matriz e das Agências de",
+        "[tbl-0.md](tbl-0.md)"
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 511,
+        "width": 1241
+      },
+      "confidence_scores": null,
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Adamantina | Bragança Paulista | Itu | Palmital | Santa Cruz do Rio Pardo  |\n| --- | --- | --- | --- | --- |\n|  Aerop. de Congonhas (Cap.) | Brás (Capital) | Ituverava | Penápolis | Santo Anastácio  |\n|  Amparo | Brasília (DF.) | Jaboticabal | Pinhal | Santos  |\n|  Anápolis (Goiás) | Caçapava | Jau | Piracicaba | São Bernardo do Campo  |\n|  Andradina | Campinas | Jundiaí | Pirajuí | São Carlos  |\n|  Aracatuba | C. Grande (Mato Grosso) | Lençois Paulista | Pirassununga | São João da Boa Vista  |\n|  Araraquara | Campos do Jordão | Limeira | Pompéia | São Joaquim da Barra  |\n|  Araras | Casa Branca | Lins | P. Aleare (R. G. do Sul) | São José do Rio Pardo  |\n|  Atibaia | Catanduva | Lucélia | Presidente Prudente | São José do Rio Prémio  |\n|  Avaré | Dracena | Marília | Presidente Venceslau | São Luís (Capital)  |\n|  Barretos | Franca | Mirassol | Quatá | São Simão  |\n|  Batatais | Galia | Moqi Mirim | Rancharia | Sorocaba  |\n|  Bauru | Goiânia (Goiás) | Natal (R. G. do Norte) | Registro | Tanabi  |\n|  Bebedouro | Guaratinguetá | Novo Horizonte | Ribeirão Prémio | Taubaté  |\n|  Biriqui | Ibitinga | Olímpia | Rio Claro | Tietê  |\n|  Botucatu | Itapetininga | Ourinhos | Rio de Janeiro (GB.) | Tupã  |\n|   | Itapeva |  |  | Uberlândia (Minas Gerais)  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 3.054,
+  "remote_file_id": null
+}

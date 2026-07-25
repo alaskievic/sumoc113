@@ -1,0 +1,101 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+DS ES ES SD ES RS E SE RE REDE DE ES E E RR
+2- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO INDUSTRIAL DE 1980 E 1985
+CEFSRSRARESSRKASREREEACEACLSEESRACESERESSRACEASERELELESCERSRERAREEEERERERREEEEEASESEARCERCEESREEASREA SERRARIA
+= * *
+: x ” CENSO DE 1980 x
+x * *
+a EERICARSSAASCECCERECAESESSCRELCERAEESEASAE CESSAR RAM
+NUM, + a x PESSOAL OCUPADO = *
+* * * EM 31-12-1980 Ed ANO DE 1980 <
+s x z * *
+DE + MUNICTIPIOS, CLASSES * PRRECARECEASECASALSKAIEASESLELLALAS MASC SEIAETEEC EEE CESTA
+x x NUMERO + * * x * d
+, E z x * * * * VALOR DA :
+OR- + *DE ESTA-+ * x SALARIOS * VALOR * . ..*
+. GENEROS DA INDUSTRIA * * x < RETIRADAS + BRUTO DA *TRANSFORMAÇÃO *
+* a BELECI]-= * LIGADO A * E OUTRAS * PRODUÇÃO * *
+DEM = * * TOTAL * .. * REMUNERAÇÕES * INDUSTRIAL =» INDUSTRIAL =
+* * MENTOS = * PRODUÇÃO «+ , * *
+* x * * ERRESXEARLEERAECSSESSEERSAREEERAE ESTREAR
+* * x * a . *
+x * * x * (MIL CRUZEIROS) x
+: * * * x *
+ASPSRSARCALARESELERACCRERLEKSEACESESLESESRAEESRERSARESSRCESSEERERRESACEEERSERERS CEEE SERRRENLAEREEEREASEECERE ER ECRCESECETRRR AA
+1 BRASIL... sc clica rara rrra ca rrracrirar, 226 306 5 720 006 - 4 196 989 1 041 216 082 10 204 222 502 4 307 628 522
+£ EXTRATIVA MINERAL,....crcccrscessacaeraca errar 4 837 110 044 72 463 26 849 370 208 0B8 815 147 B34 407
+3 TRANSFORMAÇÃO, .....ccsccccescrsererrrertrevoa 220 788 5 562 241 4 0583 604 996 691 627 9 9656 396 527 4 133 054 310
+4 NAS METALICOS.,,....ccscssrestrrsa sro rarve ras 35 501 444 372 323 645 - 54 725 509 425 494 952 233 E50 607
+5 METALURGICA......iicciss sacar 18 948 641 545 471 738 132 735 B95 1 396 550 294 480 2895 545
+6 MECANICA. ossada centrar star ras 12 412 602 453 474 575 15€ 452 359 762 640 805 4198 766 672
+7 MATERIAL ELETRICO... ..ccrcccccslicccarr cer ereaas a 658 297 376 218 147 66 5872 713 542 665 099 288 072 959
+8 TRANSPORTE... ..cccrrrrre crer rare r area a 526 344 750 250 189 85 039 736 776 469 6983 307 868 236
+9 MADEIRA... ..scc css caravana rasa ease reversa 20 873 274 247 208 840 26 589 318 201 203 067 +08 703 607
+10 MOBILIARIO...sccccccscrrrccre rare recria varas 13 750 186 686 140 585 zo 939 585 145 723 460 73 500 928
+11 PAPEL E PAPELÃO, Lo ciccccsercra eras re rrra srta 2 151 13C 016 81 562 24 836 128 264 220 323 114 495 088
+12 BORRACHA. ,....cccssccrss rrenan sa cenas sra + 518 64 765 4e 942 13 686 227 149 210 017 51 953 533
+12 COUROS E PELES.....ccccccscarascreucaresa rena ro 1 509 45 317 36 936 5 878 184 48 600 831 18 567 217
+14 QUIMICA. cecssssacas raca rar rua ra ssa sara sad á T7é 222 118 121 1298 Bo 844 941 1 766 457 710 601 354 685
+15 FARMACEUTICA,.,....ccrr crer rare vermes 1122 54 426 26 Bia 16 691 111 107 267 595 66 020 195
+16 PERFUMARIA. ,..cecicecace renan crer carcrrr ecra aos 1113 36 239 20 271 8 352 570 B4 004 485 39 280 355
+17 MATS. PLASTICAS, ..csscssrrcrasare rare rrra ao 3 147 135 681 102 873 21 S26 260 195 638 919 s4 709 889
+18 TEXTIL, sciences renina r entar raras ras era 7477 417 750 348 224 5B 695 563 E34 946 815 257 838 BES3
+19 VESTUARIO.....scccss crie rs rar rerca ra ruas 20 571 as2 863 410 530 48 172 OBO 377 BOZ 507 195 750 623
+20 ALIMENTARES, cessar rar enarec arrasa sas 46 B5Z 724 213 290 214 85 311 627 1 580 385 683 478 457 327
+21 BEBIDAS........iicccscriirccer sera screen errors 3 216 77 021 46 082 14 218 331 112 006 572 55 859 135
+22 FUMO. ..cccccs rece rrerare rn ra rare re rrarraa 560 29 527 21 772 7 006 654 5S 696 294 31 452 531
+23 GRAFICA... .ccsccsscsssa carrera mara rr rena raca s 081 169 883 101 4297 34 415 149 156 882 437 103 B91 041
+24 DIVERSAS.....cccteccrcrr cre ce sr caderas rraa sos 6 518 170 sas 128 1987 z9 o50 685 176 978 866 109 864 243
+25 REGIÃO NORDESTE... ..csissscasestararacercenaasao 37 214 597 144 , 434 564 71 380 199 808 446 858 317 112 315
+25 EXTRATIVA MINERAL... crscccrsscerccrerccarrera ra 799 22 326 13 120 5 305 795 10 283 516 6 294 864
+27 TRANSFORMAÇÃO. ..,.ccccscesccerararsra criar rera a 36 362 573 038 418 825 65 612 892 797 286 345 310 073 936
+28 NÃO METALICOS....crccrrrcercrsre raras arrasa 1C 418 8a 011 60 819 6 352 431 61 323 602 33 437 956
+28 METALURGICA,..,..cccceccccrccercca carcereiro 1 583 30 765 21 176 4 382 682 61 471 712 1B 544 896
+30 MECANICA. ,.ccscreeaa rare rena recria corona araras 671 28 792 24 521 5 771 862 23 460 276 15 225 704
+31 MATERIAL ELETRICO... .cccccccctracerercrca rara 253 10 174 7 382 1 775 495 16 655 807 8 433 267
+32 TRANSPORTE.....cccresires rar rara rena rarre res 3.3 6 523 4 B15 878 847 4 283 008 2 550 777
+33 MADEIRA. , crcercera sa rer crer rar recuse rare iss 3 284 25 402 18 333 1 7B1 768 11 530 203 6 443 274
+34 MOBILIARIO.....ccrisercaceccarra core t arcar 1 916 16 250 11 454 + 290 899 B 463 157 4 496 704
+35 PAPEL E PAPELÃO... ..ccrencrracaerera rente caraca 162 7 774 5 454 892 460 12 840 557 4 B92 512
+36 BORRACHA. ..,iccerccr rosa era sorrir rrrerrrra rr» 147 3 864 2 800 511 887 5 352 168 2 055 475
+37 COUROS E PELES,......cccccccicccccecarsa errar 292 4 343 3 136 205 112 4 O70 589 1 715 100
+38 QUIMICA...ceccsccrcccrenararrarre careca sacras 599 30 088 18 689 10 427 643 240 112 618 67 971 604
+39 FARMACEUTICA.....ccccicercccerena rec rararcraa 166 3 488 1 435 907 997 1 934 012 1 085 170
+Elo) PERFUMARIA. ....cccrerscrerrar rrenan re rrr ars 220 3 339 2 087 423 339 6 505 020 2 700 889
+41 MATS. PLASTICAS....cccccciccccrrrecerrasa ruas 190 es 960 7 242 1 140 855 13 400 113 E 568 468
+a2 TEXTIL... coesa cerca ear remessa nr 1 343 62 887 50 737 6 328 485 82 721 956 35 828 755
+43 VESTUARIO... .csccererere err rente ra rer rs 2 033 as 621 42 136 3 252 508 31 026 317 17 008 111
+Er ALIMENTARES.,......cccrsrcrurarrrencersrecereras 10 636 150 833 106 383 12 474 402 164 008 206 60 329 855
+as BEBIDAS. .,.cccicccssercc eras erre rara seres rra o 494 12 971 8 061 1 778 840 16 285 077 7 472 Saa
+46 FUMO. crie rrenan s errar rara rec rra cerva s 222 9 462 7 916 974 173 7 101 600 s 502 209
+47 GRAFICA... cesar ease rs re nrr a pena va vara va ass 8s2 14 288 8 893 1 850 168 8 059 213 5 601 003
+as DIVERSAS.....ccccicercar erra cera terrace raras 498 8 os2 6 246 1 p99 839 6 E6TQ0 134 4 208 632
+49 MARANHÃO. ..csssscerrasserr errar cer araras na serasa 3 328 26 052 17 435 1 816 327 21 514 437 8 984 B55
+50 EXTRATIVA MINERAL... .rcrcccrrrrrereraracerrrers 85 1 262 1 083 43 279 9t 713 73 262
+51 TRANSFORMAÇÃO. ....cccrerererrrcarnesaserarerrass 3 240 24 719 16 281 1 764 711 21 407 342 8 899 577
+52 NÃO METALICOS.......ccccecccicicarera cera recrra 704 4 421 2 832 193 883 + 842 688 1 118 374
+53 METALURGICA.. <.....l crase ra araras 110 625 408 47 363 182 7997 B8 300
+54 MECANICA... ccccrrrararre re va cara ra era narra a 23 497 455 62 043 270 202 108 505
+55 MATERIAL ELETRICO... .ccticrrccrera rara rca re sas 1 (a) ta) (X) (A) (X)
+56 TRANSPORTE.....ccccccscrrrareraa arena rr eras 8 61 so 5 B45 33 909 29 219
+5? MADEIRA.....ccerececraca crua rerera re rastrear 5253 6 003 4 569 410 802 3 456 857 1 979 257
+58 MOBILIARIO...,..ccccicssscrarerercaserrr caca 136 797 525 60 711 328 297 178 156
+59 PAPEL E PAPELÃO... .ccccrcarrrerteerarrarraa aaa 8 839 621 72 801 2 015 890 GTE 464
+so BORRACHA, ..crcrestscea rn err raras rr era vira rra a 3 38 28 1725 24 072 8 062
+61 COUROS E PELES.....ccrcccreriserica cera vem 8 236 198 165 809 141 684 81 B14
+62 QUIMICA,...cccsrrcrar rare rear rarrr asa sra 7 183 107 21 872 84 sas 20 513
+63 FARMACEUTICA.......ccrcrrrccesecrrrr rara serasa 5 374 276 40 404 171 353 47 210
+64 PERFUMARIA... .,.crsceearrre marra rr rec srren ro 36 434 216 65 409 984 245 278 179
+Es MATS, PLASTICAS, ..ccccciccrsccraraseraarreraasa z tD) tD) (XxX) (E) (X5
+66 TEXTIL...ccssccreesrraresaar serraria rrarr arara 20 215 168 11 262 182 781 8s 828
+67 VESTUARIO... cs. ccscrccra raras seres rr eras 79 451 327 22 895 103 032 59 291
+68 ALIMENTARES......sscrcrirecia rar rerrra sr recado 1 352 7755 4 462 542 O75 10 462 608 3 371 865
+69 BEBIDAS......ccrrscrersa ra crrra serras varas 209 762 290 96 236 612 897 431 954
+70 FUMO.....cccccccrscecrar sanar ro re rr rara 10 94 57 18 731 39 300. 35 217
+KA GRAFICA.,...crrlccecrcerrrnar ec arrra carrera das 61 771 asa 63 415 395 841 276 at2
+72 DIVERSAS..,,.ccsccrrna carr dr read e rrca cera cics 24 135 72 7 505 37 506 2a 626
+73 SÃO LUIS,...ccsccrcssrarrerraasarararereresirsas 361 6 033 3 838 600 475 5 625 662 2 581 914
+74 EXTRATIVA MINERAL, .ccecrcrarerrerarercrarsra so z tc) ta) tXx) ta) x)
+75 TRANSFORMAÇÃO.....ccesccrccrceraerrse errors 358 (F) (F) AS) (6) (X)
+75 NÃO METALICOS......crciccrrrreerrarcrerrrra rar 28 817 683 49 324 225 087 159 405
+6

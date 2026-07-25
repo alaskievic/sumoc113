@@ -1,0 +1,83 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bnordeste.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 119094
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "114\n20 DE FEVEREIRO DE 1991\n\n![img-0.jpeg](img-0.jpeg)\n\n# BANCO DO NORDESTE DO BRASIL S/A.\n\n## MATRIZ: FORTALEZA (CE)\n\nFILIAIS: Teresina (PI) — Natal (RN) — João Pessoa (PB) — Recife (PE) — Maceió (AL) — Aracujú (SE) — Salvador (BA) — Montes Claros (MG).\n\nAGÊNCIAS: Cicero Dantas (BA) — Itaporanga (PB) — Campina Grande (PB) — Juazeiro do Norte (CE) — Mossoró (RN) — Parnaíba (PI) — Pau dos Ferros (RN) — Surubim (PE) — Iguatú (CE) — Arapiraca (AL) — Oeiras (PI) — Garará (SE) — São Benedito (CE) — Limoeiro do Norte (CE) — Novas Russas (CE) — Anqicos (RN) — Petrolina (PE) — Simão Dias (BE) — Audarai (BA) — Garanhuns (PE) — Feira de Santana (BA) — Sobral (CE)\n\nESCRITÓRIOS: Sousa (PB) — Mata Grande (AL).\n\nCORRESPONDENTES — SISTEMA ARTICULADO BNB — ANCAR — CONSTELAÇÃO DE BATURITÉ: Baturité (CE) — Maranguape (CE) — Quixadá (CE) — Redenção (CE) — Pacajús (CE) — CONSTELAÇÃO DE SANTA CRUZ: Santa Cruz (RN) — Currais Novos (RN) — São Tomé (RN) — São Paulo do Potenqi (RN) — Nova Cruz (RN) — CONSTELAÇÃO DE GUARABIRA: Guarabira (PB) — Bananeiras (PB) — Caicara (PB) — Serraria (PB) — Alagoa Grande (PB) — CONSTELAÇÃO DE GARANHUNS: Garanhuns (PE) — Bom Conselho (PE) — Canhotinho (PE) — Correntes (PE) — São Bento do Una (PE) — Palmeira dos Índios (AL) — CONSTELAÇÃO DE SERRINHA: Serrinha (BA) — Tucano (BA) — Conceição do Coité (BA) — Santo Estevão (BA) — São Gonçalo (BA) — CONSTELAÇÃO DE ALAGOINHAS: Alagoinhas (BA) — Irará (BA) — Inhambupe (BA) — Olindina (BA) — Coração de Maria (BA).",
+        "images": [
+          {
+            "id": "img-0.jpeg",
+            "top_left_x": 65,
+            "top_left_y": 35,
+            "bottom_right_x": 229,
+            "bottom_right_y": 196,
+            "image_base64": null,
+            "image_annotation": null
+          }
+        ],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 493,
+          "width": 1292
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 119094
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "114\n20 DE FEVEREIRO DE 1991\n\n![img-0.jpeg](img-0.jpeg)\n\n# BANCO DO NORDESTE DO BRASIL S/A.\n\n## MATRIZ: FORTALEZA (CE)\n\nFILIAIS: Teresina (PI) — Natal (RN) — João Pessoa (PB) — Recife (PE) — Maceió (AL) — Aracujú (SE) — Salvador (BA) — Montes Claros (MG).\n\nAGÊNCIAS: Cicero Dantas (BA) — Itaporanga (PB) — Campina Grande (PB) — Juazeiro do Norte (CE) — Mossoró (RN) — Parnaíba (PI) — Pau dos Ferros (RN) — Surubim (PE) — Iguatú (CE) — Arapiraca (AL) — Oeiras (PI) — Garará (SE) — São Benedito (CE) — Limoeiro do Norte (CE) — Novas Russas (CE) — Anqicos (RN) — Petrolina (PE) — Simão Dias (BE) — Audarai (BA) — Garanhuns (PE) — Feira de Santana (BA) — Sobral (CE)\n\nESCRITÓRIOS: Sousa (PB) — Mata Grande (AL).\n\nCORRESPONDENTES — SISTEMA ARTICULADO BNB — ANCAR — CONSTELAÇÃO DE BATURITÉ: Baturité (CE) — Maranguape (CE) — Quixadá (CE) — Redenção (CE) — Pacajús (CE) — CONSTELAÇÃO DE SANTA CRUZ: Santa Cruz (RN) — Currais Novos (RN) — São Tomé (RN) — São Paulo do Potenqi (RN) — Nova Cruz (RN) — CONSTELAÇÃO DE GUARABIRA: Guarabira (PB) — Bananeiras (PB) — Caicara (PB) — Serraria (PB) — Alagoa Grande (PB) — CONSTELAÇÃO DE GARANHUNS: Garanhuns (PE) — Bom Conselho (PE) — Canhotinho (PE) — Correntes (PE) — São Bento do Una (PE) — Palmeira dos Índios (AL) — CONSTELAÇÃO DE SERRINHA: Serrinha (BA) — Tucano (BA) — Conceição do Coité (BA) — Santo Estevão (BA) — São Gonçalo (BA) — CONSTELAÇÃO DE ALAGOINHAS: Alagoinhas (BA) — Irará (BA) — Inhambupe (BA) — Olindina (BA) — Coração de Maria (BA).",
+      "lines": [
+        "114",
+        "20 DE FEVEREIRO DE 1991",
+        "![img-0.jpeg](img-0.jpeg)",
+        "# BANCO DO NORDESTE DO BRASIL S/A.",
+        "## MATRIZ: FORTALEZA (CE)",
+        "FILIAIS: Teresina (PI) — Natal (RN) — João Pessoa (PB) — Recife (PE) — Maceió (AL) — Aracujú (SE) — Salvador (BA) — Montes Claros (MG).",
+        "AGÊNCIAS: Cicero Dantas (BA) — Itaporanga (PB) — Campina Grande (PB) — Juazeiro do Norte (CE) — Mossoró (RN) — Parnaíba (PI) — Pau dos Ferros (RN) — Surubim (PE) — Iguatú (CE) — Arapiraca (AL) — Oeiras (PI) — Garará (SE) — São Benedito (CE) — Limoeiro do Norte (CE) — Novas Russas (CE) — Anqicos (RN) — Petrolina (PE) — Simão Dias (BE) — Audarai (BA) — Garanhuns (PE) — Feira de Santana (BA) — Sobral (CE)",
+        "ESCRITÓRIOS: Sousa (PB) — Mata Grande (AL).",
+        "CORRESPONDENTES — SISTEMA ARTICULADO BNB — ANCAR — CONSTELAÇÃO DE BATURITÉ: Baturité (CE) — Maranguape (CE) — Quixadá (CE) — Redenção (CE) — Pacajús (CE) — CONSTELAÇÃO DE SANTA CRUZ: Santa Cruz (RN) — Currais Novos (RN) — São Tomé (RN) — São Paulo do Potenqi (RN) — Nova Cruz (RN) — CONSTELAÇÃO DE GUARABIRA: Guarabira (PB) — Bananeiras (PB) — Caicara (PB) — Serraria (PB) — Alagoa Grande (PB) — CONSTELAÇÃO DE GARANHUNS: Garanhuns (PE) — Bom Conselho (PE) — Canhotinho (PE) — Correntes (PE) — São Bento do Una (PE) — Palmeira dos Índios (AL) — CONSTELAÇÃO DE SERRINHA: Serrinha (BA) — Tucano (BA) — Conceição do Coité (BA) — Santo Estevão (BA) — São Gonçalo (BA) — CONSTELAÇÃO DE ALAGOINHAS: Alagoinhas (BA) — Irará (BA) — Inhambupe (BA) — Olindina (BA) — Coração de Maria (BA)."
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 493,
+        "width": 1292
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 65,
+          "top_left_y": 35,
+          "bottom_right_x": 229,
+          "bottom_right_y": 196,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ]
+    }
+  ],
+  "elapsed_seconds": 3.109,
+  "remote_file_id": null
+}

@@ -1,0 +1,650 @@
+{
+  "source_pdf": "/Users/alaskievic/Desktop/missing_mg_1975.pdf",
+  "table": "Industrial Census 1975 - Table 2",
+  "row_count": 966,
+  "order_range": [
+    3309,
+    4274
+  ],
+  "order_sequence_complete": true,
+  "missing_left_orders": [],
+  "missing_right_orders_with_supplied_page": [],
+  "unpaired_right_orders": [],
+  "unmatched_entry_orders": [],
+  "notes": [
+    {
+      "page": 2,
+      "order": 3311,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 3312,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 3313,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 3318,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 3319,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 3324,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 3325,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3324
+    },
+    {
+      "page": 2,
+      "order": 3326,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3325
+    },
+    {
+      "page": 2,
+      "order": 3327,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3326
+    },
+    {
+      "page": 2,
+      "order": 3328,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3327
+    },
+    {
+      "page": 2,
+      "order": 3329,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3328
+    },
+    {
+      "page": 2,
+      "order": 3330,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3329
+    },
+    {
+      "page": 2,
+      "order": 3331,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 2,
+      "order": 3332,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3330
+    },
+    {
+      "page": 2,
+      "order": 3333,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3332
+    },
+    {
+      "page": 2,
+      "order": 3334,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3333
+    },
+    {
+      "page": 2,
+      "order": 3335,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3334
+    },
+    {
+      "page": 2,
+      "order": 3336,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3335
+    },
+    {
+      "page": 2,
+      "order": 3337,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3336
+    },
+    {
+      "page": 2,
+      "order": 3338,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3337
+    },
+    {
+      "page": 2,
+      "order": 3339,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3338
+    },
+    {
+      "page": 2,
+      "order": 3340,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3339
+    },
+    {
+      "page": 2,
+      "order": 3341,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3340
+    },
+    {
+      "page": 2,
+      "order": 3342,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3341
+    },
+    {
+      "page": 2,
+      "order": 3343,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3342
+    },
+    {
+      "page": 2,
+      "order": 3344,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3343
+    },
+    {
+      "page": 2,
+      "order": 3345,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3344
+    },
+    {
+      "page": 2,
+      "order": 3346,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3345
+    },
+    {
+      "page": 2,
+      "order": 3347,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3346
+    },
+    {
+      "page": 2,
+      "order": 3348,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3347
+    },
+    {
+      "page": 2,
+      "order": 3349,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3348
+    },
+    {
+      "page": 2,
+      "order": 3350,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3349
+    },
+    {
+      "page": 2,
+      "order": 3351,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3350
+    },
+    {
+      "page": 2,
+      "order": 3352,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3351
+    },
+    {
+      "page": 2,
+      "order": 3353,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3352
+    },
+    {
+      "page": 7,
+      "order": 3455,
+      "issue": "wrapped_left_row_repaired"
+    },
+    {
+      "page": 7,
+      "order": 3462,
+      "issue": "wrapped_left_row_repaired"
+    },
+    {
+      "page": 7,
+      "order": 3474,
+      "issue": "wrapped_left_row_repaired"
+    },
+    {
+      "page": 7,
+      "order": 3489,
+      "issue": "wrapped_left_row_repaired"
+    },
+    {
+      "page": 7,
+      "order": 3496,
+      "issue": "wrapped_left_row_repaired"
+    },
+    {
+      "page": 8,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 46,
+      "found": 44
+    },
+    {
+      "page": 8,
+      "order": 3451,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 8,
+      "order": 3452,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": 3451
+    },
+    {
+      "page": 8,
+      "order": 3484,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 8,
+      "order": 3485,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 8,
+      "order": 3451,
+      "issue": "damaged_right_order_restored_from_scan"
+    },
+    {
+      "page": 8,
+      "order": 3452,
+      "issue": "damaged_right_order_restored_from_scan"
+    },
+    {
+      "page": 12,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 46,
+      "found": 45
+    },
+    {
+      "page": 12,
+      "order": 3561,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 18,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 52,
+      "found": 51
+    },
+    {
+      "page": 18,
+      "order": 3720,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 20,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 47,
+      "found": 46
+    },
+    {
+      "page": 20,
+      "order": 3780,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 24,
+      "order": 3825,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 24,
+      "order": 3829,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3905,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3906,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3907,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": 3906
+    },
+    {
+      "page": 28,
+      "order": 3908,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3910,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3911,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3912,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3913,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3914,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3916,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3917,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3918,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3919,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3921,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3922,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3923,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3925,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3927,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3930,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3934,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3935,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3938,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3939,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3941,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3946,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3947,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3950,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3951,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 28,
+      "order": 3952,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 30,
+      "order": 3953,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 30,
+      "order": 3965,
+      "issue": "right_order_sequence_repaired",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 34,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 53,
+      "found": 52
+    },
+    {
+      "page": 34,
+      "order": 4100,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 36,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 61,
+      "found": 60
+    },
+    {
+      "page": 36,
+      "order": 4124,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 36,
+      "order": 4130,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 36,
+      "order": 4143,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 36,
+      "order": 4147,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 36,
+      "order": 4148,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 36,
+      "order": 4157,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 36,
+      "order": 4158,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 36,
+      "order": 4165,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 36,
+      "order": 4167,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 36,
+      "order": 4168,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 36,
+      "order": 4171,
+      "issue": "right_order_anchor_aligned",
+      "printed_ocr_order": null
+    },
+    {
+      "page": 36,
+      "order": 4170,
+      "issue": "damaged_right_order_restored_from_scan"
+    },
+    {
+      "page": 38,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 54,
+      "found": 49
+    },
+    {
+      "page": 38,
+      "order": 4191,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 38,
+      "order": 4184,
+      "issue": "damaged_right_order_restored_from_scan"
+    },
+    {
+      "page": 38,
+      "order": 4225,
+      "issue": "damaged_right_order_restored_from_scan"
+    },
+    {
+      "page": 38,
+      "order": 4211,
+      "issue": "damaged_right_order_restored_from_scan"
+    },
+    {
+      "page": 38,
+      "order": 4192,
+      "issue": "damaged_right_order_restored_from_scan"
+    },
+    {
+      "page": 40,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 49,
+      "found": 48
+    },
+    {
+      "page": 40,
+      "order": 4264,
+      "issue": "omitted_all_suppressed_row_restored"
+    }
+  ]
+}

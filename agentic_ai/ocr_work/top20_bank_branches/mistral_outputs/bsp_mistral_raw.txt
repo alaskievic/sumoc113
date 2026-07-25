@@ -1,0 +1,8 @@
+=== Page 1 ===
+# BANCO DE SÃO PAULO S. A.
+(Fundado em 1889)
+SEDE — RUA 15 DE NOVEMBRO, 347 — (SÃO PAULO)
+CAPITAL ... Cr$ 400.000.000,00 FUNDO DE RESERVA ... Cr$ 80.000.000,00
+RUNDO DE RESERVA ... Cr$ 330.000.000,00
+## AGÊNCIAS
+[tbl-0.md](tbl-0.md)

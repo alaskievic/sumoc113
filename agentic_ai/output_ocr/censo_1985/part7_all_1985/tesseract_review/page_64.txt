@@ -1,0 +1,85 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS =
+FREFXESSLSLLSESEKSERKAAEETERANEIACELSSECCASESALEKERAEATERTERRCCERESAREESLSERAISESCESKLCEASEERETEEESESRREA REA EREAESE CASE
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DG CENSO DOS SERVIÇOS DE 1980 E 1985
+ERESAKESESREACEXLEESESEELACESAREE ESTELAR ESSEEAESEERAEANRESEESERECECREDECA EEE ERES ESEC CREEREEAEEEEE
+* * *
+, * CENSO DE 1960 *
+x = *
+* CESALESEEALACICSERCRLEECEREEEELILECEEECESESEEEESEEE CEEE ERA
+NUM. * * * PESSOAL OCUPADO * *
+* * * x ANO DE 1980 x
+bi = * EM 31-12-1980 x *
+DE = MUNICIPIOS * CRSEREERSERCESREEEALESEEREREEEESEREESSEEEEECE
+a * NUMERO += a ” * *
+, * * * LIGADO A = SALARIOS, = ,
+OR- + * DE x . * * RETIRADAS +“ TOTAL DA Ed
+x CLASSES E GENEROS DE SERVICOS * a * ATIVIDADE * E OUTRAS. + *
+” * ESTABELE-* * a REMUNERAÇÕES* RECEITA ,
+DEM 2 . * TOTAL x DA * * *
+x * CIMENTOS « * lo x *
++ ” * * PRESTAÇÃO sEMEEEXEECAREEACSARA CEC A,
+* + * = * a
+* . * *DE SERVIÇOS (MIL CRUZEIROS) *
+* * . LA s *
+CIZITIIIAALSSI A IITIITTIAISIIIIIIIIIIIIIIATIIIIITTIISEITITITTTIITITITITTITITTSITITTT]
+285 AUXILIARES DOS TRANSPORTES......ccccrerecareerecirereros 213 1 BI6 1 140 220 945 684 311
+294 AUX. CONSTRUCAG, OBRAS, GEODESIA, ETC......icccccscscos 105 789 523 114 516 363 047
+205 Aux. DE LIMPEZA, HIGIENIZAÇÃO, ETC.....ccccscccrecirerao 66 4 745 4 s76 278 OSE 774 344
+296 AUX. PRESTADOS A EMPRESAS E PESSOAS.......cccccrcrcsrros 1072 5 906 4 244 609 541 1 457 751
+297 AUXILIARES DA SAUDE... .cccccisccerserercraerere recreio 204 1 142 681 121 964 447 235
+298 COMPRA, VENDA, ADMINISTRAÇÃO BENS IMOVEIS........c.crccos 345 2 222 922 259 507 1 470 808
+295 COMPRA E VENDA DE BENS IMOVEIS......cccrccrerasacaraeros 295 1 749 627 202 531 1 272 243
+300 ADMINISTRAÇÃO, LOCAÇÃO, ETC......cscicssssirerereriarro so 473 295 56 576 198 565
+301 GOLANIA..cccccscercicurr errar rena resina rer errar 3 426 24 STE 16 754 - 2 644 867 8 075 384
+302 ALOJAMENTO E ALIMENTAÇÃO......cccrccscscrrcrrrrcasasreres 1347 a 695 2 455 290 236 1 721 416
+303 ALOJAMENTO. cc ccscs rece rorr narra nana rr a rar 97 855 610 60 748 254 805
+304 ALIMENTAÇÃO... ecc screen rsrs ira erraereras 1 250 3 840 1 845 229 aB6 1 466 611
+305 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO.......cccsccrcrecasers 716 3 278 2 238 320 8o8 994 288
+306 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO,......iccsccrcrserros T1E 3 378 2 238 320 808 ea 288
+307 PESSOAIS, DE MIGIENE E ESTETICA PESSOAL..........ccccs. 227 1 001 682 7a 770 293 222
+308 PESSOAIS....ccscrcscranenaarenre caneca narra seen re raro 54 440 332 32 555 193 718
+309 HIGIENE E DE ESTETICA PESSOAL......ccccccisescrsersaraos 173 561 350 42 215 99 504
+a10 RADIODIFUSÃO, TELEVISÃO E DIVERSÕES............ccsccccoos 46 1 175 972 176 292 793 139
+311 RADIODJFUSAC E TELEVISÃO......icsccccccscrerrccererirera 14 787 679 146 121 639 992
+312 DIVERSÕES.......ccccccis carr re ren raras rr raa rs 32 386 293 30 171 153 147
+313 AUXILIARES DIVERSOS.......iscsiccccasssrertanier ceras 879 12 619 Ss 701 1 572 105 a 182 011
+314 AUX. DA AGROPECUARIA E REFLORESTAMENTO.......ccccrrccao 25 1 426 674 483 651 684 619
+315 AUX. COMERCIO, LOCAÇÃO DE BENS E SERVIÇOS............... 127 850 5as 138 063 884 020
+316 AUX. FINANC., SEGUROS E CAPITALIZAÇÃO.....sscccccsircros 16 55 36 6 590 55 266
+317 AUXILIARES DOS TRANSPORTES.......csrcrrrecaarreccrrerros 8s s29 371 121 814 228 920
+318 AUX. CONSTRUCÃO, OBRAS, GEODESIA, ETC.........cccitcctros 57 588 424 82 619 282 501
+318 AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC......cccirececccrccrs 40 a 569 4 439 264 554 748 018
+320 AUX. PRESTADOS A EMPRESAS E PESSDAS.........cccccccraves 423 3 484 2 765 414 684 1 005 672
+321 AUXILIARES DA SAUDE......ccicccsccrscerecaracaerrrareses 102 718 447 8o 130 292 995
+322 COMPRA, VENDA, ADMINISTRAÇÃO BENS IMOVEIS... ....ccrcrctos 201 1 707 706 210 656 1 081 318
+323 COMPRA E VENDA DE BENS IMOVEIS........cccsccrecerenaneos 162 1 318 465 160 792 916 367
+324 ADMINISTRAÇÃO, LOCAÇÃO, ETC.......ccccccccccercrcarrero 39 389 241 as 864 164 951
+325 ANAPOLIS. pi ccccrrcererre serasa nessa renas c rare renas 641 2 694 1 669 200 101 965 249
+32E ALIMENTAÇÃO... ... cos perereraara regue ne rr src nra rara varas 240 592 255 25 317 181 845
+327 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... ..cccccrccrcrereras 148 745 508 65 503 223 914
+328 COMPRA E VENDA DE BENS IMOVEIS........ccccsicsccercrareos 23 106 44 12 272 190 568
+329 DEMAIS GENEROS.......cccccccrerescerere carece cere cares 230 1 251 862 95 009 358 922
+330 ABADIANIA....cccccccrrere rsrs ra narra cre re rena 6 ” 3 416 4 071
+331 ACREUNA.....cicscerira rare ser ee rena acena ser rr veres rar 34 149 7 7 920 58 377
+332 AGUA LIMPA....ccccccrrcrrracrra tre rrr cenas rs rare rasa 5 10 2 260 1 033
+333 ALEXANIA.. cc rss circarr era rare arise rara rra renas e ra 24 101 s8 5 746 29 414
+334 ALOANDIA. crescer cesar na narra cera e rec re nec rasaaera 6 10 4 480 1 605
+335 ALTO PARAISO DE GOIAS.......cccccecscrserenerrererercaass 4 ” 4 404 6 804
+336 ALVORADA DO NORTE......cccccccrcrenrenerararnareraasasera 23 sa 15 3 349 18 285
+337 AMERICANO DO BRASIL,....ccccrcistaecesrrrenaracrereneress - - - - -
+338 AMORINOPOLIS....ccccccrscericerarrerirrero sarro rena renars 2 (B) (A) (x) (a)
+339 ANHANGUERA, ...ccccccesercara ra rara ceras re rasca seara - - - - -
+340 ANICUNS. .ciccrcrr crer rrere narrar err re rare rrrra res m 220 101 12 173 61 283
+341 APARECIDA DE. GOIANIA.......cccciscrcrca erre rena naa res 68 am 301 31 799 101 326
+342 APORE...ccrceserra ca carina sara c racer r ren r rr erra na ss 2 (B) (A) e) (A)
+344 ARAGARÇAS, . secrcrrcerererce serena rare sra rr rare correr 28 73 35 4213 14 813
+345 ARAGOIANIA,..cccecssrrrrrra arara rra rare rena nec ra serra E 19 - 1103 3 833
+346 ARAGUAPAZ... certeira renan rar re rare rar rrrrre re renara - - - - -
+347 ARENOPOLIS......cecccrrre serra cerca na rare re rare nn ca nervo - - - - -
+348 ARUANÃ, e ciscrsrrrsa so ren ta cr rr cana rra raras sacra sra sans ”“ 34 1 1 792 9 -292
+349 AURILANDIA.. cce cererenrerarra rare rca nor tu soneca arara 8 18 5 733 3 553
+350 AVELINOPOLIS.,....csc crer racer cerane renan ra rara cr ear 4 ? - 128 2 075
+351 BARRO ALTO, ...cccccrrrecerearerarenra rena carre sore vars 16 35 12 2 oBOo 8 434
+352. BELA VISTA DE GOIAS......ciccsrsrecarecarerereracerrarero 41 s6 27 4 757 25 171
+353 BOM JARDIM DE GOIAS......ccsccrccesercrceraranneserereres 17 51 27 2 080 9 149
+70

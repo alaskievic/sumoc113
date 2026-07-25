@@ -1,0 +1,64 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bestadors.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 195371
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "BANCO DO ESTADO DO RIO GRANDE DO SUL S. A.\n\nFUNDADO EM 12 DE SETEMBRO DE 1928\n\nCAPITAL ... Cr$ 500.000.000,00 ——— RESERVAS ... Cr$ 265.000.000,00\n\nAutorizado a funcionar por decreto n.º 18.374, de 28 de Agosto de 1928 — Carta Patente n.º 1.262\n\nMatriz: Rua Sete de Setembro n.º 1.109 — PÓRTO ALEGRE — RS.\n\nAgência no RIO DE JANEIRO — GB. — Rua da Alfândega, 21\n\nAgência Metropolitana de COPACABANA — GB. — Rua Santa Clara, 47-A\n\nAgências em SÃO PAULO — SP. — CENTRO: Rua Coronel Xavier de Toledo, 83 — Urbana MERCADO: Rua Senador Queiroz, 619 e 625\n\nAgências urbanas em PÓRTO ALEGRE: Azenha, Bonfim, Caminho do Meio, Cidade Baixa, Cristo Redentor, Floresta, Glória, Menino Deus, Moinhos de Vento, Navegantes, Paternon, Petrópolis, Passo d'Areia, São João, Teresópolis e Tristeza.\n\nDepartamentos no interior Est. do Rio Grande do Sul: Alegrete, Antônio Prado, Arroio Grande, Arroio do Meio, Bagé, Barra do Ribeiro, Bento Gonçalves, Bom Jesus, Caçapava do Sul, Cacequi, Cachoeira do Sul, Camaquã, Canôas, Campo Bom, Carazinho, Carlos Barbosa, Caxias do Sul, Cruz Alta, Dom Pedrito, Encantado Encruzilhada do Sul, Erechim, Esteio, Estréia, Farroupilha, Flóres da Cunha, Fragata (Pelotas), Garibaldi, General Câmara, Getúlio Vargas, Giruá, Gramado, Gravataí, Guaporé, Herval-Sul, Ijuí, Iraí, Itaqui, Jaguarão, Jaguari, Júlio de Castilhos, Lagoa Vermelha, Lajeado, Lavras do Sul, Livramento, Marcelino Ramos, Montenegro, Mussum, Nova Palma, Nova Prata, Novo Humburgo, Osório, Passo Fundo, Pelotas, Pinheiro Machado, Piratini, Quaraí, Restinga Séca, Rio Grande, Rio Pardo, Rosário do Sul, Sananduva, Santa Cruz do Sul, Santa Maria, Santa Rosa, Santa Vitória do Palmar, Santiago, Santo Ângelo, Santo Antônio da Patrulha, São Borja, São Francisco de Assis, São Gabriel, São Jerônimo, São Leopoldo, São Lourenço do Sul, São Luiz Gonzaga, São Pelegrino (Caxias do Sul), São Sepé, Sapiranga, Sarandi, Sobradinho, Soledade, Tapes, Taquara, Taquari, Tôrres, Três Passos, Três Vendas (Pelotas), Tupanciretã, Uruguaiana, Vacaria e Veranópolis.",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 507,
+          "width": 1259
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 195371
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "BANCO DO ESTADO DO RIO GRANDE DO SUL S. A.\n\nFUNDADO EM 12 DE SETEMBRO DE 1928\n\nCAPITAL ... Cr$ 500.000.000,00 ——— RESERVAS ... Cr$ 265.000.000,00\n\nAutorizado a funcionar por decreto n.º 18.374, de 28 de Agosto de 1928 — Carta Patente n.º 1.262\n\nMatriz: Rua Sete de Setembro n.º 1.109 — PÓRTO ALEGRE — RS.\n\nAgência no RIO DE JANEIRO — GB. — Rua da Alfândega, 21\n\nAgência Metropolitana de COPACABANA — GB. — Rua Santa Clara, 47-A\n\nAgências em SÃO PAULO — SP. — CENTRO: Rua Coronel Xavier de Toledo, 83 — Urbana MERCADO: Rua Senador Queiroz, 619 e 625\n\nAgências urbanas em PÓRTO ALEGRE: Azenha, Bonfim, Caminho do Meio, Cidade Baixa, Cristo Redentor, Floresta, Glória, Menino Deus, Moinhos de Vento, Navegantes, Paternon, Petrópolis, Passo d'Areia, São João, Teresópolis e Tristeza.\n\nDepartamentos no interior Est. do Rio Grande do Sul: Alegrete, Antônio Prado, Arroio Grande, Arroio do Meio, Bagé, Barra do Ribeiro, Bento Gonçalves, Bom Jesus, Caçapava do Sul, Cacequi, Cachoeira do Sul, Camaquã, Canôas, Campo Bom, Carazinho, Carlos Barbosa, Caxias do Sul, Cruz Alta, Dom Pedrito, Encantado Encruzilhada do Sul, Erechim, Esteio, Estréia, Farroupilha, Flóres da Cunha, Fragata (Pelotas), Garibaldi, General Câmara, Getúlio Vargas, Giruá, Gramado, Gravataí, Guaporé, Herval-Sul, Ijuí, Iraí, Itaqui, Jaguarão, Jaguari, Júlio de Castilhos, Lagoa Vermelha, Lajeado, Lavras do Sul, Livramento, Marcelino Ramos, Montenegro, Mussum, Nova Palma, Nova Prata, Novo Humburgo, Osório, Passo Fundo, Pelotas, Pinheiro Machado, Piratini, Quaraí, Restinga Séca, Rio Grande, Rio Pardo, Rosário do Sul, Sananduva, Santa Cruz do Sul, Santa Maria, Santa Rosa, Santa Vitória do Palmar, Santiago, Santo Ângelo, Santo Antônio da Patrulha, São Borja, São Francisco de Assis, São Gabriel, São Jerônimo, São Leopoldo, São Lourenço do Sul, São Luiz Gonzaga, São Pelegrino (Caxias do Sul), São Sepé, Sapiranga, Sarandi, Sobradinho, Soledade, Tapes, Taquara, Taquari, Tôrres, Três Passos, Três Vendas (Pelotas), Tupanciretã, Uruguaiana, Vacaria e Veranópolis.",
+      "lines": [
+        "BANCO DO ESTADO DO RIO GRANDE DO SUL S. A.",
+        "FUNDADO EM 12 DE SETEMBRO DE 1928",
+        "CAPITAL ... Cr$ 500.000.000,00 ——— RESERVAS ... Cr$ 265.000.000,00",
+        "Autorizado a funcionar por decreto n.º 18.374, de 28 de Agosto de 1928 — Carta Patente n.º 1.262",
+        "Matriz: Rua Sete de Setembro n.º 1.109 — PÓRTO ALEGRE — RS.",
+        "Agência no RIO DE JANEIRO — GB. — Rua da Alfândega, 21",
+        "Agência Metropolitana de COPACABANA — GB. — Rua Santa Clara, 47-A",
+        "Agências em SÃO PAULO — SP. — CENTRO: Rua Coronel Xavier de Toledo, 83 — Urbana MERCADO: Rua Senador Queiroz, 619 e 625",
+        "Agências urbanas em PÓRTO ALEGRE: Azenha, Bonfim, Caminho do Meio, Cidade Baixa, Cristo Redentor, Floresta, Glória, Menino Deus, Moinhos de Vento, Navegantes, Paternon, Petrópolis, Passo d'Areia, São João, Teresópolis e Tristeza.",
+        "Departamentos no interior Est. do Rio Grande do Sul: Alegrete, Antônio Prado, Arroio Grande, Arroio do Meio, Bagé, Barra do Ribeiro, Bento Gonçalves, Bom Jesus, Caçapava do Sul, Cacequi, Cachoeira do Sul, Camaquã, Canôas, Campo Bom, Carazinho, Carlos Barbosa, Caxias do Sul, Cruz Alta, Dom Pedrito, Encantado Encruzilhada do Sul, Erechim, Esteio, Estréia, Farroupilha, Flóres da Cunha, Fragata (Pelotas), Garibaldi, General Câmara, Getúlio Vargas, Giruá, Gramado, Gravataí, Guaporé, Herval-Sul, Ijuí, Iraí, Itaqui, Jaguarão, Jaguari, Júlio de Castilhos, Lagoa Vermelha, Lajeado, Lavras do Sul, Livramento, Marcelino Ramos, Montenegro, Mussum, Nova Palma, Nova Prata, Novo Humburgo, Osório, Passo Fundo, Pelotas, Pinheiro Machado, Piratini, Quaraí, Restinga Séca, Rio Grande, Rio Pardo, Rosário do Sul, Sananduva, Santa Cruz do Sul, Santa Maria, Santa Rosa, Santa Vitória do Palmar, Santiago, Santo Ângelo, Santo Antônio da Patrulha, São Borja, São Francisco de Assis, São Gabriel, São Jerônimo, São Leopoldo, São Lourenço do Sul, São Luiz Gonzaga, São Pelegrino (Caxias do Sul), São Sepé, Sapiranga, Sarandi, Sobradinho, Soledade, Tapes, Taquara, Taquari, Tôrres, Três Passos, Três Vendas (Pelotas), Tupanciretã, Uruguaiana, Vacaria e Veranópolis."
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 507,
+        "width": 1259
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 3.455,
+  "remote_file_id": null
+}

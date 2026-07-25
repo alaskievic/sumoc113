@@ -1,0 +1,68 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bindsul.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 201265
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "# BANCO INDUSTRIAL E COMERCIAL DO SUL S. A.\n\nCARTA PATENTE N.º 1.338 DE 7/10/1949\nSede: RUA 7 DE SETEMBRO, 1.080 — Porto Alegre\n\nCAPITAL ... Cr$ 300.000.000,00\nFUNDOS DE RESERVA: Legal e Previsão ... Cr$ 104.000.000,00 — OUTRAS RESERVAS ... Cr$ 206.000.000,00\nEndereço Telegráfico: Matriz e Agências no Estado do Rio G. do Sul \"SULBANCO\"\nAgências no Rio de Janeiro (GB) — Rua do Acre n.º 46 — End. Telegr. — \"Sulacre\" — Rua da Quitanda, n.º 56\nEnd. Telegr.: — \"Riosulbanco\" — Rua São Cristóvão N.º 1.047-B\nAgência em São Paulo (SP) — Rua São Bento n.º 359 — End. Telegr.: — Bancosul\"\n\nAgências Metropolitanas em Porto Alegre — Bairro São João: Av. Farrapos n.º 2.462 — Barros Cassal: Avenida Farrapos n.º 168 — Vila Floresta: Av. Assis Brasil, 2.604 — Benjamin Constant, Rua Benjamin Constant, n.º 1.805 — Cristóvão Colombo: R. Cristóvão Colombo, 980.\nAGÊNCIAS EM: Agudo, Bagé, Cachoeira do Sul, Cai, Canela, Canoas, Carazinho, Caxias do Sul, Encantado, Erechim, Estréia, Getúlio Vargas, Guaporé, Jiuj, Lajeado, Marcelino Ramos, Montenegro, Nova Prata, Novo Hamburgo, Osório, Panambi, Passo Fundo, Pelotas, Rio Grande, Sta. Cruz do Sul, Sta. Maria, Sta. Rosa, Sant'Ana do Livramento, Santo Ângelo, S. Leopoldo, S. Lourenço do Sul, Taquara, Uruguaiana, Tenâncio Aires\n\nESCRITÓRIOS EM: Anta Gorda, Arroio do Meio, Bom Retiro do Sul, Campo Bom, Condelária, Canguçu, Catuipe, Cerro Largo, Corvo, Crisciumal, Dois Irmãos, Dona Francisca, Estação Getúlio Vargas, Estância Velha, Esteio, Farroupilha, Faxinal do Soturno, Forquetinha, Giruá, Gramacho, Hamburgo Velho, Horizontina, Igrejinha, Ivoti, Marques de Souza, Marupiara, Monte Alverne, Mussum, Não-Me-Toque, Nova Petrópolis, Paim Filho, Picada do Rio, Restinga Seca, Roca-Sales, Rolante, Sander, Sapiranga, Sarandi, Serafina Corrêa, Sobradinho, Tapejara, Tapéra, Teutônia, Tramandaí, Três de Maio.\n\nCONSELHO DE ADMINISTRAÇÃO: Presidente — Pedro L. Schmitt, Vice-Presidente em Exercício — Carlos Lengler.\nDiretores: C. W. Maite, Waldemar A. Gehlen, João Cláudio Chassot, Ivo Luiz Lampert, Otto Emílio Dreyer",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 535,
+          "width": 1259
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 201265
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "# BANCO INDUSTRIAL E COMERCIAL DO SUL S. A.\n\nCARTA PATENTE N.º 1.338 DE 7/10/1949\nSede: RUA 7 DE SETEMBRO, 1.080 — Porto Alegre\n\nCAPITAL ... Cr$ 300.000.000,00\nFUNDOS DE RESERVA: Legal e Previsão ... Cr$ 104.000.000,00 — OUTRAS RESERVAS ... Cr$ 206.000.000,00\nEndereço Telegráfico: Matriz e Agências no Estado do Rio G. do Sul \"SULBANCO\"\nAgências no Rio de Janeiro (GB) — Rua do Acre n.º 46 — End. Telegr. — \"Sulacre\" — Rua da Quitanda, n.º 56\nEnd. Telegr.: — \"Riosulbanco\" — Rua São Cristóvão N.º 1.047-B\nAgência em São Paulo (SP) — Rua São Bento n.º 359 — End. Telegr.: — Bancosul\"\n\nAgências Metropolitanas em Porto Alegre — Bairro São João: Av. Farrapos n.º 2.462 — Barros Cassal: Avenida Farrapos n.º 168 — Vila Floresta: Av. Assis Brasil, 2.604 — Benjamin Constant, Rua Benjamin Constant, n.º 1.805 — Cristóvão Colombo: R. Cristóvão Colombo, 980.\nAGÊNCIAS EM: Agudo, Bagé, Cachoeira do Sul, Cai, Canela, Canoas, Carazinho, Caxias do Sul, Encantado, Erechim, Estréia, Getúlio Vargas, Guaporé, Jiuj, Lajeado, Marcelino Ramos, Montenegro, Nova Prata, Novo Hamburgo, Osório, Panambi, Passo Fundo, Pelotas, Rio Grande, Sta. Cruz do Sul, Sta. Maria, Sta. Rosa, Sant'Ana do Livramento, Santo Ângelo, S. Leopoldo, S. Lourenço do Sul, Taquara, Uruguaiana, Tenâncio Aires\n\nESCRITÓRIOS EM: Anta Gorda, Arroio do Meio, Bom Retiro do Sul, Campo Bom, Condelária, Canguçu, Catuipe, Cerro Largo, Corvo, Crisciumal, Dois Irmãos, Dona Francisca, Estação Getúlio Vargas, Estância Velha, Esteio, Farroupilha, Faxinal do Soturno, Forquetinha, Giruá, Gramacho, Hamburgo Velho, Horizontina, Igrejinha, Ivoti, Marques de Souza, Marupiara, Monte Alverne, Mussum, Não-Me-Toque, Nova Petrópolis, Paim Filho, Picada do Rio, Restinga Seca, Roca-Sales, Rolante, Sander, Sapiranga, Sarandi, Serafina Corrêa, Sobradinho, Tapejara, Tapéra, Teutônia, Tramandaí, Três de Maio.\n\nCONSELHO DE ADMINISTRAÇÃO: Presidente — Pedro L. Schmitt, Vice-Presidente em Exercício — Carlos Lengler.\nDiretores: C. W. Maite, Waldemar A. Gehlen, João Cláudio Chassot, Ivo Luiz Lampert, Otto Emílio Dreyer",
+      "lines": [
+        "# BANCO INDUSTRIAL E COMERCIAL DO SUL S. A.",
+        "CARTA PATENTE N.º 1.338 DE 7/10/1949",
+        "Sede: RUA 7 DE SETEMBRO, 1.080 — Porto Alegre",
+        "CAPITAL ... Cr$ 300.000.000,00",
+        "FUNDOS DE RESERVA: Legal e Previsão ... Cr$ 104.000.000,00 — OUTRAS RESERVAS ... Cr$ 206.000.000,00",
+        "Endereço Telegráfico: Matriz e Agências no Estado do Rio G. do Sul \"SULBANCO\"",
+        "Agências no Rio de Janeiro (GB) — Rua do Acre n.º 46 — End. Telegr. — \"Sulacre\" — Rua da Quitanda, n.º 56",
+        "End. Telegr.: — \"Riosulbanco\" — Rua São Cristóvão N.º 1.047-B",
+        "Agência em São Paulo (SP) — Rua São Bento n.º 359 — End. Telegr.: — Bancosul\"",
+        "Agências Metropolitanas em Porto Alegre — Bairro São João: Av. Farrapos n.º 2.462 — Barros Cassal: Avenida Farrapos n.º 168 — Vila Floresta: Av. Assis Brasil, 2.604 — Benjamin Constant, Rua Benjamin Constant, n.º 1.805 — Cristóvão Colombo: R. Cristóvão Colombo, 980.",
+        "AGÊNCIAS EM: Agudo, Bagé, Cachoeira do Sul, Cai, Canela, Canoas, Carazinho, Caxias do Sul, Encantado, Erechim, Estréia, Getúlio Vargas, Guaporé, Jiuj, Lajeado, Marcelino Ramos, Montenegro, Nova Prata, Novo Hamburgo, Osório, Panambi, Passo Fundo, Pelotas, Rio Grande, Sta. Cruz do Sul, Sta. Maria, Sta. Rosa, Sant'Ana do Livramento, Santo Ângelo, S. Leopoldo, S. Lourenço do Sul, Taquara, Uruguaiana, Tenâncio Aires",
+        "ESCRITÓRIOS EM: Anta Gorda, Arroio do Meio, Bom Retiro do Sul, Campo Bom, Condelária, Canguçu, Catuipe, Cerro Largo, Corvo, Crisciumal, Dois Irmãos, Dona Francisca, Estação Getúlio Vargas, Estância Velha, Esteio, Farroupilha, Faxinal do Soturno, Forquetinha, Giruá, Gramacho, Hamburgo Velho, Horizontina, Igrejinha, Ivoti, Marques de Souza, Marupiara, Monte Alverne, Mussum, Não-Me-Toque, Nova Petrópolis, Paim Filho, Picada do Rio, Restinga Seca, Roca-Sales, Rolante, Sander, Sapiranga, Sarandi, Serafina Corrêa, Sobradinho, Tapejara, Tapéra, Teutônia, Tramandaí, Três de Maio.",
+        "CONSELHO DE ADMINISTRAÇÃO: Presidente — Pedro L. Schmitt, Vice-Presidente em Exercício — Carlos Lengler.",
+        "Diretores: C. W. Maite, Waldemar A. Gehlen, João Cláudio Chassot, Ivo Luiz Lampert, Otto Emílio Dreyer"
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 535,
+        "width": 1259
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 3.106,
+  "remote_file_id": null
+}

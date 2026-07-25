@@ -1,0 +1,74 @@
+CENSOS ECONOMICOS DE 18ES - MUNICIPIOS
+ESESREREESESASSELECCECAREESEECEESEESESSEEEERKSESSSSEERRESASESERRERSSSRCCLELEERETEMASRASSSEASSRERRSCSSCESAAASSECECRESECEESAERAA RS
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO COMERCIAL DE 1980 E 1985
+ESSROMSEAESLSERENLESEELLEKERERACERSEEESSESKESLERESACEREESSESKERSSLEESNEEELSEERKTSESSCRASESEASCESLRCELSESMACESEEEE CASES RE
+* x bd
+. * CENSO DE 1980 *
+* = *
+* ESSSERLKCCEREECCELASSSASCESALERCCSSRCLESASRLARECSESESASERRAEESEC ARS
+* = * PESSOAL OCUPADO * x
+* * * x ANO DE 1980 x
+NUM, * * * EM 31-12-1980 x *
+* x OD SS RS E
+e Ed * * * x *
+. DE = : MUNICIPIOS - x x x Ed RECEITAS *
+: pf po * * SALARIOS, = bi
+* “NUMERO DEx * * FESETSASLEESSELECLSEESCENE
+OoR--* . x * Ea = RETIRADAS x * *
+* CLASSES E. GENEROS DE COMERCIO *ESTABELE-* * LIGADO A = Ed * *
+. ps * * x * E OUTRAS * * VENDAS DE *
+DEM + =CIMENTOS + TOTAL * COMERCIA- «< o TOTAL * *
+* x -* * - « REMUNERAÇÕES=+ * MERCADORIAS =
+* * x * LIZAÇÃO x Ed * *
+* . 2 x x x x * “a
+* * * * odds add atada dedo caetuea dado odtadd dado
+* * Lad * * Ld
+« * * : x * (MIL CRUZEIROS) *
+s * * * * *
+EESRECCLERSREEEEKSESECCEECEEEACCSELS TESE CCESEERASRESKEREERLSSESE SERESTA
+2056 ITUBERA....cccccccrc rece rr erra rea cr raro 67 218 8s 20 965 305 796 "305 355
+2057 JACARACI.....cccccucera serena arrasa 17 32 2 + 941 t0 722 = 10 463
+2058 JACOBINA.....cscrcicrscrrarrrcrrrc carrera 318 1 309 733 BE 943 2 400 050 2 3982 385
+2059 JAGUAQUARA.,..ccrccrrrrrr rece rrerraacreras 113 272 116 19 004 526 791 526 791
+2060 JAGUARARI,,.cccrerer crer vera rcana rsss 53 177 Elo) 7 Bos 367 643 367 623
+2061 JAGUARIPE.....cereccccraicrenc rara runas 6 12 1 1015 3 601 : 3 601
+2062 JANDAIRA...cccccrerrer crer e rara rear 3 4 1 245 1 470 1 470
+2065 ' JEREMDABO,....iccccersrccrrrrercr reenviar 55 o 38 5 185 146 828 146 7988
+2064 JIQUIRIÇA.....ccrcrereerrcrr cr rre canecas 29 48 7 1791 31 205 31 205
+2065 JITAUNA. ocre rr renan cre rnrc errar rr 8o 174 36 11 826 167 403 167 078
+2066 JUSSARA. ..cccrccrcrrrarrrcercerreco rear 18 27 2 1 846 35 977 35 877
+2087 JUSSIAPE..,...cccrrcrarccrroe cre crrrros casa 47 76 2 4 375 43 840 43 840
+2068 LAFAIETE COUTINHO.......ccccrecccrrccreras 14 47 20 1 586 5 738 5 738
+-2069 LAJE. cccccrercrccrrr rar ra ron soar ssa nara 34 89 21 5 632 87 758 97 758
+2070 ** LAJEDÃO......ccccccccrrrerr serenas sarna 14 28 15 1 576 7170 7 170
+- 2071 LAJEDINHO., ..cccrce rr ercrrcro raro era scarass 12 22 7 1 020 22 369 22 369
+2072 LAMARÃO, a csrscrersersrrsrertersertsa sara 13 24 6 861 11 818 11 819
+2073. LAURO DE FREITAS....ccrccscccrcrrerrereras 85 281 113 20 038 344 206 342 375
+2074 LENÇOIS....cccccrcss erre rercrracersrossano 17 32 10 1 170 7 665 7 657
+2075 LICINIO DE ALMEIDA.........crcrirsccrrrras 22 44 4 , 2 685 44 781 44 781
+2076 LIVRAMENTO DO BRUMADO... ....cecccsrreccese 115 218 42 13 140 298 623 297 582
+2077 MACAJUBA. cerco rasecesareransera raro sess 14 21 3 1 135 8 484 9 494
+2078 MACARANT., ce crcccrcrr cer rara raras cc sr rasas 29 se 17 2 866 42 824 42 774
+2079 MACAUBAS....rcccrrerecro rare c carona 53 85 17 4 758 94 554 94 529
+2080 MACURURE....ccrccers crer sore secs corse vers 6 6 - 207 1 930 1 830
+2081 MAIQUINIQUE......ccrriccrererrccrrerercoss 24 33 4 1 815 40 207 40 207
+2082 MAIRI...ccce res sra secs srs rare sra ra vara 72 186 62 8 777 236 128 234 360
+2083 MALHADA. .. crer rrecerrencrrrcrani vera reraras ss 70 8 3 450 43 680 43 680
+2084 MALHADA DE PEDRAS......cccrscrccasrcersers ” 22 - 433 3 888 3 818
+- 2085 MANDEL VITORINO.......ccrcsirrsre renas 41 66 10 4 076 73 041 73 041
+2086 MARACAS. cer crrcereres Deere err erreres 64 143 36 10 046 140 684 140 504
+2087 MARAGOGIPE.....ccrcecsrera cs cern receitas 73 169 53 10 344 191 651 191 327
+2088 MARAU. .cercrcerace serra r nona r encara ranas 16 27 3 1 162 14 664 14 664
+2089 MARCIONILIO SOUZA. ....cccclrrrrcr casar 14 27 10 826 6 873 6 873
+2080 MASCOTE... ..sccecrenmesrenicerres serena rasa 28 62 10 2 462 32 415 32 415
+2091 MATA DE SÃO JOÃO.......ccccccrriscrrrerera 75 250 ss 14 457 224 920 224 759
+20982 MEDEIROS NETO. ..e.ccccccrrereraccrerrrrada 103 365 172 30 357 279 756 279 414
+2093 MIQUEL CALMON.....cccccrecisrcrrararrarors 52 175 a1 7 244 157 820 157 698
+20894 MILAGRES... ..ccrercrcrererc rc rrirc carentes 21 55 13 4 422 79 622 78 608
+2095 MIRANGABA...cccrrerr racao rare sa rerenvera 22 45 E) t+ o8o 42 014 ao o14
+2096 MONTE SANTO... cccrrrsserrertrrararenencoss 53 135 34 779 106 816 106 614
+2097 MORPARA....crcrerrer ro rara roer err rca rosas 20 33 1 1413 8 025 8 ozs
+2088 MORRO DO CHAPEU......crccrcrcrrrecraraces B4 224 Bo 12 321 331 154 330 078
+2098 MORTUGABA.......ccrecrerrrrrereer cera crras 51 62 - 2 308 23 869 23 828
+2100 MUCUGE.....cccrereerrrrrrerrr re rerrra canas 8 14 - 333 5 185 5 185
+164

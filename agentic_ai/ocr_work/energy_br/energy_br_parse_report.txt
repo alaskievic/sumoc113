@@ -1,0 +1,24 @@
+Energy BR OCR parse report
+OCR directory: /Users/alaskievic/Desktop/master_work/sumoc113/agentic_ai/ocr_work/energy_br/mistral_outputs
+CSV directory: /Users/alaskievic/Desktop/master_work/sumoc113/agentic_ai/ocr_work/energy_br/csv
+
+Rows written:
+- all_tables_raw_fragments: 3215
+- illumination_acetylene_alcohol: 75
+- illumination_electric: 766
+- illumination_general: 809
+- illumination_kerosene: 254
+- large_plants: 66
+- regional_distribution: 22
+- section_i_identity: 342
+- section_i_technical: 351
+- section_ii_adduction: 225
+- section_ii_capacity: 206
+- table_3_city_lighting_system: 23
+
+Notes:
+- all_tables_raw_ocr_fragments.csv preserves every Mistral table row as JSON cells.
+- all_tables.pdf is split into many OCR fragments; normalized CSVs retain page/source_table_id/row_in_table for audit.
+- Section I identity rows and technical rows are not merged one-to-one yet; they are separate normalized views.
+- State inference uses OCR headings and state rows where available, so blank/uncertain state cells should be reviewed.
+- tables_1_2_regional_foundation_distribution.csv lacks the final 1911-1920 HP column because Mistral did not expose it in the table object.

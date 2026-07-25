@@ -1,0 +1,610 @@
+{
+  "industrial": {
+    "census": "industrial",
+    "row_count": 578,
+    "first_order": 1,
+    "last_order": 578,
+    "duplicate_orders": [],
+    "rows_needing_review": 44,
+    "pairs": [
+      {
+        "left_page": 4,
+        "right_page": 5,
+        "expected_start": 1,
+        "expected_end": 76,
+        "expected_rows": 76,
+        "left_rows": 76,
+        "right_rows": 75,
+        "missing_left_orders": [],
+        "missing_right_orders": [
+          64
+        ],
+        "incomplete_left_orders": [
+          1,
+          3,
+          54,
+          57,
+          59
+        ],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 6,
+        "right_page": 7,
+        "expected_start": 77,
+        "expected_end": 144,
+        "expected_rows": 68,
+        "left_rows": 68,
+        "right_rows": 68,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [
+          81,
+          95,
+          99,
+          108,
+          124,
+          129,
+          134,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144
+        ],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 8,
+        "right_page": 9,
+        "expected_start": 145,
+        "expected_end": 211,
+        "expected_rows": 67,
+        "left_rows": 67,
+        "right_rows": 67,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 10,
+        "right_page": 11,
+        "expected_start": 212,
+        "expected_end": 261,
+        "expected_rows": 50,
+        "left_rows": 50,
+        "right_rows": 50,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 12,
+        "right_page": 13,
+        "expected_start": 262,
+        "expected_end": 339,
+        "expected_rows": 78,
+        "left_rows": 78,
+        "right_rows": 73,
+        "missing_left_orders": [],
+        "missing_right_orders": [
+          263,
+          265,
+          274,
+          280,
+          282
+        ],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": [
+          262,
+          266,
+          283,
+          287
+        ]
+      },
+      {
+        "left_page": 14,
+        "right_page": 15,
+        "expected_start": 340,
+        "expected_end": 400,
+        "expected_rows": 61,
+        "left_rows": 61,
+        "right_rows": 61,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [
+          342,
+          343,
+          358,
+          361,
+          367,
+          368,
+          370,
+          371,
+          374,
+          375,
+          381,
+          384,
+          388,
+          390,
+          398
+        ],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 16,
+        "right_page": 17,
+        "expected_start": 401,
+        "expected_end": 447,
+        "expected_rows": 47,
+        "left_rows": 47,
+        "right_rows": 47,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 18,
+        "right_page": 19,
+        "expected_start": 448,
+        "expected_end": 513,
+        "expected_rows": 66,
+        "left_rows": 66,
+        "right_rows": 66,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 20,
+        "right_page": 21,
+        "expected_start": 514,
+        "expected_end": 563,
+        "expected_rows": 50,
+        "left_rows": 50,
+        "right_rows": 50,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 22,
+        "right_page": 23,
+        "expected_start": 564,
+        "expected_end": 578,
+        "expected_rows": 15,
+        "left_rows": 15,
+        "right_rows": 15,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      }
+    ]
+  },
+  "commerce": {
+    "census": "commerce",
+    "row_count": 721,
+    "first_order": 1,
+    "last_order": 721,
+    "duplicate_orders": [],
+    "rows_needing_review": 56,
+    "pairs": [
+      {
+        "left_page": 28,
+        "right_page": 29,
+        "expected_start": 1,
+        "expected_end": 75,
+        "expected_rows": 75,
+        "left_rows": 75,
+        "right_rows": 75,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": [
+          1,
+          11,
+          12,
+          16,
+          18
+        ]
+      },
+      {
+        "left_page": 30,
+        "right_page": 31,
+        "expected_start": 76,
+        "expected_end": 143,
+        "expected_rows": 68,
+        "left_rows": 68,
+        "right_rows": 67,
+        "missing_left_orders": [],
+        "missing_right_orders": [
+          111
+        ],
+        "incomplete_left_orders": [
+          88,
+          89,
+          90,
+          119
+        ],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 32,
+        "right_page": 33,
+        "expected_start": 144,
+        "expected_end": 214,
+        "expected_rows": 71,
+        "left_rows": 71,
+        "right_rows": 71,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": [
+          185,
+          186
+        ]
+      },
+      {
+        "left_page": 34,
+        "right_page": 35,
+        "expected_start": 215,
+        "expected_end": 280,
+        "expected_rows": 66,
+        "left_rows": 66,
+        "right_rows": 66,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 36,
+        "right_page": 37,
+        "expected_start": 281,
+        "expected_end": 329,
+        "expected_rows": 49,
+        "left_rows": 49,
+        "right_rows": 49,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 38,
+        "right_page": 39,
+        "expected_start": 330,
+        "expected_end": 403,
+        "expected_rows": 74,
+        "left_rows": 74,
+        "right_rows": 72,
+        "missing_left_orders": [],
+        "missing_right_orders": [
+          371,
+          382
+        ],
+        "incomplete_left_orders": [
+          336,
+          337,
+          338,
+          339,
+          342,
+          363,
+          365,
+          366,
+          369,
+          378,
+          382
+        ],
+        "incomplete_right_orders": [
+          342,
+          343,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351,
+          352,
+          353,
+          354,
+          355,
+          356,
+          358,
+          369,
+          370,
+          375,
+          394,
+          398,
+          401,
+          402
+        ]
+      },
+      {
+        "left_page": 40,
+        "right_page": 41,
+        "expected_start": 404,
+        "expected_end": 480,
+        "expected_rows": 77,
+        "left_rows": 77,
+        "right_rows": 77,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 42,
+        "right_page": 43,
+        "expected_start": 481,
+        "expected_end": 525,
+        "expected_rows": 45,
+        "left_rows": 45,
+        "right_rows": 45,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 44,
+        "right_page": 45,
+        "expected_start": 526,
+        "expected_end": 575,
+        "expected_rows": 50,
+        "left_rows": 50,
+        "right_rows": 48,
+        "missing_left_orders": [],
+        "missing_right_orders": [
+          546,
+          575
+        ],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": [
+          545
+        ]
+      },
+      {
+        "left_page": 46,
+        "right_page": 47,
+        "expected_start": 576,
+        "expected_end": 650,
+        "expected_rows": 75,
+        "left_rows": 75,
+        "right_rows": 75,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": [
+          577,
+          582,
+          585,
+          642,
+          643,
+          644,
+          645,
+          646,
+          649,
+          650
+        ]
+      },
+      {
+        "left_page": 48,
+        "right_page": 49,
+        "expected_start": 651,
+        "expected_end": 701,
+        "expected_rows": 51,
+        "left_rows": 51,
+        "right_rows": 51,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 50,
+        "right_page": 51,
+        "expected_start": 702,
+        "expected_end": 721,
+        "expected_rows": 20,
+        "left_rows": 20,
+        "right_rows": 20,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      }
+    ]
+  },
+  "services": {
+    "census": "services",
+    "row_count": 625,
+    "first_order": 1,
+    "last_order": 625,
+    "duplicate_orders": [],
+    "rows_needing_review": 22,
+    "pairs": [
+      {
+        "left_page": 56,
+        "right_page": 57,
+        "expected_start": 1,
+        "expected_end": 68,
+        "expected_rows": 68,
+        "left_rows": 68,
+        "right_rows": 66,
+        "missing_left_orders": [],
+        "missing_right_orders": [
+          5,
+          6
+        ],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": [
+          1,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          38,
+          40,
+          43,
+          64
+        ]
+      },
+      {
+        "left_page": 58,
+        "right_page": 59,
+        "expected_start": 69,
+        "expected_end": 131,
+        "expected_rows": 63,
+        "left_rows": 63,
+        "right_rows": 63,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [
+          99
+        ],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 60,
+        "right_page": 61,
+        "expected_start": 132,
+        "expected_end": 194,
+        "expected_rows": 63,
+        "left_rows": 63,
+        "right_rows": 62,
+        "missing_left_orders": [],
+        "missing_right_orders": [
+          152
+        ],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": [
+          183
+        ]
+      },
+      {
+        "left_page": 62,
+        "right_page": 63,
+        "expected_start": 195,
+        "expected_end": 250,
+        "expected_rows": 56,
+        "left_rows": 56,
+        "right_rows": 56,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": [
+          207
+        ]
+      },
+      {
+        "left_page": 64,
+        "right_page": 65,
+        "expected_start": 251,
+        "expected_end": 311,
+        "expected_rows": 61,
+        "left_rows": 61,
+        "right_rows": 61,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [
+          290
+        ],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 66,
+        "right_page": 67,
+        "expected_start": 312,
+        "expected_end": 377,
+        "expected_rows": 66,
+        "left_rows": 66,
+        "right_rows": 66,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [
+          313
+        ],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 68,
+        "right_page": 69,
+        "expected_start": 378,
+        "expected_end": 432,
+        "expected_rows": 55,
+        "left_rows": 55,
+        "right_rows": 55,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 70,
+        "right_page": 71,
+        "expected_start": 433,
+        "expected_end": 477,
+        "expected_rows": 45,
+        "left_rows": 45,
+        "right_rows": 45,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 72,
+        "right_page": 73,
+        "expected_start": 478,
+        "expected_end": 542,
+        "expected_rows": 65,
+        "left_rows": 65,
+        "right_rows": 65,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 74,
+        "right_page": 75,
+        "expected_start": 543,
+        "expected_end": 598,
+        "expected_rows": 56,
+        "left_rows": 56,
+        "right_rows": 56,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      },
+      {
+        "left_page": 76,
+        "right_page": 77,
+        "expected_start": 599,
+        "expected_end": 625,
+        "expected_rows": 27,
+        "left_rows": 27,
+        "right_rows": 27,
+        "missing_left_orders": [],
+        "missing_right_orders": [],
+        "incomplete_left_orders": [],
+        "incomplete_right_orders": []
+      }
+    ]
+  }
+}

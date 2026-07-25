@@ -1,0 +1,3448 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/questionario_agri/quest_agri_es.pdf",
+  "engine": "paddleocr",
+  "lang": "pt",
+  "ocr_version": "PP-OCRv3",
+  "dpi": 180,
+  "text_det_limit_side_len": 1400,
+  "pages": [
+    {
+      "page": 79,
+      "elapsed_seconds": 6.262,
+      "lines": [
+        "E1C",
+        "-73",
+        "MINAS-Nao ha.",
+        "MOLESTIAS da populacao- Commuus.",
+        "E pragas das plantas cultivadas -- Ferrugen, pulges, lagartase",
+        "7",
+        "saüvas. nas plantaces; nao sao debelladas.",
+        "NUCLEOS coloniaes-Nao ha; existem colonos allemaes, polacos, aus-",
+        "triacos, suissos. e nacionaes, localisados em propriedades",
+        "proprias.",
+        "OPEROSIDADE da populacao - Ha poucos desoccupados.",
+        "PADROES de terras bas -Pau d'alho, cedro, jequitiba, peroba, amarello,",
+        "grauna, sucupira, sapucaia, etc.",
+        "De terras inferiores -- Camara, imbaüba, palmeiras, faveiro,",
+        ">>",
+        "canella, taquaras, etc.",
+        "PORTOS--Nao ha.",
+        "SEMENTES-Nao ha escolha.",
+        "SEMEADURA-.E' feita por processos rotineiros;semeiam nos mezes de",
+        "Marqo, Abril, Setembro e Outubro,",
+        "SYSTEMA de trabalho do pessoal agricola -- Jornal, empreitada, meiagao",
+        ".e contracto.",
+        "SALARIOS -Trabalhador rural,2$000 com comida; nao ha administradores",
+        "nem escrivaes de fazenda; carpinteiros, de 3$000 a 6$000 diarios;",
+        "nao ha cozinheiras nem lavadeiras; as donas de casa fazem osser-",
+        "vicos domesticos.Ossalarios saopagos e os contractos cumpridos.",
+        "TERRAS- Qualidades -Na maioria, as terras do municipio sao argillo-",
+        "silicosas, variando a cor, ora averinelhada, e amarellada, .ora",
+        "esbranquicada; nos valles e fraldas dos montes sao consideradas",
+        "melhores; podendo ser divididas, na sua generalidade,do seguinte",
+        "modo : - Boas : em Pau d'Alho, Tres Barras, Ribeirao de Sao",
+        "Vicente e Beriricas; regulares : no Ribeirao dos Barcellos, Mel-",
+        "gago, Melgacinho, Lagoinha, Rio Fundo, etc. ; inferiores",
+        "e arenosas em sua maioria, em Pernambuco, Tijuco Preto",
+        "e Areinha. Em todo o municipio ha terras  misturadas.",
+        "Todo o municipio é montanhoso, excepto o Planuro dos Bar-",
+        "cellos, que é geralmente pedregoso. Ha terras seccas em",
+        "muitos logares; nao ha pantanosas. A vegetagao é representada",
+        "por mattas virgens em Alto Juca, Victor Hugo, Barcellos,",
+        "Tijuco Preto, etc.; capoeiras e cerrados em diversos pontos; nao",
+        "ha carrascaes.nem campos.",
+        "Prego -O hectare de terra .pertencente ao Estado custa de 2$000",
+        "a 10$000; de particulares, conforme o ajuste e bemfeitorias.",
+        "B.",
+        "1O"
+      ],
+      "scores": [
+        0.3416019380092621,
+        0.8084756731987,
+        0.9667667150497437,
+        0.9641468524932861,
+        0.9601050615310669,
+        0.24968907237052917,
+        0.9607303142547607,
+        0.9713634848594666,
+        0.9821922779083252,
+        0.99820476770401,
+        0.9754382967948914,
+        0.9806013107299805,
+        0.9862139225006104,
+        0.973556637763977,
+        0.26353931427001953,
+        0.984549880027771,
+        0.8973960876464844,
+        0.9770469665527344,
+        0.9872515201568604,
+        0.9819615483283997,
+        0.9671664834022522,
+        0.9307075142860413,
+        0.9689211249351501,
+        0.9890097975730896,
+        0.9757052063941956,
+        0.9960835576057434,
+        0.964651882648468,
+        0.9717124700546265,
+        0.9782469272613525,
+        0.9947326183319092,
+        0.9527885913848877,
+        0.9913231134414673,
+        0.9863057732582092,
+        0.9898810386657715,
+        0.9732800126075745,
+        0.9903590083122253,
+        0.9876229763031006,
+        0.9825800657272339,
+        0.9822584986686707,
+        0.992926836013794,
+        0.980783998966217,
+        0.9608795046806335,
+        0.9845379590988159,
+        0.7404415011405945,
+        0.48190632462501526
+      ],
+      "boxes": [
+        [
+          1187,
+          95,
+          1226,
+          252
+        ],
+        [
+          462,
+          108,
+          568,
+          139
+        ],
+        [
+          86,
+          172,
+          304,
+          206
+        ],
+        [
+          86,
+          199,
+          572,
+          242
+        ],
+        [
+          195,
+          236,
+          965,
+          279
+        ],
+        [
+          135,
+          263,
+          149,
+          282
+        ],
+        [
+          237,
+          277,
+          736,
+          310
+        ],
+        [
+          87,
+          312,
+          966,
+          359
+        ],
+        [
+          238,
+          349,
+          966,
+          387
+        ],
+        [
+          240,
+          393,
+          356,
+          425
+        ],
+        [
+          91,
+          428,
+          769,
+          466
+        ],
+        [
+          90,
+          465,
+          967,
+          511
+        ],
+        [
+          241,
+          508,
+          614,
+          543
+        ],
+        [
+          201,
+          535,
+          970,
+          575
+        ],
+        [
+          143,
+          560,
+          156,
+          573
+        ],
+        [
+          244,
+          582,
+          496,
+          607
+        ],
+        [
+          95,
+          615,
+          334,
+          645
+        ],
+        [
+          95,
+          654,
+          463,
+          686
+        ],
+        [
+          95,
+          685,
+          972,
+          731
+        ],
+        [
+          248,
+          727,
+          659,
+          760
+        ],
+        [
+          96,
+          761,
+          971,
+          808
+        ],
+        [
+          243,
+          813,
+          390,
+          834
+        ],
+        [
+          99,
+          835,
+          973,
+          878
+        ],
+        [
+          250,
+          869,
+          973,
+          911
+        ],
+        [
+          252,
+          905,
+          973,
+          944
+        ],
+        [
+          253,
+          938,
+          972,
+          982
+        ],
+        [
+          100,
+          978,
+          975,
+          1027
+        ],
+        [
+          254,
+          1014,
+          976,
+          1056
+        ],
+        [
+          255,
+          1046,
+          977,
+          1092
+        ],
+        [
+          254,
+          1082,
+          977,
+          1125
+        ],
+        [
+          256,
+          1115,
+          978,
+          1158
+        ],
+        [
+          258,
+          1148,
+          983,
+          1194
+        ],
+        [
+          256,
+          1180,
+          981,
+          1232
+        ],
+        [
+          257,
+          1217,
+          979,
+          1265
+        ],
+        [
+          259,
+          1250,
+          979,
+          1297
+        ],
+        [
+          260,
+          1284,
+          983,
+          1333
+        ],
+        [
+          261,
+          1319,
+          983,
+          1367
+        ],
+        [
+          260,
+          1353,
+          984,
+          1401
+        ],
+        [
+          262,
+          1387,
+          983,
+          1435
+        ],
+        [
+          263,
+          1421,
+          985,
+          1469
+        ],
+        [
+          262,
+          1471,
+          578,
+          1501
+        ],
+        [
+          224,
+          1489,
+          987,
+          1539
+        ],
+        [
+          263,
+          1524,
+          985,
+          1574
+        ],
+        [
+          155,
+          1584,
+          168,
+          1597
+        ],
+        [
+          184,
+          1583,
+          201,
+          1595
+        ]
+      ]
+    },
+    {
+      "page": 80,
+      "elapsed_seconds": 1.291,
+      "lines": [
+        "74",
+        "ladeiras, havendo urgencia de bons meios de viagao. O muni-",
+        "Estado, ja por sua colonisagao, japor sua produccao agricola."
+      ],
+      "scores": [
+        0.9428708553314209,
+        0.9779008030891418,
+        0.9718318581581116
+      ],
+      "boxes": [
+        [
+          731,
+          113,
+          844,
+          142
+        ],
+        [
+          500,
+          337,
+          1215,
+          386
+        ],
+        [
+          501,
+          407,
+          1212,
+          456
+        ]
+      ]
+    },
+    {
+      "page": 83,
+      "elapsed_seconds": 6.0,
+      "lines": [
+        "77",
+        "valor, mais tranquilidade e fel'icidade porque todos trabalham, todos",
+        "ten o tenpo occupado, condicao sem a qual nao póde haver nem",
+        "felicidade nem conforto.",
+        "2",
+        "res nem escrivaes de fazenda.; carpinteiros, 5$00o a 7$o0o diarios;",
+        "cozinheiro, 3o$000 nensaes; lavadeira, 20$o00 a 40$o00 mensaes.",
+        "Os salarios sao pagos e os contractos cumpridos.",
+        "boas, no valle de Santa Maria e baixadas dos morros; inferiores,",
+        "na maior parte; argillosas, no valle do rio Santa Maria; arenosas",
+        "no caninho de Santa Thereza; misturadas, em quasi todo o mu-",
+        " nicipio; pantanosas cm alguns pontos do rio Santa Maria; monta-",
+        "nhosas quasi todas; seccas na maior parte. Ha mattas virgens no",
+        "alto de Santa Maria, Caminho do Guandt, Caminho de Santa The",
+        "reza e ouitros pontos; em capoeiras a parte baixa do municipio; nao",
+        "ha cerrados,carrascaes nem caumpos.",
+        "TERRAS -- Precos -- Um hectarc de terra do Estado custa de 2$o0o a 10$000;",
+        "de particulares, de 2o$ooo a mais.",
+        "TRANSPORTES = Os transportes para o mercado local sao feitos pelos pro-",
+        "prios productores. Pelo porto de Cachoeira, um sacco de qualquer",
+        "prodlucto agricola até. Victoria, capital do Estado, paga 1$ooo.",
+        "O custo do transporte por tropas depende de ajuste prévio.",
+        "NOTA",
+        "Possue o municipio cerca de 12.coo habitantes. A sua altitude é de mais de",
+        "6oo netros.",
+        "As colonias estao localizadas em terrenos completamente accidentados, sao",
+        "fermadas por allemaes, italianos, suisso, polacos e nacionaes; excepto estes",
+        "ultimos, os demais acham-se em hoas condlices economicas.",
+        "Os melhores colonos sao os allemaes c os italianos.",
+        "Constitue o rio Santa Maria o principal meio de communicacao da cidade",
+        "para a capital do Estado. Dista a séde 18 kilometros da estacao Alfredo Maia, da",
+        "Estrada de Ferro Dianmantina.",
+        "E' pobre o mimicipio em madeiras de lei.",
+        "Os engenhos existentes sao pequenos e de traccao animal.",
+        "Ha uma fabrica de cerveja de alta fermentacao, uma de agua gazoza e ttma",
+        "uma de gelo, que só funcciona no verao.",
+        "Algumas quélas d'agua poden ser aproveitadas para energia electrica. Em",
+        "Santa Maria existe a Cachoeira da Fumaca e no Prata outra deste mesmo nome.",
+        "O Dr. Augusto Ramos conprou uma cachoeira no Timbuy.",
+        "O municipio dle Cachociro de $anta Leopoldina é um dos mais importantes do",
+        "depois da capital."
+      ],
+      "scores": [
+        0.9271553754806519,
+        0.9757059216499329,
+        0.9511501789093018,
+        0.9705336689949036,
+        0.12438707798719406,
+        0.9526121020317078,
+        0.9525481462478638,
+        0.9955514073371887,
+        0.977250337600708,
+        0.9758796691894531,
+        0.9794061183929443,
+        0.9796470403671265,
+        0.9875819087028503,
+        0.9600242376327515,
+        0.9574836492538452,
+        0.9436380863189697,
+        0.9643266797065735,
+        0.960278332233429,
+        0.9802618026733398,
+        0.9859741926193237,
+        0.9609706401824951,
+        0.9872050881385803,
+        0.9806708097457886,
+        0.9482177495956421,
+        0.8716455101966858,
+        0.9887506365776062,
+        0.9750975370407104,
+        0.9278409481048584,
+        0.9717103838920593,
+        0.9613097310066223,
+        0.9708577394485474,
+        0.9505087733268738,
+        0.9671365022659302,
+        0.9790804982185364,
+        0.9876217246055603,
+        0.9711848497390747,
+        0.9754957556724548,
+        0.9820414185523987,
+        0.9776787161827087,
+        0.9567188620567322,
+        0.9626906514167786
+      ],
+      "boxes": [
+        [
+          459,
+          101,
+          581,
+          125
+        ],
+        [
+          221,
+          149,
+          962,
+          191
+        ],
+        [
+          222,
+          185,
+          962,
+          222
+        ],
+        [
+          223,
+          224,
+          499,
+          252
+        ],
+        [
+          1226,
+          226,
+          1230,
+          231
+        ],
+        [
+          219,
+          272,
+          967,
+          320
+        ],
+        [
+          224,
+          307,
+          967,
+          349
+        ],
+        [
+          226,
+          343,
+          778,
+          381
+        ],
+        [
+          225,
+          400,
+          970,
+          445
+        ],
+        [
+          224,
+          432,
+          970,
+          476
+        ],
+        [
+          225,
+          464,
+          970,
+          506
+        ],
+        [
+          221,
+          495,
+          970,
+          540
+        ],
+        [
+          230,
+          528,
+          971,
+          569
+        ],
+        [
+          231,
+          559,
+          968,
+          598
+        ],
+        [
+          231,
+          591,
+          970,
+          632
+        ],
+        [
+          231,
+          632,
+          642,
+          662
+        ],
+        [
+          92,
+          651,
+          973,
+          699
+        ],
+        [
+          235,
+          692,
+          629,
+          726
+        ],
+        [
+          91,
+          713,
+          972,
+          763
+        ],
+        [
+          234,
+          742,
+          974,
+          793
+        ],
+        [
+          235,
+          775,
+          975,
+          825
+        ],
+        [
+          238,
+          810,
+          897,
+          854
+        ],
+        [
+          495,
+          877,
+          578,
+          907
+        ],
+        [
+          143,
+          930,
+          980,
+          980
+        ],
+        [
+          100,
+          990,
+          222,
+          1009
+        ],
+        [
+          142,
+          993,
+          981,
+          1043
+        ],
+        [
+          100,
+          1025,
+          983,
+          1077
+        ],
+        [
+          100,
+          1064,
+          777,
+          1105
+        ],
+        [
+          145,
+          1097,
+          712,
+          1135
+        ],
+        [
+          144,
+          1118,
+          984,
+          1168
+        ],
+        [
+          101,
+          1147,
+          984,
+          1202
+        ],
+        [
+          103,
+          1200,
+          431,
+          1230
+        ],
+        [
+          146,
+          1222,
+          606,
+          1265
+        ],
+        [
+          149,
+          1248,
+          789,
+          1297
+        ],
+        [
+          150,
+          1275,
+          990,
+          1325
+        ],
+        [
+          105,
+          1320,
+          565,
+          1358
+        ],
+        [
+          150,
+          1334,
+          991,
+          1391
+        ],
+        [
+          107,
+          1367,
+          990,
+          1421
+        ],
+        [
+          152,
+          1403,
+          819,
+          1452
+        ],
+        [
+          153,
+          1429,
+          993,
+          1483
+        ],
+        [
+          110,
+          1517,
+          301,
+          1545
+        ]
+      ]
+    },
+    {
+      "page": 84,
+      "elapsed_seconds": 6.618,
+      "lines": [
+        "-78-",
+        "Santa Thereza",
+        "AGRICULTQRES--Condicaes economicas,boas.",
+        ".",
+        "Impostos - Os agricultores e criadores nao pagam impostos.",
+        "formigas saúvas, e lagartas nas plantacocs e campos; os criadores,",
+        "do berne, da peste de nangueira, carrapatcs e bicheiras.",
+        "rotineiros; sao boas suas ccndicoes economicas.",
+        "AGUAS superficiaes - Rios : Santa Maria do Rio Doce, Timbuhy, Perdido, Cinco",
+        "de Novembro, Santo Julio, etc. ; todos permanentes. Nao ha lagoas.",
+        "ARVORES fructiferas --- Laranjeiras, pecegueiros, . ameixeras, abacateiros,",
+        "lneiras, jaqueiras, etc.; as laranjas c os pecegos, sac as melhores",
+        "fructas.",
+        "ALIMENTACAO da populacao -- Alimenta-se regularmente, com o trivial.",
+        "CAMPOS e pastos-Nao ha campos naturacs; nos pastos: grama de",
+        "Pernambuco, colcnia, meloso ou capin gordura roxo, graminha, etc.",
+        "Nac campos hervados.",
+        "CULTURAS--- Cultivam, café, canna, milho, feijao, arroz, mandioca, abobora,",
+        "vinha, couve, alho, etc. As culturas do café, canna, milho, feijao c",
+        "arroz sao as nais importantes, destacando-se de todas a de cafe",
+        "COLHEITAS-Sao em parte beneficiadas e em parte,nao; e assn vendidas.",
+        "Nao ha dadcs sobre as colheitas de cereaes em 19o9 e 1910: A de cafe",
+        "em 1910 foi, approxinadamente, de 250.000 a 300.000 arrobas.",
+        "CEREAES,etc.-Os agricultores ignoram o custo de produccao; os precos de",
+        "venda: milho ou arroz. com casca, 1oo réis o litro. Sao. mercadci:",
+        "compradores : o local e Santa Leopoldina. Nao ha feiras.",
+        "CANNA de assucar - Seus productos -- O kilo de assucar custa 40o réis a 1$oco;",
+        "um litro de aguardente,Goo reis; nao fabricam rapaduras.",
+        "COOPERATIVAS--Nao ha.",
+        "CALOR e fric -- O calor comeca em Setembro e o frio e:n Abr1",
+        "CHLVAS--Comecam em Outubro.",
+        "CONDICOES de saude da populacao - Geralmente fortes e corados.",
+        "CONTABILIDADE.--Nao ha.",
+        "CRIACAO do municipio- Bovideos, equideos. ovideos, suidleos e gallinaceos.",
+        "As criaces de bovideos, suideos e gallinacecis sao as nais",
+        "importantes.",
+        ":",
+        "De bovideos--Comuuns.",
+        "1.",
+        "De equideos- Conmuns.",
+        ".1",
+        "De ovideos-Communs:",
+        "13",
+        "De suideos--Conmuns.",
+        ".71",
+        "Productos -- Manteiga, queijo, leite, ete., todos egualmente procurados.",
+        "Util:zam-se da criacao bovina para produceao da manteiga. A criacao",
+        "é diminuta."
+      ],
+      "scores": [
+        0.7179094552993774,
+        0.9942106008529663,
+        0.9220014810562134,
+        0.7672370076179504,
+        0.9802283644676208,
+        0.9687414765357971,
+        0.9510241746902466,
+        0.924754798412323,
+        0.9708794951438904,
+        0.9805318713188171,
+        0.9647333025932312,
+        0.9877400398254395,
+        0.9953100681304932,
+        0.9803034663200378,
+        0.9744853377342224,
+        0.9747393131256104,
+        0.9638551473617554,
+        0.9688022136688232,
+        0.9759049415588379,
+        0.949949324131012,
+        0.9419631958007812,
+        0.9647504091262817,
+        0.9620387554168701,
+        0.9632654190063477,
+        0.9492074847221375,
+        0.9559326171875,
+        0.9582368731498718,
+        0.9323449730873108,
+        0.9198957085609436,
+        0.939784586429596,
+        0.8934909105300903,
+        0.985577404499054,
+        0.889054000377655,
+        0.9565274119377136,
+        0.9555519819259644,
+        0.9524385333061218,
+        0.6013622879981995,
+        0.9228123426437378,
+        0.30325886607170105,
+        0.9542363286018372,
+        0.8665943145751953,
+        0.953957200050354,
+        0.5193739533424377,
+        0.9227010011672974,
+        0.6599652171134949,
+        0.9686228632926941,
+        0.9790437817573547,
+        0.9602823853492737
+      ],
+      "boxes": [
+        [
+          725,
+          115,
+          836,
+          144
+        ],
+        [
+          662,
+          172,
+          896,
+          206
+        ],
+        [
+          351,
+          231,
+          896,
+          262
+        ],
+        [
+          400,
+          268,
+          409,
+          282
+        ],
+        [
+          456,
+          264,
+          1106,
+          299
+        ],
+        [
+          488,
+          323,
+          1208,
+          370
+        ],
+        [
+          489,
+          358,
+          1106,
+          392
+        ],
+        [
+          485,
+          422,
+          995,
+          451
+        ],
+        [
+          343,
+          449,
+          1206,
+          496
+        ],
+        [
+          483,
+          483,
+          1204,
+          528
+        ],
+        [
+          342,
+          519,
+          1203,
+          561
+        ],
+        [
+          482,
+          555,
+          1204,
+          592
+        ],
+        [
+          482,
+          585,
+          565,
+          611
+        ],
+        [
+          342,
+          619,
+          1147,
+          656
+        ],
+        [
+          340,
+          654,
+          1203,
+          695
+        ],
+        [
+          481,
+          690,
+          1200,
+          724
+        ],
+        [
+          481,
+          721,
+          717,
+          747
+        ],
+        [
+          340,
+          751,
+          1199,
+          792
+        ],
+        [
+          480,
+          784,
+          1200,
+          823
+        ],
+        [
+          480,
+          820,
+          1194,
+          851
+        ],
+        [
+          338,
+          851,
+          1196,
+          888
+        ],
+        [
+          479,
+          885,
+          1197,
+          920
+        ],
+        [
+          478,
+          917,
+          1149,
+          949
+        ],
+        [
+          337,
+          949,
+          1196,
+          987
+        ],
+        [
+          476,
+          983,
+          1196,
+          1016
+        ],
+        [
+          477,
+          1015,
+          1080,
+          1044
+        ],
+        [
+          331,
+          1041,
+          1195,
+          1080
+        ],
+        [
+          475,
+          1078,
+          1092,
+          1107
+        ],
+        [
+          335,
+          1108,
+          664,
+          1135
+        ],
+        [
+          334,
+          1145,
+          1023,
+          1177
+        ],
+        [
+          334,
+          1181,
+          715,
+          1210
+        ],
+        [
+          333,
+          1215,
+          1074,
+          1253
+        ],
+        [
+          335,
+          1252,
+          673,
+          1280
+        ],
+        [
+          331,
+          1288,
+          1188,
+          1325
+        ],
+        [
+          469,
+          1322,
+          1191,
+          1357
+        ],
+        [
+          470,
+          1354,
+          602,
+          1378
+        ],
+        [
+          373,
+          1380,
+          394,
+          1400
+        ],
+        [
+          436,
+          1383,
+          711,
+          1411
+        ],
+        [
+          378,
+          1412,
+          391,
+          1427
+        ],
+        [
+          437,
+          1414,
+          711,
+          1441
+        ],
+        [
+          376,
+          1442,
+          392,
+          1458
+        ],
+        [
+          436,
+          1444,
+          696,
+          1472
+        ],
+        [
+          374,
+          1474,
+          391,
+          1490
+        ],
+        [
+          435,
+          1475,
+          695,
+          1502
+        ],
+        [
+          375,
+          1504,
+          391,
+          1520
+        ],
+        [
+          433,
+          1506,
+          1184,
+          1542
+        ],
+        [
+          467,
+          1537,
+          1185,
+          1574
+        ],
+        [
+          467,
+          1568,
+          585,
+          1595
+        ]
+      ]
+    },
+    {
+      "page": 85,
+      "elapsed_seconds": 6.984,
+      "lines": [
+        "79",
+        "mais; de carga, 150$o00; burro de sella, de 35o$c00 a 40o$o0o; dc",
+        "de carga, de 25osoo0 a 3oo$ooo; nac ha animaes de arado; koi",
+        "carreiro custa de 15o$o00 a 20o$c00; de córte, é vendido a razao de",
+        "7$oo0 a arroba; touro commun, dc 15o$oo0 a 2oo$ooo; vacca",
+        "leiteira, produzindo, en média diaria, tres litros de leite, de 150$o00",
+        "a 200$000. O litro de leite custa 400 réis.",
+        "Carnes e toucinho - O kilo de carne de vacca custa 8oo réis; de porco,",
+        "1$o0o; de toucinho, 1$20o.",
+        "1",
+        "Manteiga e queijo-Um kilc de manteiga custa 2$500; de queijo, 1$500",
+        "r",
+        "Aves --Una gallinia custa 1$2oo; a duzia de ovos,4oo reis.",
+        "1",
+        "Molestias -- Manqueira. febre aphtosa, etc., que nao sao combatidas.",
+        "CUSTO dos tecidos-Nacionaes ou estrangeiros variam de 5oo réis a",
+        "2$000,0metr0.",
+        "EsTRADAS e pontes --- Ha estradas de tropas, e uma estrada de rodagem, em",
+        "construccao; as de trcpa sao accidentadas, e regularnente conscr-",
+        "vadas, assinm como as pontes nellas existentes.",
+        "EXPORTACAO .e inportacao-- Exporta: cafe, etc.; inporta: generos de",
+        ".primeira necessidade. As culturas de milho, e do arroz promettem",
+        "desenvolver-se.",
+        "ESCOLAS-Ha oito,primarias.",
+        "FARINHA de mandioca e feijao---Un litrc de farinha de mandioca custa",
+        "10o réis; dc feijao,, 200 reis.",
+        "HYPOTHECAS--Ha poucas.",
+        "HABITACOES--Salubres.",
+        "INSTRUMENTOS agricolas--Machados, foices, enxadas, faces. cavadeiras, etc.",
+        "IUROS- Nao ha taxa fixa.",
+        "MADEIRAS de lei--Pinho, carvalho, :pe, jacaranda, vinhatico, grauna, cedro, etc.",
+        "MINAS--Nao ha.",
+        "MOLESTIAS da populaqao --- Communs.",
+        "5",
+        "E pragas das plantas cultivadas .-- Formigas sauvas e lagartas, que nao",
+        "sao conmbatidas.",
+        "NUCLEOS coloniaes -- Nao ha; existem colonos italianos, suissos, austriacos,",
+        "qute sao proprietarios.",
+        "OPEROSIDADE da populacao --- Ha poucos desoccupados.",
+        "PADRoES de terras boas-Jequetiba, cédro, peróba, ipe, figueira branca,",
+        "jacaranda, canella, vinhatico, etc.",
+        "De terras inferiores --- Inbauba, palueira, taquara, favera, navalha",
+        "demico,etc.",
+        "PORTOS.Naoha.",
+        "$EMENTES --A escolha é feita rudimentarmente.",
+        "Setembro a Outubrc.",
+        "SYSTEMA de trabalho do pessoal agricola--Empreitada e parceria, porém,",
+        "principalnente por ccnta propria, nao ut:lizando sinao a propria",
+        "familia."
+      ],
+      "scores": [
+        0.966523289680481,
+        0.9288315773010254,
+        0.8618772029876709,
+        0.9364230632781982,
+        0.9273630976676941,
+        0.9536756277084351,
+        0.962378740310669,
+        0.977080225944519,
+        0.9230154752731323,
+        0.3657206594944,
+        0.9771264791488647,
+        0.22314013540744781,
+        0.9224855303764343,
+        0.25046178698539734,
+        0.9464219212532043,
+        0.9824315309524536,
+        0.7670796513557434,
+        0.9667043685913086,
+        0.9404894113540649,
+        0.9586928486824036,
+        0.9631462693214417,
+        0.9920196533203125,
+        0.9877464175224304,
+        0.9578274488449097,
+        0.9498118162155151,
+        0.8608632683753967,
+        0.9479095339775085,
+        0.9178391695022583,
+        0.9865608215332031,
+        0.9506972432136536,
+        0.9775336980819702,
+        0.8673864006996155,
+        0.9215946793556213,
+        0.6406795978546143,
+        0.980906069278717,
+        0.961910605430603,
+        0.9699580669403076,
+        0.9536855816841125,
+        0.9775967001914978,
+        0.9644383192062378,
+        0.9697431325912476,
+        0.9662765264511108,
+        0.9749128222465515,
+        0.8735415935516357,
+        0.9323537945747375,
+        0.9865363240242004,
+        0.9855442643165588,
+        0.9838111996650696,
+        0.9917001128196716
+      ],
+      "boxes": [
+        [
+          458,
+          111,
+          573,
+          136
+        ],
+        [
+          221,
+          198,
+          951,
+          229
+        ],
+        [
+          224,
+          230,
+          953,
+          259
+        ],
+        [
+          223,
+          262,
+          953,
+          290
+        ],
+        [
+          224,
+          292,
+          954,
+          323
+        ],
+        [
+          222,
+          324,
+          952,
+          352
+        ],
+        [
+          221,
+          356,
+          676,
+          384
+        ],
+        [
+          188,
+          384,
+          954,
+          416
+        ],
+        [
+          227,
+          420,
+          524,
+          447
+        ],
+        [
+          134,
+          460,
+          143,
+          470
+        ],
+        [
+          189,
+          445,
+          951,
+          480
+        ],
+        [
+          135,
+          491,
+          143,
+          503
+        ],
+        [
+          191,
+          480,
+          851,
+          509
+        ],
+        [
+          135,
+          521,
+          144,
+          534
+        ],
+        [
+          190,
+          509,
+          954,
+          542
+        ],
+        [
+          87,
+          540,
+          960,
+          583
+        ],
+        [
+          227,
+          584,
+          402,
+          608
+        ],
+        [
+          90,
+          605,
+          956,
+          642
+        ],
+        [
+          227,
+          638,
+          957,
+          670
+        ],
+        [
+          228,
+          672,
+          724,
+          701
+        ],
+        [
+          89,
+          698,
+          957,
+          736
+        ],
+        [
+          220,
+          727,
+          961,
+          768
+        ],
+        [
+          229,
+          770,
+          392,
+          793
+        ],
+        [
+          91,
+          800,
+          454,
+          827
+        ],
+        [
+          90,
+          820,
+          958,
+          860
+        ],
+        [
+          228,
+          861,
+          549,
+          887
+        ],
+        [
+          91,
+          893,
+          436,
+          921
+        ],
+        [
+          91,
+          925,
+          395,
+          952
+        ],
+        [
+          90,
+          944,
+          957,
+          984
+        ],
+        [
+          90,
+          986,
+          404,
+          1015
+        ],
+        [
+          90,
+          1005,
+          960,
+          1049
+        ],
+        [
+          92,
+          1050,
+          299,
+          1076
+        ],
+        [
+          84,
+          1077,
+          546,
+          1110
+        ],
+        [
+          136,
+          1115,
+          152,
+          1132
+        ],
+        [
+          195,
+          1098,
+          961,
+          1139
+        ],
+        [
+          230,
+          1142,
+          404,
+          1168
+        ],
+        [
+          92,
+          1160,
+          961,
+          1202
+        ],
+        [
+          232,
+          1204,
+          475,
+          1232
+        ],
+        [
+          91,
+          1226,
+          749,
+          1267
+        ],
+        [
+          91,
+          1250,
+          963,
+          1298
+        ],
+        [
+          232,
+          1292,
+          604,
+          1325
+        ],
+        [
+          198,
+          1312,
+          962,
+          1357
+        ],
+        [
+          235,
+          1363,
+          373,
+          1384
+        ],
+        [
+          94,
+          1392,
+          325,
+          1415
+        ],
+        [
+          94,
+          1414,
+          654,
+          1450
+        ],
+        [
+          235,
+          1483,
+          468,
+          1510
+        ],
+        [
+          92,
+          1496,
+          966,
+          1547
+        ],
+        [
+          234,
+          1526,
+          965,
+          1578
+        ],
+        [
+          237,
+          1578,
+          322,
+          1604
+        ]
+      ]
+    },
+    {
+      "page": 86,
+      "elapsed_seconds": 5.238,
+      "lines": [
+        "80-",
+        "mensaes. Os salarios sao pagos e os contractos cumpridos..",
+        "Tres Horas, e Vinte e Cinco de Julho ; regulares, em Alto Perdido,",
+        "Thereza, Sao Lourenco, Sao Pedro e terrenc's altos; argillosas em",
+        "Santa Rosa, etc.; misturadas na maior parte; planas nos valles dos",
+        "rios e entre os morros; montanhosas, na maior parte; pedregosas,",
+        "Rosa, Santa, Thcreza e Santa Leopoldina; pantanosas, nao ha.",
+        "A vegetacao é representada por mattas virgens en quasi todo o",
+        "canposnaturaes.",
+        "Precos - Um hectare de terra boa pertencente ao Estado custa 2$ooo a",
+        "1o$oco; e a particulares, 15soco e mais.",
+        "TRANSPORTES-- Os transportes sao feitos pelcs proprios productores, para",
+        "o mercado local. A conduccao por tropas para Santa Leopoldina,",
+        "regula 75 réis por kilo. Q municipio necessita principalnmente, de",
+        "transporte para outros pontus, en franco progresso.",
+        "NOTA.",
+        "O recenseamento em 19oo accusou 16.o0o habitantes para o municipio cuja",
+        "area é de 2.50o kilometros quadrados.",
+        "A séde possue 8o casas, regulares ; esta situada na altura de 66o metros; dista",
+        "da capital 75 kilometros; da cidade do Porto da Cachoeira de Santa Leopoldina,",
+        "29 kilometros; da estacao de Timbuhy, 36 kilometros.",
+        "O colono Virgilic Lambert, criador do bicho de seda, obteve seda excellente,",
+        "conforme anmostras enviadas para a Franca, Allemanla e Inglaterra, cnde alcancou",
+        "tres premios de honra. Segundo informacao do Sr. Lambert, 40o a 5oo casulos",
+        "produziram un kilogramma de séda; os fios regulavam ter mais de 4oo metros",
+        "de extensao.",
+        "Infelizmente o Sr. Lambert abandonou esta industria por falta de recursos.",
+        "A criacao do municipio é feita em pequena escala.",
+        "O municipio de Santa Thereza. p6de ser collocado no numero, dos mais",
+        "adeantados do Espirito Santo, dispondo de fcrte e operosa colonia estrangeira,",
+        "animada de desejos de progresso. A base de sua exploracao agricola é a cultura",
+        "cafeeira."
+      ],
+      "scores": [
+        0.8067817091941833,
+        0.9888484477996826,
+        0.9857550859451294,
+        0.983519434928894,
+        0.9928665161132812,
+        0.9983407258987427,
+        0.967511773109436,
+        0.9894334077835083,
+        0.9766465425491333,
+        0.978240430355072,
+        0.9576056599617004,
+        0.9835752844810486,
+        0.9573848247528076,
+        0.9708511829376221,
+        0.9832080006599426,
+        0.9037426114082336,
+        0.9613671898841858,
+        0.9629222750663757,
+        0.9833016991615295,
+        0.9950747489929199,
+        0.9851350784301758,
+        0.9881411194801331,
+        0.9693279266357422,
+        0.9855362772941589,
+        0.9791751503944397,
+        0.9551913738250732,
+        0.9923583269119263,
+        0.9876220226287842,
+        0.9491323828697205,
+        0.9994937181472778,
+        0.9805981516838074,
+        0.9966358542442322
+      ],
+      "boxes": [
+        [
+          730,
+          106,
+          850,
+          137
+        ],
+        [
+          499,
+          257,
+          1130,
+          298
+        ],
+        [
+          497,
+          376,
+          1220,
+          429
+        ],
+        [
+          496,
+          440,
+          1217,
+          490
+        ],
+        [
+          496,
+          505,
+          1214,
+          549
+        ],
+        [
+          493,
+          535,
+          1213,
+          582
+        ],
+        [
+          493,
+          598,
+          1210,
+          641
+        ],
+        [
+          493,
+          632,
+          1211,
+          672
+        ],
+        [
+          492,
+          698,
+          674,
+          719
+        ],
+        [
+          457,
+          721,
+          1211,
+          766
+        ],
+        [
+          493,
+          758,
+          917,
+          787
+        ],
+        [
+          352,
+          781,
+          1210,
+          827
+        ],
+        [
+          489,
+          818,
+          1207,
+          856
+        ],
+        [
+          490,
+          850,
+          1208,
+          887
+        ],
+        [
+          489,
+          881,
+          1048,
+          916
+        ],
+        [
+          731,
+          944,
+          817,
+          970
+        ],
+        [
+          393,
+          1000,
+          1203,
+          1041
+        ],
+        [
+          347,
+          1032,
+          730,
+          1061
+        ],
+        [
+          388,
+          1063,
+          1202,
+          1101
+        ],
+        [
+          346,
+          1092,
+          1202,
+          1133
+        ],
+        [
+          345,
+          1124,
+          927,
+          1159
+        ],
+        [
+          388,
+          1156,
+          1201,
+          1193
+        ],
+        [
+          343,
+          1187,
+          1200,
+          1224
+        ],
+        [
+          341,
+          1217,
+          1200,
+          1257
+        ],
+        [
+          340,
+          1249,
+          1200,
+          1287
+        ],
+        [
+          340,
+          1279,
+          469,
+          1305
+        ],
+        [
+          384,
+          1310,
+          1199,
+          1349
+        ],
+        [
+          341,
+          1343,
+          856,
+          1374
+        ],
+        [
+          384,
+          1372,
+          1198,
+          1410
+        ],
+        [
+          339,
+          1403,
+          1195,
+          1442
+        ],
+        [
+          337,
+          1433,
+          1197,
+          1474
+        ],
+        [
+          337,
+          1464,
+          425,
+          1489
+        ]
+      ]
+    },
+    {
+      "page": 95,
+      "elapsed_seconds": 5.807,
+      "lines": [
+        "89-",
+        "terras boas, regulares e inferiores, predominando as primeiras ; sao",
+        "em sua maior parte argillosas ; misturadas nao ha. Quanto a vege-",
+        "tacao predominam as mattas e capoeiras; cerrados, carrascaes e",
+        "campos naturaes nao ha.",
+        ".:",
+        "Precos - Un hectare de terra boa custa 3o$ooo, mais ou menos.",
+        "de cereaes para Campos, pela estrada de ferro paga 4oo réis; uma",
+        "arroba de café, 795 réis; de Dona America ao Rio, 1oo réis por",
+        "legua de estrada percorrida.",
+        "NOTA.",
+        "OR",
+        "Entre as vantagens, o grande agricultor daqui da ao colono, que procura",
+        "a sua fazenda, terrenos ja plantados com cafezaes de un, dois e até tres annos,",
+        "para que c colono os va conservando tratados, podendo usufruir todo o",
+        "cereal que cultivar nos aceiras, e, depois de fructificar o cafesal, da-lhe meiacao",
+        "na.colheita dos fructos.",
+        "Entretanto, apesar disso, a immigracao tem sido escassa, talvez devido a",
+        "Com o intuito de aninmar a corrente immigratoria o Congresso do Estado",
+        "acaba ainda de prorogar uma lei nesse sentido, até hoje baldada.",
+        "No municipio de S. Pedro do Itabapoana, a tres leguas da estacao do Mimo-",
+        "so, da linha Leopoldina, ha uma exteisao. de seis leguas quadradas de terras",
+        "devolutas que o governo do Estado propoz-se vender aos lotes a colonos estran-",
+        "misso de darem a sua medlicao.",
+        "Isso para .os colonos que possam dispor de capital para a medicao",
+        "das terras, para fazer as derrubadas e plantacoes até a prineira colheita e para",
+        "a construccao de moradia.",
+        "A medida é de grandes vantagens, pois que con pequeno dispendio de capital,",
+        "torna-se c colono proprietario.",
+        "Para os que nao dispem de capital, a proposta dos agricultores desses muni-",
+        "cipios é de vantagens apreciaveis, porque elles lhes dao a moradia, os terrenos ja",
+        "desbravados e ccm a primeira plantacao de café ja feita, o direito de cultivarem",
+        "cereaes conjunctamente con o café, exigindo-lhes sómente em troco o tratamento",
+        "do café e a meiacao nas colheitas deste fructo.",
+        "B.12"
+      ],
+      "scores": [
+        0.7865540385246277,
+        0.9842519164085388,
+        0.9908258318901062,
+        0.9636836647987366,
+        0.9838254451751709,
+        0.22600547969341278,
+        0.9824807643890381,
+        0.9605880975723267,
+        0.9671845436096191,
+        0.9858618974685669,
+        0.9334004521369934,
+        0.27348747849464417,
+        0.9893903136253357,
+        0.9893896579742432,
+        0.9644588232040405,
+        0.9865447878837585,
+        0.9584587216377258,
+        0.9684861302375793,
+        0.9832094311714172,
+        0.9813706874847412,
+        0.971221387386322,
+        0.9777324795722961,
+        0.9964076280593872,
+        0.9694672226905823,
+        0.9507763385772705,
+        0.9713972806930542,
+        0.9788082242012024,
+        0.9820833206176758,
+        0.9960810542106628,
+        0.9881141185760498,
+        0.9789853096008301,
+        0.9788597822189331,
+        0.9696908593177795,
+        0.9839375019073486,
+        0.8244013786315918
+      ],
+      "boxes": [
+        [
+          479,
+          123,
+          589,
+          155
+        ],
+        [
+          239,
+          220,
+          969,
+          242
+        ],
+        [
+          237,
+          249,
+          970,
+          275
+        ],
+        [
+          240,
+          282,
+          974,
+          305
+        ],
+        [
+          237,
+          311,
+          521,
+          336
+        ],
+        [
+          145,
+          344,
+          160,
+          360
+        ],
+        [
+          205,
+          344,
+          911,
+          366
+        ],
+        [
+          242,
+          405,
+          970,
+          429
+        ],
+        [
+          241,
+          435,
+          971,
+          461
+        ],
+        [
+          242,
+          466,
+          542,
+          491
+        ],
+        [
+          495,
+          526,
+          579,
+          552
+        ],
+        [
+          1209,
+          554,
+          1241,
+          710
+        ],
+        [
+          146,
+          590,
+          973,
+          617
+        ],
+        [
+          102,
+          620,
+          973,
+          650
+        ],
+        [
+          102,
+          647,
+          973,
+          684
+        ],
+        [
+          102,
+          681,
+          972,
+          712
+        ],
+        [
+          102,
+          715,
+          365,
+          742
+        ],
+        [
+          145,
+          741,
+          973,
+          773
+        ],
+        [
+          146,
+          805,
+          974,
+          834
+        ],
+        [
+          103,
+          835,
+          819,
+          866
+        ],
+        [
+          146,
+          865,
+          973,
+          898
+        ],
+        [
+          103,
+          896,
+          974,
+          929
+        ],
+        [
+          103,
+          928,
+          973,
+          960
+        ],
+        [
+          103,
+          995,
+          444,
+          1020
+        ],
+        [
+          148,
+          1021,
+          973,
+          1053
+        ],
+        [
+          104,
+          1053,
+          975,
+          1084
+        ],
+        [
+          104,
+          1089,
+          387,
+          1114
+        ],
+        [
+          146,
+          1112,
+          975,
+          1147
+        ],
+        [
+          102,
+          1150,
+          429,
+          1177
+        ],
+        [
+          146,
+          1174,
+          975,
+          1209
+        ],
+        [
+          106,
+          1204,
+          976,
+          1242
+        ],
+        [
+          103,
+          1235,
+          978,
+          1272
+        ],
+        [
+          105,
+          1267,
+          976,
+          1301
+        ],
+        [
+          106,
+          1304,
+          609,
+          1331
+        ],
+        [
+          144,
+          1594,
+          186,
+          1614
+        ]
+      ]
+    },
+    {
+      "page": 99,
+      "elapsed_seconds": 6.77,
+      "lines": [
+        ".93-",
+        "Vianna",
+        "S",
+        "3s",
+        "Impostos - Os agricultores e criadores nao pagam impostos directos.",
+        "11",
+        "A maior queixa - Os agricultores queixam-se das formigas e dos",
+        "fretes altos da Estrada de Ferro Leopoldina; os criadores, queixam-",
+        "se dos carrapatos e das pestes que atacam os aninaes.",
+        "21",
+        "Estrangeiros - Ha alguns italianos e allemaes; usam processos cultu-",
+        "raes communs e estac cm regulares condicoes econonicas.",
+        "AGUAS superficiaes - Rios: Jacü, Jacaranda, Formath c Vianna; todos per-",
+        "manentes. Nao ha lagoas.",
+        "ARVORES fructiferas - Laranjeiras, sapotyzeiros, macieiras, fructeiras de",
+        "pao, cabelludeira, mamoeiros, etc., as laranjas, sapotys e pinhas sao",
+        "as nmelhores_fructas.",
+        "ALIMENTACAO da populacao:--Alimenta-se mal, em geral, com carne secca",
+        "e farinha.",
+        "CAMPOS e pastos -- Existem poucos pastos; nelles predominan o capim gor-",
+        "dura roxo e o capim branco. Nao ha campos hervados.",
+        "CULTURAS - Café, mandioca e cereaes : a de café é a mais inportante.",
+        "COLHEITAS - Sao beneficiadas por processos rotineiros e vendidas parte bene-",
+        "ficiada, parte nao. Nao ha dados sobre as colheitas de ceraes e café",
+        "em 1909 e: 1910.",
+        "CEREAES, etc. - Ignoranm o custo de produccao; sendo os.precos de venda:",
+        "litro de milho, 100 réis ; arroz, 50o réis. Sao mercados conpradores :",
+        "o local e Victoria.Nao ha feiras.",
+        "CANNA de assucar -- Seus productos -- O kilo de assucar custa 30o réis; uma",
+        "rapadura de um kilo, 8oo réis; um litro de aguardente, 6oo réis.",
+        "COOPERATIVAS-Nao ha.",
+        "CALOR e frio - O calor comeca em Setembro e o frio em Junho.",
+        "CHUVAS -- Comecam em Setembro.",
+        "CONDICOES de saude da populacao  Boas.",
+        "CONTABILIDADE --Nao ha.",
+        "CRIACAO do nunicipio - Em pequena escala:.bovideos, equideos, ovideos e",
+        "stideos.",
+        "a3",
+        "De bovideos -- Comnmuns.",
+        "11",
+        "De equideos -- Communs.",
+        "77",
+        "De ovideos - Communs.",
+        "2?",
+        "De suideos.- Commiuns.",
+        "11",
+        "Productos - Carne, couro, toucinho e leite; todos sao procurados.",
+        "11",
+        "Custo dos animaes - Cavallo de sella, 150$o00 a 20o$o00; de carga,",
+        "100$o00; burro de sella, 20o$000 a 250$000; de carga, 10o$000;",
+        "nao ha aninaes de arado; boi carreiro, 1oo$ooo; de c6rte, 6o$ooo.",
+        "até 120$000; touro, 80$000 a 100$000; vacca leiteira produzindo em",
+        "nédia diaria de dois a tres litros de leite, 6o$ooo a 1oo$ooo; tm",
+        "litro de leite custa 30o réis."
+      ],
+      "scores": [
+        0.6776691675186157,
+        0.9755205512046814,
+        0.16534391045570374,
+        0.3592045307159424,
+        0.9809012413024902,
+        0.37388017773628235,
+        0.9666699171066284,
+        0.983725905418396,
+        0.983863890171051,
+        0.3910393714904785,
+        0.986565887928009,
+        0.9712648987770081,
+        0.9772561192512512,
+        0.9780230522155762,
+        0.994541347026825,
+        0.9875773787498474,
+        0.9039557576179504,
+        0.9613841772079468,
+        0.9853013753890991,
+        0.9460129141807556,
+        0.9746701121330261,
+        0.9594312310218811,
+        0.991256594657898,
+        0.9868165254592896,
+        0.8670008182525635,
+        0.9579609632492065,
+        0.9590255618095398,
+        0.9495686888694763,
+        0.9487884640693665,
+        0.9750314354896545,
+        0.9111005067825317,
+        0.9742856621742249,
+        0.973433792591095,
+        0.9782163500785828,
+        0.9542701840400696,
+        0.975266695022583,
+        0.982150673866272,
+        0.34651991724967957,
+        0.924155056476593,
+        0.45080944895744324,
+        0.9577898979187012,
+        0.47746697068214417,
+        0.9612535834312439,
+        0.4948832392692566,
+        0.9174547791481018,
+        0.6359955072402954,
+        0.9894060492515564,
+        0.43263423442840576,
+        0.9688721299171448,
+        0.8977369666099548,
+        0.973084568977356,
+        0.9828639030456543,
+        0.953999400138855,
+        0.9822155833244324
+      ],
+      "boxes": [
+        [
+          450,
+          109,
+          559,
+          134
+        ],
+        [
+          450,
+          168,
+          568,
+          198
+        ],
+        [
+          1199,
+          172,
+          1231,
+          290
+        ],
+        [
+          118,
+          266,
+          133,
+          286
+        ],
+        [
+          173,
+          253,
+          942,
+          289
+        ],
+        [
+          120,
+          297,
+          134,
+          311
+        ],
+        [
+          177,
+          287,
+          941,
+          318
+        ],
+        [
+          212,
+          319,
+          939,
+          349
+        ],
+        [
+          214,
+          353,
+          808,
+          380
+        ],
+        [
+          121,
+          391,
+          134,
+          406
+        ],
+        [
+          178,
+          380,
+          943,
+          413
+        ],
+        [
+          212,
+          413,
+          849,
+          443
+        ],
+        [
+          78,
+          444,
+          945,
+          485
+        ],
+        [
+          213,
+          483,
+          503,
+          511
+        ],
+        [
+          76,
+          510,
+          949,
+          553
+        ],
+        [
+          215,
+          543,
+          946,
+          582
+        ],
+        [
+          218,
+          584,
+          444,
+          608
+        ],
+        [
+          81,
+          613,
+          949,
+          649
+        ],
+        [
+          218,
+          652,
+          330,
+          676
+        ],
+        [
+          81,
+          680,
+          945,
+          716
+        ],
+        [
+          221,
+          712,
+          826,
+          745
+        ],
+        [
+          82,
+          748,
+          886,
+          781
+        ],
+        [
+          81,
+          781,
+          946,
+          822
+        ],
+        [
+          222,
+          811,
+          951,
+          849
+        ],
+        [
+          221,
+          854,
+          412,
+          883
+        ],
+        [
+          84,
+          879,
+          951,
+          919
+        ],
+        [
+          221,
+          910,
+          952,
+          949
+        ],
+        [
+          226,
+          949,
+          596,
+          976
+        ],
+        [
+          83,
+          971,
+          954,
+          1013
+        ],
+        [
+          224,
+          1002,
+          952,
+          1042
+        ],
+        [
+          87,
+          1045,
+          426,
+          1070
+        ],
+        [
+          86,
+          1067,
+          817,
+          1105
+        ],
+        [
+          88,
+          1107,
+          505,
+          1134
+        ],
+        [
+          87,
+          1135,
+          594,
+          1167
+        ],
+        [
+          89,
+          1170,
+          443,
+          1195
+        ],
+        [
+          86,
+          1186,
+          960,
+          1233
+        ],
+        [
+          228,
+          1233,
+          319,
+          1259
+        ],
+        [
+          136,
+          1263,
+          152,
+          1281
+        ],
+        [
+          195,
+          1262,
+          495,
+          1288
+        ],
+        [
+          135,
+          1296,
+          151,
+          1314
+        ],
+        [
+          195,
+          1292,
+          482,
+          1323
+        ],
+        [
+          136,
+          1330,
+          150,
+          1342
+        ],
+        [
+          197,
+          1325,
+          472,
+          1350
+        ],
+        [
+          135,
+          1357,
+          155,
+          1377
+        ],
+        [
+          196,
+          1357,
+          471,
+          1381
+        ],
+        [
+          135,
+          1389,
+          152,
+          1405
+        ],
+        [
+          198,
+          1373,
+          927,
+          1416
+        ],
+        [
+          139,
+          1421,
+          153,
+          1434
+        ],
+        [
+          198,
+          1404,
+          961,
+          1447
+        ],
+        [
+          235,
+          1435,
+          964,
+          1478
+        ],
+        [
+          234,
+          1465,
+          968,
+          1509
+        ],
+        [
+          235,
+          1496,
+          964,
+          1541
+        ],
+        [
+          237,
+          1528,
+          962,
+          1570
+        ],
+        [
+          236,
+          1571,
+          537,
+          1603
+        ]
+      ]
+    },
+    {
+      "page": 100,
+      "elapsed_seconds": 6.045,
+      "lines": [
+        "94=",
+        "1$ooo; de carneiro, 6oo réis; de toucinho, 1$ooo.",
+        ".9",
+        "queijo, 3$000.",
+        "11",
+        "Aves -- Uma gallinha custa 1$50o; a duzia de ovos, 6oo réis.",
+        "molestias que nao sao combatidas.",
+        "CUSTO dos tecidos - Nacionaes, communs, metro, 40o réis a 1$5oo; estran-",
+        "geiros, 1$000 a. 3$000.",
+        "ESTRADAS e pontes - Ha a Estrada de Ferro Leopoldina e estradas de roda-",
+        "gumas pontes nellas existentes.",
+        "EXPORTACAO e importacao - Exporta café, milho, feijao e laranjas ; importa",
+        "carne secca, fumo, sal, ferragens, tecidos, etc.",
+        "ESCOLAS - Ha duas escolas primarias estadoaes.",
+        "FABRICAS--Nao ha.",
+        "FARINHA de mandioca e feijao - O litro de farinha de mandicca custa 1oo réis;",
+        "de feijao, 26o 1éis.",
+        "HABITACOES --Descuradas, pouco confortaveis.",
+        "HYPOTHECAS-Poucas.",
+        "INSTRUMENTOS agricolas --Enxadas, machados, foices, etc.",
+        "JUROS -- A taxa é de 12 por cento ao anno.",
+        "MADEIRAS de lei - Cedro, peroba, ipé, braüna, sucupira, guarubu, etc",
+        "MINAS--Nao ha.",
+        "MOLESTIAS da populacao -- Communs. Em certos logares ha febres palustres.",
+        "91",
+        "E pragas das plantas cultivadas, -- Formigas sauvas, que sao comba-",
+        "tidas por processos conmuns, sem resultados satisfactorios.",
+        "NUCLEOS coloniaes -- Nao ha.",
+        "OPEROSIDADE da populacao - Ha poucos desoccupados, porém, a populacao",
+        "nao é muito laboriosa.",
+        "PADRES de terras boas -- Pao d'alho, cedro, peroba, jequitiba, etc.",
+        "31",
+        "De terras inferiores -- Canmara, Maria-preta, pindahyba, etc.",
+        "PORTOS-Naoha.",
+        "SEMENTES - Nao ha cuidado na escolha.",
+        "SEMEADURA - E' feita a mao; semeam em Marco, Abril, Setembro e Ou-",
+        "tubro.",
+        "SYSTEMA de .trabalho do pessoal agricola-A jornal.diario, mensal e",
+        "empreitadas.",
+        "deira, 7$000 mensaes; carpinteiro, 3$000 diarios ; nao ha adminis-",
+        "tradores nem escrivaes de fazenda. Os salarios sao pagos e os",
+        "contractos cumpridos."
+      ],
+      "scores": [
+        0.8549235463142395,
+        0.9432578086853027,
+        0.5137624740600586,
+        0.8467482924461365,
+        0.3958384394645691,
+        0.9742953777313232,
+        0.9833413362503052,
+        0.9756524562835693,
+        0.8608902096748352,
+        0.9950889945030212,
+        0.9947533011436462,
+        0.9765797257423401,
+        0.9876093864440918,
+        0.9811081886291504,
+        0.8987782001495361,
+        0.9615867733955383,
+        0.9032166600227356,
+        0.9562463164329529,
+        0.9823004603385925,
+        0.9778741002082825,
+        0.9612164497375488,
+        0.9749484062194824,
+        0.9137364029884338,
+        0.9570547938346863,
+        0.15412017703056335,
+        0.971934974193573,
+        0.9957516193389893,
+        0.9484676718711853,
+        0.9808456897735596,
+        0.9571574926376343,
+        0.9822819232940674,
+        0.32612091302871704,
+        0.9715840220451355,
+        0.892218291759491,
+        0.9714332818984985,
+        0.9803490042686462,
+        0.9971017241477966,
+        0.9726194739341736,
+        0.9955726265907288,
+        0.9725626111030579,
+        0.9837209582328796,
+        0.9967101216316223
+      ],
+      "boxes": [
+        [
+          729,
+          118,
+          843,
+          144
+        ],
+        [
+          499,
+          205,
+          1027,
+          237
+        ],
+        [
+          407,
+          239,
+          421,
+          252
+        ],
+        [
+          498,
+          276,
+          649,
+          298
+        ],
+        [
+          406,
+          306,
+          419,
+          319
+        ],
+        [
+          463,
+          306,
+          1121,
+          342
+        ],
+        [
+          494,
+          377,
+          876,
+          404
+        ],
+        [
+          353,
+          403,
+          1211,
+          453
+        ],
+        [
+          493,
+          446,
+          743,
+          470
+        ],
+        [
+          353,
+          472,
+          1210,
+          518
+        ],
+        [
+          492,
+          543,
+          828,
+          569
+        ],
+        [
+          350,
+          569,
+          1210,
+          619
+        ],
+        [
+          489,
+          609,
+          974,
+          640
+        ],
+        [
+          350,
+          639,
+          917,
+          676
+        ],
+        [
+          344,
+          676,
+          597,
+          704
+        ],
+        [
+          348,
+          703,
+          1209,
+          752
+        ],
+        [
+          490,
+          744,
+          696,
+          769
+        ],
+        [
+          349,
+          775,
+          901,
+          810
+        ],
+        [
+          349,
+          810,
+          653,
+          840
+        ],
+        [
+          348,
+          846,
+          1041,
+          886
+        ],
+        [
+          348,
+          883,
+          846,
+          917
+        ],
+        [
+          346,
+          918,
+          1136,
+          960
+        ],
+        [
+          348,
+          955,
+          552,
+          982
+        ],
+        [
+          347,
+          991,
+          1203,
+          1032
+        ],
+        [
+          395,
+          1028,
+          408,
+          1042
+        ],
+        [
+          451,
+          1030,
+          1202,
+          1068
+        ],
+        [
+          482,
+          1060,
+          1126,
+          1100
+        ],
+        [
+          344,
+          1094,
+          701,
+          1124
+        ],
+        [
+          341,
+          1129,
+          1200,
+          1172
+        ],
+        [
+          483,
+          1166,
+          718,
+          1190
+        ],
+        [
+          342,
+          1196,
+          1090,
+          1236
+        ],
+        [
+          391,
+          1234,
+          405,
+          1248
+        ],
+        [
+          447,
+          1234,
+          1110,
+          1273
+        ],
+        [
+          343,
+          1270,
+          562,
+          1294
+        ],
+        [
+          342,
+          1304,
+          813,
+          1337
+        ],
+        [
+          340,
+          1339,
+          1199,
+          1381
+        ],
+        [
+          479,
+          1376,
+          545,
+          1399
+        ],
+        [
+          339,
+          1404,
+          1207,
+          1451
+        ],
+        [
+          480,
+          1442,
+          616,
+          1468
+        ],
+        [
+          476,
+          1507,
+          1196,
+          1547
+        ],
+        [
+          477,
+          1540,
+          1199,
+          1577
+        ],
+        [
+          479,
+          1572,
+          710,
+          1599
+        ]
+      ]
+    },
+    {
+      "page": 103,
+      "elapsed_seconds": 6.808,
+      "lines": [
+        "97-",
+        "burio de sella, 250$o00; de carga, 10o$o00;.animal de arado nao",
+        "ha; boi carreiro, 1oo$ooo; de c6rte, a 8$ooo a arroba; touro, de",
+        "8o$oo0 a 25o$o0o; vacca leiteira, produzindo em média diaria dois",
+        "litros de leite, 25o$o00. O litro de leite custa 6oo réis. :",
+        "93",
+        "Carnes e toucinho -- O kilo de carne de vacca custa 70o réis; de porco",
+        "ou carneiro, I$2oo.; :de toucinho, 8oo réis.",
+        "11",
+        "Manteiga e queijo---.Nao fabrican.",
+        "1",
+        "Aves - Uma gallinha custa 2$5oo; uma duzia de ovos, 8oo réis.",
+        "21",
+        "Molestias--Comnuns. Tem havido casos de carbunculo symptomatico",
+        "CUSTO dos tecidos - Varia de 200 réis a 5$o0o o metro.",
+        "ESTRADAS e pontes - O municipio é servido por duas estradas de. ferro, a",
+        "a Leopoldina e a Victoria a Diamantina. Ha estradas de rodagem",
+        "com pontes regulares. Ha navegacao fluvial e maritima.",
+        "EXPORTACAO e importacao --Nao ha exportacao, pois as verduras, fructas",
+        "e leite, sao vendidos nos mercados de. Victoria; importa productos",
+        "de toda natureza exigidos pelas necessidades de una capital",
+        "de Estado.",
+        "ESCOLAS - Escola Nornal, de Bellas Artes, Instituto de Musica, diversas es-",
+        " colas prinarias e uma de aprendizes artifices.",
+        "FABRICAS - De cerveja, macarrao e ladrilhos. Acha-se en construccao uma",
+        "de tecidos de algodao.",
+        "FARINHA de mandioca e feijao - O litro de farinha custa de I2o a 2oo réis ;",
+        "o preco do feijao é muito variavel.",
+        "HYPOTHECAS --Algumas.",
+        "HABITACOES - B6as e reguiares.",
+        "INSTRUMENTOS agricolas - Enxadas, foices, machados, etc.",
+        "JUROS - Nao ha emprestimos aos agricultores.",
+        "MADEIRAS de lei - Jacaranda, peroba, canella, sapucaia, etc.",
+        "MINAS--Nao ha.",
+        "MOLESTIAS da populacao -- Communs.",
+        "1.3",
+        "E pragas das plantas cultivadas --- Formigas sauvas, pulgoes e brocas ;",
+        "as sauvas sao combatidas com formicidas e formigas cuyabanas.",
+        "NUCLEOS coloniaes --Nao ha.",
+        "OPEROSIDADE da populacao - Ha muitos desoccupados.",
+        "PADROES de terras boas - Pao d'alho, jequitiba c peroba",
+        "De terras inferiores -- Camara, navalha de mico, etc.",
+        "PORTOS --- Ha diversos, sendo o da Victoria o principal.",
+        "SEMENTES -- Nao ha cuidado na escolha.",
+        "SEMEADURAS - S&o feitas a mao, em,Setembro.",
+        "SYSTEMA do trabalho do pessoal agricola -- A jornal.",
+        "SALARIOS -- Trabalhador rural, 2$ooo a 2$50o por dia; cozinheiro, 5o$ooo",
+        "mensaes ; lavadeira, 25$000 nensaes ; carpinteiro, de 6$000 a 8$000 ;",
+        "nao ha administradores nem escrivaes de fazendas. Os salarios sao",
+        "pagos e os contractos cunpridos.",
+        "B.",
+        "13"
+      ],
+      "scores": [
+        0.7871566414833069,
+        0.9311302900314331,
+        0.9620528221130371,
+        0.963889479637146,
+        0.9519311785697937,
+        0.21407271921634674,
+        0.9578375816345215,
+        0.9379113912582397,
+        0.4018876552581787,
+        0.9602513909339905,
+        0.7364848852157593,
+        0.9852501153945923,
+        0.2501447796821594,
+        0.9776082038879395,
+        0.9671421647071838,
+        0.9839579463005066,
+        0.977286696434021,
+        0.9862218499183655,
+        0.9847205281257629,
+        0.9853226542472839,
+        0.974938154220581,
+        0.978951632976532,
+        0.9751520752906799,
+        0.9821517467498779,
+        0.9801397323608398,
+        0.9934976696968079,
+        0.9535046219825745,
+        0.9873781204223633,
+        0.9556339979171753,
+        0.9472663998603821,
+        0.9946396946907043,
+        0.984446108341217,
+        0.9906865954399109,
+        0.9134530425071716,
+        0.9579025506973267,
+        0.5136389136314392,
+        0.9711716175079346,
+        0.9815474152565002,
+        0.9754207134246826,
+        0.9891481995582581,
+        0.9678542613983154,
+        0.9880472421646118,
+        0.9820957779884338,
+        0.9568127989768982,
+        0.9612326622009277,
+        0.9903334975242615,
+        0.9576411843299866,
+        0.9652115106582642,
+        0.9876977801322937,
+        0.9887751936912537,
+        0.8296191692352295,
+        0.8421152234077454
+      ],
+      "boxes": [
+        [
+          469,
+          122,
+          580,
+          147
+        ],
+        [
+          232,
+          211,
+          963,
+          237
+        ],
+        [
+          233,
+          242,
+          961,
+          267
+        ],
+        [
+          233,
+          273,
+          963,
+          299
+        ],
+        [
+          232,
+          303,
+          838,
+          329
+        ],
+        [
+          140,
+          341,
+          152,
+          354
+        ],
+        [
+          199,
+          334,
+          963,
+          361
+        ],
+        [
+          232,
+          367,
+          703,
+          393
+        ],
+        [
+          138,
+          403,
+          155,
+          419
+        ],
+        [
+          199,
+          397,
+          593,
+          425
+        ],
+        [
+          139,
+          432,
+          156,
+          448
+        ],
+        [
+          200,
+          426,
+          903,
+          456
+        ],
+        [
+          136,
+          462,
+          157,
+          483
+        ],
+        [
+          199,
+          458,
+          960,
+          486
+        ],
+        [
+          92,
+          491,
+          732,
+          526
+        ],
+        [
+          92,
+          521,
+          965,
+          558
+        ],
+        [
+          235,
+          555,
+          963,
+          585
+        ],
+        [
+          234,
+          586,
+          840,
+          617
+        ],
+        [
+          92,
+          616,
+          966,
+          651
+        ],
+        [
+          235,
+          649,
+          963,
+          678
+        ],
+        [
+          235,
+          678,
+          964,
+          709
+        ],
+        [
+          236,
+          717,
+          354,
+          736
+        ],
+        [
+          95,
+          739,
+          961,
+          773
+        ],
+        [
+          231,
+          773,
+          753,
+          801
+        ],
+        [
+          95,
+          802,
+          967,
+          834
+        ],
+        [
+          237,
+          839,
+          493,
+          862
+        ],
+        [
+          97,
+          863,
+          966,
+          896
+        ],
+        [
+          237,
+          896,
+          614,
+          929
+        ],
+        [
+          97,
+          933,
+          426,
+          957
+        ],
+        [
+          96,
+          962,
+          504,
+          989
+        ],
+        [
+          97,
+          988,
+          797,
+          1021
+        ],
+        [
+          100,
+          1024,
+          634,
+          1051
+        ],
+        [
+          97,
+          1052,
+          794,
+          1082
+        ],
+        [
+          98,
+          1089,
+          316,
+          1112
+        ],
+        [
+          98,
+          1116,
+          572,
+          1145
+        ],
+        [
+          146,
+          1151,
+          160,
+          1165
+        ],
+        [
+          205,
+          1141,
+          970,
+          1177
+        ],
+        [
+          239,
+          1173,
+          967,
+          1206
+        ],
+        [
+          99,
+          1211,
+          461,
+          1235
+        ],
+        [
+          99,
+          1237,
+          759,
+          1270
+        ],
+        [
+          99,
+          1268,
+          756,
+          1299
+        ],
+        [
+          204,
+          1300,
+          785,
+          1328
+        ],
+        [
+          99,
+          1330,
+          748,
+          1361
+        ],
+        [
+          101,
+          1364,
+          582,
+          1390
+        ],
+        [
+          101,
+          1392,
+          686,
+          1423
+        ],
+        [
+          99,
+          1421,
+          721,
+          1456
+        ],
+        [
+          99,
+          1454,
+          972,
+          1491
+        ],
+        [
+          242,
+          1486,
+          973,
+          1522
+        ],
+        [
+          243,
+          1516,
+          973,
+          1552
+        ],
+        [
+          244,
+          1554,
+          601,
+          1586
+        ],
+        [
+          143,
+          1597,
+          161,
+          1608
+        ],
+        [
+          157,
+          1596,
+          179,
+          1610
+        ]
+      ]
+    },
+    {
+      "page": 104,
+      "elapsed_seconds": 2.866,
+      "lines": [
+        "98=",
+        "muitas capoeiras, cerrados. e alguns pastos.",
+        "Precos -- O preco é muito variavel.",
+        "pertencentes aos proprios productores. :",
+        "NOTA",
+        "Zonas -- O municipio póde. ser dividido.em quatro zonas principaes:",
+        "A littoral, cnde quasi nao ha planicie. A que acompanha o littoral, composta",
+        "de terrenos accidentados e montanhosos. A do littoral a Queimados, que é toda",
+        "plana e entremeiada de terrenos alagadicos, e a que fórma as demais partes do",
+        "municipio, compostas de ternenos ondulados.",
+        "Existem no municipio grandes mangues e brejos.",
+        "Mercado-O mercado existente é insufficierite para as transaccoes",
+        "2.321 bovinos, 8o6 suideos, 153 ovideos e um caprino.",
+        "Agricultura - E' rotineira, feita por homens na maioria analphabetos e sem",
+        "iniciativa."
+      ],
+      "scores": [
+        0.7665169835090637,
+        0.9920057654380798,
+        0.946135401725769,
+        0.9896184802055359,
+        0.998020589351654,
+        0.9803197979927063,
+        0.9940239787101746,
+        0.9863574504852295,
+        0.991715669631958,
+        0.9832432866096497,
+        0.9982265830039978,
+        0.966230034828186,
+        0.9880249500274658,
+        0.9889563322067261,
+        0.9968603253364563
+      ],
+      "boxes": [
+        [
+          736,
+          114,
+          849,
+          140
+        ],
+        [
+          503,
+          266,
+          962,
+          293
+        ],
+        [
+          470,
+          295,
+          858,
+          322
+        ],
+        [
+          503,
+          359,
+          930,
+          386
+        ],
+        [
+          753,
+          421,
+          832,
+          444
+        ],
+        [
+          409,
+          474,
+          1160,
+          515
+        ],
+        [
+          407,
+          505,
+          1220,
+          550
+        ],
+        [
+          361,
+          536,
+          1220,
+          578
+        ],
+        [
+          361,
+          568,
+          1219,
+          610
+        ],
+        [
+          362,
+          606,
+          843,
+          629
+        ],
+        [
+          407,
+          633,
+          931,
+          664
+        ],
+        [
+          408,
+          664,
+          1125,
+          697
+        ],
+        [
+          361,
+          727,
+          936,
+          757
+        ],
+        [
+          405,
+          756,
+          1219,
+          795
+        ],
+        [
+          359,
+          790,
+          459,
+          812
+        ]
+      ]
+    }
+  ]
+}

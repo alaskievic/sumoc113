@@ -1,0 +1,65 @@
+{
+  "industrial": {
+    "table_1": {
+      "row_count": 42,
+      "expected_rows": 42,
+      "missing_rows": 0,
+      "rows_needing_review": 17,
+      "source_pages": [
+        1
+      ]
+    },
+    "table_2": {
+      "row_count": 122,
+      "expected_rows": 122,
+      "missing_rows": 0,
+      "rows_needing_review": 0,
+      "source_pages": [
+        2,
+        3
+      ]
+    }
+  },
+  "commerce": {
+    "table_1": {
+      "row_count": 42,
+      "expected_rows": 42,
+      "missing_rows": 0,
+      "rows_needing_review": 0,
+      "source_pages": [
+        25
+      ]
+    },
+    "table_2": {
+      "row_count": 122,
+      "expected_rows": 122,
+      "missing_rows": 0,
+      "rows_needing_review": 0,
+      "source_pages": [
+        26,
+        27
+      ]
+    }
+  },
+  "services": {
+    "table_1": {
+      "row_count": 42,
+      "expected_rows": 42,
+      "missing_rows": 0,
+      "rows_needing_review": 0,
+      "source_pages": [
+        53
+      ]
+    },
+    "table_2": {
+      "row_count": 122,
+      "expected_rows": 122,
+      "missing_rows": 0,
+      "rows_needing_review": 7,
+      "source_pages": [
+        54,
+        55
+      ]
+    }
+  }
+}

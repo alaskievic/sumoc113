@@ -1,0 +1,85 @@
+CENSOS ECONÔMICOS DE 1985 - MUNICIPIOS
+CRERRECEMERLERCEERESRERCESERCRARCER REPRESAS ERREI ARES RRCELARASRERCLLCARCERRCREREARRE CERTAS
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO INDUSTRIAL DE 1980 E 1985
+
+FEXTECEALEECAREEEEEE EEE EASECECACLEEAE EEE EESC ERAS CEEE EEE EEE ERES EEE ESET TE
+2 + *
+: , CENSO DE 1980 *
+* * : *
+x t HEFECXECLEAEEESXEEELEEEEETLECCEATES EESC CEE EEE
+NUM, + * x PESSOAL OCUPADO * x
+* : * z EM 31-12-1880 * AND DE 1880 x
+* * * * *
+DE MUNICIPIOS, CLASSES * FRCESMECEEELEE CEEE EERALESSEES SERRAT E
+x * NUMERO + * E * ” .
+* [3 * * * * > x VALOR DA *
+oR- * xDE ESTA-= * * SALARIOS * VALOR * .*
+2 GENEROS DA INDUSTRIA * x E * RETIRADAS «+ BRUTO DA *TRANSFORMAÇÃO =
+* . * BELECI-+* * LIGADO A * E OUTRAS * PRODUÇÃO * x
+DEM +» * * TOTAL ” =  * REMUNERAÇÕES * INDUSTRIAL «* INDUSTRIAL =
+* = MENTOS + x PRODUÇÃO = a a *
+* * Ea E] CERTEZA ER
+z * , a LA .
+” * * a * (MIL CRUZEIROS). *
+a a * x * *
+CEEFREMELEHLEES CEEE EESC EEE EESEEEEEEESEELEEEELALTE RACER EEE ETR TRE
+184 MATERIAL ELETRICO...,.ccccccccccccc src 5 34 2" 4 513 19 675 . 12 649
+195 TRANSPORTE......ccccsslc rare carrera ras 2 (B) (a) (x) (B) (x)
+196 MADEIRA... . electro 12 202 161 22 681 202 408 118 037
+197 MOBILIARIO,..,,cccccrscarerarcrrrra rara 22 95 51 12 088 37 775 19 BB6
+198 PAPEL E PAPELÃO,....ccccsrscsisacisraa a rrcaso 2 te) tB) tX) tD) (X)
+200 QUIMICA.....cicsece acarretar rar 4 se 53 12 147 23 718 16 201
+201 FARMACEUTICA......scrrcrc racer rrenrr raras 1 (A) ta) (x) (B) (x)
+203 MATS. PLASTICAS... ..ccicrscrcercere rara renas 1 tB) ta) (X) (a) 1X)
+204 VESTUARIO, ess cearenses rna sda rrrdsrra rara 12 82 56 7 564 27 267 17 756
+2z05 ALIMENTARES.....cilic cercar cr rara raa raras 45 326 152 37 563 330 353 163 795
+206 BEBIDAS. ...,cccssracsrac eras 2 . (F) tê) (X> (E) (x)
+207 GRAFICA... ccrccicrerrre raca rr erra va rara crer 26 213 133 22 065 87 080 57 372
+208 DIVERSAS.,...ccsccrscre reta r err rr 15 74 as 4 am 2a 158 14 179
+208 RONDONOPOLIS......ccsccresscerasrerarranca raras 181 1 182 74 82 7B6 1 000 410 472 207
+210 NÃO METALICOS.,...csccccsccc rare as 255 17 15 315 62 432 32 783
+211 QUIMICA.... css censos rrrre rr 1 (A) ta) (X3 (a) (X)
+212 ALIMENTARES... crescia rasas aca rrrrrr aero 56 364 204 24 52a 578 519 251 080
+213 BEBIDAS..,....cscccc serra 2 (D) to) (x3 (D) (XxX)
+214 GRAFICA... .sccss cce rr era erre ra res 6 62 37 6 495 24 628 14 795
+215 - DEMAIS GENEROS.,....s.cccc ssa 7E 46% 304 32 420 213 422 150 439
+216 VARZEA GRANDE.....cccrvicacscrrrcarara rara eres 169 3 130 z 300 335 457 4 527 264 1 146 536
+217 NÃO METALICOS......cccccrsrcerccrererre sra rca Bo 659 477 43 537 235 320 174 512
+218 TRANSPORTE.....cccccscsl cs rara re rararans 8 (F)> (F) (X) (F) o)
+215 MADETRA..... clinicas 16 5s7 488 51 BEBES 581 311 AG 732
+220 ALIMENTARES......cccscc rsrs rrenan casa 28 1323 950 161 38€ 3 170 907 279 627
+221 BEBIDAS... cics erre rara rare rr narrar 2 (E) tD) (x) tr) (0X)
+222 DEMAIS GENEROS. .....,sisiecsiccrrrcacranc erra 35 329 198 ao 622 242 81 68 137
+223 ACORIZAL.....ccsscr erraram ana rerrrr naus 7 5 4 ass 1 306 sas
+225 ALTA FLORESTA...,....ccccssrrrserreraarrcrrrrrs 195 1 085 670 288 513 679 801 567 331
+226 ALTO ARAGUAIA... ,ccccsccircurares sra raras arara 2+ 77 4 S 745 106 400 17 688
+227 ALTO GARÇAS... ..cscccscrccrrrarrerarrrrercorrra 8 18 3 1 534 3 085 1 998
+228 ALTO PARAGUALI,...cccccseciscracrara crer - 20 228 206 +65 808 75 s3s 58 307
+2298 ARAPUTANGA,.,..cssrsssere erre res rnarr crase 30 132 Bo 9 762 85 912 37 289
+230 ARENAPOLIS,....sccccsccelsre rara ra rera sarro 136 1.357 1171 150 834” 359 241 269 432
+231 ARIPUANÃ...ccssciscrrarare arrasar 66 510 318 ao 161 707 718 645 253
+232 BARÃO DE MELGAÇO....ccsccssrsscir erro renan asa 10 18 6 2 598 6 429 3 758
+233 BARRA DO BUGRES....,.....ccscccccrrcrerrerrre cer 42 242 123 19 593 129 248 66 783
+234 BARRA DO GARÇAS.....cccsissssa soares serra rena 81 268 162 23 182 131 808 78 633
+235 CACERES.....isccertrcarcrrc rsrsrsr erra ra 53 570 448 as 575 421 667 250 151
+236 CANARANA.,.....siccrsecrerrcrrrra res rrara never 10 56 27 3 352 15 392 10 405
+237 CHAPADA DOS GUIMARÃES,.....ccssccriccrescrrreasa 7 38 25 3 507 zo 313 14 143
+238 COLIDER.......ccccsssro certa crr narra reco jo) 355 270 39 553 285 280 160 139
+240 DIAMANTINO.......crccccrescrcrarrarc errar cera 33 335 251 32 407 133 664 101 854
+241 DOM AQUIND.,....,s ls selicrasarerenanraa re rasos 25 173 128 9 721 83 895 26 436
+242 GENERAL CARNEJRO....cccccrccsccarerccrrerrrrerea 7 13 5 460 a B9B 2 473
+243 GUIRATINGA,....ccclcccrcce ra rrerrccrrare revi res 34 77 ao 7 2989 28 540 16 182
+244 ITIQUIRA......ccccclcic sirene arara arraia 2a 72 24 2 800 6 732 4 683
+245  JACIARA,...ccscsss cisne sa ae raa arrasa rara raras 3 213 135 18 575 376 324 110 135
+246  JAURU,.ossscccccccersacecra sarro re rsec rena raras 20 178 114 10 073 65 433 41 695
+247 JUARA, c crer errar era erra ara - - - - -. -
+249  JUSCIMEIRA....coccrccscrarerra erra rra carencia 14 99 54 5 9665 93 6S5 . 35 458
+250 LUCIARA,.....cssiceccrrrres errar ra era rs era ro ras 3 8 2 485 + 835 978
+
+Tn .
+251 VILA BELA DA SANTISSIMA TRINDADE........,....... ” 114 7 12 110 48 225 22 228
+252 MIRASSOL D'DESTE........cccscccrrerrrerr erra 6o 330 +80 14 513 323 8983 100 626
+253 NOBRES......ccccsscrrrcracererer rr re e racer 15 93 6a 15 era 75 797 50 111
+254 NORTELANDIA.....,.iscrccrrrarreve re rerarvr rasa 43 374 za8 42 831 87 658 74 754
+
+12

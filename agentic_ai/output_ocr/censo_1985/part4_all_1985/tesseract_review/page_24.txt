@@ -1,0 +1,66 @@
+. - CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+MESLESSEESLERCERAAECEEEASEEKESCLSESERLREASASLECCESECCKITELCEESCKSESERACEECAESCCSESSECECSTATRERCRCS ORA CRECACRRSCEAERESCCCCCA ARA
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO INDUSTRIAL DE 1880 E 1985 ]
+rd ada hd dd ea doc deado dade dad dead dad ao aaa deitada adelaide
+N : CENSO DE 1980 h
+: E aaenRaREAECRARAAEREEsCCERRECERRCACERSERRACra aee neraandaRc arena ce rnn asas
+NUM. * + * PESSOAL OCUPADO x *
+, * * Ev 31-12-1980 * ANO DE 1980 hd
+DE bi MUNICIPIOS, CLASSES hd PR PA
+: E : NUMERO n pi : n : VALOR DA :
+0oR- + *DE ESTA-* sz x SALARIOS * VALOR x 0
+x GENEROS DA INDUSTRIA * * x * RETIRADAS « BRUTO DA *TRANSFORMAÇÃO +
+DEM + + BELECI-1 TOTAL : hIGADO A + REMUNERAÇÕES h INDOSSÁIAL bi INDUSTRIAL pi
+* * MENTOS + * PRODUÇÃO «+ + * *
+* bú bi bd ERRCERERAEEREGA RENA Ranma Rana
+* x * = * (MIL CRUZEIROS) +
+a * x x * *
+RS E ES E E SS SO ESSE SD E
+584 MARANGUAPE........cccseccrrcarrrra carrascos 212 atas 3 787 405 O10 3 655 003 + 768 178
+585 MARÇO......ccccrcccra ecran rs rcrna rr rare rasa sro 38 169 102 13 249 72 411 21 856
+586 'MARTINOPOLE..,......ccccrscrsrsorcrrarerrercaavo 11 40 28 2 051 6 271 3 817
+. 587 MASSAPE.... circenses carrera rare 16 60 3º 3 432 11717 5 889
+SBB MAURITI...criccscrcrsencrarercanrrroreracarerasa 28 142 91 10 889 112 035 27 475
+5B9 MERUOCA... ..iiccsecera cera raras ro err rrcaras 4 26 12 3 005 10 433 3 945
+590 MILAGRES......sccccirrcerrerrercrrerorcarca raras 14 120 93 7 553 - 33 407 24 044
+591. MISSÃO VELHA......ccccerererecrrerccrerrerrrrea 15 s8 6º 7 219 188 952, 82 356
+B92 MOMBAÇA....ccccrrecrrse rara rsr rsrs rarrassaross 22 154 106 11 725 294 305 83 521
+593 MONSENHOR TABOSA........ccrccccrrcrcrrercr sacra 5 16 5 566 1497 682
+594 MORADA NOVA...,.ccccscrrrcera ra rrarasasr ca reraas 53 336 250 20 538 161 528 59 786
+595 MORAUJO....ciccscssrrrcerer ren re sussa carrera caro 1 (a) (A) (x) (a) (XxX)
+BB6 MORRINHOS... .cicrcrccrrrccress rara rarrasserassa 13 50 30 1 454 5 546 2 919
+587 MUCAMBO.......csicscecrcser essere rasanrrcs ras 13 83 61 3 364 9 638 5 371
+B98 MULUNGU. ..cscccrcscrercereara rr ren rra ra rrena ss 5 16 6 1 461 6 282 3 740
+5998 NOVA OLINDA.,.....ccsrrecererererrerererrr renas 5 66 58 3 BO4 18 275 15 325
+600 NOVA RUSSAS....,csisscaracarererae rare core rrras 38 198 138 10 824 123 800 22 000
+601 NOVO ORIENTE.......crcrcercrscererererrrcrrasaas 12 41 28 2 097 s 183 6 372
+602 “OROS,...cccsccccrrrererencce rare renererorrrensas 21 288 .207 17 524 1.018 057 256 254
+603 PACAJUS.,...cscscrscrerarera arraia rr rro nro casas 142 1 445 1 227 so 230 + 282 393 587 850
+604 PACATUBA....,...srrerrrrcorecarrers rara canaresrs 51 851 604 56 658 248 099 149 162
+605 PACOTI....cscccsssrcser ren rren oa carr raras ter cana 3 20 1 1 040 3 285 1 913
+606 PACUJA....cccccrsccrrerore cera rrrecarerrrvaraso 13 41 23 2 108 5 926 3 201
+607 PALHANO... cccercrccrrerrrecrera rica rran career os 6 106 84 4 016 10 778 7 485
+608 PALMACIA.....cccsccrsrasrra rca scasro sera serasa 33 88 46 2 876 10 515 5 057
+608 PARACURU..,..ciccsrro rare rarrarerrrerareraarrs 13 2 338 783 59 864 498 596 204 416
+610 PARAMBU......cicccrcrcrcer acerca ro sra rercortresa 13 39 19 2 643 7 560 3 415
+611 PARAMOTI,..cccrscccerencrr res ra rrrasrerse stress 4 46 38 2 464 13 836 9 834
+612 PEDRA BRANCA,.,...scrccraccrrrrancerarra rancor» 16 63 38 3 160 11 834 5 522
+613 PENAFORTE.....crcerrrecercreresnenearerererraraa 2 (B) (B) 00 (A) 00 É
+614 PENTECOSTE......cicccrcererra ca cerrra vence raras 30 114 [3] 4 782 13 071 6 361
+615 PEREIRO.....cccrccrcerrrenarerr res racasrererroas 8 26 6 1 895 6 689 2 833
+616 PIQUET CARNEIRO......cccccreccrccrrracarirraracs 6 45 25 3 053 176 844 47 378
+617 PORANGA.,....cssrcccercercrrer rs seno renas rrrc rsrs 3 14 9 424 7 000 4 609
+618 PORTEIRAS.......ccrrrcerer cera rre ce rerrrvanars 2 (tc) (A) (x) (8) (x)
+619 POTENGI....crccrrrrerscercerenaraneraareraaraara 5 15 5 754 2 130 1158
+620 QUIXADA.....csiccsscsseerssrerraaarrrnc ore c rasas 62 557 407 27 685 541 102 216 464
+621 QUIXERAMOBIM.....c.csrcrcrrcrrreraro rare rerasos 40 346 253 16 770 1 063 433 432 567
+622 QUIXERE........cccccrrrrrarerar erre ros orsrrrraas 38 340 272 6 995 16 242 10 636
+623 REDENÇÃO.........cccsccscsccrre rara srra sera 56 654 518 32 806 244 051 144 703
+624 RERIUTABA......ccrcrrarerare re rransantrrrcacaraa +8 67 36 3 087 17 028 9 687
+625 RUSSAS.....cscsssssrce rare race rercrrrccc re crasra 131 1 016 765 38 865 277 086 158 741
+626 SABOEIRO.........ccrrcrrrrr cs crnceranecrcorrnacs 9 29 17 sa 2 619 1 444
+627 SANTANA DO ACARAU......crcctrrrecerercrrecrerves 26 898 54 4 178 12 760 6 146
+628 SANTANA DO CARIRI......ccccesrernasccrarenreraas 29 87 34 1 845 s 526 6 306
+629 SANTA QUITERIA.,......ccccccrcrrrrercrrecererness 12 117 75 8 236 8o 501 18 os0
+630 SÃO BENEDITO........cccisecrcrrrcerarenacastasra 18 78 as 3 940 43 568 24 528
+26

@@ -1,0 +1,61 @@
+table_1_all parse report
+source_pdf: /Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/energy_br/table_1_all.pdf
+ocr_json: /Users/alaskievic/Desktop/master_work/sumoc113/agentic_ai/ocr_work/energy_br/table_1_all/mistral_outputs/table_1_all_mistral_raw.json
+csv_dir: /Users/alaskievic/Desktop/master_work/sumoc113/agentic_ai/ocr_work/energy_br/table_1_all/csv
+pages_processed: 58
+section_i_rows: 387
+section_ii_rows: 228
+combined_rows: 615
+
+alignment_status_counts:
+- left_only: 6
+- matched: 576
+- right_only: 33
+
+diagnostics:
+spread 1-2: left_tables=5 right_tables=5
+spread 3-4: left_tables=4 right_tables=4
+  table_pair tbl-16.md/tbl-21.md: left_records=5 right_groups=6
+spread 5-6: left_tables=2 right_tables=2
+spread 7-8: left_tables=1 right_tables=1
+  table_pair tbl-28.md/tbl-30.md: left_records=21 right_groups=22
+spread 9-10: left_tables=1 right_tables=1
+spread 11-12: left_tables=1 right_tables=1
+spread 13-14: left_tables=4 right_tables=4
+spread 15-16: left_tables=2 right_tables=2
+spread 17-18: left_tables=1 right_tables=3
+  spread_order_pairing: left_records=18 right_groups=19
+spread 19-20: left_tables=1 right_tables=3
+spread 21-22: left_tables=1 right_tables=1
+  table_pair tbl-64.md/tbl-66.md: left_records=27 right_groups=28
+spread 23-24: left_tables=2 right_tables=2
+  table_pair tbl-69.md/tbl-72.md: left_records=12 right_groups=11
+spread 25-26: left_tables=1 right_tables=1
+  table_pair tbl-74.md/tbl-76.md: left_records=15 right_groups=18
+spread 27-28: left_tables=1 right_tables=1
+  table_pair tbl-78.md/tbl-80.md: left_records=18 right_groups=19
+spread 29-30: left_tables=1 right_tables=1
+  table_pair tbl-82.md/tbl-84.md: left_records=18 right_groups=22
+spread 31-32: left_tables=3 right_tables=3
+  table_pair tbl-86.md/tbl-90.md: left_records=10 right_groups=12
+spread 33-34: left_tables=1 right_tables=3
+spread 35-36: left_tables=1 right_tables=1
+spread 37-38: left_tables=1 right_tables=1
+spread 39-40: left_tables=1 right_tables=1
+  spread_order_pairing: left_records=15 right_groups=16
+spread 41-42: left_tables=1 right_tables=1
+  spread_order_pairing: left_records=16 right_groups=17
+spread 43-44: left_tables=2 right_tables=1
+  spread_order_pairing: left_records=20 right_groups=16
+spread 45-46: left_tables=5 right_tables=1
+  spread_order_pairing: left_records=16 right_groups=19
+spread 47-48: left_tables=1 right_tables=2
+spread 49-50: left_tables=3 right_tables=2
+  spread_order_pairing: left_records=17 right_groups=16
+spread 51-52: left_tables=1 right_tables=1
+  spread_order_pairing: left_records=16 right_groups=22
+spread 53-54: left_tables=1 right_tables=1
+  spread_order_pairing: left_records=15 right_groups=20
+spread 55-56: left_tables=1 right_tables=1
+spread 57-58: left_tables=1 right_tables=1
+  spread_order_pairing: left_records=15 right_groups=18

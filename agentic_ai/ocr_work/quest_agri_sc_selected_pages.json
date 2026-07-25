@@ -1,0 +1,2058 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/questionario_agri/quest_agri_sc.pdf",
+  "engine": "paddleocr",
+  "lang": "pt",
+  "ocr_version": "PP-OCRv3",
+  "dpi": 180,
+  "text_det_limit_side_len": 1400,
+  "pages": [
+    {
+      "page": 12,
+      "elapsed_seconds": 2.86,
+      "lines": [
+        "-6-",
+        "accidentadas utilisadas para campos de criar. A vegetacao é muito",
+        "variada, pois possue mattas, capoeiras, canpos, cerrados",
+        "carrascaes.",
+        "i",
+        "approximadamente.",
+        "via fluvial, pagam 3oo réis, por sacca de dois alqueires.",
+        "NOTA",
+        "Este municipic acha-se situado junto a illa de Santa Catharina, onde se",
+        "encontra a capital do Estado, distando do estreito ahi existente, r8 kilonmetros.",
+        "Limita-se ao Sul com S. José. Existem no minicipio muitos colonos allemaes con",
+        "böas propriedades agricolas e que muitc: tém concorrido para o desenvolvimento",
+        "desta zona. Os coloncs dedicam-se a fabricacao de manteiga, com o que tem",
+        "obtido. excellentes resultados.",
+        "O arroz é cultivado en larga escala neste nunicipio ; a sua produccao no anno",
+        "de 1g1o attingiu a 12 nil alqueires nais ctt menos."
+      ],
+      "scores": [
+        0.6783986687660217,
+        0.9944624900817871,
+        0.9917027354240417,
+        0.9931939840316772,
+        0.09677914530038834,
+        0.9900774359703064,
+        0.9892062544822693,
+        0.9934810400009155,
+        0.9817843437194824,
+        0.9820209741592407,
+        0.9723458886146545,
+        0.9724811911582947,
+        0.9576585292816162,
+        0.9778816103935242,
+        0.9686093926429749,
+        0.9662531614303589
+      ],
+      "boxes": [
+        [
+          671,
+          109,
+          766,
+          132
+        ],
+        [
+          429,
+          257,
+          1159,
+          291
+        ],
+        [
+          429,
+          290,
+          1142,
+          321
+        ],
+        [
+          432,
+          330,
+          542,
+          346
+        ],
+        [
+          624,
+          340,
+          640,
+          357
+        ],
+        [
+          430,
+          385,
+          635,
+          413
+        ],
+        [
+          432,
+          450,
+          1027,
+          475
+        ],
+        [
+          676,
+          510,
+          755,
+          533
+        ],
+        [
+          335,
+          570,
+          1160,
+          603
+        ],
+        [
+          292,
+          605,
+          1158,
+          632
+        ],
+        [
+          292,
+          637,
+          1159,
+          662
+        ],
+        [
+          292,
+          667,
+          1158,
+          695
+        ],
+        [
+          289,
+          698,
+          1158,
+          726
+        ],
+        [
+          292,
+          734,
+          595,
+          755
+        ],
+        [
+          339,
+          765,
+          1157,
+          787
+        ],
+        [
+          292,
+          794,
+          827,
+          820
+        ]
+      ]
+    },
+    {
+      "page": 42,
+      "elapsed_seconds": 4.841,
+      "lines": [
+        "36-",
+        "custa Ir réis :por kilo.",
+        "NOTA",
+        "Limites -O municipio esta situado ao sul da capital, da qual dista 76 kilo-",
+        "coin o nunicipio de Tuibarao.",
+        "Area -8oo kilometros quadrados approximadamente.",
+        "Populacao -- 1o.ooo habitantes approxinmadanente.",
+        "Condicöes topographicas - E' o municipio na maioria nontanhoso, possuindo",
+        "a oéste a serra do Taboleiro com goo metros approxinmadamente, acima do nivel",
+        "do mar. Ha tambem extensas planicies nos valles dos principaes rios, como o",
+        "Imbahü c Siriu. Estas planicies sao geralmente constituidas por utm terreno",
+        "muito.arenoso, principalmente as que cstao junto ao littoral. Os rios Imbahü",
+        "e Siriu, assin como as lagoas Garopaba, Capivara e Patlo Lopes, sao navegaveis.",
+        "Reccita c dcspesa-A receita e despeza do municipio no anno de igi2,",
+        "fora de 6.:ooo$ooo.",
+        "Viacao c commcrcio -A communicacao de Garopaba com a capital é mais",
+        "commtmente feita por via maritima, havendo para isto muitos lanchoes, graudes",
+        "canas e hiates. Por via terrestre ha uma estrada que partindo de Palhoca,",
+        "sempre beirando o mar, vae até cn frente a ilha, na qual csta situada a capital.",
+        "De transporte maritimo, cobra-se por sacco de 45 kilos 5oo réis de Garopaba",
+        "a capital. Brevemente farao escala em Garopaba os vapores da Conpanhia",
+        "Hoepcke. A causa do desanimo do commercio 1ocal e sónente devido a falta",
+        ".de connunicaces. Os productos mais importantes exportados pelo municipio",
+        "sao: bananas, farinha de mandioca, que attinge a 18.ooo alqueires, e café que",
+        " vae a dez mil arrobas.",
+        "Industria pastoril-- Segundo estatistica feita pela municipalidade, existiam",
+        "approximadanente, no municipio em 1g11 ; 5.ooo cabecas de gado vaccum;",
+        "3.40o cabecas de equideos, 3.oco de suideos, goo carneiros e 30o caprinos.",
+        "Existem I22 engenlocas de assucar c 2go de farinha de mandioca, assim como",
+        "pequenos alanmbiques para o fabrico de aguardente."
+      ],
+      "scores": [
+        0.7334005236625671,
+        0.8915947079658508,
+        0.9911338686943054,
+        0.9714284539222717,
+        0.9602373838424683,
+        0.9570536017417908,
+        0.9517877697944641,
+        0.9688640236854553,
+        0.9790900349617004,
+        0.9812812209129333,
+        0.9635154008865356,
+        0.9844879508018494,
+        0.9763467311859131,
+        0.9642696380615234,
+        0.9650819897651672,
+        0.9570741653442383,
+        0.9693793058395386,
+        0.9943253993988037,
+        0.9825789332389832,
+        0.9627198576927185,
+        0.973494291305542,
+        0.9528602957725525,
+        0.9861719012260437,
+        0.9703323841094971,
+        0.9564840793609619,
+        0.9679735898971558,
+        0.9625905752182007,
+        0.9625782370567322,
+        0.9745333790779114,
+        0.9815967082977295
+      ],
+      "boxes": [
+        [
+          675,
+          102,
+          792,
+          128
+        ],
+        [
+          448,
+          223,
+          692,
+          249
+        ],
+        [
+          693,
+          282,
+          772,
+          307
+        ],
+        [
+          352,
+          343,
+          1171,
+          375
+        ],
+        [
+          306,
+          442,
+          622,
+          463
+        ],
+        [
+          352,
+          469,
+          940,
+          495
+        ],
+        [
+          356,
+          503,
+          899,
+          525
+        ],
+        [
+          352,
+          530,
+          1169,
+          561
+        ],
+        [
+          306,
+          560,
+          1171,
+          592
+        ],
+        [
+          307,
+          588,
+          1171,
+          624
+        ],
+        [
+          306,
+          620,
+          1170,
+          654
+        ],
+        [
+          306,
+          653,
+          1168,
+          683
+        ],
+        [
+          307,
+          681,
+          1167,
+          716
+        ],
+        [
+          352,
+          713,
+          1167,
+          748
+        ],
+        [
+          310,
+          749,
+          533,
+          768
+        ],
+        [
+          351,
+          775,
+          1168,
+          808
+        ],
+        [
+          305,
+          806,
+          1168,
+          838
+        ],
+        [
+          307,
+          834,
+          1167,
+          871
+        ],
+        [
+          305,
+          868,
+          1166,
+          898
+        ],
+        [
+          305,
+          898,
+          1166,
+          930
+        ],
+        [
+          307,
+          929,
+          1166,
+          961
+        ],
+        [
+          309,
+          960,
+          1167,
+          991
+        ],
+        [
+          303,
+          991,
+          1166,
+          1023
+        ],
+        [
+          307,
+          1021,
+          1166,
+          1054
+        ],
+        [
+          301,
+          1057,
+          544,
+          1075
+        ],
+        [
+          353,
+          1083,
+          1166,
+          1114
+        ],
+        [
+          308,
+          1114,
+          1168,
+          1147
+        ],
+        [
+          309,
+          1143,
+          1166,
+          1178
+        ],
+        [
+          310,
+          1175,
+          1167,
+          1206
+        ],
+        [
+          307,
+          1207,
+          873,
+          1236
+        ]
+      ]
+    },
+    {
+      "page": 45,
+      "elapsed_seconds": 4.438,
+      "lines": [
+        "39",
+        "NOTA",
+        "O mtnicipio de Inmaruhy possue uma area approximada de 1.2oo kilometres",
+        "quadrados, e uma populacao de cerca de 7.g2o habitantes.",
+        "Limitcs --Limita-se ao Norte coun Garopaba; ao Sul e Leste con a lagoa",
+        "de Imaruhy e o municipio de Laguna, c a Oeste com o de Tubarao. Estä situado",
+        "ao sul da Capital, distante 1g leguas. A séde dista de Laguna 3 / leguas.",
+        "A receita dc municipio, para 1g13 é: de.4:5oo$ooo. A séde communica-sc.",
+        "com Laguna, porto de exportacao, por mcio de lanchoes, canoas, botes, etc., pela",
+        "lagoa de Imuruhy, ou por terra, pelo caminho de cargueiro, que é plano, muito",
+        "arenoso e mal conservado. No logar, Richicin a mencisnada lagoa ede",
+        "555 metros, approximadanmente.",
+        "A cultura do feijao attinge, de 1.5oo a 2.oo litros, yor hcctare.",
+        "Un hectare de terra plantado de canna de assucar produz, en média, 3o",
+        "a 4o toneladas de canna. O milho produz 2o hectolitros por hectare. Em 19o9 c",
+        "municipio produziu cerca de 15.ooo alqueires de milhc; 2.30o arrobas de cafe",
+        "e 30.000 alqueires de farinha de mandioca.",
+        "Imaruhy exporta para o porto de Laguna: farinha, feijao, assucar, banha,",
+        "amendoim, bananas, millo, etc. ; nao sendo possivel calcular o valor da cxportacao",
+        "por falta de dados.",
+        "O milho é ual cultivadc, tiram, por exenplo, uma média de 2o hectolitros",
+        "por hectare, ao passo que uma boa cultura produz 45; entrctanto esse cercal :",
+        "muito cultivado no municipio, sendo a sua produccao de 15.c00 a 20.00 alqueires.",
+        "consumidos no municipio.",
+        "Outr'ora a produccao da café era de 2o.oco a 30.oco arrcbas, annualmente.",
+        "sendo hoje, de 2.5oo arrobas, devido a falta de trato cultural conveniente.",
+        "A villa possue dcis engcnhos para beneficiar arroz, bencficiando de tres a",
+        "quatro saccos por dia. Existem tambem pccuenos engenhcs para c fabrico do",
+        "assucar grosso, e da farinha de mandioca."
+      ],
+      "scores": [
+        0.950272798538208,
+        0.9945461750030518,
+        0.9316185712814331,
+        0.9832912087440491,
+        0.946057140827179,
+        0.9658804535865784,
+        0.9753438830375671,
+        0.9749220609664917,
+        0.9776214361190796,
+        0.9864169955253601,
+        0.9502034187316895,
+        0.9687813520431519,
+        0.9695416688919067,
+        0.9891987442970276,
+        0.9667139649391174,
+        0.9547168612480164,
+        0.9641221165657043,
+        0.9857879281044006,
+        0.9792983531951904,
+        0.9975727200508118,
+        0.9566605687141418,
+        0.9795647859573364,
+        0.9805570840835571,
+        0.9886876940727234,
+        0.9681429862976074,
+        0.9740787744522095,
+        0.9657608270645142,
+        0.9847281575202942,
+        0.9854223728179932
+      ],
+      "boxes": [
+        [
+          403,
+          115,
+          513,
+          138
+        ],
+        [
+          419,
+          172,
+          498,
+          195
+        ],
+        [
+          68,
+          230,
+          900,
+          263
+        ],
+        [
+          21,
+          262,
+          645,
+          297
+        ],
+        [
+          68,
+          292,
+          898,
+          325
+        ],
+        [
+          21,
+          323,
+          898,
+          356
+        ],
+        [
+          18,
+          355,
+          818,
+          389
+        ],
+        [
+          67,
+          386,
+          900,
+          418
+        ],
+        [
+          21,
+          416,
+          900,
+          450
+        ],
+        [
+          23,
+          447,
+          900,
+          481
+        ],
+        [
+          19,
+          476,
+          901,
+          514
+        ],
+        [
+          23,
+          512,
+          380,
+          547
+        ],
+        [
+          72,
+          542,
+          736,
+          572
+        ],
+        [
+          72,
+          571,
+          900,
+          604
+        ],
+        [
+          22,
+          599,
+          903,
+          639
+        ],
+        [
+          23,
+          630,
+          902,
+          670
+        ],
+        [
+          24,
+          665,
+          494,
+          702
+        ],
+        [
+          73,
+          694,
+          901,
+          730
+        ],
+        [
+          25,
+          724,
+          901,
+          761
+        ],
+        [
+          25,
+          763,
+          239,
+          794
+        ],
+        [
+          73,
+          784,
+          906,
+          824
+        ],
+        [
+          25,
+          814,
+          906,
+          857
+        ],
+        [
+          25,
+          848,
+          903,
+          886
+        ],
+        [
+          26,
+          890,
+          315,
+          915
+        ],
+        [
+          78,
+          908,
+          905,
+          947
+        ],
+        [
+          28,
+          941,
+          826,
+          979
+        ],
+        [
+          78,
+          970,
+          908,
+          1009
+        ],
+        [
+          29,
+          999,
+          908,
+          1044
+        ],
+        [
+          29,
+          1040,
+          487,
+          1072
+        ]
+      ]
+    },
+    {
+      "page": 48,
+      "elapsed_seconds": 5.645,
+      "lines": [
+        "42",
+        "e imeiacao.",
+        "administrador de fazenda, 15o$ooo por mez; nao ha escrivac de",
+        "fazenda. Os salarios sao pagos e os contractos cumpridos.",
+        "en menor porqao. Ha muitas argillosas e arnosas, havendo mistu-",
+        "radas em menor parte. Ha planas nas margens dos rios Itajahy-assu",
+        "e Itajahy-mirim, algunas mc'ntanlosas e pedregosas, sao enxutas as",
+        "do littoral e algumas pantanosas nas margens dos grandes rios.",
+        "A vegetacao é representada por mattas virgens e capociras. Nao ha",
+        "cerrados, carrascacs e capos.",
+        "Precos-Um hectare de terra boa custa 10$oco a 30$oo, mais ou menos.",
+        "TRANSPORTES --Para o mercado Iocal pagam 6 réis por kilo, em carretas;",
+        "pelo ric pagam metade; cn exportaqao pagam por 6o kilos cum",
+        "carretas, 1$oco; em lanchas, saveiros ou vapor, &oo reis.",
+        "NOTA",
+        "Estc nunicipio é um dos mais importantes do Estado, nac s6 pelo sct valor",
+        "proprio, como pela sua magnifica posicao geographica.",
+        "Possue um bom porto, que :pode ser considerado o segundo de Santa",
+        "Catharina, ja pela sua prcfundidade, ja pela solida construceao de seu caes, que",
+        "se prolonga em direccao a barra, facilitando as embarcacoes a atracacao aos",
+        "trapiches ahi existentes.",
+        "O irovimento de exportacao deste porto, no anno de rgog attingiu a avultada",
+        "somma de 2.946:333$350 e no prineiro semestre de 1910, a 1.418:735$000.",
+        "Os productcs exportados durante o anno de 1gog foram os seguintes:",
+        "aguardente, 9.86o litros, no valor de 1 :399$ooo; arroz beneficiado, 255.055 kilos,",
+        "62:278$800; banha de porco, 480.055 kilos, 317 :919$800; cambotas para carrocas,",
+        "2:786$230; carne en salmoura, 14704 kilos, 8:893$76o; canisas :le meias, de",
+        "algodao, $.709. 20:157$g-7; cortinas de renda. 74 pares, 2:015$o00; charuto3,",
+        "352.500, 5:783$250; cigarros 95.000, 95o$cco; dormcntes, 1.6g9 duzias,",
+        "24:40o$o00; farinha de mandicca, 12.825 kilos, 8:635$350: feijao,10.740 kilos.",
+        "i:o38$oco; fumo em folha, 27.48o kilos, 11:o39$50o; linguica, 3.4&2 kilos,",
+        "3:48ε$o00; nanteiga. 549.0&o kilos, 1:211:394$800; pranches, 12:962$000;",
+        "polvilho, 3.357 kilos,  :29a$70o; ripas :de gissara, para cstuue, 5.157.025,",
+        "16.270 kilos, 22:g27$40o; taboas serradas para assoalho, 62.376 duzias.",
+        "517:378$848 taboas, para caixinhas de charutos, ctc.. .19o metros cubicas,",
+        "43:798$6oo; tecidos de algodao, 3.$7o pecas. 22:963$ooo; vassouras de cip6,",
+        "5.230, 1:36g$ooo; vermicida, 119 kilos, 2:384$oce. Para 0 estrangeiro, forau",
+        "fumo em folhas, pelo preca de 68:g14$40o."
+      ],
+      "scores": [
+        0.967832624912262,
+        0.8895296454429626,
+        0.9860169887542725,
+        0.9919084906578064,
+        0.9862491488456726,
+        0.9803172945976257,
+        0.9492020010948181,
+        0.9975159168243408,
+        0.9850803017616272,
+        0.9618248343467712,
+        0.9682521820068359,
+        0.9540483951568604,
+        0.9604171514511108,
+        0.9668949246406555,
+        0.9503030180931091,
+        0.9627795219421387,
+        0.9828539490699768,
+        0.9556920528411865,
+        0.9769347906112671,
+        0.9645820260047913,
+        0.997952401638031,
+        0.975570559501648,
+        0.9661045074462891,
+        0.97569739818573,
+        0.9694583415985107,
+        0.972232460975647,
+        0.9560825824737549,
+        0.9385364055633545,
+        0.9445244073867798,
+        0.9538230895996094,
+        0.9503847360610962,
+        0.9280405044555664,
+        0.9390000700950623,
+        0.9551880359649658,
+        0.9378854036331177,
+        0.9578685760498047,
+        0.9482610821723938,
+        0.9235997796058655
+      ],
+      "boxes": [
+        [
+          664,
+          104,
+          772,
+          127
+        ],
+        [
+          426,
+          195,
+          541,
+          216
+        ],
+        [
+          450,
+          287,
+          1156,
+          327
+        ],
+        [
+          428,
+          323,
+          1060,
+          351
+        ],
+        [
+          425,
+          388,
+          1154,
+          423
+        ],
+        [
+          428,
+          419,
+          1154,
+          455
+        ],
+        [
+          428,
+          450,
+          1157,
+          487
+        ],
+        [
+          429,
+          481,
+          1156,
+          518
+        ],
+        [
+          430,
+          515,
+          1155,
+          546
+        ],
+        [
+          430,
+          551,
+          752,
+          571
+        ],
+        [
+          395,
+          574,
+          1155,
+          610
+        ],
+        [
+          289,
+          608,
+          1155,
+          647
+        ],
+        [
+          430,
+          646,
+          1155,
+          676
+        ],
+        [
+          430,
+          678,
+          1038,
+          704
+        ],
+        [
+          675,
+          746,
+          752,
+          769
+        ],
+        [
+          334,
+          812,
+          1153,
+          842
+        ],
+        [
+          289,
+          846,
+          886,
+          872
+        ],
+        [
+          335,
+          876,
+          1154,
+          905
+        ],
+        [
+          289,
+          906,
+          1153,
+          939
+        ],
+        [
+          291,
+          938,
+          1154,
+          967
+        ],
+        [
+          292,
+          972,
+          538,
+          993
+        ],
+        [
+          336,
+          1001,
+          1153,
+          1029
+        ],
+        [
+          291,
+          1032,
+          1083,
+          1062
+        ],
+        [
+          336,
+          1067,
+          1153,
+          1097
+        ],
+        [
+          290,
+          1099,
+          1153,
+          1129
+        ],
+        [
+          290,
+          1129,
+          1153,
+          1162
+        ],
+        [
+          292,
+          1163,
+          1153,
+          1190
+        ],
+        [
+          292,
+          1193,
+          1153,
+          1222
+        ],
+        [
+          291,
+          1226,
+          1153,
+          1251
+        ],
+        [
+          289,
+          1254,
+          1153,
+          1286
+        ],
+        [
+          290,
+          1284,
+          1154,
+          1318
+        ],
+        [
+          290,
+          1316,
+          1154,
+          1348
+        ],
+        [
+          290,
+          1347,
+          1151,
+          1381
+        ],
+        [
+          288,
+          1408,
+          1155,
+          1443
+        ],
+        [
+          286,
+          1443,
+          1153,
+          1472
+        ],
+        [
+          285,
+          1472,
+          1154,
+          1505
+        ],
+        [
+          287,
+          1505,
+          1154,
+          1535
+        ],
+        [
+          287,
+          1565,
+          747,
+          1597
+        ]
+      ]
+    },
+    {
+      "page": 62,
+      "elapsed_seconds": 6.998,
+      "lines": [
+        "56",
+        "conforme o logar.",
+        "tonelada e por kilometro, 57 réis.",
+        "NOTA",
+        "A superficie total do municipio é de 2.77o kilcmetros quadrados, sendo a",
+        "area cultivada de cerca. de 50o kilometros quadrados.",
+        "A popuiacao é de cerca de 10.00o habitantes; e a da cidade de 6.500.",
+        "A séde do municipio achia-se a 132 kilonetros ao Sul da Capital.",
+        "Limita-se ao Norte com o municipio de Garopaba, ao Sul ccm o de",
+        "Jaguartna, o Oeste, com os municipios de Imaruhy e Tubarao.",
+        "A receita e a despeza para o anno de 1912, foram de 42 :00o$000.",
+        "O nmunicipio é servido pelos portos de Laguna e Imbituba, pela Estrada de",
+        "Ferrc D. Thereze Christina c por estradas de rodagem.",
+        "O porto de Laguna, que é, um dos inais importantes do Estado, esta situado",
+        "na barra do mesmo nome, é muito frequentado por pequenas embarcacöes, por",
+        "navios e hiates cujo caladc nao exceda de dez pés, isto devido aos bancos de areia",
+        "a atravessar. Estes bancos de areia bem como as pedras existentes no canal, e o",
+        "constante estado de agitacao do mar, tém occasionado- muitos naufragios e",
+        "consideraveis avarias nas embarcacöes.",
+        "Possue o porto de Laguna cerca de 2oo.metros de caes, onde atracan os",
+        "vapores que ahi tocam. Existe um trapiche de propriedade do Lloyd Brasileiro,",
+        "para atracacao de seus vapores.",
+        "O mcvinento do porto de Laguna durante o anno de 19r2 foi o seguinte :",
+        "Embarcagoes",
+        "Entradas :",
+        "Sahidas",
+        "Vapores ..",
+        ":86",
+        "86",
+        "Hiates.",
+        "129",
+        "1.26",
+        "Rebocadores.",
+        "5",
+        "Chatas",
+        "4",
+        "",
+        "1 : .",
+        "Lugre ...",
+        "1",
+        ".T.",
+        ".1 ",
+        "Lanchas-gazolina.",
+        "3",
+        "3",
+        "A Estrada de Ferro D. Thereze Christina corta o nunicipio numa extensao",
+        "de 5o kilometros. O comprinento total da linha do centro é de 111 kilcmetros,",
+        "que vao desde Imbutuba até:as minas do municipio de Tubarao. O ramal de",
+        "Laguna tem apenas seis kilonetros.",
+        "O frete para o transporte de cereaes nesta estrada é.de 57 réis a tonelada",
+        "por kilometros:",
+        " Eis .a preco corrente do mercado local :",
+        "Banha, kilo, 76o réis; arroz em casca; sacco, 4$8oo; feijao, sacco, 9$ooo;",
+        "farinha fina, sacco, 3$50o; farinha grossa, sacco, 2$30o: milho, 4$50o; gomma,",
+        "6$50o; amendoim, 3$coo; couro grande, kila, i$30o: couro pequeno, 90o réis;"
+      ],
+      "scores": [
+        0.8733948469161987,
+        0.9977543950080872,
+        0.9814522862434387,
+        0.9586206674575806,
+        0.9897454380989075,
+        0.9786544442176819,
+        0.9766155481338501,
+        0.971449077129364,
+        0.9600273370742798,
+        0.98101407289505,
+        0.9795525670051575,
+        0.9660425186157227,
+        0.9838746786117554,
+        0.9620876908302307,
+        0.980682909488678,
+        0.9948282241821289,
+        0.9888025522232056,
+        0.9756481051445007,
+        0.9797034859657288,
+        0.9776201248168945,
+        0.9891809225082397,
+        0.9808889627456665,
+        0.9907680153846741,
+        0.8539415001869202,
+        0.8582789301872253,
+        0.9851735234260559,
+        0.9587959051132202,
+        0.9130973219871521,
+        0.9884624481201172,
+        0.959822952747345,
+        0.991110622882843,
+        0.8667440414428711,
+        0.9767771363258362,
+        0.9255715012550354,
+        0.998275101184845,
+        0.9982296824455261,
+        0.0,
+        0.7863725423812866,
+        0.9464556574821472,
+        0.5634118318557739,
+        0.6933336853981018,
+        0.5092615485191345,
+        0.9958410859107971,
+        0.9960078001022339,
+        0.9933218359947205,
+        0.9850239157676697,
+        0.9588810205459595,
+        0.9748236536979675,
+        0.9777806401252747,
+        0.9765181541442871,
+        0.9929580092430115,
+        0.9687497019767761,
+        0.9754559397697449,
+        0.9794737696647644,
+        0.960698127746582
+      ],
+      "boxes": [
+        [
+          916,
+          93,
+          1033,
+          120
+        ],
+        [
+          685,
+          174,
+          879,
+          205
+        ],
+        [
+          684,
+          238,
+          1046,
+          273
+        ],
+        [
+          928,
+          307,
+          1009,
+          331
+        ],
+        [
+          588,
+          353,
+          1407,
+          415
+        ],
+        [
+          543,
+          387,
+          1114,
+          430
+        ],
+        [
+          588,
+          419,
+          1321,
+          470
+        ],
+        [
+          589,
+          453,
+          1287,
+          498
+        ],
+        [
+          587,
+          480,
+          1404,
+          536
+        ],
+        [
+          541,
+          514,
+          1215,
+          557
+        ],
+        [
+          587,
+          545,
+          1275,
+          592
+        ],
+        [
+          587,
+          575,
+          1404,
+          629
+        ],
+        [
+          539,
+          604,
+          1159,
+          652
+        ],
+        [
+          584,
+          638,
+          1399,
+          689
+        ],
+        [
+          537,
+          665,
+          1399,
+          724
+        ],
+        [
+          536,
+          698,
+          1399,
+          752
+        ],
+        [
+          536,
+          730,
+          1397,
+          783
+        ],
+        [
+          535,
+          759,
+          1400,
+          815
+        ],
+        [
+          536,
+          793,
+          960,
+          830
+        ],
+        [
+          582,
+          823,
+          1399,
+          878
+        ],
+        [
+          535,
+          853,
+          1399,
+          908
+        ],
+        [
+          534,
+          885,
+          893,
+          923
+        ],
+        [
+          581,
+          923,
+          1349,
+          972
+        ],
+        [
+          739,
+          988,
+          878,
+          1020
+        ],
+        [
+          1042,
+          997,
+          1168,
+          1028
+        ],
+        [
+          1183,
+          1001,
+          1275,
+          1030
+        ],
+        [
+          675,
+          1049,
+          789,
+          1080
+        ],
+        [
+          1091,
+          1062,
+          1128,
+          1086
+        ],
+        [
+          1220,
+          1064,
+          1251,
+          1090
+        ],
+        [
+          671,
+          1080,
+          758,
+          1108
+        ],
+        [
+          1084,
+          1095,
+          1126,
+          1122
+        ],
+        [
+          1208,
+          1098,
+          1250,
+          1121
+        ],
+        [
+          671,
+          1111,
+          824,
+          1139
+        ],
+        [
+          1107,
+          1127,
+          1145,
+          1156
+        ],
+        [
+          670,
+          1142,
+          745,
+          1167
+        ],
+        [
+          1232,
+          1133,
+          1252,
+          1158
+        ],
+        [
+          746,
+          1155,
+          757,
+          1163
+        ],
+        [
+          1109,
+          1160,
+          1144,
+          1179
+        ],
+        [
+          668,
+          1174,
+          767,
+          1203
+        ],
+        [
+          1232,
+          1165,
+          1249,
+          1183
+        ],
+        [
+          1106,
+          1191,
+          1126,
+          1210
+        ],
+        [
+          1232,
+          1195,
+          1259,
+          1215
+        ],
+        [
+          664,
+          1205,
+          861,
+          1236
+        ],
+        [
+          1106,
+          1223,
+          1123,
+          1246
+        ],
+        [
+          1231,
+          1227,
+          1247,
+          1250
+        ],
+        [
+          575,
+          1262,
+          1388,
+          1313
+        ],
+        [
+          530,
+          1293,
+          1390,
+          1343
+        ],
+        [
+          527,
+          1323,
+          1391,
+          1375
+        ],
+        [
+          526,
+          1355,
+          905,
+          1393
+        ],
+        [
+          568,
+          1385,
+          1388,
+          1439
+        ],
+        [
+          525,
+          1418,
+          688,
+          1446
+        ],
+        [
+          564,
+          1449,
+          990,
+          1489
+        ],
+        [
+          568,
+          1478,
+          1385,
+          1532
+        ],
+        [
+          522,
+          1507,
+          1388,
+          1567
+        ],
+        [
+          520,
+          1539,
+          1386,
+          1595
+        ]
+      ]
+    },
+    {
+      "page": 72,
+      "elapsed_seconds": 2.584,
+      "lines": [
+        "66-",
+        "tada por mattas virgens, capoeiras e cerrados.",
+        "49",
+        "cultivado, um pouco mais. Estes preqos sao mais ou menos.",
+        "para o mercado local custa de 200 a 3co réis.",
+        "NOTA",
+        "estrada. A cultura mais importante é a da nandioca, cuja produccao é beneficiada",
+        "para o fabrico da farinha que é exportada em parte para Joinville.",
+        "Q arroz tanbem é cultivado em grande escala , principaimente no municipio",
+        "de Itapocú, sendo tanbem o mercado de Joinville um dos seus consumidores."
+      ],
+      "scores": [
+        0.8991566300392151,
+        0.9778399467468262,
+        0.4342818856239319,
+        0.9900454878807068,
+        0.9598872661590576,
+        0.9898704886436462,
+        0.9871711730957031,
+        0.9790586829185486,
+        0.9701827764511108,
+        0.9670343399047852
+      ],
+      "boxes": [
+        [
+          964,
+          92,
+          1073,
+          123
+        ],
+        [
+          726,
+          219,
+          1224,
+          239
+        ],
+        [
+          634,
+          246,
+          647,
+          259
+        ],
+        [
+          724,
+          276,
+          1372,
+          308
+        ],
+        [
+          724,
+          339,
+          1200,
+          368
+        ],
+        [
+          968,
+          401,
+          1050,
+          426
+        ],
+        [
+          581,
+          523,
+          1445,
+          558
+        ],
+        [
+          581,
+          559,
+          1292,
+          584
+        ],
+        [
+          626,
+          583,
+          1445,
+          621
+        ],
+        [
+          579,
+          615,
+          1392,
+          650
+        ]
+      ]
+    },
+    {
+      "page": 75,
+      "elapsed_seconds": 4.975,
+      "lines": [
+        "-69-",
+        "TERRAS-Qualidades-Ha grande parte, de terras boas e regulares, e",
+        "pequena parte, de inferiores. As terras argillosas ficam localizadas",
+        "na margem do  rio Pereque e na zona huimida da planicie; as",
+        "arenosas na faixa do littoral; estas e as misturadas occupanm umma",
+        "pequena parte do territorio. As terras planas occupam grandes",
+        "areas, e ficam entre o mar e as mcntanhas; estas quasi deshabitadas",
+        "e occupan pequena parte do municipio. As terras do terco supcrior",
+        "das montanhas sao pedregosas. Sao seccas as terras de areias c os",
+        "logares situados nas montanhas onde, vegetanm taqtaras. As mattas",
+        "virgens fican nas.niontanhas, as capoeiras na planicie e nos",
+        "pequenos mcrros do littoral. Quasi nao ha cerrados, nem carrascaes,",
+        "e canpos.",
+        "Precos-Un hectarc de terra b6a custa de 2o$ooo a 4o$ooo,",
+        "approximadamente.",
+        "T'RANSPORTE -- Pagam pelo transporte maritimo, para Fiorianopolis, 5oo réis",
+        "por sacco de 8o litros; e pelo transporte.terrestre, 1$ooo por uma",
+        "arrdba. Para o mercado local pagam 6 réis por litro de cereaes,",
+        " variando o preco de conformidade con a distancia.",
+        "NOTA",
+        " municipio ten cerca de 6oo kilonetros quadrados .de superficie.",
+        "A populacao é avaliada cm 6.ooo labitantes, dos quaes a maicr",
+        "parte reside na cidade. A produccao.do municipio é avaliada em : 15.0oo saccos de",
+        "café de 6o kilos; 2.ooo de assucar.de 5o kilos; ro.0oo de nilho de 8o kilos;",
+        "5.0oo de feijao; 3.0oo de arroz, e 2.0oo de farinha de mandioca. :0 producto,",
+        "porém, que nais concorre para a exportacao, é a banana, cuja produccao annual",
+        "attinge, as vezes, a 30o.0oo cachos, que sao vendidos a razao de 240 a 300 réis,",
+        "cada uin. Os cereaes sao geralmente vendidos em Florianopolis..",
+        "A plantacao de bananeiras que occupa uma ärea de cerca de 15o hectares é",
+        "atravessada pela estrada de rodagem, que poc o nunicipio.de Porto Bello enm",
+        "communicacao com o de Tijucas."
+      ],
+      "scores": [
+        0.6994640827178955,
+        0.9701811075210571,
+        0.9948351383209229,
+        0.9513253569602966,
+        0.9782692790031433,
+        0.9859392046928406,
+        0.9809489250183105,
+        0.9884581565856934,
+        0.985039234161377,
+        0.9619102478027344,
+        0.9662484526634216,
+        0.9857012629508972,
+        0.8722900748252869,
+        0.9434127807617188,
+        0.9658271670341492,
+        0.972655713558197,
+        0.9713013172149658,
+        0.9790938496589661,
+        0.9906021356582642,
+        0.9970822334289551,
+        0.970503568649292,
+        0.9720420241355896,
+        0.9715580940246582,
+        0.9554217457771301,
+        0.9625661373138428,
+        0.9807363748550415,
+        0.9708414077758789,
+        0.9857258200645447,
+        0.9682746529579163,
+        0.9706180691719055,
+        0.9814412593841553
+      ],
+      "boxes": [
+        [
+          464,
+          117,
+          573,
+          140
+        ],
+        [
+          80,
+          169,
+          958,
+          201
+        ],
+        [
+          224,
+          204,
+          956,
+          230
+        ],
+        [
+          224,
+          238,
+          957,
+          261
+        ],
+        [
+          224,
+          267,
+          957,
+          293
+        ],
+        [
+          224,
+          299,
+          957,
+          326
+        ],
+        [
+          226,
+          331,
+          956,
+          354
+        ],
+        [
+          224,
+          361,
+          956,
+          386
+        ],
+        [
+          226,
+          390,
+          958,
+          418
+        ],
+        [
+          226,
+          424,
+          957,
+          447
+        ],
+        [
+          228,
+          456,
+          958,
+          479
+        ],
+        [
+          225,
+          484,
+          958,
+          513
+        ],
+        [
+          228,
+          522,
+          367,
+          539
+        ],
+        [
+          188,
+          545,
+          956,
+          573
+        ],
+        [
+          228,
+          576,
+          451,
+          606
+        ],
+        [
+          83,
+          607,
+          957,
+          636
+        ],
+        [
+          228,
+          638,
+          959,
+          668
+        ],
+        [
+          228,
+          669,
+          959,
+          698
+        ],
+        [
+          220,
+          702,
+          779,
+          730
+        ],
+        [
+          480,
+          761,
+          564,
+          789
+        ],
+        [
+          161,
+          822,
+          958,
+          853
+        ],
+        [
+          231,
+          854,
+          960,
+          884
+        ],
+        [
+          85,
+          883,
+          961,
+          919
+        ],
+        [
+          86,
+          916,
+          962,
+          948
+        ],
+        [
+          86,
+          946,
+          962,
+          982
+        ],
+        [
+          87,
+          978,
+          961,
+          1013
+        ],
+        [
+          85,
+          1008,
+          961,
+          1045
+        ],
+        [
+          87,
+          1040,
+          783,
+          1074
+        ],
+        [
+          133,
+          1067,
+          965,
+          1106
+        ],
+        [
+          86,
+          1099,
+          967,
+          1139
+        ],
+        [
+          87,
+          1140,
+          454,
+          1167
+        ]
+      ]
+    },
+    {
+      "page": 94,
+      "elapsed_seconds": 5.625,
+      "lines": [
+        "88",
+        "PADRES--De terras inferiores-Bracatinga, taquara sécca, pintado e guiarapéo.",
+        "PORTOS--Ha,\"fluviaes.",
+        "SEMENTES--Nao ha cuidado na escolha.",
+        "empreitada e meiacao.",
+        "administrador de fazenda, 10o$ooo a 15o$ooo mensaes; nao ha",
+        "cumpridos.",
+        "TERRAS-Qualidades-Metade :mais ou menos, boas e outra metade,",
+        "argillosas, e .arenosas. Os terrenos, alagadicos que. os ha, sao",
+        "os nucleos coloniaes. A vegetacao. é representada por mattas",
+        "alguns cerrados, canpos, etc.",
+        "73",
+        "Precos -Nas proximidades da cidade, um hectare de terra boa custa",
+        "30o$000 e no interior, 15$000 a 30$00o nais ou menos.",
+        "TRANSPORTES-- Para o mercado local o preco é de 25 reis por litro cu kilo",
+        "de cereaes e em ferro-via de 10 a 50 réis por 10 kilos.",
+        "NOTA",
+        "O municipio é considerado um dos celleiros do Estado, sendo os seus",
+        "productcs exportados pelo porto de Laguna. Uma parte da produccao, constituida",
+        "por farinha de mandioca e couros, é permttada com o municipio de S..Joaquim",
+        "da Costa da Serra, por las grossas, xarque, funo, etc.",
+        "Com a cngorda de suinos para a produccao da banha, aproveita-se o milho",
+        "produzido, que exportado daria menos lucro devido ao penoso transporte.",
+        "Em pontos afastados da via-ferrea D. Thereza Christina ha occasioes de se",
+        "vender 8o litros de milho por 2$ooo e 15 kilos de assucar por menor preco.",
+        "Estao situadas no municipio as colonias Braco do Norte, Grao- Para .c",
+        "Capivary, com colcnos de nacionalidades allema e italiana oti dellas descendentes;",
+        "todas estao prosperas e ten-se boa impressao de suas moradias e culturas. :",
+        " A colonia Capivary cultiva o centeio, delle fabricando um pao grosseiro, mas",
+        "saboroso. Tamben no municipio existe tuma fabrica de fecula de araruta, prcyida",
+        "de apparelhos modernos.",
+        "O milho produz a-razao.. de 4oo por im, o arroz, de 2oo por,um, em",
+        "solos, porém, trabalhados mecanicamente. Esta produccao do nsilho é exageraria,",
+        "e só aqui considerada comd muito excepcional e pedindo exame.",
+        "A firma Cabral & Irmaos, estabeleceu una grande cultura de arrca nas",
+        "margens alagadas do rio Tubarao. Parte da cultura é fcita pelos processos",
+        "adiantados e parte pelo systema rotineiro. Para estabelecer o arrozal foram"
+      ],
+      "scores": [
+        0.9795846343040466,
+        0.9717958569526672,
+        0.8962216377258301,
+        0.9725584387779236,
+        0.9842050671577454,
+        0.9472475647926331,
+        0.9478527307510376,
+        0.9644184708595276,
+        0.9530007839202881,
+        0.9809869527816772,
+        0.9861183762550354,
+        0.45144763588905334,
+        0.9788980484008789,
+        0.933232307434082,
+        0.9600539803504944,
+        0.974696695804596,
+        0.991095781326294,
+        0.9680638313293457,
+        0.992165207862854,
+        0.9834979176521301,
+        0.99019855260849,
+        0.99476158618927,
+        0.9920055866241455,
+        0.981046199798584,
+        0.9792261719703674,
+        0.9650577902793884,
+        0.9877314567565918,
+        0.9848726391792297,
+        0.9847735166549683,
+        0.9685950875282288,
+        0.9983925223350525,
+        0.9266258478164673,
+        0.9806565642356873,
+        0.9762051105499268,
+        0.9694328308105469,
+        0.9680423736572266,
+        0.9796001315116882
+      ],
+      "boxes": [
+        [
+          988,
+          104,
+          1100,
+          128
+        ],
+        [
+          610,
+          137,
+          1479,
+          215
+        ],
+        [
+          613,
+          177,
+          886,
+          208
+        ],
+        [
+          613,
+          207,
+          1088,
+          248
+        ],
+        [
+          748,
+          307,
+          989,
+          341
+        ],
+        [
+          745,
+          395,
+          1474,
+          461
+        ],
+        [
+          744,
+          465,
+          864,
+          491
+        ],
+        [
+          601,
+          481,
+          1469,
+          554
+        ],
+        [
+          740,
+          552,
+          1468,
+          616
+        ],
+        [
+          737,
+          616,
+          1466,
+          676
+        ],
+        [
+          736,
+          682,
+          1051,
+          719
+        ],
+        [
+          645,
+          712,
+          656,
+          722
+        ],
+        [
+          698,
+          708,
+          1462,
+          769
+        ],
+        [
+          733,
+          742,
+          1343,
+          794
+        ],
+        [
+          595,
+          767,
+          1456,
+          829
+        ],
+        [
+          733,
+          806,
+          1301,
+          854
+        ],
+        [
+          974,
+          897,
+          1056,
+          927
+        ],
+        [
+          635,
+          963,
+          1454,
+          1023
+        ],
+        [
+          589,
+          993,
+          1451,
+          1053
+        ],
+        [
+          586,
+          1024,
+          1449,
+          1086
+        ],
+        [
+          586,
+          1054,
+          1175,
+          1106
+        ],
+        [
+          629,
+          1087,
+          1446,
+          1147
+        ],
+        [
+          583,
+          1117,
+          1380,
+          1174
+        ],
+        [
+          627,
+          1151,
+          1444,
+          1207
+        ],
+        [
+          582,
+          1180,
+          1373,
+          1237
+        ],
+        [
+          624,
+          1211,
+          1443,
+          1271
+        ],
+        [
+          580,
+          1242,
+          1443,
+          1301
+        ],
+        [
+          577,
+          1274,
+          1388,
+          1330
+        ],
+        [
+          609,
+          1304,
+          1438,
+          1365
+        ],
+        [
+          574,
+          1335,
+          1438,
+          1394
+        ],
+        [
+          569,
+          1367,
+          833,
+          1402
+        ],
+        [
+          615,
+          1399,
+          1439,
+          1459
+        ],
+        [
+          571,
+          1429,
+          1434,
+          1489
+        ],
+        [
+          569,
+          1460,
+          1247,
+          1512
+        ],
+        [
+          610,
+          1491,
+          1437,
+          1554
+        ],
+        [
+          567,
+          1523,
+          1433,
+          1581
+        ],
+        [
+          565,
+          1555,
+          1431,
+          1611
+        ]
+      ]
+    }
+  ]
+}

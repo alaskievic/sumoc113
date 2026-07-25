@@ -1,0 +1,97 @@
+, : CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+ESMSLSEAESSEMENSELLESEEESSSESLLLSEERSELEESEA RELER CRECEERERERSRAACLLEAESESKEERRREESEAMELREETESREDERES ERES SELSLCEE E R
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO DOS SERVIÇOS DE 1980 E 1985
+, ” MESES SEESCEEKALLEASAENEESELESESANECETERAE SELIC CERAEEEEES SIEMENS ERAS ACARI EERESST ESEC ERSACA ESET
+x x =
+* . * CENSO DE 1980 *
+* * s
+x CERASSAKELESEASELEEXCAEECSS EE SETAS ERES RR
+- NUM. + * * PESSOAL OCUPADO * *
+. * * * * ANO DE 1960 *
+.* * * EM 31-12-1980 x *
+DE * MUNICIPIOS x CERRESREESSECEESEASEECRACERASEEERELECERALE ENCERRA
+* * NUMERO «+ o, * z *
+* * : * * LIGADO A + SALARIOS, * <
+oR- + : * DE * x * RETIRADAS * TOTAL DA *
+“e CLASSES E GENEROS DE SERVIÇOS * * * ATIVIDADE + E OUTRAS * *
+x : 3 ESTABELE-* x * REMUNERAÇÕES» RECEITA Ld
+o - DEM * * * TOTAL . DA * * *
+s * CIMENTOS + « la : :
+. , x * * PRESTAÇÃO sxEsaLASELARAEELZASECARERAR SA
+” x + * x x *
+” « * =DE SERVIÇOSS (MIL CRUZEIROS) =
+sz x * x x *
+. SEEMESRERKESEECLESKESSEMESKE SERES EEE ESEC ESET ERES RECESSO
+: - 1080 ALOJAMENTO E ALIMENTAÇÃO, ....co crisis raras raras 1 468 5 286 E 442 674 755 3 174 043
+1081 ALOJAMENTO, essere re rr arara err rara rea rrenan s 128 1 854 + 420 210 466 846 S7E
+1082 ALIMENTAÇÃO... ces crer rena ese re rr raras ara 1 238 5 332 4 022 464 288 2 327 067
+10683 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO..........cccciissaro 1 021 5 32? 3 463 592 637 1 568 130
+1084 - REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO.........sccissccrrros + 025 5 327 2 463 582 637 1 568 130
+"1085 PESSOAIS, DE HIGIENE E ESTETICA PESSOAL.........ccciciso. 425 1 645 1 022 127 D18 338 474
+. - 1086 PESSOAIS. .cusissacercenora rare re ns encarnar rr aaa 143 607 376 51 844 171 Bá
+1087 HIGIENE E DE ESTETICA PESSOAL....icciscccseraererarerera 282 1 035 644 76 074 166 660
+1088 RADIODIFUSÃO, TELEVISÃO E DIVERSÕES.......ccccccccccccrta as 863 493 128 082 501 380
+1088 RADIODIFUSÃO E TELEVISÃO,......iciccrsccrerirerrra rea 1 583 342 109 528 290 450
+: | 1090 DIVERSÕES. ....cccrcecerrrernre rr rrea rara rrenan ras 37 280 151 18 554 210 9830
+1081 AUXILIARES DIVERSOS,....csccsssssessicc arenas ca sraçes 1314 22 732 17 526 3 862 279 22 281 560
+1092 AUX. DA AGROPECUARIA E REFLORESTAMENTO. ......cccrrereros 27 + 088 562 414 703 3 230 140
+1083 AUX, COMERCIO, LOCAÇÃO DE BENS E SERVIÇOS... s..crccraras ass 2 798 1 730 473 555 2 606 798
+1084 AUX. FINANC., SEGUROS E CAPITALIZAÇÃO... .criciccraseca as 232 152 37 480 190 881
+1085 AUXILIARES DOS TRANSPORTES... .cccccrerirecrcasarsesrirãs +01 2 633 + 854 531 287 10 457 479
+1086 AUX, CONSTRUÇÃO. OBRAS, GEODESIA, ETC,,..ccccricartrraas 64 1 365 948 340 SOB 980 893
+1097 AUX. DE LIMPEZA, BICLENIZAÇÃO. ETC. eres srs rerecra 51 2 617 2 440 165 556 400 327
+1088 AUX. PRESTADOS A EMPRESAS É PESSOAS......ciccccccrereroa 455 mw 324 9 ass + BOZ 356 4 426 336
+1088 AUXILIARES DA SAUDE.....cccrscerrircrreere erra rrrrariava 116 878 385 93 116 278 706
+1100 COMPRA, VENDA, ADMINISTRAÇÃO BENS IMOVEIS... ..ccccrsrssos sm 1 855 1:107 315 233 1321 411
+1101 COMPRA E VENDA DE BENS IMOVEIS......sicisciscrcccrrraçãs 17 + 307 740 228 806 s72 309
+1102 ADMINISTRAÇÃO, LOCAÇÃO, ETC.........clsics css 54. 546 367 84 427 348 102
+1103 CABO... pre race rrre sra do narrar rr assina rare sad 148 552 308 47 167 162 758
+1104 ALIMENTAÇÃO... .csccpce serias rece grr eras career re renda 77 27 135 24 728 116 483
+1105 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... ...crcscrrissacaroo 42 187 131 13 012 25 481
+1106 AUXILIÁRES DOS TRANSPORTES,....cicccescrererercrreresvaa 1 (B) (B) (x) <B)
+: 1107 DEMAIS GENEROS....crecccraaceracreereararer sera rc rssads 28 (E) tD> ES) (D)
+1108 CAMARAGIBE... .. crise crer ro arena cre nera rsrs - - - - -
+1109 ALOJAMENTO. ocre rsrsrs career rasa rr era serenas - - - - <
+1710 ALIMENTAÇÃO... since serusericagerarserra cre rae versar - - - - -
+1114 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... ..ccrcsscasseracros - - - - -
+wm12 DEMAIS GENEROS......sescccrescare serra re rrrs sina sa raras - - - - -
+1113 CARUARU. .cecerres sra arara ara rra cer rra nora crer re rasas sa 455 1 756 1021 88 585 514 584
+1114 ALOJAMENTO, ces ccrserr ren s rare rar raras scans eras 17 164 108 11 722 62 715
+4115 ALIMENTAÇÃO... ...ss presas cerarrrposeresrrra seria reraros 125 424 180 10 9298 114 826
+1116 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... ...cccrrrctcresaros 151 537 342 25 455 112 827
+1117 DEMAIS GENEROS, .....ccccrsricrcrecrraaa erre rar es raca 162 631 391 38 408 224 222
+1118 JABOATÃO, .scccassesrss era ra ren era acer casaria rra ceara 377 1 291 752 149 O54 465 442
+1119 ALIMENTAÇÃO. ,.,.scsprr era sara prrasareraa sra sa rr rasa 160 614 309 68 068 278 448
+1120 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... ,,.ccesceccecrvraas 122 378 208 41 853 85 829
+1121 AUX. COMERCIO, LOCAÇÃO DE BENS É SERVIÇOS............... - - - - -
+1122 DEMAIS GENEROS... ..ccrcccracae rrenan rre seres rasas ss ass 244 39 133 98 165
+1128 OLINDA, .srcrise crie rena re res rasa a ars cris ra sra 382 2 141 + 430 201 494 1 297 os6
+1124 ALOJAMENTO. ce rece erre ra rara rec rrrra nene nes raso srs 5 142 se +5 715 40 888
+1125 ALIMENTAÇÃO... crrsrsrrger tus r carr r arrasar rr ra raras essa 199 qn 367 57 628 246 714
+1126 RADIODIFUSÃO E TELEVISÃO... .ciccicereserecasrrcertra rosa 3 224 211 a3 784 770 059
+1127 DEMAIS GENEROS.....cccececrareracarrerarr cerne resr raras 175 1 064 794 84 367 239 397
+“128 PAULISTA, cer rrr rare aerea rear ren ereara a 182 739 376 70 607 379 624
+1129 ALOJAMENTO. crer crere erre rarra rara rare nene revirar 6 34 23 1 731 +2 720
+1130 ALIMENTAÇÃO... sc csepre renasce rcagrrasa rare rs arara avos 119 a8o 227 39 237 256 650
+1139 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO... ..cccciciicicrrrioo 32 112 : 67 15 546 38 588
+1132 DEMAIS GENEROS......cccrrceree rent rr erarrr rca rrrr cada as 113 - 61 14 093 71 666
+, 1133 PETROLINA. rrcrerrrceserace rasa rre ra serras rara a sarna 258 1334 839 122 544 521 440
+1134 ALIMENTAÇÃO... cc rspereas rins rar pera re rar r race ra rsrs 104 369 154 22 381 115 278
+1135 REPARAÇÃO, MANUTENÇÃO E A O ui GOR II IIIIIIIIIOS Bs 387 278 42 080 126 337
+1136 AUX. CÔMERCIO, LOCAÇÃO DE BENS É SERVIÇOS,......ccccacos 6 100 78 15 413 118 611
+1137 DEMAIS GENEROS, ....ccccrcrararrerrerserrrnere vero sarro sa 54 468 328 42 660 161 214
+1138 VITORIA DE SANTO ANTÃO. ...cicccccccrecerrercrraserrrarers 196 756 444 55 793 170 129
+1139 ALIMENTAÇÃO... cssrprensrrsna erga rerr ore ra sacras caraio 46 172 81 8 46€ 42 775
+1140 . REPARAÇÃO. MANUTENÇÃO E INSTALAÇÃO... .Lcsccccsrracareras 101 431 276 35 615 93 342
+1141 AUX. PRESTADOS A EMPRESAS E PESSOAS.......ccrrerrsrraras 20 58 27 4 703 10 663
+1142 DEMAIS GENEROS....c.ccccrrreceraaserara rena rrraacoracanãs z8 95 - 60 7 007 23 343
+1143 ABREU E LIMA... .crccrrrcarercrrrera cera rercsa res r acessa - - -. - -
+1144 AFOGADOS DA INGAZEIRA, ....scciseccrsesarerranraseserrenas 49 182 104 11 774 33 440
+1145 AFRANIO, cc crrcrerrraa rasa canas eras sra so rr a ne tres erra 7 18 5 952 a 764
+1146 AGRESTINA..icccccrrrrcre rentes arara rcarrrra rr rar rasas 10 33 6 340 5 250
+1147 AGUA PRETA.....cccccrer serrana enraasreranernva nero varas 25 57 23 2 4885 "9 580
+114B - AGUAS BELAS. ..ccercerercarrrrcrrara raro rsras ra strass sad 29 70 21 5 788 15 41
+1148 ALAGOINHA. «errrr crer varre rare renas rr cre re cen rr erra 4 8 3 463 " 2 010
+1150 ALIANÇA. . crescer crerrrerero re saa raras rara res rra ro raras 31 108 s6 10 842 40 056
+151 ALTINHD. ecc cr ccrr sera rasa ssa sra rara carr rr serras ara 18 aa 18 659 — No 688
+218

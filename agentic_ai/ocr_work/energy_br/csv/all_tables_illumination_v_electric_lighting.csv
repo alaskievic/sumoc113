@@ -1,0 +1,767 @@
+source_file,page,source_table_id,row_in_table,state,municipality,public_arc_lamps_number,public_arc_lamps_candlepower,public_incandescent_lamps_number,public_incandescent_lamps_candlepower,public_total_candlepower,private_arc_lamps_number,private_arc_lamps_candlepower,private_incandescent_lamps_number,private_incandescent_lamps_candlepower
+all_tables.pdf,100,tbl-225.md,5,Alagoas,Maceió,259,155400,40,13800,169200,—,—,9181,129850
+all_tables.pdf,100,tbl-225.md,6,Alagoas,Palmeira dos Indios,—,—,80,4000,4000,—,—,324,3885
+all_tables.pdf,100,tbl-225.md,7,Alagoas,Penedo,—,—,172,8600,8600,—,—,1403,20000
+all_tables.pdf,100,tbl-225.md,8,Alagoas,São Miguel de Campos,—,—,45,3500,3500,—,—,265,7557
+all_tables.pdf,100,tbl-225.md,9,Alagoas,Victoria,—,—,70,4010,4010,—,—,660,8640
+all_tables.pdf,100,tbl-225.md,11,Amazonas,Humaythá,—,—,85,2125,2125,—,—,88,1150
+all_tables.pdf,100,tbl-225.md,12,Amazonas,Manáos,362,724000,—,—,724000,—,—,36550,1455000
+all_tables.pdf,100,tbl-225.md,13,Amazonas,Porto Velho,—,—,70,1825,1825,—,—,444,10800
+all_tables.pdf,100,tbl-225.md,15,Bahia,Barreiras,—,—,100,4250,4250,—,—,280,2800
+all_tables.pdf,100,tbl-225.md,16,Bahia,Ilhéos,—,—,312,20500,20500,—,—,—,—
+all_tables.pdf,100,tbl-225.md,17,Bahia,Itabuna,—,—,244,11900,11900,—,—,—,—
+all_tables.pdf,100,tbl-225.md,18,Bahia,Nazareth,—,—,208,21400,21400,—,—,—,—
+all_tables.pdf,100,tbl-225.md,19,Bahia,Santo Amato.,—,—,550,27950,27950,—,—,1375,48550
+all_tables.pdf,100,tbl-225.md,20,Bahia,São Salvador,2,2000,1111,494048,496048,17,17000,47835,2337120
+all_tables.pdf,100,tbl-225.md,21,Bahia,Valença,—,—,220,8000,8000,—,—,520,16520
+all_tables.pdf,100,tbl-225.md,22,Bahia,Conquista,—,—,250,6250,6250,—,—,46,1150
+all_tables.pdf,100,tbl-225.md,24,Ceará,Aracaty,—,—,100,5000,5000,—,—,1500,—
+all_tables.pdf,100,tbl-225.md,25,Ceará,Canindé,—,—,30,750,750,—,—,55,1375
+all_tables.pdf,100,tbl-225.md,26,Ceará,Cinto,—,—,120,6000,6000,—,—,551,10746
+all_tables.pdf,100,tbl-225.md,27,Ceará,Mamanguape,—,—,150,3750,3750,—,—,1200,25300
+all_tables.pdf,100,tbl-225.md,29,Districto Federal,Districto Federal :,9661,—,1185,—,—,—,—,—,—
+all_tables.pdf,101,tbl-227.md,1,Alagoas,129.850,1200,—,900000,330000,570000,420:000$000,180:000$000,240:000$000,$420
+all_tables.pdf,101,tbl-227.md,2,Alagoas,3.885,170,220,554,252,302,18:466$000,8:400$000,10:066$000,—
+all_tables.pdf,101,tbl-227.md,3,Alagoas,20.000,373,9,38,13,25,54:360$000,12:360$000,42:000$000,$600
+all_tables.pdf,101,tbl-227.md,4,Alagoas,7.557,65,—,—,—,—,13:268$400,4:200$000,9:068$400,(2)
+all_tables.pdf,101,tbl-227.md,5,Alagoas,8.640,105,110,120,40,80,14:700$000,6:600$000,8:100$000,$200
+all_tables.pdf,101,tbl-228.md,1,Alagoas,1.150,23,—,—,—,—,—,—,3:168$000,—
+all_tables.pdf,101,tbl-228.md,2,Alagoas,1.455.000,3444,4408,1183840,596436,587404,—,—,395:761$000,$619
+all_tables.pdf,101,tbl-228.md,3,Alagoas,10.800,112,—,—,—,—,34:367$100,4:063$500,30:303$600,(3)
+all_tables.pdf,101,tbl-229.md,1,Alagoas,2.800,70,—,—,—,—,12:920$000,6:200$000,6:720$000,(4)
+all_tables.pdf,101,tbl-229.md,2,Alagoas,—,597,80,—,—,—,112:294$800,28:864$000,83:530$800,$600
+all_tables.pdf,101,tbl-229.md,3,Alagoas,—,—,—,—,—,—,15:270$328,15:270$328,—,—
+all_tables.pdf,101,tbl-229.md,4,Alagoas,—,503,49,—,—,—,—,16:000$000,—,$600
+all_tables.pdf,101,tbl-229.md,5,Alagoas,48.650,245,—,54000,26000,28000,44:000$000,24:000$000,20:000$000,$500
+all_tables.pdf,101,tbl-229.md,6,Alagoas,2.354.120,4276,4407,1169528,306204,863324,725:224$570,275:590$220,449:634$350,$900
+all_tables.pdf,101,tbl-229.md,7,Alagoas,16.520,250,—,24820,3650,21170,20:000$000,8:000$000,12:000$000,(5)
+all_tables.pdf,101,tbl-229.md,8,Alagoas,1.150,7,—,—,—,—,19:766$400,18:000$000,1:766$400,(6)
+all_tables.pdf,101,tbl-230.md,1,Alagoas,—,—,—,—,—,—,—,7:200$000,—,(6)
+all_tables.pdf,101,tbl-230.md,2,Alagoas,1.375,18,—,—,—,—,4:200$000,900$000,3:300$000,(6)
+all_tables.pdf,101,tbl-230.md,3,Alagoas,10.746,300,—,15,6,9,27:600$000,12:000$000,15:600$000,(6)
+all_tables.pdf,101,tbl-230.md,4,Alagoas,25.300,—,—,—,—,—,19:999$200,7:999$200,12:000$000,(6)
+all_tables.pdf,101,tbl-231.md,1,Alagoas,—,—,75415,47705583,18603442,29102041,12295:640$000,5020:139$000,7275:510$000,$250
+all_tables.pdf,103,tbl-233.md,1,Espírito Santo,Poder Illuminativo total,Númerodeconsumidoresparticulares,Númerodeapparadosregistradoresdoconsumodeenergiaeléctrica(Medidores),CONSUMOANNUALDEENERGIAELÉCTRICA,,,RENDAANNUALREVENUANNUEL,,,Preçomédioannualdokwh
+all_tables.pdf,103,tbl-233.md,4,Espírito Santo,Número de vélas,,,,Total,Éclairagepublic,Éclairageprivé,Éclairageprivé,Éclairageprivé,
+all_tables.pdf,103,tbl-234.md,1,Espírito Santo,7.235,129,6,—,—,—,6:000$000,3:000$000,3:000$000,$400
+all_tables.pdf,103,tbl-234.md,2,Espírito Santo,—,—,—,—,—,—,—,—,—,$600
+all_tables.pdf,103,tbl-234.md,3,Espírito Santo,—,—,—,—,—,—,—,6:600$000,—,—
+all_tables.pdf,103,tbl-234.md,4,Espírito Santo,—,—,—,—,—,—,3:600$000,3:600$000,—,—
+all_tables.pdf,103,tbl-234.md,5,Espírito Santo,3.039,—,—,—,—,—,8:005$000,2:160$000,5:845$000,—
+all_tables.pdf,103,tbl-234.md,6,Espírito Santo,4.500,27,—,—,—,—,—,1:500$000,—,—
+all_tables.pdf,103,tbl-234.md,7,Espírito Santo,25.000,65,60,—,—,—,16:400$000,2:400$000,14:000$000,$500
+all_tables.pdf,103,tbl-234.md,8,Espírito Santo,15.450,112,19,299520,129600,169920,17:100$000,3:000$000,14:100$000,$600
+all_tables.pdf,103,tbl-234.md,9,Espírito Santo,17.250,320,—,—,—,—,30:463$200,5:263$200,25:200$000,—
+all_tables.pdf,103,tbl-234.md,10,Espírito Santo,—,2000,740,—,—,—,204:000$000,54:000$000,150:000$000,$500
+all_tables.pdf,103,tbl-235.md,1,Espírito Santo,24.750,783,—,—,—,—,180:000$000,107:000$000,73:000$000,—
+all_tables.pdf,103,tbl-236.md,1,Espírito Santo,3.800,—,—,—,—,—,—,—,—,—
+all_tables.pdf,103,tbl-236.md,2,Espírito Santo,4.396,96,—,—,—,—,17:554$120,13:354$120,4:200$000,(2)
+all_tables.pdf,103,tbl-236.md,3,Espírito Santo,200.000,700,1000,572000,252000,320000,369:400$000,113:400$000,256:000$000,$800
+all_tables.pdf,103,tbl-237.md,1,Espírito Santo,—,150,—,—,—,—,30:312$000,15:912$000,14:400$000,—
+all_tables.pdf,103,tbl-237.md,2,Espírito Santo,170.000,—,70,—,—,—,—,—,—,—
+all_tables.pdf,103,tbl-237.md,3,Espírito Santo,—,500,—,146,60,86,—,115:000$000,—,$800
+all_tables.pdf,103,tbl-237.md,4,Espírito Santo,73.200,150,67,—,—,—,92:000$000,72:000$000,20:000$000,$800
+all_tables.pdf,103,tbl-237.md,5,Espírito Santo,15.152,83,28,—,—,—,—,—,—,1$000
+all_tables.pdf,103,tbl-237.md,6,Espírito Santo,45.693,291,—,9300,9300,—,80:538$000,15:427$200,65:110$800,(3)
+all_tables.pdf,104,tbl-239.md,1,Espírito Santo,Abre Campo,—,—,3,1800,1800,—,—,130,5960
+all_tables.pdf,104,tbl-239.md,2,Espírito Santo,Aguas Virtuosas,158,13150,80,4500,17650,—,—,137,4093
+all_tables.pdf,104,tbl-239.md,3,Espírito Santo,Alfenas,—,—,247,21552,21552,—,—,1125,20721
+all_tables.pdf,104,tbl-239.md,4,Espírito Santo,Araguary,—,—,440,24500,24500,—,—,1960,47984
+all_tables.pdf,104,tbl-239.md,5,Espírito Santo,Araxá,—,—,369,21350,21350,—,—,183,4460
+all_tables.pdf,104,tbl-239.md,6,Espírito Santo,Arceburgo,112,7100,—,—,7100,—,—,403,6804
+all_tables.pdf,104,tbl-239.md,7,Espírito Santo,Baependy,—,—,134,7600,7600,—,—,692,20375
+all_tables.pdf,104,tbl-239.md,8,Espírito Santo,Barbacena,—,—,—,—,—,—,—,—,—
+all_tables.pdf,104,tbl-239.md,9,Espírito Santo,Bello Horizonte,—,—,2562,416900,416900,—,—,—,—
+all_tables.pdf,104,tbl-239.md,10,Espírito Santo,Cabo Verde,—,—,100,3200,3200,—,—,244,3800
+all_tables.pdf,104,tbl-239.md,11,Espírito Santo,Caethé,—,—,130,6500,6500,—,—,500,12650
+all_tables.pdf,104,tbl-239.md,12,Espírito Santo,Caldas,—,—,280,14000,14000,—,—,759,14986
+all_tables.pdf,104,tbl-239.md,13,Espírito Santo,Campanha,—,—,160,5300,5300,—,—,—,—
+all_tables.pdf,104,tbl-239.md,14,Espírito Santo,Campo Bello,—,—,254,18650,18650,—,—,619,10000
+all_tables.pdf,104,tbl-239.md,15,Espírito Santo,Campos Geraes,—,—,180,9000,9000,—,—,180,9000
+all_tables.pdf,104,tbl-239.md,16,Espírito Santo,Caracol,—,—,136,3850,3850,—,—,390,7484
+all_tables.pdf,104,tbl-239.md,17,Espírito Santo,Carangola,—,—,220,11000,11000,—,—,—,—
+all_tables.pdf,104,tbl-239.md,18,Espírito Santo,Caratinga,—,—,224,17200,17200,—,—,—,—
+all_tables.pdf,104,tbl-239.md,19,Espírito Santo,Carmo do Rio Claro,—,—,250,9690,9690,—,—,709,8628
+all_tables.pdf,104,tbl-239.md,20,Espírito Santo,Cassia,—,—,—,—,—,—,—,—,—
+all_tables.pdf,104,tbl-239.md,21,Espírito Santo,Cataguazes,—,—,254,20450,20450,—,—,5390,374120
+all_tables.pdf,104,tbl-239.md,22,Espírito Santo,Caxambá,—,—,380,47400,47400,—,—,3224,215018
+all_tables.pdf,104,tbl-239.md,23,Espírito Santo,Christina,—,—,145,12500,12500,—,—,651,28900
+all_tables.pdf,104,tbl-239.md,24,Espírito Santo,Conceição do Rio Verde,—,—,240,9120,9120,—,—,985,16575
+all_tables.pdf,104,tbl-239.md,25,Espírito Santo,Conquista,5,2500,250,12500,15000,1,500,482,7350
+all_tables.pdf,104,tbl-239.md,26,Espírito Santo,Diamantina,—,—,185,11728,11728,—,—,2800,54700
+all_tables.pdf,104,tbl-239.md,27,Espírito Santo,Dóres da Bôa Esperança,—,—,214,12500,12500,—,—,455,9640
+all_tables.pdf,105,tbl-240.md,1,Minas Geraes,Poder Illuminativo total,Númerodeconsumidoresparticulares,Númerodeapparecçõesregistradoresdoconsumodeenergiaeléctrica(Medidores),CONSUMOANNUALDEENERGIAELÉCTRICA,,,RENDAANNUAL,,,Preçomédioannualdokwh
+all_tables.pdf,105,tbl-240.md,4,Minas Geraes,Número de vélas,,,Éclairagepublic,Éclairagepublic,,Éclairageprivé,,,
+all_tables.pdf,105,tbl-241.md,1,Minas Geraes,5.960,90,—,—,—,—,—,7:452$000,—,—
+all_tables.pdf,105,tbl-241.md,2,Minas Geraes,4.093,154,38,—,—,—,34:097$000,18:000$000,16:097$000,$500
+all_tables.pdf,105,tbl-241.md,3,Minas Geraes,20.721,356,—,35000,10000,25000,55:690$000,13:690$000,42:000$000,$380
+all_tables.pdf,105,tbl-241.md,4,Minas Geraes,47.984,915,22,76500,25500,51000,81:140$000,1:140$000,80:000$000,$800
+all_tables.pdf,105,tbl-241.md,5,Minas Geraes,4.460,93,93,—,—,—,42:672$000,11:095$000,31:577$000,$350
+all_tables.pdf,105,tbl-241.md,6,Minas Geraes,6.804,259,—,—,—,—,20:800$000,7:200$000,13:600$000,$200
+all_tables.pdf,105,tbl-241.md,7,Minas Geraes,20.375,112,45,35000,12000,23000,10:400$000,3:200$000,7:200$000,$300
+all_tables.pdf,105,tbl-241.md,8,Minas Geraes,—,—,—,—,—,—,—,—,—,$350
+all_tables.pdf,105,tbl-241.md,9,Minas Geraes,—,—,—,295924,295924,—,—,—,—,—
+all_tables.pdf,105,tbl-241.md,10,Minas Geraes,3.800,—,—,—,—,—,—,—,6:000$000,—
+all_tables.pdf,105,tbl-241.md,11,Minas Geraes,12.650,120,18,—,—,—,—,—,5:000$000,$250
+all_tables.pdf,105,tbl-241.md,12,Minas Geraes,14.986,359,61,—,—,—,59:061$000,19:061$000,40:000$000,—
+all_tables.pdf,105,tbl-241.md,13,Minas Geraes,—,170,—,—,—,—,—,5:400$000,—,$500
+all_tables.pdf,105,tbl-241.md,14,Minas Geraes,10.000,—,15,—,—,—,15:700$000,1:500$000,14:200$000,1$200
+all_tables.pdf,105,tbl-241.md,15,Minas Geraes,9.000,70,24,—,—,—,13:900$000,8:400$000,5:500$000,1$200
+all_tables.pdf,105,tbl-241.md,16,Minas Geraes,7.484,—,7,44613,—,—,21:171$000,7:340$000,13:831$000,$500
+all_tables.pdf,105,tbl-241.md,17,Minas Geraes,—,—,—,—,—,—,22:459$000,22:459$000,—,—
+all_tables.pdf,105,tbl-241.md,18,Minas Geraes,—,120,108,25000,—,—,29:400$000,14:400$000,15:000$000,$500
+all_tables.pdf,105,tbl-241.md,19,Minas Geraes,8.628,334,15,—,—,—,46:100$000,10:214$000,35:886$000,—
+all_tables.pdf,105,tbl-241.md,20,Minas Geraes,—,—,—,—,—,—,—,—,—,—
+all_tables.pdf,105,tbl-241.md,21,Minas Geraes,374.120,981,337,320000,15800,304200,127:606$000,22:620$000,104:986$000,$650
+all_tables.pdf,105,tbl-241.md,22,Minas Geraes,215.018,238,138,224998,52032,172966,56:634$000,19:316$000,37:318$000,$300
+all_tables.pdf,105,tbl-241.md,23,Minas Geraes,28.900,240,22,68000,24000,44000,15:988$000,3:488$000,12:500$000,$300
+all_tables.pdf,105,tbl-241.md,24,Minas Geraes,16.575,70,35,17700,12500,5200,—,—,6:000$000,$400
+all_tables.pdf,105,tbl-241.md,25,Minas Geraes,7.850,25,64,62840,20140,42500,108:792$000,90:000$000,18:792$000,$300
+all_tables.pdf,105,tbl-241.md,26,Minas Geraes,54.700,400,12,—,—,—,72:000$000,12:000$000,60:000$000,—
+all_tables.pdf,105,tbl-241.md,27,Minas Geraes,9.640,114,—,—,—,—,23:600$000,8:000$000,15:600$000,(2)
+all_tables.pdf,106,tbl-243.md,1,Minas Geraes,Eloy Mendes,—,—,174,6016,6016,—,—,567,7997
+all_tables.pdf,106,tbl-243.md,2,Minas Geraes,Entre Rios,—,—,90,3893,3893,—,—,—,—
+all_tables.pdf,106,tbl-243.md,3,Minas Geraes,Formiga,—,—,190,13360,13360,—,—,1563,12193
+all_tables.pdf,106,tbl-243.md,4,Minas Geraes,Fructal,—,—,268,12800,12800,—,—,—,—
+all_tables.pdf,106,tbl-243.md,5,Minas Geraes,Guaranesia,65,12500,420,19576,32076,—,—,786,8969
+all_tables.pdf,106,tbl-243.md,6,Minas Geraes,Guarany,—,—,—,—,—,—,—,—,—
+all_tables.pdf,106,tbl-243.md,7,Minas Geraes,Guarará,—,—,79,4550,4550,—,—,—,—
+all_tables.pdf,106,tbl-243.md,8,Minas Geraes,Guaxupé,—,—,473,16110,16110,—,—,1598,18358
+all_tables.pdf,106,tbl-243.md,9,Minas Geraes,Itabira,—,—,200,10000,10000,—,—,466,7497
+all_tables.pdf,106,tbl-243.md,10,Minas Geraes,Itajubá,—,—,295,16516,16516,—,—,2289,37080
+all_tables.pdf,106,tbl-243.md,11,Minas Geraes,Itapecerica,5,3000,156,9360,12360,—,—,159,5647
+all_tables.pdf,106,tbl-243.md,12,Minas Geraes,Jacutinga,164,10205,23,736,10941,—,—,600,10373
+all_tables.pdf,106,tbl-243.md,13,Minas Geraes,Jaguary,—,—,134,15100,15100,—,—,522,10450
+all_tables.pdf,106,tbl-243.md,14,Minas Geraes,Juiz de Fóia,—,—,606,25504,25504,—,—,—,—
+all_tables.pdf,106,tbl-243.md,15,Minas Geraes,Lavras,34,24400,335,16120,40520,—,—,530,10160
+all_tables.pdf,106,tbl-243.md,16,Minas Geraes,Leopoldina,—,—,225,17550,17550,—,—,4076,256253
+all_tables.pdf,106,tbl-243.md,17,Minas Geraes,Lima Duarte,—,—,57,1824,1824,—,—,119,4665
+all_tables.pdf,106,tbl-243.md,18,Minas Geraes,Manhuassá,—,—,203,9400,9400,—,—,1631,37114
+all_tables.pdf,106,tbl-243.md,19,Minas Geraes,Maria da Fé,—,—,45,1440,1440,—,—,254,3810
+all_tables.pdf,106,tbl-243.md,20,Minas Geraes,Monte Santo,—,—,180,9000,9000,—,—,955,14523
+all_tables.pdf,106,tbl-243.md,21,Minas Geraes,Musambinho,—,—,330,21118,21118,—,—,500,5997
+all_tables.pdf,106,tbl-243.md,22,Minas Geraes,Oliveira,—,—,242,19750,19750,—,—,—,—
+all_tables.pdf,106,tbl-243.md,23,Minas Geraes,Ouro Fino,—,—,285,16074,16074,—,—,1232,17615
+all_tables.pdf,106,tbl-243.md,24,Minas Geraes,Ouro Preto,—,—,360,15179,15179,—,—,4215,61120
+all_tables.pdf,106,tbl-243.md,25,Minas Geraes,Palma,—,—,88,5500,5500,—,—,400,17130
+all_tables.pdf,106,tbl-243.md,26,Minas Geraes,Palmyra,—,—,230,10376,10376,—,—,1585,18559
+all_tables.pdf,106,tbl-243.md,27,Minas Geraes,Paracatú,—,—,110,5236,5236,—,—,102,2094
+all_tables.pdf,106,tbl-243.md,28,Minas Geraes,Paraguassú,—,—,172,6944,6944,—,—,259,3860
+all_tables.pdf,106,tbl-243.md,29,Minas Geraes,Paraisopolis,—,—,162,7032,7032,—,—,581,8804
+all_tables.pdf,106,tbl-243.md,30,Minas Geraes,tos.,—,—,170,12780,12780,—,—,230,2704
+all_tables.pdf,107,tbl-244.md,1,Minas Geraes,Poder Nominativo total,Númerodeconsumidoresparticulares,Númerodeapparelhosre-gistradoresdoconsumodeenergiaele-ctrica(Medidores),CONSUMOANNUALDEENERGIAELECTRICA,,,RENDAANNUAL,,,Preçomédioannualdokwh
+all_tables.pdf,107,tbl-244.md,4,Minas Geraes,Número de velas,,Total,Éclairagepublic,Éclairageprévé,Total,Éclairageprévé,Éclairageprévé,,
+all_tables.pdf,107,tbl-245.md,1,Minas Geraes,7.997,174,2,—,—,—,21:000$000,9:000$000,12:000$000,—
+all_tables.pdf,107,tbl-245.md,2,Minas Geraes,—,45,13,—,—,—,—,4:320$000,—,$506
+all_tables.pdf,107,tbl-245.md,3,Minas Geraes,12.198,320,—,35100,22000,13100,56:642$000,17:727$000,38:915$000,—
+all_tables.pdf,107,tbl-245.md,4,Minas Geraes,—,130,—,—,—,—,—,—,14:000$000,$213
+all_tables.pdf,107,tbl-245.md,5,Minas Geraes,8.969,558,118,—,—,—,81:975$000,36:854$000,45:121$000,$600
+all_tables.pdf,107,tbl-245.md,6,Minas Geraes,—,211,—,—,—,—,—,4:367$000,—,—
+all_tables.pdf,107,tbl-245.md,7,Minas Geraes,—,—,—,—,—,—,6:796$000,6:796$000,—,—
+all_tables.pdf,107,tbl-245.md,8,Minas Geraes,18.358,1042,232,—,—,—,123:408$000,18:000$000,105:408$000,$600
+all_tables.pdf,107,tbl-245.md,9,Minas Geraes,7.497,145,56,76548,36108,40440,20:490$000,6:990$000,13:500$000,$450
+all_tables.pdf,107,tbl-245.md,10,Minas Geraes,37.080,605,10,109000,37000,72000,156:000$000,16:000$000,140:000$000,—
+all_tables.pdf,107,tbl-245.md,11,Minas Geraes,5.647,—,40,—,—,—,19:200$000,6:000$000,13:200$000,—
+all_tables.pdf,107,tbl-245.md,12,Minas Geraes,10.373,328,—,—,—,—,37:334$000,11:191$000,26:143$000,—
+all_tables.pdf,107,tbl-245.md,13,Minas Geraes,10.450,102,—,—,—,—,14:585$000,6:500$000,8:085$000,$280
+all_tables.pdf,107,tbl-245.md,14,Minas Geraes,—,3034,1047,—,—,—,—,50:454$000,—,$450
+all_tables.pdf,107,tbl-245.md,15,Minas Geraes,10.160,520,64,154048,79450,74598,61:377$000,29:214$000,32:163$000,$350
+all_tables.pdf,107,tbl-245.md,16,Minas Geraes,256.253,546,269,201800,13200,188600,65:341$000,18:798$000,46:543$000,$764
+all_tables.pdf,107,tbl-245.md,17,Minas Geraes,4.665,115,15,18600,7000,11600,12:132$000,5:460$000,6:672$000,$500
+all_tables.pdf,107,tbl-245.md,18,Minas Geraes,37.114,580,—,—,—,—,67:000$000,12:000$000,55:000$000,—
+all_tables.pdf,107,tbl-245.md,19,Minas Geraes,3.810,—,—,—,—,—,—,—,—,—
+all_tables.pdf,107,tbl-245.md,20,Minas Geraes,14.523,388,—,—,—,—,18:000$000,14:000$000,4:000$000,$250
+all_tables.pdf,107,tbl-245.md,21,Minas Geraes,5.997,434,178,—,—,—,54:947$000,16:012$000,38:935$000,$600
+all_tables.pdf,107,tbl-245.md,22,Minas Geraes,—,—,166,—,—,—,96:762$000,35:000$000,61:762$000,$400
+all_tables.pdf,107,tbl-245.md,23,Minas Geraes,17.615,424,25,—,—,—,65:761$000,21:961$000,43:800$000,—
+all_tables.pdf,107,tbl-245.md,24,Minas Geraes,61.120,650,—,—,—,—,27:550$000,15:409$000,12:141$000,$180
+all_tables.pdf,107,tbl-245.md,25,Minas Geraes,17.139,70,21,—,—,—,9:840$000,4:920$000,4:920$000,$250
+all_tables.pdf,107,tbl-245.md,26,Minas Geraes,18.559,767,150,66281,—,—,69:712$000,14:712$000,55:000$000,$560
+all_tables.pdf,107,tbl-245.md,27,Minas Geraes,2.094,71,—,—,—,—,14:700$000,8:400$000,6:300$000,—
+all_tables.pdf,107,tbl-245.md,28,Minas Geraes,3.860,110,—,—,—,—,8:000$000,7:200$000,800$000,—
+all_tables.pdf,107,tbl-245.md,29,Minas Geraes,8.804,223,—,—,—,—,22:567$000,7:062$000,15:505$000,$145
+all_tables.pdf,107,tbl-245.md,30,Minas Geraes,2.704,134,—,13917,—,—,35:000$000,19:980$000,15:020$000,$60
+all_tables.pdf,108,tbl-247.md,1,Minas Geraes,Pedra Branca,—,—,171,9500,9500,—,—,665,11680
+all_tables.pdf,108,tbl-247.md,2,Minas Geraes,Perdões.,—,—,179,10675,10675,—,—,510,8000
+all_tables.pdf,108,tbl-247.md,3,Minas Geraes,Pirapora,—,—,100,2640,2640,—,—,—,—
+all_tables.pdf,108,tbl-247.md,4,Minas Geraes,Pitanguí,—,—,200,22500,22500,—,—,—,—
+all_tables.pdf,108,tbl-247.md,5,Minas Geraes,Plumhy,—,—,306,8059,8059,—,—,412,2060
+all_tables.pdf,108,tbl-247.md,6,Minas Geraes,Poços de Caldas,—,—,—,—,—,—,—,—,—
+all_tables.pdf,108,tbl-247.md,7,Minas Geraes,Pomba,—,—,299,17350,17350,—,—,3584,85000
+all_tables.pdf,108,tbl-247.md,8,Minas Geraes,Ponte Nova.,—,—,354,18400,18400,—,—,268,11754
+all_tables.pdf,108,tbl-247.md,9,Minas Geraes,Pouso Alegre,—,—,1956,35558,35558,—,—,229,8644
+all_tables.pdf,108,tbl-247.md,10,Minas Geraes,Queluz,—,—,—,—,—,—,—,—,—
+all_tables.pdf,108,tbl-247.md,11,Minas Geraes,Rio Branco,—,—,401,27400,27400,—,—,3897,—
+all_tables.pdf,108,tbl-247.md,12,Minas Geraes,Rio Piracicaba,—,—,65,1495,1495,—,—,180,4193
+all_tables.pdf,108,tbl-247.md,13,Minas Geraes,Rio Preto,—,—,99,4950,4950,—,—,1431,55635
+all_tables.pdf,108,tbl-247.md,14,Minas Geraes,Sabaá,—,—,282,12675,12675,—,—,—,—
+all_tables.pdf,108,tbl-247.md,15,Minas Geraes,Sacramento,—,—,350,17500,17500,—,—,407,29796
+all_tables.pdf,108,tbl-247.md,16,Minas Geraes,Santa Barbara,—,—,—,—,—,—,—,—,—
+all_tables.pdf,108,tbl-247.md,17,Minas Geraes,Santa Luzia do Rio das Velhas,—,—,284,14200,14200,—,—,—,—
+all_tables.pdf,108,tbl-247.md,18,Minas Geraes,Santa Quiteria,—,—,50,2500,2500,—,—,—,—
+all_tables.pdf,108,tbl-247.md,19,Minas Geraes,Santa Rita do Sapucahy,6,3000,140,7000,10000,—,—,230,3190
+all_tables.pdf,108,tbl-247.md,20,Minas Geraes,Santo Antonio do Machado,—,—,950,24035,24035,—,—,—,—
+all_tables.pdf,108,tbl-247.md,21,Minas Geraes,Santo Antonio do Monte,—,—,257,11997,11997,—,—,612,6277
+all_tables.pdf,108,tbl-247.md,22,Minas Geraes,São Gonçalo do Sapucahy,—,—,172,5748,5748,—,—,—,—
+all_tables.pdf,108,tbl-247.md,23,Minas Geraes,São João d’El-Rey,50,30000,307,15070,45070,—,—,5200,—
+all_tables.pdf,108,tbl-247.md,24,Minas Geraes,São José d’Além Patahyba,—,—,—,—,—,—,—,585,11396
+all_tables.pdf,108,tbl-247.md,25,Minas Geraes,São José dos Botelhos,—,—,151,6092,6092,—,—,131,1568
+all_tables.pdf,108,tbl-247.md,26,Minas Geraes,São Paulo do Murinhé,—,—,233,20300,20300,—,—,—,—
+all_tables.pdf,108,tbl-247.md,27,Minas Geraes,São Sebastião do Paraíso,—,—,308,9600,9600,—,—,1352,18513
+all_tables.pdf,108,tbl-247.md,28,Minas Geraes,Silvestre Ferraz,—,—,181,8492,8492,—,—,723,15161
+all_tables.pdf,109,tbl-248.md,1,Minas Geraes,Poder illuminativo total,Númerodeconsumidoresparticulares,Númerodeapparelhosregistradoresdeconsumodeenergiaeléctrica(Medidores),CONSUMOANNUALDEENERGIAELECTRICA,,,RENDAANNUAL,,,Preçomédioannualdokwh
+all_tables.pdf,109,tbl-248.md,4,Minas Geraes,Número de velas,,Total,Éclairagepublic,Éclairageprévé,Total,Éclairageprévé,Éclairageprévé,,
+all_tables.pdf,109,tbl-249.md,1,Minas Geraes,11.680,289,—,—,—,—,—,—,—,—
+all_tables.pdf,109,tbl-249.md,2,Minas Geraes,8.000,86,27,—,—,—,13:100$000,5:100$000,8:000$000,$360
+all_tables.pdf,109,tbl-249.md,3,Minas Geraes,—,—,—,—,—,—,4:000$000,4:000$000,—,—
+all_tables.pdf,109,tbl-249.md,4,Minas Geraes,—,—,122,28761,10292,18469,—,9:600$000,—,$350
+all_tables.pdf,109,tbl-249.md,5,Minas Geraes,4.624,125,10,11880,8163,3720,24:000$000,9:000$000,15:000$000,1$000
+all_tables.pdf,109,tbl-249.md,6,Minas Geraes,—,925,—,—,—,—,212:440$000,40:427$000,172:013$000,—
+all_tables.pdf,109,tbl-249.md,7,Minas Geraes,85.000,646,—,—,—,—,—,14:783$000,—,—
+all_tables.pdf,109,tbl-249.md,8,Minas Geraes,11.754,—,153,30295,10220,20075,97:000$000,48:000$000,49:000$000,—
+all_tables.pdf,109,tbl-249.md,9,Minas Geraes,8.644,478,—,190362,150030,40332,68:102$000,11:360$000,56:742$000,(1)
+all_tables.pdf,109,tbl-249.md,10,Minas Geraes,—,158,—,123000,45000,78000,44:090$000,14:890$000,29:200$000,$500
+all_tables.pdf,109,tbl-249.md,11,Minas Geraes,—,804,—,—,—,—,60:444$000,19:080$000,41:364$000,$400
+all_tables.pdf,109,tbl-249.md,12,Minas Geraes,4.193,22,—,—,—,—,—,—,1:800$000,(2)
+all_tables.pdf,109,tbl-249.md,13,Minas Geraes,55.635,142,38,42200,22200,20000,13:704$000,5:304$000,8:400$000,$400
+all_tables.pdf,109,tbl-249.md,14,Minas Geraes,—,465,19,—,2592,—,—,—,48:600$000,$300
+all_tables.pdf,109,tbl-249.md,15,Minas Geraes,29.796,362,63,119625,—,—,160:759$000,62:759$000,98:000$000,(3)
+all_tables.pdf,109,tbl-249.md,16,Minas Geraes,—,106,—,63200,24400,38800,13:200$000,6:000$000,7:200$000,—
+all_tables.pdf,109,tbl-249.md,17,Minas Geraes,—,142,—,38000,18000,20000,12:000$000,7:000$000,5:000$000,(4)
+all_tables.pdf,109,tbl-249.md,18,Minas Geraes,—,100,6,—,—,—,6:550$000,2:550$000,4:000$000,—
+all_tables.pdf,109,tbl-249.md,19,Minas Geraes,3.190,560,184,—,—,—,78:970$000,18:970$000,60:000$000,—
+all_tables.pdf,109,tbl-249.md,20,Minas Geraes,—,344,—,23972,—,—,—,—,53:900$000,—
+all_tables.pdf,109,tbl-249.md,21,Minas Geraes,6.277,108,—,76640,15440,61200,—,—,10:800$000,$840
+all_tables.pdf,109,tbl-249.md,22,Minas Geraes,—,157,117,89730,—,—,38:423$000,22:430$000,15:993$000,—
+all_tables.pdf,109,tbl-249.md,23,Minas Geraes,—,1780,18,238174,—,—,116:472$000,2:172$000,114:300$000,$800
+all_tables.pdf,109,tbl-249.md,24,Minas Geraes,11.396,470,185,—,—,—,—,—,40:000$000,$300
+all_tables.pdf,109,tbl-249.md,25,Minas Geraes,1.568,79,—,29300,20800,8500,12:796$000,7:044$000,5:752$000,$600
+all_tables.pdf,109,tbl-249.md,26,Minas Geraes,—,577,312,302400,—,—,41:652$000,11:652$000,30:000$000,$250
+all_tables.pdf,109,tbl-249.md,27,Minas Geraes,18.513,700,—,—,—,—,—,—,72:000$000,—
+all_tables.pdf,109,tbl-249.md,28,Minas Geraes,15.161,—,—,—,—,—,—,—,21:906$000,—
+all_tables.pdf,110,tbl-250.md,5,Minas Geraes,Tres Corações do Rio Verde,—,—,264,10242,10242,—,—,1783,40546
+all_tables.pdf,110,tbl-250.md,6,Minas Geraes,Tres Pontas,—,—,179,6568,6568,—,—,516,6266
+all_tables.pdf,110,tbl-250.md,7,Minas Geraes,Tutvo,—,—,232,11600,11600,—,—,—,—
+all_tables.pdf,110,tbl-250.md,8,Minas Geraes,Ubetabinha,—,—,375,32850,32850,—,—,1600,41100
+all_tables.pdf,110,tbl-250.md,9,Minas Geraes,Varginha,—,—,379,15721,15721,—,—,1721,24785
+all_tables.pdf,110,tbl-250.md,10,Minas Geraes,Viçosa,—,—,306,17100,17100,—,—,—,—
+all_tables.pdf,110,tbl-250.md,11,Minas Geraes,Villa Braz,—,—,135,6550,6550,—,—,300,6350
+all_tables.pdf,110,tbl-250.md,12,Minas Geraes,Villa de Cambuquira,—,—,148,9300,9300,—,—,1358,67358
+all_tables.pdf,110,tbl-250.md,13,Minas Geraes,Villa Nova de Lima,—,—,257,15420,15420,—,—,532,17640
+all_tables.pdf,110,tbl-250.md,14,Minas Geraes,Villa Nova de Rezende,—,—,270,6750,6750,—,—,158,3170
+all_tables.pdf,110,tbl-250.md,16,Minas Geraes,Bragança,8,1600,380,9500,11100,—,—,250,11250
+all_tables.pdf,110,tbl-250.md,17,Minas Geraes,Cachoeira,—,—,111,2310,2310,—,—,14,428
+all_tables.pdf,110,tbl-250.md,18,Minas Geraes,Chaves,—,—,144,6996,6996,—,—,—,—
+all_tables.pdf,110,tbl-250.md,19,Minas Geraes,Bantarém,—,—,50,2500,2500,—,—,157,8915
+all_tables.pdf,110,tbl-250.md,21,Minas Geraes,Alagôa Nova,—,—,170,7530,7530,—,—,115,3890
+all_tables.pdf,110,tbl-250.md,22,Minas Geraes,Areia,—,—,80,2280,2280,—,—,144,3525
+all_tables.pdf,110,tbl-250.md,23,Minas Geraes,Espírito Santo,—,—,440,19030,19030,—,—,140,3850
+all_tables.pdf,110,tbl-250.md,24,Minas Geraes,Guatabira,—,—,140,5560,5560,—,—,1015,33040
+all_tables.pdf,110,tbl-250.md,25,Minas Geraes,Itabayanua,—,—,200,10000,10000,—,—,988,30708
+all_tables.pdf,110,tbl-250.md,26,Minas Geraes,Mamanguape,—,—,140,7600,7600,—,—,190,8020
+all_tables.pdf,110,tbl-250.md,28,Minas Geraes,Araucaria,—,—,43,1228,1288,—,—,52,—
+all_tables.pdf,110,tbl-250.md,29,Minas Geraes,Campo Largo,—,—,66,1725,1725,—,—,447,12826
+all_tables.pdf,110,tbl-250.md,30,Minas Geraes,Castro,—,—,253,6450,6450,—,—,600,10200
+all_tables.pdf,111,tbl-251.md,1,Minas Geraes,Peder Illuminativo total,Númerodeconsumidoresparticulares,Númerodeaparelhosregistradoresdoconsumodeenergiaeléctrica(Medidores),CONSUMOANNUALDEENERGIAELÉCTRICA,,,RENDAANNUAL,,,Preçomédioannualdekwh
+all_tables.pdf,111,tbl-251.md,2,Minas Geraes,,,,CONSOMMATIONANNUALED'ÉNERGIEÉLECTRIQUE,,,REVENUANNUAL,,,
+all_tables.pdf,111,tbl-251.md,4,Minas Geraes,Número de vélas,,,,,,,,,
+all_tables.pdf,111,tbl-252.md,1,Minas Geraes,40.546,488,—,120000,—,—,—,12:955$000,—,—
+all_tables.pdf,111,tbl-252.md,2,Minas Geraes,6.266,183,—,—,—,—,21:439$000,8:172$000,13:267$000,—
+all_tables.pdf,111,tbl-252.md,3,Minas Geraes,—,186,56,108312,28512,79800,60:360$000,37:200$000,23:160$000,$700
+all_tables.pdf,111,tbl-252.md,4,Minas Geraes,41.100,760,—,—,—,—,31:300$000,22:000$000,9:200$000,—
+all_tables.pdf,111,tbl-252.md,5,Minas Geraes,24.785,533,5,41000,16000,25000,64:269$000,10:269$000,54:000$000,—
+all_tables.pdf,111,tbl-252.md,6,Minas Geraes,—,333,276,—,—,—,25:582$000,21:082$000,4:500$000,—
+all_tables.pdf,111,tbl-252.md,7,Minas Geraes,6.350,150,—,40000,15000,25000,28:040$000,6:440$000,21:600$000,(1)
+all_tables.pdf,111,tbl-252.md,8,Minas Geraes,67.358,152,42,42000,12000,30000,33:799$000,18:645$000,15:154$000,$500
+all_tables.pdf,111,tbl-252.md,9,Minas Geraes,17.640,32,6,94477,—,—,—,—,—,—
+all_tables.pdf,111,tbl-252.md,10,Minas Geraes,3.170,120,8,60500,40500,20000,18:500$000,12:000$000,6:500$000,1$200
+all_tables.pdf,111,tbl-253.md,1,Minas Geraes,11.250,197,—,—,—,—,38:000$000,18:000$000,20:000$000,(3)
+all_tables.pdf,111,tbl-253.md,2,Minas Geraes,428,3,—,—,—,—,7:660$000,7:465$000,195$000,(4)
+all_tables.pdf,111,tbl-253.md,3,Minas Geraes,—,18,—,6791,2650,4141,—,9:500$000,—,—
+all_tables.pdf,111,tbl-253.md,4,Minas Geraes,8.915,86,80,20000,6000,14000,16:300$000,4:800$000,11:500$000,$600
+all_tables.pdf,111,tbl-254.md,1,Minas Geraes,3.890,—,110,—,—,—,—,4:800$000,—,—
+all_tables.pdf,111,tbl-254.md,2,Minas Geraes,3.525,71,—,841,306,535,12:384$000,7:200$000,5:184$000,—
+all_tables.pdf,111,tbl-254.md,3,Minas Geraes,3.850,150,—,—,—,—,—,11:000$000,—,(6)
+all_tables.pdf,111,tbl-254.md,4,Minas Geraes,33.040,270,30,14004,3204,10800,37:100$000,7:100$000,30:000$000,$600
+all_tables.pdf,111,tbl-254.md,5,Minas Geraes,30.708,126,—,258,120,138,23:000$000,9:600$000,13:400$000,(7)
+all_tables.pdf,111,tbl-254.md,6,Minas Geraes,8.020,—,—,—,—,—,—,8:400$000,—,—
+all_tables.pdf,111,tbl-255.md,1,Minas Geraes,—,52,13,15144,7744,7400,9:047$000,4:400$000,4647$000,$600
+all_tables.pdf,111,tbl-255.md,2,Minas Geraes,12.826,70,14,—,—,—,12:320$000,5:360$000,6:960$000,$600
+all_tables.pdf,111,tbl-255.md,3,Minas Geraes,10.200,307,67,50000,28000,22000,—,—,36:000$000,$800
+all_tables.pdf,112,tbl-257.md,1,Minas Geraes,Curitiba,—,—,1568,118244,118244,—,—,—,795441
+all_tables.pdf,112,tbl-257.md,2,Minas Geraes,Deodoro,—,—,—,—,—,—,—,—,—
+all_tables.pdf,112,tbl-257.md,3,Minas Geraes,Fóz do Iguassú,—,—,45,1625,1625,—,—,105,2710
+all_tables.pdf,112,tbl-257.md,4,Minas Geraes,Guarapuava,—,—,101,2700,2700,—,—,537,19944
+all_tables.pdf,112,tbl-257.md,5,Minas Geraes,Iraty,—,—,164,3530,3530,—,—,606,12961
+all_tables.pdf,112,tbl-257.md,6,Minas Geraes,Jacarésinho,—,—,138,4160,4160,—,—,—,—
+all_tables.pdf,112,tbl-257.md,7,Minas Geraes,Lapa,—,—,32,800,800,—,—,725,19439
+all_tables.pdf,112,tbl-257.md,8,Minas Geraes,Palmeira,—,—,183,10940,10940,—,—,1081,33880
+all_tables.pdf,112,tbl-257.md,9,Minas Geraes,Paranaguá,—,—,3934,100396,100396,—,—,3870,81972
+all_tables.pdf,112,tbl-257.md,10,Minas Geraes,Pirahy,—,—,90,1623,1623,—,—,290,4386
+all_tables.pdf,112,tbl-257.md,11,Minas Geraes,Ponta Grossa,—,—,364,12358,12358,—,—,3829,80939
+all_tables.pdf,112,tbl-257.md,12,Minas Geraes,Prudentópolis,—,—,100,2500,2500,—,—,1300,32415
+all_tables.pdf,112,tbl-257.md,13,Minas Geraes,Ribeirão Claro,—,—,85,2720,2720,—,—,360,11910
+all_tables.pdf,112,tbl-257.md,14,Minas Geraes,Rio Negro,—,—,159,3750,3750,—,—,1530,58030
+all_tables.pdf,112,tbl-257.md,15,Minas Geraes,Santo Antonio de Imbituva,—,—,208,4400,4400,—,—,522,13846
+all_tables.pdf,112,tbl-257.md,16,Minas Geraes,São José da Bôa Vista,—,—,50,1250,1250,—,—,38,864
+all_tables.pdf,112,tbl-257.md,17,Minas Geraes,São José dos Pinhões,—,—,—,—,—,—,—,—,—
+all_tables.pdf,112,tbl-257.md,18,Minas Geraes,São Matheus,—,—,230,8300,8300,—,—,380,9500
+all_tables.pdf,112,tbl-257.md,19,Minas Geraes,Teixeira Soares,—,—,80,2560,2560,—,—,222,5770
+all_tables.pdf,112,tbl-257.md,20,Minas Geraes,União da Victoria,—,—,43,688,688,—,—,133,2148
+all_tables.pdf,112,tbl-257.md,21,Minas Geraes,Ypiranga,—,—,125,4406,4406,—,—,269,6821
+all_tables.pdf,112,tbl-258.md,1,Minas Geraes,Caruará,—,—,354,35400,35400,—,—,630,63000
+all_tables.pdf,112,tbl-258.md,2,Minas Geraes,Correntes,—,—,60,4500,4500,—,—,435,12150
+all_tables.pdf,112,tbl-258.md,3,Minas Geraes,Garanhuns,—,—,179,16072,16072,—,—,983,41800
+all_tables.pdf,112,tbl-258.md,4,Minas Geraes,Goyanna,—,—,189,22800,22800,—,—,1270,34000
+all_tables.pdf,112,tbl-258.md,5,Minas Geraes,Ipojuca,—,—,50,5000,5000,—,—,78,3950
+all_tables.pdf,113,tbl-260.md,1,Paraná,795.441,4013,2939,1732000,640000,1092000,700:000$000,175:000$000,525:000$000,$483
+all_tables.pdf,113,tbl-260.md,2,Paraná,-,50,-,-,-,-,-,2:00$000,-,-
+all_tables.pdf,113,tbl-260.md,3,Paraná,2.710,-,-,-,-,-,24:400$000,13:600$000,10:800$000,(1)
+all_tables.pdf,113,tbl-260.md,4,Paraná,19.944,110,-,-,-,-,30:000$000,12:000$000,18:000$000,-
+all_tables.pdf,113,tbl-260.md,5,Paraná,12.961,104,-,-,-,-,25:166$000,10:166$000,15:000$000,(1)
+all_tables.pdf,113,tbl-260.md,6,Paraná,-,-,-,-,-,-,5:920$000,5:920$000,-,-
+all_tables.pdf,113,tbl-260.md,7,Paraná,19.439,164,75,37000,12000,25000,36:600$000,15:000$000,21:600$000,$800
+all_tables.pdf,113,tbl-260.md,8,Paraná,33.880,144,-,72000,29000,43000,26:200$000,11:000$000,15:200$000,(1)
+all_tables.pdf,113,tbl-260.md,9,Paraná,81.972,780,300,-,-,-,-,-,80:000$000,$648
+all_tables.pdf,113,tbl-260.md,10,Paraná,4.386,83,-,39200,16750,22450,10:961$000,2:621$000,8:340$000,$371
+all_tables.pdf,113,tbl-260.md,11,Paraná,80.939,-,297,48000,-,-,-,-,-,-
+all_tables.pdf,113,tbl-260.md,12,Paraná,32.415,118,15,-,-,-,17:200$000,7:200$000,10:000$000,$600
+all_tables.pdf,113,tbl-260.md,13,Paraná,11.910,125,-,-,-,-,15:500$000,3:500$000,12:000$000,-
+all_tables.pdf,113,tbl-260.md,14,Paraná,58.030,360,250,165000,-,-,79:000$000,9:000$000,70:000$000,$540
+all_tables.pdf,113,tbl-260.md,15,Paraná,13.846,197,-,-,-,-,12:716$000,7:200$000,5:516$000,(1)
+all_tables.pdf,113,tbl-260.md,16,Paraná,864,15,15,-,-,-,-,3:000$000,-,-
+all_tables.pdf,113,tbl-260.md,17,Paraná,-,-,-,-,-,-,15:000$000,6:000$000,9:000$000,-
+all_tables.pdf,113,tbl-260.md,18,Paraná,9.500,105,-,-,-,-,15:600$000,3:600$000,12:000$000,$600
+all_tables.pdf,113,tbl-260.md,19,Paraná,5.770,70,-,-,-,-,-,-,-,-
+all_tables.pdf,113,tbl-260.md,20,Paraná,2.148,83,23,19200,4200,15000,14:472$000,2:472$000,12:000$000,$800
+all_tables.pdf,113,tbl-260.md,21,Paraná,6.821,-,-,-,-,-,21:500$000,12:500$000,9:000$000,(1)
+all_tables.pdf,113,tbl-261.md,1,Paraná,63.000,221,-,-,-,-,44:564$000,22:642$000,21:922$000,1$000
+all_tables.pdf,113,tbl-261.md,2,Paraná,12.150,200,-,16850,5000,11850,13:000$000,3:000$000,10:000$000,1$000
+all_tables.pdf,113,tbl-261.md,3,Paraná,41.800,320,2,153340,50820,102520,61:800$000,16:800$000,45:000$000,$560
+all_tables.pdf,113,tbl-261.md,4,Paraná,34.000,-,-,52000,15000,37000,-,20:800$000,-,1$000
+all_tables.pdf,113,tbl-261.md,5,Paraná,3.950,31,-,-,-,-,8:050$000,4:200$000,3:850$000,-
+all_tables.pdf,114,tbl-263.md,1,Paraná,Jaboatão,—,—,218,28600,28600,—,—,770,54000
+all_tables.pdf,114,tbl-263.md,2,Paraná,Limocito,—,—,102,10200,10200,—,—,—,—
+all_tables.pdf,114,tbl-263.md,3,Paraná,Nazareth,—,—,153,12096,12096,—,—,1395,23240
+all_tables.pdf,114,tbl-263.md,4,Paraná,Olinda,—,—,—,—,—,—,—,—,—
+all_tables.pdf,114,tbl-263.md,5,Paraná,Palmates,—,—,—,10250,10250,—,—,—,15400
+all_tables.pdf,114,tbl-264.md,1,Paraná,Thecezina,—,—,686,30000,30000,—,—,3823,156212
+all_tables.pdf,114,tbl-265.md,1,Paraná,Barra do Pirahy,—,—,283,23500,23500,—,—,—,35000
+all_tables.pdf,114,tbl-265.md,2,Paraná,Barra Mansa,—,—,204,8880,8880,—,—,2500,—
+all_tables.pdf,114,tbl-265.md,3,Paraná,Bom Jardim,—,—,50,2600,2600,—,—,1000,—
+all_tables.pdf,114,tbl-265.md,4,Paraná,Cabo Frio,—,—,250,—,—,—,—,800,—
+all_tables.pdf,114,tbl-265.md,5,Paraná,Cambucy,—,—,104,7500,7500,—,—,344,21600
+all_tables.pdf,114,tbl-265.md,6,Paraná,Cantagallo,—,—,219,15550,15550,—,—,—,—
+all_tables.pdf,114,tbl-265.md,7,Paraná,Carmo,—,—,112,6200,6200,—,—,135,3410
+all_tables.pdf,114,tbl-265.md,8,Paraná,Duas Bartas,—,—,45,2250,2250,—,—,—,—
+all_tables.pdf,114,tbl-265.md,9,Paraná,Itaocara,—,—,—,—,—,—,—,—,—
+all_tables.pdf,114,tbl-265.md,10,Paraná,Macahé,—,—,250,12500,12500,—,—,—,—
+all_tables.pdf,114,tbl-265.md,11,Paraná,Mangaratiba,—,—,35,1120,1120,—,—,137,2512
+all_tables.pdf,114,tbl-265.md,12,Paraná,Nietheroy,—,—,3476,352060,352060,—,—,—,—
+all_tables.pdf,114,tbl-265.md,13,Paraná,Nova Friburgo,—,—,427,32600,32600,—,—,—,—
+all_tables.pdf,114,tbl-265.md,14,Paraná,Parahyba do Sul,—,—,185,7348,7348,—,—,—,—
+all_tables.pdf,114,tbl-265.md,15,Paraná,Paraty,—,—,94,5700,5700,—,—,295,10030
+all_tables.pdf,114,tbl-265.md,16,Paraná,Santa Thetesa,—,—,—,—,—,—,—,—,—
+all_tables.pdf,114,tbl-265.md,17,Paraná,São Francisco de Paula,—,—,95,5300,5300,—,—,262,—
+all_tables.pdf,114,tbl-265.md,18,Paraná,São Gonçalo,—,—,355,—,—,—,—,—,—
+all_tables.pdf,114,tbl-265.md,19,Paraná,Sumidouto,—,—,85,2190,2190,—,—,196,3150
+all_tables.pdf,114,tbl-265.md,20,Paraná,Valença,—,—,—,—,—,—,—,—,—
+all_tables.pdf,114,tbl-265.md,21,Paraná,Va souras,—,—,208,7224,7224,—,—,—,—
+all_tables.pdf,115,tbl-266.md,1,Pernambuco,Poder Iluminativo total,Númerodeconsumidoresparticulares,Númerodeaparelhosregistradoresdoconsumodeenergiaeletrônica(Medidores),CONSUMOANNUALDEENERGIAELECTRICA,,,RENDAANNUALREVENUANNUEL,,,Preçomédioannualdokwh
+all_tables.pdf,115,tbl-266.md,4,Pernambuco,Número de velas,,,,,,,,,
+all_tables.pdf,115,tbl-267.md,1,Pernambuco,54.000,—,—,—,—,—,57:668$000,19:860$000,37:808$000,$700
+all_tables.pdf,115,tbl-267.md,2,Pernambuco,—,—,—,—,—,—,21:120$000,6:720$000,14:400$000,(1)
+all_tables.pdf,115,tbl-267.md,3,Pernambuco,23.240,385,—,49500,19600,29900,44:700$000,12:300$000,32:400$000,(2)
+all_tables.pdf,115,tbl-267.md,4,Pernambuco,—,600,510,214800,94800,120000,136:000$000,70:000$000,66:000$000,$560
+all_tables.pdf,115,tbl-267.md,5,Pernambuco,15.400,400,—,—,—,—,40:600$000,10:800$000,30:000$000,—
+all_tables.pdf,115,tbl-268.md,1,Pernambuco,156.212,690,690,263820,121400,132420,201:000$000,70:000$000,131:000$000,15000
+all_tables.pdf,115,tbl-269.md,1,Pernambuco,35.000,590,167,162000,61000,101000,36:380$000,7:580$000,28:800$000,—
+all_tables.pdf,115,tbl-269.md,2,Pernambuco,—,250,—,90000,45000,45000,28:840$000,10:840$000,18:000$000,—
+all_tables.pdf,115,tbl-269.md,3,Pernambuco,—,132,45,150000,11000,139000,11:000$000,3:000$000,8:000$000,$400
+all_tables.pdf,115,tbl-269.md,4,Pernambuco,—,—,60,45000,45000,—,—,—,12:000$000,15500
+all_tables.pdf,115,tbl-269.md,5,Pernambuco,21.600,105,—,81000,19000,62000,—,6:000$000,—,—
+all_tables.pdf,115,tbl-269.md,6,Pernambuco,—,—,—,—,—,—,96:846$000,21:770$000,75:076$000,$450
+all_tables.pdf,115,tbl-269.md,7,Pernambuco,3.410,17,—,—,—,—,—,—,5:000$000,$600
+all_tables.pdf,115,tbl-269.md,8,Pernambuco,—,68,—,30000,10000,25000,1:800$000,1:800$000,—,$500
+all_tables.pdf,115,tbl-269.md,9,Pernambuco,—,—,—,—,—,—,15:000$000,15:000$000,—,$450
+all_tables.pdf,115,tbl-269.md,10,Pernambuco,—,326,326,—,—,—,64:000$000,40:000$000,24:000$000,$600
+all_tables.pdf,115,tbl-269.md,11,Pernambuco,2.512,45,—,—,—,—,7:800$000,3:000$000,4:800$000,—
+all_tables.pdf,115,tbl-269.md,12,Pernambuco,—,8343,10225,1098084,723541,374543,—,—,—,—
+all_tables.pdf,115,tbl-269.md,13,Pernambuco,—,884,1106,216000,198000,38000,—,—,48:000$000,$250
+all_tables.pdf,115,tbl-269.md,14,Pernambuco,—,—,—,—,—,—,—,—,—,—
+all_tables.pdf,115,tbl-269.md,15,Pernambuco,10.030,48,20,8150,3030,5120,4:800$000,4:200$000,600$000,$280
+all_tables.pdf,115,tbl-269.md,16,Pernambuco,—,—,—,—,—,—,3:150$000,3:150$000,—,$500
+all_tables.pdf,115,tbl-269.md,17,Pernambuco,—,48,—,—,—,—,—,—,—,—
+all_tables.pdf,115,tbl-269.md,18,Pernambuco,—,—,—,—,—,—,—,—,—,—
+all_tables.pdf,115,tbl-269.md,19,Pernambuco,3.150,—,—,—,—,—,4:100$000,1:600$000,2:500$000,—
+all_tables.pdf,115,tbl-269.md,20,Pernambuco,—,—,—,—,—,—,27:000$000,27:000$000,—,$500
+all_tables.pdf,115,tbl-269.md,21,Pernambuco,—,—,120,73249,41132,32117,22:932$000,9:988$000,12:944$000,$403
+all_tables.pdf,116,tbl-271.md,1,Pernambuco,Canguarctama,—,—,70,—,—,—,—,—,—
+all_tables.pdf,116,tbl-271.md,2,Pernambuco,Cerrá-mirim,—,—,80,2560,2560,—,—,223,7690
+all_tables.pdf,116,tbl-271.md,3,Pernambuco,Natal,—,—,597,"40,450",40450,—,—,3340,100487
+all_tables.pdf,116,tbl-271.md,4,Pernambuco,Nora Cruz,—,—,76,2432,2432,—,—,211,8947
+all_tables.pdf,116,tbl-271.md,5,Pernambuco,Pedro Velho,—,—,38,1216,1216,—,—,139,4010
+all_tables.pdf,116,tbl-272.md,1,Pernambuco,Alegrete,—,—,177,46868,46868,—,—,3000,—
+all_tables.pdf,116,tbl-272.md,2,Pernambuco,Alfredo Chaves,—,—,104,3680,3680,—,—,111,3550
+all_tables.pdf,116,tbl-272.md,3,Pernambuco,Antonio Prado,—,—,—,—,—,—,—,—,—
+all_tables.pdf,116,tbl-272.md,4,Pernambuco,Arrolo Grande,—,—,59,5728,5728,—,—,482,37216
+all_tables.pdf,116,tbl-272.md,5,Pernambuco,Bagé,—,—,211,76200,76200,—,—,—,—
+all_tables.pdf,116,tbl-272.md,6,Pernambuco,Cachoeira,—,—,—,—,—,—,—,—,—
+all_tables.pdf,116,tbl-272.md,7,Pernambuco,Fuencailhada,—,—,200,6400,6400,—,—,—,—
+all_tables.pdf,116,tbl-272.md,8,Pernambuco,Estrella,—,—,162,6050,6050,—,—,1660,—
+all_tables.pdf,116,tbl-272.md,9,Pernambuco,Garibaldi,—,—,200,6400,6400,—,—,—,—
+all_tables.pdf,116,tbl-272.md,10,Pernambuco,Gravatahy,—,—,80,4000,4000,—,—,110,4279
+all_tables.pdf,116,tbl-272.md,11,Pernambuco,Baquy,—,—,133,29750,29750,—,—,511,18030
+all_tables.pdf,116,tbl-272.md,12,Pernambuco,Jaguarão,—,—,224,6775,6775,—,—,450,—
+all_tables.pdf,116,tbl-272.md,13,Pernambuco,Lagoado,—,—,1100,38625,38625,—,—,223,3100
+all_tables.pdf,116,tbl-272.md,14,Pernambuco,Passo-Fundo,12,12000,278,28950,40950,2,2000,6055,237750
+all_tables.pdf,116,tbl-272.md,15,Pernambuco,Pelotas,—,—,1009,114965,114965,—,—,—,—
+all_tables.pdf,116,tbl-272.md,16,Pernambuco,Pinheiro Machado,—,—,74,2640,2640,—,—,250,8000
+all_tables.pdf,116,tbl-272.md,17,Pernambuco,Rio Grande,—,—,248,34675,34675,—,—,—,—
+all_tables.pdf,116,tbl-272.md,18,Pernambuco,Rosario,—,—,—,—,—,—,—,—,—
+all_tables.pdf,116,tbl-272.md,19,Pernambuco,Sant'Anna do Livramento,—,—,229,36325,36325,—,—,7310,344325
+all_tables.pdf,116,tbl-272.md,20,Pernambuco,Santa Cruz,—,—,174,12520,12520,—,—,920,36048
+all_tables.pdf,116,tbl-272.md,21,Pernambuco,Santa Maria da Bocca do Monte,25,15000,339,9807,24807,—,—,10000,111000
+all_tables.pdf,117,tbl-273.md,1,Rio Grande do Norte,Poder Iluminativo total,Númerodeconsumidoresparticulares,Númerodeapparadosregistradoresdoconsumodeenergiaeléctrica(Medidores),CONSUMOANNUALDEENERGIAELÉCTRICA,,,RENDAANNUAL,,,Preçomédioannualdokwh
+all_tables.pdf,117,tbl-273.md,4,Rio Grande do Norte,Número de vetas,,,,,,,,,
+all_tables.pdf,117,tbl-274.md,1,Rio Grande do Norte,-,-,-,14000,6000,8000,12:000$000,4:800$000,7:200$000,1$000
+all_tables.pdf,117,tbl-274.md,2,Rio Grande do Norte,7.690,42,-,-,-,-,10:800$000,4:800$000,6:000$000,$600
+all_tables.pdf,117,tbl-274.md,3,Rio Grande do Norte,100.487,1650,250,840000,120000,720000,232:800$000,100:800$000,132:000$000,$600
+all_tables.pdf,117,tbl-274.md,4,Rio Grande do Norte,8.947,-,8,-,-,-,-,3:600$000,-,$700
+all_tables.pdf,117,tbl-274.md,5,Rio Grande do Norte,4.010,80,80,69500,15200,54300,5:760$000,2:400$000,3:360$000,$620
+all_tables.pdf,117,tbl-275.md,1,Rio Grande do Norte,-,450,421,175000,72000,103000,143:000$000,34:000$000,109:000$000,1$000
+all_tables.pdf,117,tbl-275.md,2,Rio Grande do Norte,3.550,179,4,-,-,-,19:096$000,7:800$000,11:296$000,-
+all_tables.pdf,117,tbl-275.md,3,Rio Grande do Norte,-,-,-,-,-,-,1:500$000,1:500$000,-,-
+all_tables.pdf,117,tbl-275.md,4,Rio Grande do Norte,37.216,82,47,-,-,-,30:205$000,18:480$000,11:725$000,-
+all_tables.pdf,117,tbl-275.md,5,Rio Grande do Norte,-,1200,-,-,-,-,137:530$000,67:530$000,70:000$000,-
+all_tables.pdf,117,tbl-275.md,6,Rio Grande do Norte,-,400,-,132600,12600,120000,154:000$000,18:000$000,136:000$000,1$100
+all_tables.pdf,117,tbl-275.md,7,Rio Grande do Norte,-,-,60,105000,35000,70000,-,-,-,$900
+all_tables.pdf,117,tbl-275.md,8,Rio Grande do Norte,-,278,-,50000,-,-,43:000$000,7:000$000,36:000$000,$600
+all_tables.pdf,117,tbl-275.md,9,Rio Grande do Norte,-,-,-,-,-,-,28:000$000,12:000$000,16:000$000,$900
+all_tables.pdf,117,tbl-275.md,10,Rio Grande do Norte,4.279,62,12,-,-,-,11:680$000,9:000$000,2:680$000,1$000
+all_tables.pdf,117,tbl-275.md,11,Rio Grande do Norte,18.030,120,55,45000,25000,20000,36:602$000,24:902$000,11:700$000,$900
+all_tables.pdf,117,tbl-275.md,12,Rio Grande do Norte,-,400,313,100000,18000,82000,83:365$000,19:138$000,64:227$000,1$000
+all_tables.pdf,117,tbl-275.md,13,Rio Grande do Norte,3.100,-,64,22316,10520,11316,-,-,16:949$000,1$000
+all_tables.pdf,117,tbl-275.md,14,Rio Grande do Norte,239.750,630,376,225200,114200,111000,112:300$000,38:300$000,74:000$000,$700
+all_tables.pdf,117,tbl-275.md,15,Rio Grande do Norte,-,3752,3830,1795568,472379,1323189,1084:960$000,120:725$000,964:235$000,$856
+all_tables.pdf,117,tbl-275.md,16,Rio Grande do Norte,8.000,-,-,-,-,-,-,3:600$000,-,1$000
+all_tables.pdf,117,tbl-275.md,17,Rio Grande do Norte,-,2830,2406,1023918,294382,729536,919:741$000,358:970$000,560:771$000,$576
+all_tables.pdf,117,tbl-275.md,18,Rio Grande do Norte,-,-,-,-,-,-,-,-,-,1$000
+all_tables.pdf,117,tbl-275.md,19,Rio Grande do Norte,344.525,756,-,-,-,-,224:216$000,31:796$000,192:420$000,1$440
+all_tables.pdf,117,tbl-275.md,20,Rio Grande do Norte,36.048,-,175,112785,18250,94535,72:030$000,24:000$000,48:030$000,$850
+all_tables.pdf,117,tbl-275.md,21,Rio Grande do Norte,413.000,1199,993,181000,22000,162000,217:834$000,33:834$000,184:000$000,$800
+all_tables.pdf,118,tbl-277.md,1,Rio Grande do Norte,Santa Victoria do Palmar,—,—,180,10950,10950,—,—,550,17300
+all_tables.pdf,118,tbl-277.md,2,Rio Grande do Norte,São Borja,—,—,38,2214,2214,—,—,312,13158
+all_tables.pdf,118,tbl-277.md,3,Rio Grande do Norte,São Francisco de Assis,—,—,100,4640,4640,—,—,500,26060
+all_tables.pdf,118,tbl-277.md,4,Rio Grande do Norte,São Jeronymo,—,—,150,10000,10000,—,—,776,31532
+all_tables.pdf,118,tbl-277.md,5,Rio Grande do Norte,São João do Montenegro,—,—,168,5352,5352,—,—,1528,80846
+all_tables.pdf,118,tbl-277.md,6,Rio Grande do Norte,São Leopoldo,—,—,—,—,—,—,—,—,—
+all_tables.pdf,118,tbl-277.md,7,Rio Grande do Norte,São Lourenço,—,—,123,4000,4000,—,—,940,30550
+all_tables.pdf,118,tbl-277.md,8,Rio Grande do Norte,São Thiago do Boqueirão,—,—,59,5400,5400,—,—,400,10700
+all_tables.pdf,118,tbl-277.md,9,Rio Grande do Norte,São Vicente,—,—,72,3696,3696,—,—,305,7215
+all_tables.pdf,118,tbl-277.md,10,Rio Grande do Norte,,—,—,111,6000,6000,—,—,425,19800
+all_tables.pdf,118,tbl-277.md,11,Rio Grande do Norte,Taquara do Mundo Novo,—,—,37,—,—,—,—,—,—
+all_tables.pdf,118,tbl-277.md,12,Rio Grande do Norte,Taquary,—,—,154,5198,5198,—,—,600,—
+all_tables.pdf,118,tbl-277.md,13,Rio Grande do Norte,Triumpho,—,—,60,1500,1500,—,—,100,2500
+all_tables.pdf,118,tbl-277.md,14,Rio Grande do Norte,Uruguayana,—,—,81,48600,48600,—,—,8000,467500
+all_tables.pdf,118,tbl-277.md,15,Rio Grande do Norte,Vaccaria,—,—,135,6050,6050,—,—,525,39000
+all_tables.pdf,118,tbl-277.md,16,Rio Grande do Norte,Venancio Ayres,—,—,90,4500,4500,—,—,650,20800
+all_tables.pdf,118,tbl-278.md,1,Rio Grande do Norte,Blumenau,—,—,—,12000,12000,—,—,—,45000
+all_tables.pdf,118,tbl-278.md,2,Rio Grande do Norte,Brusque,—,—,90,3074,3074,—,—,1125,36550
+all_tables.pdf,118,tbl-278.md,3,Rio Grande do Norte,Campo Alegre,—,—,70,3500,3500,—,—,—,—
+all_tables.pdf,118,tbl-278.md,4,Rio Grande do Norte,Florianopolis,—,—,657,57250,57250,—,—,11913,283649
+all_tables.pdf,118,tbl-278.md,5,Rio Grande do Norte,Itajahy,—,—,—,—,—,—,—,—,—
+all_tables.pdf,118,tbl-278.md,6,Rio Grande do Norte,Ioinville,—,—,392,13480,13480,—,—,—,—
+all_tables.pdf,118,tbl-278.md,7,Rio Grande do Norte,Lages,—,—,154,7900,7900,—,—,1400,59600
+all_tables.pdf,118,tbl-278.md,8,Rio Grande do Norte,Nova Trento,—,—,20,500,500,—,—,187,5010
+all_tables.pdf,118,tbl-278.md,9,Rio Grande do Norte,Porto União,—,—,123,3075,3075,—,—,362,8575
+all_tables.pdf,118,tbl-278.md,10,Rio Grande do Norte,São Bento,—,—,67,1675,1675,—,—,505,11750
+all_tables.pdf,119,tbl-279.md,4,Rio Grande do Sul,Número de velas,,,,,,,,,
+all_tables.pdf,119,tbl-280.md,1,Rio Grande do Sul,17.300,112,109,37000,18000,19000,34:000$000,16:000$000,18:000$000,1$000
+all_tables.pdf,119,tbl-280.md,2,Rio Grande do Sul,13.158,83,—,—,—,—,—,85:227$000,—,—
+all_tables.pdf,119,tbl-280.md,3,Rio Grande do Sul,26.060,110,—,40000,7000,33000,18:000$000,3:000$000,15:000$000,$600
+all_tables.pdf,119,tbl-280.md,4,Rio Grande do Sul,31.532,98,—,—,—,—,—,3:600$000,—,(1)
+all_tables.pdf,119,tbl-280.md,5,Rio Grande do Sul,80.846,186,—,—,—,—,33:765$000,6:380$000,27:385$000,1$000
+all_tables.pdf,119,tbl-280.md,6,Rio Grande do Sul,—,1000,420,—,—,—,170:000$000,59:000$000,120:000$000,$500
+all_tables.pdf,119,tbl-280.md,7,Rio Grande do Sul,30.550,294,51,30370,10600,19770,30:770$000,17:831$000,12:939$000,1$000
+all_tables.pdf,119,tbl-280.md,8,Rio Grande do Sul,10.700,140,10,8440,2500,5940,9:701$000,2:500$000,7:200$000,1$000
+all_tables.pdf,119,tbl-280.md,9,Rio Grande do Sul,7.215,77,42,12700,2500,10200,30:319$000,20:036$000,10:282$000,1$000
+all_tables.pdf,119,tbl-280.md,10,Rio Grande do Sul,19.800,105,9,26000,6000,20000,28:900$000,10:000$000,18:900$000,1$200
+all_tables.pdf,119,tbl-280.md,11,Rio Grande do Sul,—,—,—,—,—,—,—,4:494$000,—,(2)
+all_tables.pdf,119,tbl-280.md,12,Rio Grande do Sul,—,100,72,—,—,—,19:300$000,8:800$000,10:500$000,$800
+all_tables.pdf,119,tbl-280.md,13,Rio Grande do Sul,2.500,40,30,6000,3000,3000,8:000$000,3:000$000,5:000$000,1$000
+all_tables.pdf,119,tbl-280.md,14,Rio Grande do Sul,467.500,827,827,356200,102000,254200,211:000$000,36:000$000,175:000$000,$700
+all_tables.pdf,119,tbl-280.md,15,Rio Grande do Sul,39.000,100,—,—,—,—,29:144$000,20:963$000,8:181$000,(2)
+all_tables.pdf,119,tbl-280.md,16,Rio Grande do Sul,20.800,65,65,—,—,—,14:500$000,6:000$000,8:500$000,$700
+all_tables.pdf,119,tbl-281.md,1,Rio Grande do Sul,45.000,450,309,—,—,—,95:050$000,13:050$000,82:000$000,$500
+all_tables.pdf,119,tbl-281.md,2,Rio Grande do Sul,36.550,160,44,38880,5345,23535,16:980$000,2:400$000,14:580$000,$500
+all_tables.pdf,119,tbl-281.md,3,Rio Grande do Sul,—,—,—,—,—,—,—,3:000$000,—,(4)
+all_tables.pdf,119,tbl-281.md,4,Rio Grande do Sul,283.649,1803,510,819710,169710,650000,241:500$000,93:000$000,148:500$000,$230
+all_tables.pdf,119,tbl-281.md,5,Rio Grande do Sul,—,—,17,87000,30000,57000,—,—,—,—
+all_tables.pdf,119,tbl-281.md,6,Rio Grande do Sul,—,700,530,—,—,—,78:920$000,13:920$000,65:000$000,$400
+all_tables.pdf,119,tbl-281.md,7,Rio Grande do Sul,59.600,200,78,317692,75000,242692,31:600$000,10:000$000,21:600$000,$400
+all_tables.pdf,119,tbl-281.md,8,Rio Grande do Sul,5.010,—,—,—,3000,—,2:400$000,600$000,1:800$000,(2)
+all_tables.pdf,119,tbl-281.md,9,Rio Grande do Sul,8.575,184,65,—,—,19624,17:608$000,7:080$000,10:528$000,$700
+all_tables.pdf,119,tbl-281.md,10,Rio Grande do Sul,11.750,66,—,—,—,—,9:000$000,3:000$000,6:000$000,$600
+all_tables.pdf,120,tbl-283.md,1,Rio Grande do Sul,São Francisco,—,—,112,3584,3584,—,—,1208,28609
+all_tables.pdf,120,tbl-283.md,2,Rio Grande do Sul,São José,—,—,152,8450,8450,—,—,902,15903
+all_tables.pdf,120,tbl-283.md,3,Rio Grande do Sul,Tijuana,—,—,70,1750,1750,—,—,400,10000
+all_tables.pdf,120,tbl-283.md,4,Rio Grande do Sul,Uruguay,—,—,131,3950,3950,—,—,—,—
+all_tables.pdf,120,tbl-284.md,1,Rio Grande do Sul,Agudos,—,—,130,7850,7850,—,—,686,17687
+all_tables.pdf,120,tbl-284.md,2,Rio Grande do Sul,Altinopolis,—,—,96,4800,4800,—,—,600,30000
+all_tables.pdf,120,tbl-284.md,3,Rio Grande do Sul,Ampato,—,—,127,71720,71720,—,—,3200,—
+all_tables.pdf,120,tbl-284.md,4,Rio Grande do Sul,Angatuba,—,—,—,—,—,—,—,—,—
+all_tables.pdf,120,tbl-284.md,5,Rio Grande do Sul,Annapolis,—,—,71,3550,3550,—,—,299,10496
+all_tables.pdf,120,tbl-284.md,6,Rio Grande do Sul,Araraquara,—,—,515,111500,111500,—,—,3282,97914
+all_tables.pdf,120,tbl-284.md,7,Rio Grande do Sul,Atibaia,8,4800,157,8850,13650,—,—,1090,17431
+all_tables.pdf,120,tbl-284.md,8,Rio Grande do Sul,Avahy,—,—,—,—,—,—,—,155,4740
+all_tables.pdf,120,tbl-284.md,9,Rio Grande do Sul,Avaré,—,—,269,21800,21800,—,—,—,—
+all_tables.pdf,120,tbl-284.md,10,Rio Grande do Sul,Bananal,—,—,110,2750,2750,—,—,389,—
+all_tables.pdf,120,tbl-284.md,11,Rio Grande do Sul,Bariry,—,—,122,7200,7200,—,—,748,16530
+all_tables.pdf,120,tbl-284.md,12,Rio Grande do Sul,Barra Bonita,—,—,97,4866,4866,—,—,—,—
+all_tables.pdf,120,tbl-284.md,13,Rio Grande do Sul,Barretos,—,—,365,20402,20402,—,—,2586,48356
+all_tables.pdf,120,tbl-284.md,14,Rio Grande do Sul,Batataes,—,—,433,21450,21450,—,—,1618,38845
+all_tables.pdf,120,tbl-284.md,15,Rio Grande do Sul,Bebedouro,—,—,261,14500,14500,—,—,2567,32750
+all_tables.pdf,120,tbl-284.md,16,Rio Grande do Sul,Bica de Pedra,—,—,84,4654,4654,—,—,932,22783
+all_tables.pdf,120,tbl-284.md,17,Rio Grande do Sul,Bôa Esperança,—,—,88,3088,3088,—,—,1087,19692
+all_tables.pdf,120,tbl-284.md,18,Rio Grande do Sul,Botucatá,—,—,667,46980,46980,—,—,2723,61259
+all_tables.pdf,120,tbl-284.md,19,Rio Grande do Sul,Brodowski,—,—,100,10000,10000,—,—,329,4013
+all_tables.pdf,120,tbl-284.md,20,Rio Grande do Sul,Brotas,—,—,—,—,—,—,—,—,—
+all_tables.pdf,120,tbl-284.md,21,Rio Grande do Sul,Cabreúva,—,—,124,6200,6200,—,—,571,39180
+all_tables.pdf,121,tbl-285.md,1,Santa Catharina,Poder Illuminativo total,Númerodeconsumidoresparticulares,Númerodeaparelhosregistradoresdeconsumodeenergiaeléctrica(Medidores),CONSUMOANNUALDEENERGIAELECTRICA,,,RENDAANNUAL,,,Preçomédioannualdokwh
+all_tables.pdf,121,tbl-285.md,2,Santa Catharina,,,,CONSOMMATIONANNUELLED'ENERGIEÉLECTRIQUE,,,RÉVENDAANNUAL,,,
+all_tables.pdf,121,tbl-285.md,4,Santa Catharina,Número de velas,,Total,Éclairagepublic,Éclairagepublic,Total,Éclairageprivé,Éclairagepublic,Éclairageprivé,
+all_tables.pdf,121,tbl-286.md,1,Santa Catharina,SAO — FIN),,,,,,,,,
+all_tables.pdf,121,tbl-286.md,2,Santa Catharina,28.609,200,40,83812,15512,68300,37:000$000,7:000$000,30:000$000,$700
+all_tables.pdf,121,tbl-286.md,3,Santa Catharina,15.903,230,32,84280,40320,43960,21:020$000,6:369$000,14:651$000,$320
+all_tables.pdf,121,tbl-286.md,4,Santa Catharina,10.000,67,—,—,—,—,9:600$000,3:500$000,6:000$000,(1)
+all_tables.pdf,121,tbl-286.md,5,Santa Catharina,—,23,—,—,—,—,1:600$000,600$000,1:000$000,(1)
+all_tables.pdf,121,tbl-287.md,1,Santa Catharina,17.687,218,—,—,—,—,—,—,24:000$000,(1)
+all_tables.pdf,121,tbl-287.md,2,Santa Catharina,30.000,106,25,36000,16000,20000,13:000$000,5:000$000,8:000$000,(1)
+all_tables.pdf,121,tbl-287.md,3,Santa Catharina,—,1400,604,—,—,87645,126:944$000,48:672$000,78:272$000,$600
+all_tables.pdf,121,tbl-287.md,4,Santa Catharina,—,120,—,—,—,—,27:550$000,13:550$000,14:000$000,$500
+all_tables.pdf,121,tbl-287.md,5,Santa Catharina,10.496,299,—,—,—,—,—,3:500$000,—,(1)
+all_tables.pdf,121,tbl-287.md,6,Santa Catharina,37.914,1260,175,215000,105000,110000,243:462$000,31:692$000,211:770$000,$480
+all_tables.pdf,121,tbl-287.md,7,Santa Catharina,17.431,391,—,43000,15000,28000,42:519$000,12:560$000,29:959$000,—
+all_tables.pdf,121,tbl-287.md,8,Santa Catharina,4.740,106,—,—,—,—,—,8:000$000,—,—
+all_tables.pdf,121,tbl-287.md,9,Santa Catharina,—,460,—,—,—,—,—,18:000$000,—,—
+all_tables.pdf,121,tbl-287.md,10,Santa Catharina,—,136,—,—,—,—,16:840$000,4:800$000,12:040$000,—
+all_tables.pdf,121,tbl-287.md,11,Santa Catharina,16.530,300,36,87778,—,—,48:000$000,12:000$000,36:000$000,(3)
+all_tables.pdf,121,tbl-287.md,12,Santa Catharina,—,—,—,—,—,—,—,6:000$000,—,—
+all_tables.pdf,121,tbl-287.md,13,Santa Catharina,48.356,908,12,—,—,—,178:000$000,28:000$000,150:000$000,$500
+all_tables.pdf,121,tbl-287.md,14,Santa Catharina,38.845,685,—,—,—,—,86:647$000,19:762$000,66:885$000,(1)
+all_tables.pdf,121,tbl-287.md,15,Santa Catharina,32.750,680,68,50000,15000,35000,214:259$000,20:640$000,193:619$000,$800
+all_tables.pdf,121,tbl-287.md,16,Santa Catharina,22.782,—,—,—,—,—,—,—,—,—
+all_tables.pdf,121,tbl-287.md,17,Santa Catharina,19.692,140,—,271571,—,—,30:173$000,4:850$000,25:323$000,—
+all_tables.pdf,121,tbl-287.md,18,Santa Catharina,61.259,894,11,576800,183600,393200,126:800$000,20:000$000,106:800$000,$280
+all_tables.pdf,121,tbl-287.md,19,Santa Catharina,4.015,—,22,—,—,—,—,8:400$000,—,—
+all_tables.pdf,121,tbl-287.md,20,Santa Catharina,—,—,—,—,—,—,—,9:000$000,—,—
+all_tables.pdf,121,tbl-287.md,21,Santa Catharina,39.180,85,—,—,—,—,42:000$,6:000$000,36:000$000,—
+all_tables.pdf,122,tbl-289.md,1,Pará,Cachoeira,-,-,263,14400,14400,-,-,530,13250
+all_tables.pdf,122,tbl-289.md,2,Pará,Caconde,5,3000,359,13426,16426,-,-,665,9157
+all_tables.pdf,122,tbl-289.md,3,Pará,Cajurú,-,-,150,7500,7500,-,-,476,6751
+all_tables.pdf,122,tbl-289.md,4,Pará,Campinas,40,80000,1412,85892,165892,-,-,-,39078
+all_tables.pdf,122,tbl-289.md,5,Pará,Campos Novos,-,-,100,3200,3200,-,-,150,9100
+all_tables.pdf,122,tbl-289.md,6,Pará,Capão Bonito,-,-,127,6138,6138,-,-,251,5054
+all_tables.pdf,122,tbl-289.md,7,Pará,Capivary,-,-,172,5504,5504,-,-,150,4800
+all_tables.pdf,122,tbl-289.md,8,Pará,Casa Branca,-,-,270,6637,6637,-,-,1603,28797
+all_tables.pdf,122,tbl-289.md,9,Pará,Cravinhos,-,-,253,18950,18950,-,-,-,-
+all_tables.pdf,122,tbl-289.md,10,Pará,Cruzário,-,-,169,8450,8450,-,-,1961,29593
+all_tables.pdf,122,tbl-289.md,11,Pará,Cutia,-,-,36,1800,1800,-,-,100,1600
+all_tables.pdf,122,tbl-289.md,12,Pará,Dourado,-,-,-,-,-,-,-,-,-
+all_tables.pdf,122,tbl-289.md,13,Pará,Dous Corregos,-,-,200,6400,6400,-,-,668,14928
+all_tables.pdf,122,tbl-289.md,14,Pará,Espírito Santo do Pinhal,-,-,-,-,-,-,-,-,-
+all_tables.pdf,122,tbl-289.md,15,Pará,Fartura,-,-,100,3560,3560,-,-,600,25200
+all_tables.pdf,122,tbl-289.md,16,Pará,Faxina,-,-,327,21780,21780,-,-,688,10712
+all_tables.pdf,122,tbl-289.md,17,Pará,Franca,-,-,700,80000,80000,-,-,1591,44350
+all_tables.pdf,122,tbl-289.md,18,Pará,Guararema,-,-,55,2750,2750,-,-,264,5436
+all_tables.pdf,122,tbl-289.md,19,Pará,Guaratinguetá,-,-,547,42502,42502,-,-,3230,60714
+all_tables.pdf,122,tbl-289.md,20,Pará,Guarehy,-,-,80,3900,3900,-,-,190,4900
+all_tables.pdf,122,tbl-289.md,21,Pará,Guariba,-,-,56,2800,2800,-,-,377,4697
+all_tables.pdf,122,tbl-289.md,22,Pará,Guarulhos,-,-,35,1750,1750,-,-,600,17600
+all_tables.pdf,122,tbl-289.md,23,Pará,Ibitinga,-,-,470,19500,19500,-,-,-,18000
+all_tables.pdf,122,tbl-289.md,24,Pará,Igarapava,-,-,377,22132,22132,-,-,624,8355
+all_tables.pdf,122,tbl-289.md,25,Pará,Indaiatuba,-,-,82,4400,4400,-,-,-,-
+all_tables.pdf,122,tbl-289.md,26,Pará,Ipassed,-,-,90,2580,2580,-,-,-,-
+all_tables.pdf,122,tbl-289.md,27,Pará,Itaberá,-,-,80,3280,3280,-,-,123,4568
+all_tables.pdf,123,tbl-290.md,1,São Paulo,Poder Illuminativo total,Númerodeconsumidoresparticulares,Númerodeapparecçõesregistradoresdoconsumodeenergiaeléctrica(Medidores),CONSUMOANNUALDEENERGIAELÉCTRICA,,,RENDAANNUAL,,,Preçomédioannualdokwh
+all_tables.pdf,123,tbl-290.md,2,São Paulo,,,,CONSOMMATIONANNUELLED'ÉNERGIEÉLECTRIQUE,,,REVENUANNUEL,,,
+all_tables.pdf,123,tbl-290.md,4,São Paulo,Número de vélas,,,Éclairagepublic,Éclairagepublic,,Éclairageprivé,,,
+all_tables.pdf,123,tbl-291.md,1,São Paulo,(ÇÃO — SUITE),,,,,,,,,
+all_tables.pdf,123,tbl-291.md,2,São Paulo,13.250,—,—,—,—,—,—,—,—,—
+all_tables.pdf,123,tbl-291.md,3,São Paulo,9.157,493,128,—,—,—,49970$000,(1)4:239$000,45731$000,$600
+all_tables.pdf,123,tbl-291.md,4,São Paulo,6.751,279,27,—,—,—,40453$000,12000$000,28453$000,$450
+all_tables.pdf,123,tbl-291.md,5,São Paulo,39.078,6100,3747,1300000,—,—,1040575000,—,—,$400
+all_tables.pdf,123,tbl-291.md,6,São Paulo,9.100,—,—,—,—,—,—,—,—,—
+all_tables.pdf,123,tbl-291.md,7,São Paulo,5.054,244,46,93924,72000,21924,—,28919$000,—,$600
+all_tables.pdf,123,tbl-291.md,8,São Paulo,4.800,300,—,—,—,—,44981$000,14000$000,30981$000,—
+all_tables.pdf,123,tbl-291.md,9,São Paulo,28.797,296,18,—,—,—,82731$000,18000$000,64731$000,$500
+all_tables.pdf,123,tbl-291.md,10,São Paulo,—,739,22,—,—,—,—,23836$000,—,$600
+all_tables.pdf,123,tbl-291.md,11,São Paulo,29.591,540,—,—,—,—,73800$000,7800$000,66000$000,—
+all_tables.pdf,123,tbl-291.md,12,São Paulo,1.600,30,—,—,—,—,—,3960$000,—,—
+all_tables.pdf,123,tbl-291.md,13,São Paulo,—,—,—,—,—,—,—,9140$000,—,—
+all_tables.pdf,123,tbl-291.md,14,São Paulo,14.928,315,—,60000,25000,35000,—,—,—,—
+all_tables.pdf,123,tbl-291.md,15,São Paulo,—,—,—,—,—,—,—,37437$000,—,—
+all_tables.pdf,123,tbl-291.md,16,São Paulo,25.200,—,—,—,—,—,—,4000$000,—,—
+all_tables.pdf,123,tbl-291.md,17,São Paulo,10.712,658,150,339840,261360,78480,—,—,85000$000,$600
+all_tables.pdf,123,tbl-291.md,18,São Paulo,44.350,1200,160,193000,78000,115000,—,33000$000,—,—
+all_tables.pdf,123,tbl-291.md,19,São Paulo,5.436,—,—,—,—,—,12036$000,1980$000,10056$000,(2)
+all_tables.pdf,123,tbl-291.md,20,São Paulo,60.714,876,183,314460,139500,174960,140925$000,41302$000,99623$000,$500
+all_tables.pdf,123,tbl-291.md,21,São Paulo,4.900,—,—,—,—,—,14000$000,7000$000,7000$000,(2)
+all_tables.pdf,123,tbl-291.md,22,São Paulo,4.697,171,—,—,—,—,19525$000,4260$000,15265$000,$500
+all_tables.pdf,123,tbl-291.md,23,São Paulo,17.600,—,—,—,—,—,—,3000$000,—,$500
+all_tables.pdf,123,tbl-291.md,24,São Paulo,18.000,—,—,—,—,—,—,—,—,—
+all_tables.pdf,123,tbl-291.md,25,São Paulo,8.355,—,—,—,—,—,—,12000$000,—,$800
+all_tables.pdf,123,tbl-291.md,26,São Paulo,—,—,—,—,—,—,—,—,—,—
+all_tables.pdf,123,tbl-291.md,27,São Paulo,—,—,—,—,—,—,—,6600$000,—,—
+all_tables.pdf,123,tbl-291.md,28,São Paulo,4.568,59,—,—,—,—,11000$000,5000$000,6000$000,$400
+all_tables.pdf,125,tbl-293.md,1,São Paulo,Poder Illuminativo total,Númerodeconsumidoresparticulares,Númerodeaparelhosregistradosdoconsumodeenergiaeléctrica(Medidores),CONSUMOANNUALDEENERGIAELECTRICA,,,RENDAANNUAL,,,Prazomédioannualdokwh
+all_tables.pdf,125,tbl-293.md,2,São Paulo,,,,CONSOMMATIONANNUELLED'ÉNERGIEÉLECTRIQUE,,,REVENUANNUEL,,,
+all_tables.pdf,125,tbl-293.md,4,São Paulo,Número de vélas,,,Total,Éclairagepublic,Éclairagepublic,Éclairageprivé,Éclairagepublic,Éclairageprivé,
+all_tables.pdf,125,tbl-294.md,1,São Paulo,ÇÃO — SUITE),,,,,,,,,
+all_tables.pdf,125,tbl-294.md,2,São Paulo,11.940,45,—,12320,7280,5040,6:060$000,1:500$000,4:560$000,$500
+all_tables.pdf,125,tbl-294.md,3,São Paulo,46.972,800,—,—,—,—,84:500$000,22:500$000,62:000$000,$600
+all_tables.pdf,125,tbl-294.md,4,São Paulo,—,—,—,—,—,—,—,22:500$000,—,$600
+all_tables.pdf,125,tbl-294.md,5,São Paulo,2.143,50,—,—,—,—,13:760$000,6:760$000,7:000$000,(1)
+all_tables.pdf,125,tbl-294.md,6,São Paulo,—,—,—,—,—,—,—,21:500$000,—,—
+all_tables.pdf,125,tbl-294.md,7,São Paulo,—,—,—,—,—,—,—,—,—,—
+all_tables.pdf,125,tbl-294.md,8,São Paulo,6.501,—,—,—,—,—,—,10:700$000,—,—
+all_tables.pdf,125,tbl-294.md,9,São Paulo,23.472,—,44,—,—,—,116:101$000,25:000$000,91:101$000,$500
+all_tables.pdf,125,tbl-294.md,10,São Paulo,2.039,67,—,—,—,—,6:590$000,2:590$000,4:000$000,$600
+all_tables.pdf,125,tbl-294.md,11,São Paulo,6.674,—,79,—,—,—,—,—,—,—
+all_tables.pdf,125,tbl-294.md,12,São Paulo,4.856,—,—,—,—,—,19:574$000,4:910$000,14664$000,—
+all_tables.pdf,125,tbl-294.md,13,São Paulo,172.975,2520,—,—,—,—,296:166$000,42:176$000,253:990$000,(1)
+all_tables.pdf,125,tbl-294.md,14,São Paulo,4.550,—,58,—,—,—,—,—,—,—
+all_tables.pdf,125,tbl-294.md,15,São Paulo,—,—,—,—,—,—,—,6:600$000,—,—
+all_tables.pdf,125,tbl-294.md,16,São Paulo,13.450,118,—,99000,26000,73000,—,—,13:240$000,(1)
+all_tables.pdf,125,tbl-294.md,17,São Paulo,—,—,—,—,—,—,—,18:000$000,—,$500
+all_tables.pdf,125,tbl-294.md,18,São Paulo,44.548,—,—,—,—,—,—,13:170$000,—,—
+all_tables.pdf,125,tbl-294.md,19,São Paulo,—,—,—,—,—,—,—,7:000$000,—,—
+all_tables.pdf,125,tbl-294.md,20,São Paulo,83.508,2000,43,—,—,—,141:742$000,30:154$000,111:588$000,$600
+all_tables.pdf,125,tbl-294.md,21,São Paulo,48.300,—,—,—,—,—,—,16:000$000,—,$400
+all_tables.pdf,125,tbl-294.md,22,São Paulo,11.746,161,—,24000,7000,17000,22:899$000,6:264$000,16:625$000,(1)
+all_tables.pdf,125,tbl-294.md,23,São Paulo,51.631,—,42,69000,19700,49300,—,—,58:536$000,$500
+all_tables.pdf,125,tbl-294.md,24,São Paulo,29.231,—,63,—,—,—,—,—,48:000$000,—
+all_tables.pdf,125,tbl-294.md,25,São Paulo,7.631,276,—,48000,3000,45000,30:124$000,5:724$000,24:400$000,(1)
+all_tables.pdf,125,tbl-294.md,26,São Paulo,9.389,162,—,—,—,—,—,31:000$000,—,$800
+all_tables.pdf,125,tbl-294.md,27,São Paulo,24.110,290,—,—,—,—,42:242$000,6:250$000,35:992$000,—
+all_tables.pdf,125,tbl-294.md,28,São Paulo,14.480,—,—,—,—,—,40:900$000,20:400$000,20:500$000,$600
+all_tables.pdf,125,tbl-294.md,29,São Paulo,—,170,—,—,—,—,—,4:550$000,—,—
+all_tables.pdf,126,tbl-295.md,5,São Paulo,Palmeiras,—,—,176,11600,11600,—,—,554,8044
+all_tables.pdf,126,tbl-295.md,6,São Paulo,Parahybuna,—,—,116,6266,6266,—,—,1199,22584
+all_tables.pdf,126,tbl-295.md,7,São Paulo,Parnaibyba,—,—,76,2432,2432,—,—,339,8352
+all_tables.pdf,126,tbl-295.md,8,São Paulo,Patrocínio do Sapucahy,—,—,264,15300,15300,—,—,275,6210
+all_tables.pdf,126,tbl-295.md,9,São Paulo,Pederneiras,—,—,166,6064,6064,—,—,730,19728
+all_tables.pdf,126,tbl-295.md,10,São Paulo,Pindamonhangaba,—,—,458,54000,54000,—,—,2180,59400
+all_tables.pdf,126,tbl-295.md,11,São Paulo,Piracaia,—,—,127,11300,11300,—,—,618,7733
+all_tables.pdf,126,tbl-295.md,12,São Paulo,Piracicaba,—,—,738,55676,55676,—,—,3642,—
+all_tables.pdf,126,tbl-295.md,13,São Paulo,Pirajohy,—,—,168,5378,5378,—,—,583,17470
+all_tables.pdf,126,tbl-295.md,14,São Paulo,Pirassununga,—,—,206,15076,15076,—,—,1150,39907
+all_tables.pdf,126,tbl-295.md,15,São Paulo,Piratininga,—,—,134,6650,6650,—,—,581,13755
+all_tables.pdf,126,tbl-295.md,16,São Paulo,Pitangueiras,—,—,145,10000,10000,—,—,690,17370
+all_tables.pdf,126,tbl-295.md,17,São Paulo,Porto Felix,—,—,150,4800,4800,—,—,—,—
+all_tables.pdf,126,tbl-295.md,18,São Paulo,Ribeirão Bonito,—,—,157,15014,15014,—,—,806,12896
+all_tables.pdf,126,tbl-295.md,19,São Paulo,Ribeirão Branco,—,—,54,978,978,—,—,56,1828
+all_tables.pdf,126,tbl-295.md,20,São Paulo,Ribeirão Preto,—,—,1026,119639,119639,—,—,6008,91741
+all_tables.pdf,126,tbl-295.md,21,São Paulo,Rio Claro,—,—,886,58350,58350,—,—,5890,86568
+all_tables.pdf,126,tbl-295.md,22,São Paulo,Rio das Pedras,—,—,270,4352,4352,—,—,90,4600
+all_tables.pdf,126,tbl-295.md,23,São Paulo,Rio Preto,—,—,210,10560,10560,—,—,1179,22074
+all_tables.pdf,126,tbl-295.md,24,São Paulo,Santa Adélia,—,—,80,4000,4000,—,—,610,9589
+all_tables.pdf,126,tbl-295.md,25,São Paulo,Santa Barbara,—,—,148,5525,5525,—,—,787,28721
+all_tables.pdf,126,tbl-295.md,26,São Paulo,Santa Izabel,—,—,129,6650,6650,—,—,275,8610
+all_tables.pdf,126,tbl-295.md,27,São Paulo,Santa Rita do Passa Quatro,—,—,120,6000,6000,—,—,600,—
+all_tables.pdf,126,tbl-295.md,28,São Paulo,Santa Rosa,—,—,73,4400,4400,—,—,—,—
+all_tables.pdf,126,tbl-295.md,29,São Paulo,Santo Amaro,—,—,191,11460,11460,—,—,4363,261780
+all_tables.pdf,126,tbl-295.md,30,São Paulo,Santos,16,32000,1212,61600,93600,—,—,10945,1773625
+all_tables.pdf,126,tbl-295.md,31,São Paulo,São Bernardo,—,—,206,8620,8620,—,—,—,—
+all_tables.pdf,126,tbl-295.md,32,São Paulo,São Carlos,—,—,1150,110000,110000,—,—,5757,123206
+all_tables.pdf,126,tbl-295.md,33,São Paulo,São João da Boa Vista,—,—,765,51032,51032,—,—,1668,83376
+all_tables.pdf,126,tbl-295.md,34,São Paulo,São João da Bocaina,—,—,147,8300,8300,—,—,620,16714
+all_tables.pdf,126,tbl-295.md,35,São Paulo,São Joaquim,—,—,120,8500,8500,—,—,—,—
+all_tables.pdf,127,tbl-296.md,4,São Paulo,Número de velas,,,,,,,,,
+all_tables.pdf,127,tbl-297.md,1,São Paulo,8.044,312,—,—,—,—,—,—,—,$600
+all_tables.pdf,127,tbl-297.md,2,São Paulo,22.584,84,3,—,—,—,15:600$000,6:000$000,9:600$000,$600
+all_tables.pdf,127,tbl-297.md,3,São Paulo,8.352,102,—,110800,55000,75000,7:400$000,500$000,6:900$000,—
+all_tables.pdf,127,tbl-297.md,4,São Paulo,6.210,97,—,—,—,—,14:600$000,5:000$000,9:600$000,(1)
+all_tables.pdf,127,tbl-297.md,5,São Paulo,19.728,401,—,—,—,—,—,7:000$000,—,$600
+all_tables.pdf,127,tbl-297.md,6,São Paulo,59.400,600,50,—,—,—,108:000$000,18:000$000,90:000$000,$500
+all_tables.pdf,127,tbl-297.md,7,São Paulo,7.733,240,—,26400,12300,14100,28:973$000,9:316$000,19:657$000,—
+all_tables.pdf,127,tbl-297.md,8,São Paulo,—,1800,327,326000,170000,255000,206:000$000,62:000$000,144:000$000,$500
+all_tables.pdf,127,tbl-297.md,9,São Paulo,17.470,—,—,—,—,—,—,—,—,—
+all_tables.pdf,127,tbl-297.md,10,São Paulo,34.907,382,—,58000,24000,34000,39:600$000,12:000$000,27:600$000,(1)
+all_tables.pdf,127,tbl-297.md,11,São Paulo,13.755,185,—,—,—,—,26:640$000,6:600$000,20:040$000,(1)
+all_tables.pdf,127,tbl-297.md,12,São Paulo,17.370,—,—,—,—,—,—,—,—,—
+all_tables.pdf,127,tbl-297.md,13,São Paulo,—,—,—,—,—,—,—,14:000$000,—,—
+all_tables.pdf,127,tbl-297.md,14,São Paulo,12.896,—,24,172800,51840,120960,39:600$000,9:600$000,30:000$000,$256
+all_tables.pdf,127,tbl-297.md,15,São Paulo,1.828,—,—,—,—,—,—,4:000$000,—,—
+all_tables.pdf,127,tbl-297.md,16,São Paulo,91.741,5588,246,—,—,—,—,—,—,—
+all_tables.pdf,127,tbl-297.md,17,São Paulo,86.568,2850,522,—,—,—,—,—,265:656$000,—
+all_tables.pdf,127,tbl-297.md,18,São Paulo,4.600,146,9,—,—,—,—,6:060$000,—,$500
+all_tables.pdf,127,tbl-297.md,19,São Paulo,22.074,445,—,—,—,—,103:801$000,17:088$000,86:713$000,$500
+all_tables.pdf,127,tbl-297.md,20,São Paulo,9.589,230,—,—,—,—,17:040$000,5:040$000,12:000$000,—
+all_tables.pdf,127,tbl-297.md,21,São Paulo,28.721,200,—,—,—,—,—,6:200$000,—,$400
+all_tables.pdf,127,tbl-297.md,22,São Paulo,8.610,130,—,—,—,—,—,—,9:000$000,—
+all_tables.pdf,127,tbl-297.md,23,São Paulo,—,200,—,—,—,—,27:200$000,8:000$000,19:200$000,$600
+all_tables.pdf,127,tbl-297.md,24,São Paulo,—,—,—,—,—,—,—,—,—,—
+all_tables.pdf,127,tbl-297.md,25,São Paulo,261.780,573,659,169193,50542,118651,71:621$000,10:93$000,60:728$000,$500
+all_tables.pdf,127,tbl-297.md,26,São Paulo,1.773.625,5991,5906,1764985,356972,1408013,696:467$000,114:966$000,581:501$000,$413
+all_tables.pdf,127,tbl-297.md,27,São Paulo,—,—,—,—,—,—,—,—,—,—
+all_tables.pdf,127,tbl-297.md,28,São Paulo,123.296,2173,—,—,—,—,295:922$000,45:923$000,250:000$000,—
+all_tables.pdf,127,tbl-297.md,29,São Paulo,83.376,1426,—,284000,78000,206000,215:997$000,43:067$000,172:930$000,(1)
+all_tables.pdf,127,tbl-297.md,30,São Paulo,16.714,350,50,25900,9300,16600,—,6:000$000,—,$600
+all_tables.pdf,128,tbl-299.md,1,São Paulo,São José do Barreiro,-,-,50,2500,2500,-,-,-,-
+all_tables.pdf,128,tbl-299.md,2,São Paulo,São José do Rio Pardo,-,-,322,16100,16100,-,-,-,-
+all_tables.pdf,128,tbl-299.md,3,São Paulo,São José dos Campos,-,-,350,15200,15200,-,-,752,13943
+all_tables.pdf,128,tbl-299.md,4,São Paulo,São Manoel,-,-,222,24600,24600,-,-,-,-
+all_tables.pdf,128,tbl-299.md,5,São Paulo,São Paulo,-,-,2916,1237500,1237500,-,-,-,-
+all_tables.pdf,128,tbl-299.md,6,São Paulo,São Pedro,-,-,121,6752,6752,-,-,346,6396
+all_tables.pdf,128,tbl-299.md,7,São Paulo,São Roque,-,-,189,12180,12180,-,-,-,-
+all_tables.pdf,128,tbl-299.md,8,São Paulo,Sarapuhy,-,-,40,3200,3200,-,-,109,6350
+all_tables.pdf,128,tbl-299.md,9,São Paulo,Serra Negra,-,-,269,8851,8851,-,-,742,8700
+all_tables.pdf,128,tbl-299.md,10,São Paulo,"Sertãozinho,",-,-,361,33600,33600,-,-,1139,17005
+all_tables.pdf,128,tbl-299.md,11,São Paulo,Soccorro,-,-,160,5120,5120,-,-,911,11129
+all_tables.pdf,128,tbl-299.md,12,São Paulo,Sorcaba,-,-,615,44060,44060,2,2000,12802,411480
+all_tables.pdf,128,tbl-299.md,13,São Paulo,Tambahú,-,-,121,6050,6050,-,-,-,-
+all_tables.pdf,128,tbl-299.md,14,São Paulo,Tatahy,-,-,271,19426,19426,-,-,2400,-
+all_tables.pdf,128,tbl-299.md,15,São Paulo,Taubaté,-,-,640,73000,73000,-,-,1789,31116
+all_tables.pdf,128,tbl-299.md,16,São Paulo,Tremembé,-,-,109,5450,5450,-,-,-,-
+all_tables.pdf,128,tbl-299.md,17,São Paulo,Una,-,-,38,2300,2300,-,-,431,14890
+all_tables.pdf,128,tbl-299.md,18,São Paulo,Villa Bella,-,-,35,1750,1750,-,-,52,1791
+all_tables.pdf,128,tbl-299.md,19,São Paulo,"Vitadouro,",-,-,78,5400,5400,-,-,-,-
+all_tables.pdf,128,tbl-300.md,1,São Paulo,Aracajó,-,-,435,23478,23478,-,-,5189,98809
+all_tables.pdf,128,tbl-300.md,2,São Paulo,Capella,-,-,90,6000,6000,-,-,130,3591
+all_tables.pdf,128,tbl-300.md,3,São Paulo,Itabaiana,-,-,-,-,-,-,-,-,-
+all_tables.pdf,128,tbl-300.md,4,São Paulo,Laranjeiras,-,-,116,4311,4311,-,-,300,4890
+all_tables.pdf,128,tbl-300.md,5,São Paulo,"Riachuelo,",-,-,71,3700,3700,-,-,246,4670
+all_tables.pdf,128,tbl-300.md,6,São Paulo,Campo do Britto,-,-,57,1153,1153,-,-,98,-
+all_tables.pdf,128,tbl-301.md,1,São Paulo,Cruzeiro do Sul,-,-,160,4000,4000,-,-,299,10821
+all_tables.pdf,128,tbl-301.md,2,São Paulo,Rio Branco,-,-,146,7300,7300,-,-,534,22151
+all_tables.pdf,128,tbl-301.md,3,São Paulo,Xapury,-,-,100,2640,2640,-,-,-,-
+all_tables.pdf,129,tbl-302.md,1,São Paulo,Poder Illuminativo total,Númerodeconsumidoresparticulares,Númerodeapparecçõesregistradoresdoconsumodeenergiaeléctrica(Medidores),CONSUMOANNUALDEENERGIAELECTRICA,,,RENDAANNUAL,,,Preçomédioannualdokwh
+all_tables.pdf,129,tbl-302.md,2,São Paulo,,,,CONSUMANTIONANNUALD'ÉNERGIEÉLECTRIQUE,,,REVENUAANNUAL,,,
+all_tables.pdf,129,tbl-302.md,4,São Paulo,Número de velas,,,,,,,,,
+all_tables.pdf,129,tbl-303.md,1,São Paulo,-,-,-,-,-,-,-,25:600$000,-,-
+all_tables.pdf,129,tbl-303.md,2,São Paulo,13.943,430,80,-,-,-,57:000$000,9:000$000,48:000$000,$400
+all_tables.pdf,129,tbl-303.md,3,São Paulo,-,-,-,-,-,-,-,-,-,(1)
+all_tables.pdf,129,tbl-303.md,4,São Paulo,-,-,-,-,-,-,-,598:745$000,-,-
+all_tables.pdf,129,tbl-303.md,5,São Paulo,6.396,150,2,-,-,-,20:000$000,7:000$000,13:000$000,(1)
+all_tables.pdf,129,tbl-303.md,6,São Paulo,-,-,-,-,-,-,-,10:000$000,-,$500
+all_tables.pdf,129,tbl-303.md,7,São Paulo,6.350,-,-,-,-,-,-,8:000$000,-,-
+all_tables.pdf,129,tbl-303.md,8,São Paulo,8.700,341,-,-,-,-,43:239$000,14:625$000,28:614$000,(1)
+all_tables.pdf,129,tbl-303.md,9,São Paulo,17.005,-,46,-,-,-,45:007$000,39:800$000,5:207$000,$500
+all_tables.pdf,129,tbl-303.md,10,São Paulo,11.129,346,-,-,-,-,51:000$000,13:000$000,38:000$000,(1)
+all_tables.pdf,129,tbl-303.md,11,São Paulo,413.480,2674,1216,1170487,152100,1018387,518:476$000,57:784$000,460:692$000,$933
+all_tables.pdf,129,tbl-303.md,12,São Paulo,-,800,53,151840,-,-,79:000$000,19:000$000,60:000$000,$700
+all_tables.pdf,129,tbl-303.md,13,São Paulo,31.116,1734,550,648746,-,-,174:240$000,32:000$000,142:240$000,$400
+all_tables.pdf,129,tbl-303.md,14,São Paulo,-,-,-,-,-,-,-,3:388$000,-,$400
+all_tables.pdf,129,tbl-303.md,15,São Paulo,14.890,-,53,-,-,-,-,2:100$000,-,-
+all_tables.pdf,129,tbl-303.md,16,São Paulo,1.791,21,-,-,-,-,3:480$000,1:680$000,1:800$000,(2)
+all_tables.pdf,129,tbl-304.md,1,São Paulo,98.809,518,234,247367,47813,199554,107:180$000,12:000$000,95:180$000,$800
+all_tables.pdf,129,tbl-304.md,2,São Paulo,3.591,30,-,-,-,-,37:600$000,24:000$000,13:600$000,(1)
+all_tables.pdf,129,tbl-304.md,3,São Paulo,-,-,-,-,-,-,-,4:000$000,-,-
+all_tables.pdf,129,tbl-304.md,4,São Paulo,4.890,115,14,-,-,-,18:400$000,5:400$000,13:000$000,(1)
+all_tables.pdf,129,tbl-304.md,5,São Paulo,4.670,85,1,11000,3500,7500,10:200$000,4:200$000,6:000$000,$200
+all_tables.pdf,129,tbl-304.md,6,São Paulo,-,60,-,-,-,-,8:000$000,3:000$000,5:000$000,-
+all_tables.pdf,129,tbl-305.md,1,São Paulo,10.821,73,-,-,-,-,24:240$000,17:040$000,7:200$000,1$30
+all_tables.pdf,129,tbl-305.md,2,São Paulo,22.151,112,-,190842,76140,114702,72:000$000,51:600$000,20:400$000,-
+all_tables.pdf,129,tbl-305.md,3,São Paulo,-,-,-,-,-,-,-,18:000$000,-,-

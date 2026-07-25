@@ -1,0 +1,78 @@
+{
+  "source": "/Users/alaskievic/Desktop/master_work/sumoc113/agentic_ai/ocr_work/energy_br/inputs/table_3.pdf",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 168632
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "# Systema de illuminação das cidades e villas em 1920\n\n[tbl-0.md](tbl-0.md)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-0.md",
+            "content": "|  ESTADOS, DISTRICTO FEDERAL E TERRITORIO | CIDADES E VILLAS COM ILLUMINAÇÃO : |   |   |   |   |   | Cidades e villas sem iluminação  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  EXCLUSIVAMENTE |   |   |   | De mais de um systema | Total  |   |\n|   |  electrica | a kerozene | a acetyleno | a alcool  |   |   |   |\n|  Alagôas | 6 | 21 | 1 | 2 | — | 30 | 5  |\n|  Amazonas | 3 | 11 | 2 | — | — | 16 | 12  |\n|  Bahia | 7 | 74 | 8 | — | (2) 6 | 95 | 29  |\n|  Ceará | 4 | 4 | 4 | — | (3) 1 | 13 | 57  |\n|  Districto Federal | — | — | — | — | (4) 1 | 1 | —  |\n|  Espirito Santo | 10 | 4 | 1 | — | — | 15 | 14  |\n|  Goyaz | 2 | — | — | — | — | 3 | 34  |\n|  Maranhão | 3 | 15 | 4 | — | — | 22 | 39  |\n|  Matto Grosso | 6 | 3 | — | — | — | 9 | 10  |\n|  Minas Geraes | 98 | 8 | 6 | — | — | 112 | 45  |\n|  Pará | 5 | 35 | 6 | — | (5) 2 | 48 | 5  |\n|  Parahyba | 7 | 8 | 8 | 3 | — | 26 | 9  |\n|  Paraná | 26 | 3 | — | — | — | 29 | 19  |\n|  Pernambuco | 12 | 11 | 3 | 10 | (6) 2 | 38 | 15  |\n|  Piauhy | 2 | 12 | — | — | — | 14 | 22  |\n|  Rio de Janeiro | 25 | 6 | 2 | — | — | 33 | 7  |\n|  Rio Grande do Norte | 5 | 10 | — | — | — | 15 | 20  |\n|  Rio Grande do Sul | 39 | 14 | 5 | — | (7) 2 | 60 | 5  |\n|  Santa Catharina | 15 | 3 | — | — | — | 18 | 14  |\n|  São Paulo | 137 | 17 | 2 | — | (8) 2 | 158 | 16  |\n|  Sergipe | 6 | 20 | — | — | (9) 1 | 27 | 6  |\n|  Territorio do Acre | 4 | — | — | — | — | 4 | —  |\n|  TOTAL | 422 | 279 | 52 | 15 | 17 | 785 | 383  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 114,
+          "height": 925,
+          "width": 1023
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9947520021468169,
+          "minimum_page_confidence_score": 0.311275525136334
+        },
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 168632
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "# Systema de illuminação das cidades e villas em 1920\n\n[tbl-0.md](tbl-0.md)",
+      "lines": [
+        "# Systema de illuminação das cidades e villas em 1920",
+        "[tbl-0.md](tbl-0.md)"
+      ],
+      "dimensions": {
+        "dpi": 114,
+        "height": 925,
+        "width": 1023
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9947520021468169,
+        "minimum_page_confidence_score": 0.311275525136334
+      },
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  ESTADOS, DISTRICTO FEDERAL E TERRITORIO | CIDADES E VILLAS COM ILLUMINAÇÃO : |   |   |   |   |   | Cidades e villas sem iluminação  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  EXCLUSIVAMENTE |   |   |   | De mais de um systema | Total  |   |\n|   |  electrica | a kerozene | a acetyleno | a alcool  |   |   |   |\n|  Alagôas | 6 | 21 | 1 | 2 | — | 30 | 5  |\n|  Amazonas | 3 | 11 | 2 | — | — | 16 | 12  |\n|  Bahia | 7 | 74 | 8 | — | (2) 6 | 95 | 29  |\n|  Ceará | 4 | 4 | 4 | — | (3) 1 | 13 | 57  |\n|  Districto Federal | — | — | — | — | (4) 1 | 1 | —  |\n|  Espirito Santo | 10 | 4 | 1 | — | — | 15 | 14  |\n|  Goyaz | 2 | — | — | — | — | 3 | 34  |\n|  Maranhão | 3 | 15 | 4 | — | — | 22 | 39  |\n|  Matto Grosso | 6 | 3 | — | — | — | 9 | 10  |\n|  Minas Geraes | 98 | 8 | 6 | — | — | 112 | 45  |\n|  Pará | 5 | 35 | 6 | — | (5) 2 | 48 | 5  |\n|  Parahyba | 7 | 8 | 8 | 3 | — | 26 | 9  |\n|  Paraná | 26 | 3 | — | — | — | 29 | 19  |\n|  Pernambuco | 12 | 11 | 3 | 10 | (6) 2 | 38 | 15  |\n|  Piauhy | 2 | 12 | — | — | — | 14 | 22  |\n|  Rio de Janeiro | 25 | 6 | 2 | — | — | 33 | 7  |\n|  Rio Grande do Norte | 5 | 10 | — | — | — | 15 | 20  |\n|  Rio Grande do Sul | 39 | 14 | 5 | — | (7) 2 | 60 | 5  |\n|  Santa Catharina | 15 | 3 | — | — | — | 18 | 14  |\n|  São Paulo | 137 | 17 | 2 | — | (8) 2 | 158 | 16  |\n|  Sergipe | 6 | 20 | — | — | (9) 1 | 27 | 6  |\n|  Territorio do Acre | 4 | — | — | — | — | 4 | —  |\n|  TOTAL | 422 | 279 | 52 | 15 | 17 | 785 | 383  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 4.305,
+  "remote_file_id": null
+}

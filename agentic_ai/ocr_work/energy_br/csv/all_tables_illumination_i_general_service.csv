@@ -1,0 +1,810 @@
+source_file,page,source_table_id,row_in_table,state,municipality,category,category_inferred_from_ditto,lighting_system,lighting_system_inferred_from_ditto,directing_company,directing_company_inferred_from_ditto,inauguration_date,annual_government_expense
+all_tables.pdf,62,tbl-151.md,1,Alagoas,Agua Branca.,Cidade,no,Kerozene,no,Municipal,no,1906,1:000$
+all_tables.pdf,62,tbl-151.md,2,Alagoas,Alagôas.,Cidade,yes,Kerozene,yes,Municipal,yes,,1:200$
+all_tables.pdf,62,tbl-151.md,3,Alagoas,Anadia.,Cidade,yes,Kerozene,yes,Municipal,yes,1909,1:080$
+all_tables.pdf,62,tbl-151.md,4,Alagoas,Atalaia.,Cidade,yes,Kerozene,yes,Municipal,yes,,1:312$
+all_tables.pdf,62,tbl-151.md,5,Alagoas,Camaragibe.,Cidade,yes,Kerozene,yes,Municipal,yes,1915,3:000$
+all_tables.pdf,62,tbl-151.md,6,Alagoas,Coruripe.,Cidade,yes,Kerozene,yes,Municipal,yes,1895,1:382$
+all_tables.pdf,62,tbl-151.md,7,Alagoas,Junqueiro.,Villa,no,Kerozene,yes,Municipal,yes,1908,118$
+all_tables.pdf,62,tbl-151.md,8,Alagoas,Leopoldina.,Cidade,no,Alcool,no,Municipal,yes,1920,368$
+all_tables.pdf,62,tbl-151.md,9,Alagoas,Limociro.,Villa,no,Kerozene,no,Municipal,yes,1920,400$
+all_tables.pdf,62,tbl-151.md,10,Alagoas,Maceió.,Cidade,no,Electrica,no,Particular,no,1907,180:000$
+all_tables.pdf,62,tbl-151.md,11,Alagoas,Maragogy.,Cidade,yes,Kerozene,no,Municipal,no,1907,500$
+all_tables.pdf,62,tbl-151.md,12,Alagoas,Muricy.,Cidade,yes,Kerozene,yes,Municipal,yes,1918,3:600$
+all_tables.pdf,62,tbl-151.md,13,Alagoas,Palmeira dos Indios.,Cidade,yes,Electrica,no,Particular,no,1920,8:400$
+all_tables.pdf,62,tbl-151.md,14,Alagoas,Pão de Assucar.,Cidade,yes,Kerozene,no,Municipal,no,1885,2:400$
+all_tables.pdf,62,tbl-151.md,15,Alagoas,Parahyba.,Cidade,yes,Electrica,no,,no,,
+all_tables.pdf,62,tbl-151.md,16,Alagoas,Paulo Affonso.,Cidade,yes,Kerozene,no,Municipal,no,1912,480$
+all_tables.pdf,62,tbl-151.md,17,Alagoas,Penedo.,Cidade,yes,Electrica,no,Particular,no,1916,12:360$
+all_tables.pdf,62,tbl-151.md,18,Alagoas,Piassabussú.,Villa,no,Kerozene,no,Municipal,no,1908,1:281$
+all_tables.pdf,62,tbl-151.md,19,Alagoas,Pilar.,Cidade,no,Kerozene,yes,Municipal,yes,1874,3:595$
+all_tables.pdf,62,tbl-151.md,20,Alagoas,Piranhas.,Villa,no,Kerozene,yes,Municipal,yes,1895,760$
+all_tables.pdf,62,tbl-151.md,21,Alagoas,Porto Calvo.,Cidade,no,Kerozene,yes,Municipal,yes,1890,2:800$
+all_tables.pdf,62,tbl-151.md,22,Alagoas,Sant'Anna do Ipanema.,Cidade,yes,Kerozene,yes,Municipal,yes,1913,330$
+all_tables.pdf,62,tbl-151.md,23,Alagoas,São José da Lage.,Cidade,yes,Alcool,no,Municipal,yes,1917,600$
+all_tables.pdf,62,tbl-151.md,24,Alagoas,São Luiz do Quitunde.,Cidade,yes,Kerozene,no,Municipal,yes,1900,889$
+all_tables.pdf,62,tbl-151.md,25,Alagoas,São Miguel de Campos.,Cidade,yes,Electrica,no,Particular,no,1917,4:200$
+all_tables.pdf,62,tbl-151.md,26,Alagoas,Traipú.,Cidade,yes,Kerozene,no,Municipal,no,1896,1:300$
+all_tables.pdf,62,tbl-151.md,27,Alagoas,Triumpho.,Cidade,yes,Kerozene,yes,Municipal,yes,1898,400$
+all_tables.pdf,62,tbl-151.md,28,Alagoas,União.,Cidade,yes,Acetyleno,no,Municipal,yes,1909,5:000$
+all_tables.pdf,62,tbl-151.md,29,Alagoas,Viçosa.,Cidade,yes,Kerozene,no,Municipal,yes,,3:812$
+all_tables.pdf,62,tbl-151.md,30,Alagoas,Victoria.,Cidade,yes,Electrica,no,Particular,no,1919,6:600$
+all_tables.pdf,63,tbl-153.md,1,Amazonas,Barcellos,Villa,no,Kerozene,no,Municipal,no,1917,1:500$
+all_tables.pdf,63,tbl-153.md,2,Amazonas,Barreirinha,Villa,yes,Kerozene,yes,Municipal,yes,1900,280$
+all_tables.pdf,63,tbl-153.md,3,Amazonas,Borba,Villa,yes,Acetyleno,no,Municipal,yes,1920,2:000$
+all_tables.pdf,63,tbl-153.md,4,Amazonas,Carauary,Villa,yes,Kerozene,no,Municipal,yes,1898,
+all_tables.pdf,63,tbl-153.md,5,Amazonas,Fonte Bôa,Villa,yes,Acetyleno,no,Municipal,yes,1913,600$
+all_tables.pdf,63,tbl-153.md,6,Amazonas,Humaytá,Cidade,no,Electrica,no,Municipal,yes,1905,
+all_tables.pdf,63,tbl-153.md,7,Amazonas,Itacoatiara,Cidade,yes,Kerozene,no,Municipal,yes,1919,
+all_tables.pdf,63,tbl-153.md,8,Amazonas,Lábrea,Cidade,yes,Kerozene,yes,Municipal,yes,1909,1:440$
+all_tables.pdf,63,tbl-153.md,9,Amazonas,Manáos,Cidade,yes,Electrica,no,Particular,no,1910,
+all_tables.pdf,63,tbl-153.md,10,Amazonas,Maués,Villa,no,Kerozene,no,Municipal,no,1900,2:400$
+all_tables.pdf,63,tbl-153.md,11,Amazonas,Moura,Villa,yes,Kerozene,yes,Municipal,yes,1920,400$
+all_tables.pdf,63,tbl-153.md,12,Amazonas,Porto Velho,Cidade,no,Electrica,no,Particular,no,1918,4:063$
+all_tables.pdf,63,tbl-153.md,13,Amazonas,São Felipe,Villa,no,Kerozene,no,Municipal,no,1894,2:160$
+all_tables.pdf,63,tbl-153.md,14,Amazonas,São Gabriel,Villa,yes,Kerozene,yes,Municipal,yes,,
+all_tables.pdf,63,tbl-153.md,15,Amazonas,São Paulo de Olivença,Villa,yes,Kerozene,yes,Municipal,yes,1910,1:000$
+all_tables.pdf,63,tbl-153.md,16,Amazonas,Silves,Villa,yes,Kerozene,yes,Municipal,yes,1900,320$
+all_tables.pdf,63,tbl-154.md,1,Amazonas,Affonso Penna,Cidade,no,Kerozene,no,Municipal,no,1905,3:000$
+all_tables.pdf,63,tbl-154.md,2,Amazonas,Alagoinhas,Cidade,yes,Kerozene,yes,Municipal,yes,1892,8:398$
+all_tables.pdf,63,tbl-154.md,3,Amazonas,Alcobaça,Cidade,yes,Kerozene,yes,Municipal,yes,1898,3:000$
+all_tables.pdf,63,tbl-154.md,4,Amazonas,Amargosa,Cidade,yes,Kerozene,yes,Municipal,yes,1890,14:298$
+all_tables.pdf,63,tbl-154.md,5,Amazonas,Andarahy,Cidade,yes,Kerozene,yes,Municipal,yes,1895,2:336$
+all_tables.pdf,63,tbl-154.md,6,Amazonas,Angical,Villa,no,Kerozene,yes,Municipal,yes,1920,600$
+all_tables.pdf,63,tbl-154.md,7,Amazonas,Aracy,Villa,yes,Kerozene,yes,Municipal,yes,1919,300$
+all_tables.pdf,63,tbl-154.md,8,Amazonas,Aratuhype,Cidade,no,Kerozene,yes,Municipal,yes,1890,2:809$
+all_tables.pdf,63,tbl-154.md,9,Amazonas,Areia,Cidade,yes,Kerozene,yes,Municipal,yes,1890,15:000$
+all_tables.pdf,63,tbl-154.md,10,Amazonas,Baixa Grande,Villa,no,Acetyleno,no,Municipal,yes,1912,1:000$
+all_tables.pdf,63,tbl-154.md,11,Amazonas,Barracão,Villa,yes,Kerozene,no,Municipal,yes,1913,2:000$
+all_tables.pdf,63,tbl-154.md,12,Amazonas,Barra do Rio de Contas,Villa,yes,Kerozene,yes,Municipal,yes,1906,7:000$
+all_tables.pdf,63,tbl-154.md,13,Amazonas,Barra do Rio Grande,Cidade,no,Kerozene,yes,Municipal,yes,1896,6:000$
+all_tables.pdf,63,tbl-154.md,14,Amazonas,Barreiras,Cidade,yes,Electrica,no,Particular,no,1920,6:200$
+all_tables.pdf,63,tbl-154.md,15,Amazonas,Belmonte,Cidade,yes,Kerozene,no,Municipal,no,1890,6:711$
+all_tables.pdf,63,tbl-154.md,16,Amazonas,Bom Jesus da Lapa,Cidade,yes,Acetyleno,no,Municipal,yes,1914,2:500$
+all_tables.pdf,64,tbl-156.md,1,Bahia,Bom Jesus dos Meiras.,Villa,no,Kerozene,no,Municipal,no,1901,989$
+all_tables.pdf,64,tbl-156.md,2,Bahia,Cachoeira.,Cidade,no,Kerozene,yes,Municipal,yes,1822,11:988$
+all_tables.pdf,64,tbl-156.md,3,Bahia,Cachoeira da Albadia.,Villa,no,Kerozene,yes,Municipal,yes,1920,1:600$
+all_tables.pdf,64,tbl-156.md,4,Bahia,Camamú.,Cidade,no,Kerozene,yes,Municipal,yes,1890,8:200$
+all_tables.pdf,64,tbl-156.md,5,Bahia,Camisão.,Cidade,yes,Kerozene,yes,Municipal,yes,1896,1:000$
+all_tables.pdf,64,tbl-156.md,6,Bahia,,,no,Acetyleno,no,Municipal,yes,1896,
+all_tables.pdf,64,tbl-156.md,7,Bahia,Campo Formoso.,Villa,no,Acetyleno,yes,Municipal,yes,1910,1:500$
+all_tables.pdf,64,tbl-156.md,8,Bahia,Cannavieiras.,Cidade,no,Acetyleno,yes,Municipal,yes,1909,2:148$
+all_tables.pdf,64,tbl-156.md,9,Bahia,,,no,Kerozene,no,Municipal,yes,1909,4:833$
+all_tables.pdf,64,tbl-156.md,10,Bahia,Capivary.,Villa,no,Kerozene,yes,Municipal,yes,1908,977$
+all_tables.pdf,64,tbl-156.md,11,Bahia,Caravellas.,Cidade,no,Kerozene,yes,Municipal,yes,1888,2:800$
+all_tables.pdf,64,tbl-156.md,12,Bahia,Carinhanha.,Cidade,yes,Kerozene,yes,Municipal,yes,1900,900$
+all_tables.pdf,64,tbl-156.md,13,Bahia,Castro Alves.,Cidade,yes,Kerozene,yes,Municipal,yes,1885,2:000$
+all_tables.pdf,64,tbl-156.md,14,Bahia,,,no,Acetyleno,no,Municipal,yes,,4:000$
+all_tables.pdf,64,tbl-156.md,15,Bahia,Cayrú.,Villa,no,Kerozene,no,Municipal,yes,1912,1:100$
+all_tables.pdf,64,tbl-156.md,16,Bahia,Chique-Chique.,Villa,yes,Kerozene,yes,Municipal,yes,1910,1:350$
+all_tables.pdf,64,tbl-156.md,17,Bahia,Conde.,Cidade,no,Kerozene,yes,Municipal,yes,1912,2:000$
+all_tables.pdf,64,tbl-156.md,18,Bahia,Condeúba.,Cidade,yes,Kerozene,yes,Municipal,yes,1920,940$
+all_tables.pdf,64,tbl-156.md,19,Bahia,Conquista.,Cidade,yes,Electrica,no,Particular,no,1920,
+all_tables.pdf,64,tbl-156.md,20,Bahia,Cruz das Almas.,Cidade,yes,Kerozene,no,Municipal,no,1904,9:500$
+all_tables.pdf,64,tbl-156.md,21,Bahia,Curaçá.,Villa,no,Kerozene,yes,Municipal,yes,1896,1:360$
+all_tables.pdf,64,tbl-156.md,22,Bahia,Entre Rios.,Villa,yes,Acetyleno,no,Municipal,yes,1916,1:350$
+all_tables.pdf,64,tbl-156.md,23,Bahia,Feira de Sant'Anna.,Cidade,no,Kerozene,no,Municipal,yes,1871,14:000$
+all_tables.pdf,64,tbl-156.md,24,Bahia,Igrapuna.,Villa,no,Kerozene,yes,Municipal,yes,1908,1:600$
+all_tables.pdf,64,tbl-156.md,25,Bahia,Ilhéos.,Cidade,no,Electrica,no,Particular,no,1916,28:864$
+all_tables.pdf,64,tbl-156.md,26,Bahia,Inhambupe.,Cidade,yes,Kerozene,no,Municipal,no,1894,2:117$
+all_tables.pdf,64,tbl-156.md,27,Bahia,Irará.,Cidade,yes,Kerozene,yes,Municipal,yes,1893,3:000$
+all_tables.pdf,64,tbl-156.md,28,Bahia,Itaberaba.,Cidade,yes,Kerozene,yes,Municipal,yes,1910,1:154$
+all_tables.pdf,64,tbl-156.md,29,Bahia,Itabuna.,Cidade,yes,Electrica,no,Particular,no,1917,15:270$
+all_tables.pdf,64,tbl-156.md,30,Bahia,Itaparica.,Cidade,yes,Kerozene,no,Municipal,no,1889,2:800$
+all_tables.pdf,64,tbl-156.md,31,Bahia,Itapicurú.,Villa,no,Kerozene,yes,Municipal,yes,1915,1:200$
+all_tables.pdf,64,tbl-156.md,32,Bahia,Jacobina.,Cidade,no,Kerozene,yes,Municipal,yes,1907,3:600$
+all_tables.pdf,64,tbl-156.md,33,Bahia,Jaguaripe.,Cidade,yes,Kerozene,yes,Municipal,yes,,867$
+all_tables.pdf,64,tbl-156.md,34,Bahia,Jequié.,Cidade,yes,Kerozene,yes,Municipal,yes,,5:299$
+all_tables.pdf,65,tbl-158.md,1,Bahia,Jequiriçá,Villa,no,Kerozene,no,Municipal,no,1900,1:547$
+all_tables.pdf,65,tbl-158.md,2,Bahia,Lage,Villa,yes,Kerozene,yes,Municipal,yes,1896,1:697$
+all_tables.pdf,65,tbl-158.md,3,Bahia,Lenções,Cidade,no,Kerozene,yes,Municipal,yes,,3:000$
+all_tables.pdf,65,tbl-158.md,4,Bahia,Maracás,Cidade,yes,Kerozene,yes,Municipal,yes,1904,3:300$
+all_tables.pdf,65,tbl-158.md,5,Bahia,Maragogipe,Cidade,yes,Kerozene,yes,Municipal,yes,1824,6:500$
+all_tables.pdf,65,tbl-158.md,6,Bahia,Masahá,Villa,no,Kerozene,yes,Municipal,yes,1916,1:250$
+all_tables.pdf,65,tbl-158.md,7,Bahia,Matta de São João,Villa,yes,Kerozene,yes,Municipal,yes,1909,4:800$
+all_tables.pdf,65,tbl-158.md,8,Bahia,Minas do Rio de Contas,Cidade,no,Kerozene,yes,Municipal,yes,1896,1:800$
+all_tables.pdf,65,tbl-158.md,9,Bahia,Monte Alegre,Cidade,yes,Acetyleno,no,Municipal,yes,1919,2:600$
+all_tables.pdf,65,tbl-158.md,10,Bahia,Monte Santo,Villa,no,Kerozene,no,Municipal,yes,1913,5:47$
+all_tables.pdf,65,tbl-158.md,11,Bahia,Morro do Chapão,Cidade,no,Kerozene,yes,Municipal,yes,1900,1:200$
+all_tables.pdf,65,tbl-158.md,12,Bahia,Mucugê,Cidade,yes,Kerozene,yes,Municipal,yes,,1:500$
+all_tables.pdf,65,tbl-158.md,13,Bahia,Mundo Novo,Cidade,yes,Acetyleno,no,Municipal,yes,1920,3:151$
+all_tables.pdf,65,tbl-158.md,14,Bahia,Nazareth,Cidade,yes,Electrica,no,Particular,no,1917,16:000$
+all_tables.pdf,65,tbl-158.md,15,Bahia,Nova Boipeba,Villa,no,Kerozene,no,Municipal,no,1903,1:181$
+all_tables.pdf,65,tbl-158.md,16,Bahia,Orobó,Cidade,no,Kerozene,yes,Municipal,yes,1914,1:300$
+all_tables.pdf,65,tbl-158.md,17,Bahia,Patrocínio do Coité,Villa,no,Kerozene,yes,Municipal,yes,1917,600$
+all_tables.pdf,65,tbl-158.md,18,Bahia,Pilão Arcado,Villa,yes,Kerozene,yes,Municipal,yes,1920,1:000$
+all_tables.pdf,65,tbl-158.md,19,Bahia,Pojuca,Villa,yes,Kerozene,yes,Municipal,yes,1911,2:600$
+all_tables.pdf,65,tbl-158.md,20,Bahia,Porto Seguro,Cidade,no,Acetyleno,no,Municipal,yes,,2:000$
+all_tables.pdf,65,tbl-158.md,21,Bahia,Prado.,Cidade,yes,Kerozene,no,Municipal,yes,1896,1:528$
+all_tables.pdf,65,tbl-158.md,22,Bahia,Remanso,Cidade,yes,Kerozene,yes,Municipal,yes,1899,3:400$
+all_tables.pdf,65,tbl-158.md,23,Bahia,Remedios,Villa,no,Kerozene,yes,Municipal,yes,,700$
+all_tables.pdf,65,tbl-158.md,24,Bahia,Riachão do Jacuhype,Villa,yes,Kerozene,yes,Municipal,yes,1912,740$
+all_tables.pdf,65,tbl-158.md,25,Bahia,Riacho de Sant'Anna,Villa,yes,Kerozene,yes,Municipal,yes,1918,384$
+all_tables.pdf,65,tbl-158.md,26,Bahia,Sant'Anna do Catú,Villa,yes,Kerozene,yes,Municipal,yes,1910,3:500$
+all_tables.pdf,65,tbl-158.md,27,Bahia,Sant'Anna dos Brejos,Cidade,no,Acetyleno,no,Municipal,yes,1904,1:102$
+all_tables.pdf,65,tbl-158.md,28,Bahia,Santa Cruz,Villa,no,Acetyleno,yes,Municipal,yes,1904,734$
+all_tables.pdf,65,tbl-158.md,29,Bahia,Santa Maria,Cidade,no,Kerozene,no,Municipal,yes,1920,2:000$
+all_tables.pdf,65,tbl-158.md,30,Bahia,Santarém,Cidade,yes,Kerozene,yes,Municipal,yes,1908,2:000$
+all_tables.pdf,65,tbl-158.md,31,Bahia,Santo Amaro,Cidade,yes,Electrica,no,Particular,no,1919,24:000$
+all_tables.pdf,65,tbl-158.md,32,Bahia,Santo Antonio de Jesus,Cidade,yes,Kerozene,no,Municipal,no,,8:480$
+all_tables.pdf,65,tbl-158.md,33,Bahia,São Pelippe,Villa,no,Kerozene,yes,Municipal,yes,1900,1:100$
+all_tables.pdf,67,tbl-160.md,1,Bahia,São Felix do Paraguassú.,Cidade,no,Kerozene,no,Municipal,no,1890,5:480$
+all_tables.pdf,67,tbl-160.md,2,Bahia,São Francisco.,Villa,no,Kerozene,yes,Municipal,yes,1902,2:200$
+all_tables.pdf,67,tbl-160.md,3,Bahia,São Gonçalo dos Campos.,Cidade,no,Kerozene,yes,Municipal,yes,,2:723$
+all_tables.pdf,67,tbl-160.md,4,Bahia,São Miguel.,Villa,no,Kerozene,yes,Municipal,yes,1901,2:098$
+all_tables.pdf,67,tbl-160.md,5,Bahia,São Salvador.,Cidade,no,Gaz Carbonico,no,Municipal,yes,1857,
+all_tables.pdf,67,tbl-160.md,6,Bahia,,,no,Electrica,no,Municipal,yes,1907,
+all_tables.pdf,67,tbl-160.md,7,Bahia,Saúde.,Villa,no,Kerozene,no,Municipal,yes,1915,420$
+all_tables.pdf,67,tbl-160.md,8,Bahia,Sento Sé.,Villa,yes,Kerozene,yes,Municipal,yes,1918,1:560$
+all_tables.pdf,67,tbl-160.md,9,Bahia,Serrinha.,Cidade,no,Kerozene,yes,Municipal,yes,1879,1:400$
+all_tables.pdf,67,tbl-160.md,10,Bahia,,,no,Acetyleno,no,Municipal,yes,1917,1:650$
+all_tables.pdf,67,tbl-160.md,11,Bahia,Soure.,Villa,no,Kerozene,no,Municipal,yes,1),800$
+all_tables.pdf,67,tbl-160.md,12,Bahia,Taperoá.,Cidade,no,Kerozene,yes,Municipal,yes,,3:840$
+all_tables.pdf,67,tbl-160.md,13,Bahia,Valença.,Cidade,yes,Electrica,no,Particular,no,1915,8:000$
+all_tables.pdf,67,tbl-160.md,14,Bahia,Viçosa.,Villa,no,Kerozene,no,Municipal,no,1906,1:750$
+all_tables.pdf,67,tbl-160.md,15,Bahia,Villa Bella das Palmeiras.,Villa,yes,Kerozene,yes,Municipal,yes,1904,957$
+all_tables.pdf,67,tbl-160.md,16,Bahia,Villa Rica.,Villa,yes,Kerozene,yes,Municipal,yes,,1:000$
+all_tables.pdf,67,tbl-160.md,17,Bahia,Wagner.,Villa,yes,Kerozene,yes,Municipal,yes,1912,580$
+all_tables.pdf,67,tbl-161.md,1,Bahia,Aracaty.,Cidade,no,Electrica,no,Particular,no,1919,7:200$
+all_tables.pdf,67,tbl-161.md,2,Bahia,Barbalha.,Cidade,yes,Kerozene,no,Municipal,no,1917,2:400$
+all_tables.pdf,67,tbl-161.md,3,Bahia,Canindé.,Cidade,yes,Electrica,no,Particular,no,1918,900$
+all_tables.pdf,67,tbl-161.md,4,Bahia,Crathéus.,Cidade,yes,Acetyleno,no,Municipal,no,1918,1:040$
+all_tables.pdf,67,tbl-161.md,5,Bahia,Crato.,Cidade,yes,Electrica,no,Particular,no,1920,12:000$
+all_tables.pdf,67,tbl-161.md,6,Bahia,Fortaleza.,Cidade,yes,Gaz Carbonico,no,Particular,yes,,
+all_tables.pdf,67,tbl-161.md,7,Bahia,,,no,Electrica,no,Particular,yes,,
+all_tables.pdf,67,tbl-161.md,8,Bahia,Joazeiro.,Cidade,yes,Kerozene,no,Municipal,no,1913,1:437$
+all_tables.pdf,67,tbl-161.md,9,Bahia,Maranguape.,Cidade,yes,Electrica,no,Particular,no,1917,7:999$
+all_tables.pdf,67,tbl-161.md,10,Bahia,Morada Nova.,Cidade,yes,Kerozene,no,Particular,yes,,1:100$
+all_tables.pdf,67,tbl-161.md,11,Bahia,Quixadá.,Cidade,yes,Acetyleno,no,Particular,yes,,2:000$
+all_tables.pdf,67,tbl-161.md,12,Bahia,Sant'Anna do Cariry.,Villa,no,Acetyleno,yes,Municipal,no,1917,1:200$
+all_tables.pdf,67,tbl-161.md,13,Bahia,São Bernardo das Russas.,Cidade,no,Kerozene,no,Municipal,yes,1915,1:500$
+all_tables.pdf,67,tbl-161.md,14,Bahia,São Matheus.,Villa,no,Acetyleno,no,Municipal,yes,1918,545$
+all_tables.pdf,68,tbl-163.md,1,Districto Federal,Districto Federal,Cidade,no,Gaz Carbonico,no,Particular,no,1854,1 566:874$
+all_tables.pdf,68,tbl-163.md,2,Districto Federal,,,no,Electrica,no,Particular,yes,1904,5 020:139$
+all_tables.pdf,68,tbl-164.md,1,Districto Federal,Affonso Claudio,Cidade,no,Electrica,no,Particular,no,1920,3:000$
+all_tables.pdf,68,tbl-164.md,2,Districto Federal,Alegre,Cidade,yes,Electrica,yes,Particular,yes,1920,
+all_tables.pdf,68,tbl-164.md,3,Districto Federal,Benevente,Cidade,yes,Kerozene,no,Municipal,no,1887,2:137$
+all_tables.pdf,68,tbl-164.md,4,Districto Federal,Bôa Família,Villa,no,Kerozene,yes,Municipal,yes,1915,1:080$
+all_tables.pdf,68,tbl-164.md,5,Districto Federal,Cachoeiro de Santa Leopoldina,Cidade,no,Electrica,no,Particular,no,1918,6:600$
+all_tables.pdf,68,tbl-164.md,6,Districto Federal,Espírito Santo,Cidade,yes,Electrica,yes,Particular,yes,1910,3:600$
+all_tables.pdf,68,tbl-164.md,7,Districto Federal,Espírito Santo do Rio Pardo,Cidade,yes,Electrica,yes,Particular,yes,1915,2:160$
+all_tables.pdf,68,tbl-164.md,8,Districto Federal,Guarapary,Cidade,yes,Kerozene,no,Municipal,no,1890,1:833$
+all_tables.pdf,68,tbl-164.md,9,Districto Federal,Pidma,Villa,no,Electrica,no,Particular,no,1916,1:500$
+all_tables.pdf,68,tbl-164.md,10,Districto Federal,Ponte do Itabapoana,Villa,yes,Kerozene,no,Municipal,no,1906,1:181$
+all_tables.pdf,68,tbl-164.md,11,Districto Federal,Santa Thereza,Villa,yes,Electrica,no,Particular,no,1918,2:400$
+all_tables.pdf,68,tbl-164.md,12,Districto Federal,São João do Muquy,Cidade,no,Electrica,yes,Particular,yes,1918,3:000$
+all_tables.pdf,68,tbl-164.md,13,Districto Federal,São Matheus,Cidade,yes,Electrica,yes,Particular,yes,1916,5:263$
+all_tables.pdf,68,tbl-164.md,14,Districto Federal,São Pedro do Itabapoana,Cidade,yes,Acetyleno,no,Municipal,no,1905,2:000$
+all_tables.pdf,68,tbl-164.md,15,Districto Federal,Victoria,Cidade,yes,Electrica,no,Estadual,no,1910,54:000$
+all_tables.pdf,68,tbl-165.md,1,Districto Federal,Goyaz,Cidade,no,Electrica,no,Particular,no,1920,107:000$
+all_tables.pdf,68,tbl-165.md,2,Districto Federal,Trindade,Villa,no,Electrica,yes,Particular,yes,1920,
+all_tables.pdf,68,tbl-166.md,1,Districto Federal,Alcantara,Cidade,no,Kerozene,no,Municipal,no,,2:640$
+all_tables.pdf,68,tbl-166.md,2,Districto Federal,Arary,Villa,no,Acetyleno,no,Municipal,yes,1914,900$
+all_tables.pdf,68,tbl-166.md,3,Districto Federal,Brejo,Cidade,no,Kerozene,no,Municipal,yes,1920,1:800$
+all_tables.pdf,68,tbl-166.md,4,Districto Federal,Cajapió,Villa,no,Kerozene,yes,Municipal,yes,1920,1:440$
+all_tables.pdf,68,tbl-166.md,5,Districto Federal,Caxias,Cidade,no,Kerozene,yes,Municipal,yes,1882,2:000$
+all_tables.pdf,68,tbl-166.md,6,Districto Federal,Codó,Cidade,yes,Electrica,no,Municipal,yes,1919,
+all_tables.pdf,68,tbl-166.md,7,Districto Federal,Coroatá,Cidade,yes,Kerozene,no,Municipal,yes,1900,840$
+all_tables.pdf,68,tbl-166.md,8,Districto Federal,Cururupó,Cidade,yes,Acetyleno,no,Municipal,yes,1912,1:172$
+all_tables.pdf,68,tbl-166.md,9,Districto Federal,Flôres,Villa,no,Kerozene,no,Municipal,yes,1892,1:070$
+all_tables.pdf,68,tbl-166.md,10,Districto Federal,Guimarães,Cidade,no,Kerozene,yes,Municipal,yes,1887,580$
+all_tables.pdf,68,tbl-166.md,11,Districto Federal,Itapecuró-mirim,Cidade,yes,Kerozene,yes,Municipal,yes,1911,1:500$
+all_tables.pdf,69,tbl-168.md,1,Maranhão,Monte Alegre,Villa,no,Kerozene,no,Municipal,no,1920,350$
+all_tables.pdf,69,tbl-168.md,2,Maranhão,Nova York,Villa,yes,Kerozene,yes,Municipal,yes,1919,320$
+all_tables.pdf,69,tbl-168.md,3,Maranhão,Faço do Lumiar,Villa,yes,Acetyleno,no,Municipal,yes,1913,400$
+all_tables.pdf,69,tbl-168.md,4,Maranhão,Pedreiras,Cidade,no,Electrica,no,Municipal,yes,1920,13:354$
+all_tables.pdf,69,tbl-168.md,5,Maranhão,Rosario,Cidade,yes,Kerozene,no,Municipal,yes,1910,1:305$
+all_tables.pdf,69,tbl-168.md,6,Maranhão,São João dos Patos,Villa,no,Kerozene,yes,Municipal,yes,1916,1:800$
+all_tables.pdf,69,tbl-168.md,7,Maranhão,São Luiz,Cidade,no,Electrica,no,Particular,no,1917,113:400$
+all_tables.pdf,69,tbl-168.md,8,Maranhão,São Luiz Gonzaga,Villa,no,Acetyleno,no,Municipal,no,1917,800$
+all_tables.pdf,69,tbl-168.md,9,Maranhão,Tury-assá,Cidade,no,Kerozene,no,Municipal,yes,1872,986$
+all_tables.pdf,69,tbl-168.md,10,Maranhão,Tuteya,Villa,no,Kerozene,yes,Municipal,yes,1920,800$
+all_tables.pdf,69,tbl-168.md,11,Maranhão,Victoria do Alto Parnahyba,Villa,yes,Kerozene,yes,Municipal,yes,1918,700$
+all_tables.pdf,69,tbl-169.md,1,Maranhão,Aquidauana,Cidade,no,Electrica,no,Particular,no,1920,15:000$
+all_tables.pdf,69,tbl-169.md,2,Maranhão,Bella Vista,Cidade,yes,Kerozene,no,Municipal,no,,810$
+all_tables.pdf,69,tbl-169.md,3,Maranhão,Campo Grande,Cidade,yes,Electrica,no,Particular,no,1918,
+all_tables.pdf,69,tbl-169.md,4,Maranhão,Corumbá,Cidade,yes,Electrica,yes,Particular,yes,1912,115:000$
+all_tables.pdf,69,tbl-169.md,5,Maranhão,Cuyabá,Cidade,yes,Electrica,yes,Particular,yes,1919,72:000$
+all_tables.pdf,69,tbl-169.md,6,Maranhão,Miranda,Cidade,yes,Electrica,yes,Municipal,no,1919,
+all_tables.pdf,69,tbl-169.md,7,Maranhão,Porto Murtinho,Villa,no,Kerozene,no,Municipal,yes,,1:800$
+all_tables.pdf,69,tbl-169.md,8,Maranhão,São Luiz de Caceres,Cidade,no,Kerozene,yes,Municipal,yes,1908,6:000$
+all_tables.pdf,69,tbl-169.md,9,Maranhão,Tres Lagôas,Cidade,yes,Electrica,no,Particular,no,1920,15:427$
+all_tables.pdf,69,tbl-170.md,1,Maranhão,Abre Campo,Cidade,no,Electrica,no,Particular,no,1919,7:452$
+all_tables.pdf,69,tbl-170.md,2,Maranhão,Aguas Virtuosas,Cidade,yes,Electrica,yes,Municipal,no,1910,18:000$
+all_tables.pdf,69,tbl-170.md,3,Maranhão,Alfenas,Cidade,yes,Electrica,yes,Particular,no,1913,13:690$
+all_tables.pdf,69,tbl-170.md,4,Maranhão,Araguary,Cidade,yes,Electrica,yes,Particular,yes,1910,1:140$
+all_tables.pdf,69,tbl-170.md,5,Maranhão,Arassuahy,Cidade,yes,Kerozene,no,Municipal,no,1920,6:750$
+all_tables.pdf,69,tbl-170.md,6,Maranhão,Araxá,Cidade,yes,Electrica,no,Municipal,yes,1914,11:095$
+all_tables.pdf,69,tbl-170.md,7,Maranhão,Arceburgo,Villa,no,Electrica,yes,Particular,no,1914,7:200$
+all_tables.pdf,69,tbl-170.md,8,Maranhão,Baependy,Cidade,no,Electrica,yes,Municipal,no,1911,3:200$
+all_tables.pdf,69,tbl-170.md,9,Maranhão,Barbacena,Cidade,yes,Electrica,yes,Municipal,yes,1905,
+all_tables.pdf,70,tbl-171.md,2,Minas Geraes,,Categorie do Município (Ville ou Village),no,système d'éclairage adopté,no,Entreprise directrice,no,Date de l'inauguration du service,Dépense annuelle du gouvernement
+all_tables.pdf,70,tbl-172.md,1,Minas Geraes,Bello Horizonte,Cidade,no,Eléctrica,no,Estadual,no,,
+all_tables.pdf,70,tbl-172.md,2,Minas Geraes,Bóa Vista do Tremedal,Cidade,yes,Kerozene,no,Municipal,no,1903,1:200$
+all_tables.pdf,70,tbl-172.md,3,Minas Geraes,Bom Sucesso,Cidade,yes,Acetyleno,no,Municipal,yes,1895,2:175$
+all_tables.pdf,70,tbl-172.md,4,Minas Geraes,Cabo Verde,Cidade,yes,Eléctrica,no,Municipal,yes,1912,30:000$
+all_tables.pdf,70,tbl-172.md,5,Minas Geraes,Caethé,Cidade,yes,Eléctrica,yes,Municipal,yes,1914,
+all_tables.pdf,70,tbl-172.md,6,Minas Geraes,Caldas,Cidade,yes,Eléctrica,yes,Particular,no,1916,19:061$
+all_tables.pdf,70,tbl-172.md,7,Minas Geraes,Campanha,Cidade,yes,Eléctrica,yes,Particular,yes,1914,5:400$
+all_tables.pdf,70,tbl-172.md,8,Minas Geraes,Campo Bello,Cidade,yes,Eléctrica,yes,Municipal,no,1913,1:500$
+all_tables.pdf,70,tbl-172.md,9,Minas Geraes,Campos Gerais,Cidade,yes,Eléctrica,yes,Particular,no,1912,8:400$
+all_tables.pdf,70,tbl-172.md,10,Minas Geraes,Capellinha,Villa,no,Kerozene,no,Particular,yes,1916,1:660$
+all_tables.pdf,70,tbl-172.md,11,Minas Geraes,Caracol,Villa,yes,Eléctrica,no,Particular,yes,1911,7:340$
+all_tables.pdf,70,tbl-172.md,12,Minas Geraes,Carangola,Cidade,no,Eléctrica,yes,Particular,yes,1911,22:459$
+all_tables.pdf,70,tbl-172.md,13,Minas Geraes,Caratinga,Cidade,yes,Eléctrica,yes,Particular,yes,1920,14:400$
+all_tables.pdf,70,tbl-172.md,14,Minas Geraes,Carmo do Rio Claro,Cidade,yes,Eléctrica,yes,Particular,yes,1916,10:214$
+all_tables.pdf,70,tbl-172.md,15,Minas Geraes,Cassia,Cidade,yes,Eléctrica,yes,Particular,yes,1911,
+all_tables.pdf,70,tbl-172.md,16,Minas Geraes,Cataguazes,Cidade,yes,Eléctrica,yes,Particular,yes,1908,22:620$
+all_tables.pdf,70,tbl-172.md,17,Minas Geraes,Caxambá,Cidade,yes,Eléctrica,yes,Municipal,no,1911,19:316$
+all_tables.pdf,70,tbl-172.md,18,Minas Geraes,Christina,Cidade,yes,Eléctrica,yes,Municipal,yes,1911,3:488$
+all_tables.pdf,70,tbl-172.md,19,Minas Geraes,Conceição do Rio Verde,Villa,no,Eléctrica,yes,Particular,no,1919,
+all_tables.pdf,70,tbl-172.md,20,Minas Geraes,Conceição do Serro,Cidade,no,Acetyleno,no,Municipal,no,1909,2:000$
+all_tables.pdf,70,tbl-172.md,21,Minas Geraes,Conquista,Villa,no,Eléctrica,no,Municipal,yes,1908,90:000$
+all_tables.pdf,70,tbl-172.md,22,Minas Geraes,Diamantina,Cidade,no,Eléctrica,yes,Particular,no,1912,12:000$
+all_tables.pdf,70,tbl-172.md,23,Minas Geraes,Dóres da Bóa Esperança,Cidade,yes,Eléctrica,yes,Particular,yes,1920,8:000$
+all_tables.pdf,70,tbl-172.md,24,Minas Geraes,Eloy Mendes,Villa,no,Eléctrica,yes,Particular,yes,1914,9:000$
+all_tables.pdf,70,tbl-172.md,25,Minas Geraes,Entre Rios,Cidade,no,Eléctrica,yes,Particular,yes,1919,4:320$
+all_tables.pdf,70,tbl-172.md,26,Minas Geraes,Formiga,Cidade,yes,Eléctrica,yes,Municipal,no,1907,17:727$
+all_tables.pdf,70,tbl-172.md,27,Minas Geraes,Fortaleza,Villa,no,Acetyleno,no,Municipal,yes,1909,3:000$
+all_tables.pdf,70,tbl-172.md,28,Minas Geraes,Fructal,Cidade,no,Eléctrica,no,Municipal,yes,1920,
+all_tables.pdf,70,tbl-172.md,29,Minas Geraes,Guaranésia,Cidade,yes,Eléctrica,yes,Particular,no,1910,36:854$
+all_tables.pdf,70,tbl-172.md,30,Minas Geraes,Guarany,Villa,no,Eléctrica,yes,Particular,yes,1918,4:367$
+all_tables.pdf,70,tbl-172.md,31,Minas Geraes,Guarará,Villa,yes,Eléctrica,yes,Particular,yes,1918,6:796$
+all_tables.pdf,70,tbl-172.md,32,Minas Geraes,Guaxupé,Cidade,no,Eléctrica,yes,Particular,yes,1913,18:000$
+all_tables.pdf,70,tbl-172.md,33,Minas Geraes,Itabira,Cidade,yes,Eléctrica,yes,Municipal,no,1915,17:990$
+all_tables.pdf,70,tbl-172.md,34,Minas Geraes,Itajubá,Cidade,yes,Eléctrica,yes,Particular,no,1914,16:000$
+all_tables.pdf,72,tbl-174.md,1,Minas Geraes,Itapecerica,Cidade,no,Electrica,no,Municipal,no,1904,6:000$
+all_tables.pdf,72,tbl-174.md,2,Minas Geraes,Jacutinga,Cidade,yes,Electrica,yes,Particular,no,1910,11:191$
+all_tables.pdf,72,tbl-174.md,3,Minas Geraes,Jaguary,Cidade,yes,Electrica,yes,Municipal,no,1913,6:500$
+all_tables.pdf,72,tbl-174.md,4,Minas Geraes,Januaria,Cidade,yes,Kerozene,no,Municipal,yes,1897,4:000$
+all_tables.pdf,72,tbl-174.md,5,Minas Geraes,Juiz de Fóra,Cidade,yes,Electrica,no,Particular,no,1889,50:454$
+all_tables.pdf,72,tbl-174.md,6,Minas Geraes,Lavras,Cidade,yes,Electrica,yes,Municipal,no,1909,29:214$
+all_tables.pdf,72,tbl-174.md,7,Minas Geraes,Leopadina,Cidade,yes,Electrica,yes,Particular,no,1908,18:798$
+all_tables.pdf,72,tbl-174.md,8,Minas Geraes,Lima Duarte,Cidade,yes,Electrica,yes,Particular,yes,1918,5:460$
+all_tables.pdf,72,tbl-174.md,9,Minas Geraes,Manhuassú,Cidade,yes,Electrica,yes,Particular,yes,1918,12:000$
+all_tables.pdf,72,tbl-174.md,10,Minas Geraes,Mar de Hespanha,Cidade,yes,Electrica,yes,Particular,yes,1918,
+all_tables.pdf,72,tbl-174.md,11,Minas Geraes,Maria da Fé,Villa,no,Electrica,yes,Particular,yes,1915,
+all_tables.pdf,72,tbl-174.md,12,Minas Geraes,Marianna,Cidade,no,Electrica,yes,Particular,yes,1912,
+all_tables.pdf,72,tbl-174.md,13,Minas Geraes,Minas Novas,Cidade,yes,Kerozene,no,Municipal,no,1890,600$
+all_tables.pdf,72,tbl-174.md,14,Minas Geraes,Monte Santo,Cidade,yes,Electrica,no,Particular,no,1911,14:000$
+all_tables.pdf,72,tbl-174.md,15,Minas Geraes,Muzambinho,Cidade,yes,Electrica,yes,Particular,yes,1912,16:012$
+all_tables.pdf,72,tbl-174.md,16,Minas Geraes,Oliveira,Cidade,yes,Electrica,yes,Municipal,no,1907,35:000$
+all_tables.pdf,72,tbl-174.md,17,Minas Geraes,Ouro Fino,Cidade,yes,Electrica,yes,Particular,no,1911,21:961$
+all_tables.pdf,72,tbl-174.md,18,Minas Geraes,Ouro Preto,Cidade,yes,Electrica,yes,Particular,yes,1906,15:409$
+all_tables.pdf,72,tbl-174.md,19,Minas Geraes,Palma,Cidade,yes,Electrica,yes,Particular,yes,1920,4:920$
+all_tables.pdf,72,tbl-174.md,20,Minas Geraes,Palmyra,Cidade,yes,Electrica,yes,Particular,yes,1912,14:712$
+all_tables.pdf,72,tbl-174.md,21,Minas Geraes,Paracatú,Cidade,yes,Electrica,yes,Municipal,no,1918,8:400$
+all_tables.pdf,72,tbl-174.md,22,Minas Geraes,Paraguassú,Villa,no,Electrica,yes,Particular,no,1913,7:200$
+all_tables.pdf,72,tbl-174.md,23,Minas Geraes,Paraisopolis,Cidade,no,Electrica,yes,Particular,yes,1912,7:062$
+all_tables.pdf,72,tbl-174.md,24,Minas Geraes,Patos,Cidade,yes,Electrica,yes,Municipal,no,1915,19:980$
+all_tables.pdf,72,tbl-174.md,25,Minas Geraes,Peçanha,Cidade,yes,Kerozene,no,Municipal,yes,,2:000$
+all_tables.pdf,72,tbl-174.md,26,Minas Geraes,Pedra Branca,Cidade,yes,Electrica,no,Particular,no,1918,
+all_tables.pdf,72,tbl-174.md,27,Minas Geraes,Perdões,Villa,no,Electrica,yes,Municipal,no,1918,5:100$
+all_tables.pdf,72,tbl-174.md,28,Minas Geraes,Pirapora,Cidade,no,Electrica,yes,Particular,no,1919,4:000$
+all_tables.pdf,72,tbl-174.md,29,Minas Geraes,Pitanguy,Cidade,yes,Electrica,yes,Particular,yes,1914,9:600$
+all_tables.pdf,72,tbl-174.md,30,Minas Geraes,Piumhy,Cidade,yes,Electrica,yes,Municipal,no,1919,9:000$
+all_tables.pdf,72,tbl-174.md,31,Minas Geraes,Poços de Caldas,Cidade,yes,Electrica,yes,Particular,no,1906,40:427$
+all_tables.pdf,72,tbl-174.md,32,Minas Geraes,Pomba,Cidade,yes,Electrica,yes,Particular,yes,1918,14:783$
+all_tables.pdf,72,tbl-174.md,33,Minas Geraes,Ponte Nova,Cidade,yes,Electrica,yes,Municipal,no,1913,48:000$
+all_tables.pdf,72,tbl-174.md,34,Minas Geraes,Pouso Alegre,Cidade,yes,Electrica,yes,Municipal,yes,1907,11:360$
+all_tables.pdf,73,tbl-176.md,1,Minas Geraes,Queluz,Cidade,no,Eléctrica,no,Particular,no,1917,14:890$
+all_tables.pdf,73,tbl-176.md,2,Minas Geraes,Rio Branco,Cidade,yes,Eléctrica,yes,Particular,yes,1912,19:080$
+all_tables.pdf,73,tbl-176.md,3,Minas Geraes,Rio Novo,Cidade,yes,Eléctrica,yes,Particular,yes,1908,(I)
+all_tables.pdf,73,tbl-176.md,4,Minas Geraes,Rio Piracicaba,Villa,no,Eléctrica,yes,Particular,yes,1920,(I)
+all_tables.pdf,73,tbl-176.md,5,Minas Geraes,Rio Preto,Cidade,no,Eléctrica,yes,Particular,yes,1917,5:304$
+all_tables.pdf,73,tbl-176.md,6,Minas Geraes,Sabará,Cidade,yes,Eléctrica,yes,Particular,yes,1917,(I)
+all_tables.pdf,73,tbl-176.md,7,Minas Geraes,Sacramento,Cidade,yes,Eléctrica,yes,Municipal,no,1913,62:759$
+all_tables.pdf,73,tbl-176.md,8,Minas Geraes,Salinas,Cidade,yes,Acetyleno,no,Municipal,yes,(I),2:709$
+all_tables.pdf,73,tbl-176.md,9,Minas Geraes,Santa Barbara,Cidade,yes,Eléctrica,no,Particular,no,1914,6:000$
+all_tables.pdf,73,tbl-176.md,10,Minas Geraes,Santa Luzia do Rio das Velhas,Cidade,yes,Eléctrica,yes,Municipal,no,1913,7:000$
+all_tables.pdf,73,tbl-176.md,11,Minas Geraes,Santa Quiteria,Villa,no,Eléctrica,yes,Particular,no,1914,2:550$
+all_tables.pdf,73,tbl-176.md,12,Minas Geraes,Santa Rita do Sapucahy,Cidade,no,Eléctrica,yes,Particular,yes,1912,18:970$
+all_tables.pdf,73,tbl-176.md,13,Minas Geraes,Santo Antonio do Machado,Cidade,yes,Eléctrica,yes,Particular,yes,1913,(I)
+all_tables.pdf,73,tbl-176.md,14,Minas Geraes,Santo Antonio do Monte,Cidade,yes,Eléctrica,yes,Municipal,no,1918,(I)
+all_tables.pdf,73,tbl-176.md,15,Minas Geraes,São Francisco,Cidade,yes,Kerosene,no,Municipal,yes,1915,2:209$
+all_tables.pdf,73,tbl-176.md,16,Minas Geraes,São Gonçalo do Sapucahy,Cidade,yes,Eléctrica,no,Particular,no,1918,22:430$
+all_tables.pdf,73,tbl-176.md,17,Minas Geraes,São João d'El-Rey,Cidade,yes,Eléctrica,yes,Particular,yes,1900,2:172$
+all_tables.pdf,73,tbl-176.md,18,Minas Geraes,São José d'Além Parahyba,Cidade,yes,Eléctrica,yes,Particular,yes,1909,(I)
+all_tables.pdf,73,tbl-176.md,19,Minas Geraes,São José dos Botelhos,Villa,no,Eléctrica,yes,Particular,yes,1916,7:044$
+all_tables.pdf,73,tbl-176.md,20,Minas Geraes,São Manoel,Villa,yes,Eléctrica,yes,Particular,yes,1919,(I)
+all_tables.pdf,73,tbl-176.md,21,Minas Geraes,São Paulo do Muriahé,Cidade,no,Eléctrica,yes,Particular,yes,1910,11:652$
+all_tables.pdf,73,tbl-176.md,22,Minas Geraes,São Sebastião do Paraíso,Cidade,yes,Eléctrica,yes,Particular,yes,1911,(I)
+all_tables.pdf,73,tbl-176.md,23,Minas Geraes,Silvestre Ferraz,Villa,no,Eléctrica,yes,Particular,yes,1915,(I)
+all_tables.pdf,73,tbl-176.md,24,Minas Geraes,Tiradentes,Cidade,no,Kerosene,no,Municipal,no,1889,2:000$
+all_tables.pdf,73,tbl-176.md,25,Minas Geraes,Tres Corações do Rio Verde,Cidade,yes,Eléctrica,no,Particular,no,1914,12:955$
+all_tables.pdf,73,tbl-176.md,26,Minas Geraes,Tres Pontas,Cidade,yes,Eléctrica,yes,Particular,yes,1913,8:172$
+all_tables.pdf,73,tbl-176.md,27,Minas Geraes,Turvo,Cidade,yes,Eléctrica,yes,Municipal,no,1917,37:200$
+all_tables.pdf,73,tbl-176.md,28,Minas Geraes,Uberabinha,Cidade,yes,Eléctrica,yes,Particular,no,1910,22:000$
+all_tables.pdf,73,tbl-176.md,29,Minas Geraes,Varginha,Cidade,yes,Eléctrica,yes,Particular,yes,1914,10:269$
+all_tables.pdf,73,tbl-176.md,30,Minas Geraes,Viçosa,Cidade,yes,Eléctrica,yes,Particular,yes,1918,21:082$
+all_tables.pdf,73,tbl-176.md,31,Minas Geraes,Villa Braz,Cidade,yes,Eléctrica,yes,Particular,yes,1911,6:440$
+all_tables.pdf,73,tbl-176.md,32,Minas Geraes,Villa de Cambuquira,Villa,no,Eléctrica,yes,Municipal,no,1910,18:645$
+all_tables.pdf,73,tbl-176.md,33,Minas Geraes,Villa Jequitinhonha,Villa,yes,Acetyleno,no,Municipal,yes,(I),2:546$
+all_tables.pdf,73,tbl-176.md,34,Minas Geraes,Villa Nova de Lima,Villa,yes,Eléctrica,no,Particular,no,1915,(I)
+all_tables.pdf,73,tbl-176.md,35,Minas Geraes,Villa Nova de Rezende,Villa,yes,Eléctrica,yes,Municipal,no,1915,12:000$
+all_tables.pdf,73,tbl-176.md,36,Minas Geraes,Villa Rezende Costa.,Villa,yes,Acetyleno,no,Municipal,yes,(I),5:000$
+all_tables.pdf,74,tbl-177.md,2,Pará,,Categorie du Municipie (Ville ou Village),no,Système d'éclai- rage adopté,no,Entreprise directrice,no,Date de l'inaugu- ration du service,Dépense annuelle du gou- vernement
+all_tables.pdf,74,tbl-178.md,1,Pará,Abasté.,Cidade,no,Kerozene,no,Municipal,no,,2:400$
+all_tables.pdf,74,tbl-178.md,2,Pará,Acará.,Villa,no,Kerozene,yes,Municipal,yes,1887,1:853$
+all_tables.pdf,74,tbl-178.md,3,Pará,Affuá.,Cidade,no,Kerozene,yes,Municipal,yes,1889,2:662$
+all_tables.pdf,74,tbl-178.md,4,Pará,Alemquer.,Cidade,yes,Kerozene,yes,Municipal,yes,1894,4:000$
+all_tables.pdf,74,tbl-178.md,5,Pará,Alta-mira.,Cidade,yes,Kerozene,yes,Municipal,yes,1914,609$
+all_tables.pdf,74,tbl-178.md,6,Pará,,,no,Acetyleno,no,Municipal,yes,1908,816$
+all_tables.pdf,74,tbl-178.md,7,Pará,AnaJás.,Cidade,yes,Kerozene,no,Municipal,yes,1892,
+all_tables.pdf,74,tbl-178.md,8,Pará,Aveiro.,Villa,no,Kerozene,yes,Particular,no,,600$
+all_tables.pdf,74,tbl-178.md,9,Pará,Bagre.,Villa,yes,Kerozene,yes,Municipal,no,1900,400$
+all_tables.pdf,74,tbl-178.md,10,Pará,Bragança.,Cidade,no,Electrica,no,Particular,no,1918,18:000$
+all_tables.pdf,74,tbl-178.md,11,Pará,Breves.,Cidade,yes,Kerozene,no,Municipal,no,1872,
+all_tables.pdf,74,tbl-178.md,12,Pará,,,no,Acetyleno,no,Municipal,yes,1912,
+all_tables.pdf,74,tbl-178.md,13,Pará,Cachoeira.,Cidade,yes,Electrica,no,Municipal,yes,1914,7:660$
+all_tables.pdf,74,tbl-178.md,14,Pará,Cametá.,Cidade,yes,Kerozene,no,Municipal,yes,,6:000$
+all_tables.pdf,74,tbl-178.md,15,Pará,Chaves.,Cidade,yes,Electrica,no,Municipal,yes,1914,9:500$
+all_tables.pdf,74,tbl-178.md,16,Pará,Conceição do Araguaya.,Cidade,yes,Kerozene,no,Municipal,yes,1914,
+all_tables.pdf,74,tbl-178.md,17,Pará,Curralinho.,Cidade,yes,Acetyleno,no,Municipal,yes,,2:400$
+all_tables.pdf,74,tbl-178.md,18,Pará,Curuçá.,Cidade,yes,Kerozene,no,Municipal,yes,1888,2:000$
+all_tables.pdf,74,tbl-178.md,19,Pará,Paro.,Cidade,yes,Kerozene,yes,Municipal,yes,,1:200$
+all_tables.pdf,74,tbl-178.md,20,Pará,Gurupá.,Cidade,yes,Acetyleno,no,Municipal,yes,1907,537$
+all_tables.pdf,74,tbl-178.md,21,Pará,Igarapé-assá.,Villa,no,Kerozene,no,Municipal,yes,1907,2:414$
+all_tables.pdf,74,tbl-178.md,22,Pará,Igarapé-miry.,Cidade,no,Kerozene,yes,Municipal,yes,1888,1:204$
+all_tables.pdf,74,tbl-178.md,23,Pará,Irituía.,Villa,no,Kerozene,yes,Municipal,yes,1890,1:500$
+all_tables.pdf,74,tbl-178.md,24,Pará,Jurity.,Villa,yes,Kerozene,yes,Municipal,yes,1913,1:040$
+all_tables.pdf,74,tbl-178.md,25,Pará,Macapá.,Cidade,no,Kerozene,yes,Municipal,yes,1892,6:577$
+all_tables.pdf,74,tbl-178.md,26,Pará,Marabá.,Cidade,yes,Kerozene,yes,Municipal,yes,1913,2:400$
+all_tables.pdf,74,tbl-178.md,27,Pará,Marapanim.,Cidade,yes,Kerozene,yes,Municipal,yes,1910,700$
+all_tables.pdf,74,tbl-178.md,28,Pará,Maragão.,Cidade,yes,Electrica,no,Particular,no,1914,
+all_tables.pdf,74,tbl-178.md,29,Pará,Melgaço.,Villa,no,Kerozene,no,Municipal,no,1890,780$
+all_tables.pdf,74,tbl-178.md,30,Pará,Mocajuba.,Cidade,no,Kerozene,yes,Municipal,yes,1880,3:000$
+all_tables.pdf,74,tbl-178.md,31,Pará,Mojó.,Villa,no,Kerozene,yes,Municipal,yes,,1:000$
+all_tables.pdf,74,tbl-178.md,32,Pará,Monte Alegre.,Cidade,no,Kerozene,yes,Municipal,yes,1900,1:937$
+all_tables.pdf,74,tbl-178.md,33,Pará,Montenegro.,Villa,no,Kerozene,yes,Municipal,yes,,560$
+all_tables.pdf,74,tbl-178.md,34,Pará,Muaná.,Cidade,no,Kerozene,yes,Municipal,yes,,1:600$
+all_tables.pdf,75,tbl-180.md,1,Pará,Obidos,Cidade,no,Kerozene,no,Municipal,no,1889,13:460$
+all_tables.pdf,75,tbl-180.md,2,Pará,Ourém,Villa,no,Kerozene,yes,Municipal,yes,1896,800$
+all_tables.pdf,75,tbl-180.md,3,Pará,Ponta de Pedras,Villa,yes,Acetyleno,no,Municipal,yes,1905,2:500$
+all_tables.pdf,75,tbl-180.md,4,Pará,Portel,Villa,yes,Kerozene,no,Municipal,yes,1889,2:000$
+all_tables.pdf,75,tbl-180.md,5,Pará,Porto de Mós,Cidade,no,Kerozene,yes,Municipal,yes,1890,500$
+all_tables.pdf,75,tbl-180.md,6,Pará,Prainha,Villa,no,Kerozene,yes,Municipal,yes,,531$
+all_tables.pdf,75,tbl-180.md,7,Pará,Quatipurú,Villa,yes,Acetyleno,no,Municipal,yes,,2:166$
+all_tables.pdf,75,tbl-180.md,8,Pará,Salinas,Cidade,no,Kerozene,no,Municipal,yes,1889,307$
+all_tables.pdf,75,tbl-180.md,9,Pará,Santarém,Cidade,yes,Electrica,no,Particular,no,1920,4:800$
+all_tables.pdf,75,tbl-180.md,10,Pará,São Domingos da Bôa Vista,Villa,no,Kerozene,no,Municipal,no,1918,360$
+all_tables.pdf,75,tbl-180.md,11,Pará,São João do Araguaya,Villa,yes,Kerozene,yes,Municipal,yes,1910,1:240$
+all_tables.pdf,75,tbl-180.md,12,Pará,São Miguel do Guamá,Cidade,no,Kerozene,yes,Municipal,yes,,1:500$
+all_tables.pdf,75,tbl-180.md,13,Pará,São Sebastião da Bôa Vista,Villa,no,Kerozene,yes,Municipal,yes,1919,461$
+all_tables.pdf,75,tbl-180.md,14,Pará,Soure,Cidade,no,Acetyleno,no,Municipal,yes,1911,5:000$
+all_tables.pdf,75,tbl-180.md,15,Pará,Sousel,Cidade,yes,Acetyleno,yes,Municipal,yes,1908,1:360$
+all_tables.pdf,75,tbl-180.md,16,Pará,Vizeu,Cidade,yes,Kerozene,no,Municipal,yes,1899,1:200$
+all_tables.pdf,75,tbl-181.md,1,Pará,Alagôa do Monteiro,Cidade,no,Alcool,no,Municipal,no,1905,1:200$
+all_tables.pdf,75,tbl-181.md,2,Pará,Alagôa Nova,Villa,no,Electrica,no,Municipal,yes,1919,4:800$
+all_tables.pdf,75,tbl-181.md,3,Pará,Areia,Cidade,no,Electrica,yes,Particular,no,1919,7:200$
+all_tables.pdf,75,tbl-181.md,4,Pará,Cabaceiras,Villa,no,Acetyleno,no,Municipal,no,1918,1:200$
+all_tables.pdf,75,tbl-181.md,5,Pará,Cabedello,Villa,yes,Kerozene,no,Municipal,yes,1909,
+all_tables.pdf,75,tbl-181.md,6,Pará,Cajazeiras,Cidade,no,Kerozene,yes,Municipal,yes,1889,1:560$
+all_tables.pdf,75,tbl-181.md,7,Pará,Campina Grande,Cidade,yes,Electrica,no,Particular,no,1920,
+all_tables.pdf,75,tbl-181.md,8,Pará,Espírito Santo,Villa,no,Electrica,yes,Particular,yes,1915,7:500$
+all_tables.pdf,75,tbl-181.md,9,Pará,Guarabira,Cidade,no,Electrica,yes,Particular,yes,1917,7:100$
+all_tables.pdf,75,tbl-181.md,10,Pará,Ingá,Villa,no,Alcool,no,Municipal,no,1916,3:000$
+all_tables.pdf,75,tbl-181.md,11,Pará,Itabayanna,Cidade,no,Electrica,no,Particular,no,1919,9:600$
+all_tables.pdf,75,tbl-181.md,12,Pará,Mamanguape,Cidade,yes,Electrica,yes,Particular,yes,1918,8:400$
+all_tables.pdf,75,tbl-181.md,13,Pará,Patos,Cidade,yes,Acetyleno,no,Municipal,no,1917,1:200$
+all_tables.pdf,75,tbl-181.md,14,Pará,Pedras de Fogo,Villa,no,Kerozene,no,Municipal,yes,,755$
+all_tables.pdf,75,tbl-181.md,15,Pará,Piancó,Villa,yes,Acetyleno,no,Municipal,yes,1918,2:000$
+all_tables.pdf,75,tbl-181.md,16,Pará,Picuhy,Cidade,no,Acetyleno,yes,Municipal,yes,1913,2:500$
+all_tables.pdf,77,tbl-183.md,1,Parahyba,Pilar,Villa,no,Kerozene,no,Municipal,no,1915,1:000$
+all_tables.pdf,77,tbl-183.md,2,Parahyba,Princeza,Cidade,no,Alcool,no,Municipal,yes,1920,1:210$
+all_tables.pdf,77,tbl-183.md,3,Parahyba,Santa Rita,Cidade,yes,Kerozene,no,Municipal,yes,1901,1:933$
+all_tables.pdf,77,tbl-183.md,4,Parahyba,São João do Cariry,Cidade,yes,Acetyleno,no,Municipal,yes,1913,
+all_tables.pdf,77,tbl-183.md,5,Parahyba,São José de Piranhas,Villa,no,Kerozene,no,Municipal,yes,1917,933$
+all_tables.pdf,77,tbl-183.md,6,Parahyba,Serraria,Villa,yes,Kerozene,yes,Municipal,yes,1900,774$
+all_tables.pdf,77,tbl-183.md,7,Parahyba,Soledade,Villa,yes,Acetyleno,no,Municipal,yes,1914,500$
+all_tables.pdf,77,tbl-183.md,8,Parahyba,Souza,Cidade,no,Kerozene,no,Municipal,yes,1904,1:000$
+all_tables.pdf,77,tbl-183.md,9,Parahyba,Teixeira,Villa,no,Acetyleno,no,Municipal,yes,1911,1:200$
+all_tables.pdf,77,tbl-183.md,10,Parahyba,Umbuzeiro,Villa,yes,Acetyleno,yes,Municipal,yes,1908,
+all_tables.pdf,77,tbl-184.md,1,Parahyba,Antonina,Cidade,no,Electrica,no,Particular,no,1905,
+all_tables.pdf,77,tbl-184.md,2,Parahyba,Araucaria,Villa,no,Electrica,yes,Particular,yes,1907,4:400$
+all_tables.pdf,77,tbl-184.md,3,Parahyba,Campo Largo,Cidade,no,Electrica,yes,Particular,yes,1911,5:360$
+all_tables.pdf,77,tbl-184.md,4,Parahyba,Castro,Cidade,yes,Electrica,yes,Particular,yes,1911,
+all_tables.pdf,77,tbl-184.md,5,Parahyba,Curityba,Cidade,yes,Electrica,yes,Particular,yes,1889,175:000$
+all_tables.pdf,77,tbl-184.md,6,Parahyba,Deodoro,Villa,no,Electrica,yes,Particular,yes,1913,2:000$
+all_tables.pdf,77,tbl-184.md,7,Parahyba,Foz do Iguassé,Cidade,no,Electrica,yes,Particular,yes,1910,13:600$
+all_tables.pdf,77,tbl-184.md,8,Parahyba,Guarakessaba,Villa,no,Kerozene,no,Municipal,no,,1:524$
+all_tables.pdf,77,tbl-184.md,9,Parahyba,Guarapuava,Cidade,no,Electrica,no,Particular,no,1911,12:000$
+all_tables.pdf,77,tbl-184.md,10,Parahyba,Guaratuba,Villa,no,Kerozene,no,Municipal,no,1910,500$
+all_tables.pdf,77,tbl-184.md,11,Parahyba,Iraty,Villa,yes,Electrica,no,Particular,no,1918,10:166$
+all_tables.pdf,77,tbl-184.md,12,Parahyba,Jacarésinho,Cidade,no,Electrica,yes,Particular,yes,1917,5:920$
+all_tables.pdf,77,tbl-184.md,13,Parahyba,Jaguariahyva,Cidade,yes,Kerozene,no,Municipal,no,1907,1:600$
+all_tables.pdf,77,tbl-184.md,14,Parahyba,Lapa,Cidade,yes,Electrica,no,Municipal,yes,1909,15:000$
+all_tables.pdf,77,tbl-184.md,15,Parahyba,Palmas,Cidade,yes,Electrica,yes,Particular,no,1916,
+all_tables.pdf,77,tbl-184.md,16,Parahyba,Palmeira,Cidade,yes,Electrica,yes,Municipal,no,1914,11:000$
+all_tables.pdf,77,tbl-184.md,17,Parahyba,Paranaguá,Cidade,yes,Electrica,yes,Particular,no,1903,
+all_tables.pdf,77,tbl-184.md,18,Parahyba,Pirahy,Villa,no,Electrica,yes,Particular,yes,1915,2:621$
+all_tables.pdf,77,tbl-184.md,19,Parahyba,Ponta Grossa,Cidade,no,Electrica,yes,Particular,yes,1904,
+all_tables.pdf,77,tbl-184.md,20,Parahyba,Prudentopolis,Villa,no,Electrica,yes,Particular,yes,1912,7:200$
+all_tables.pdf,77,tbl-184.md,21,Parahyba,Ribeirão Claro,Cidade,no,Electrica,yes,Particular,yes,1919,3:500$
+all_tables.pdf,77,tbl-184.md,22,Parahyba,Rio Negro,Cidade,yes,Electrica,yes,Particular,yes,1910,9:000$
+all_tables.pdf,78,tbl-186.md,1,Paraná,Santo Antonio de Imbituva,Cidade,no,Electrica,no,Particular,no,1914,7:200$
+all_tables.pdf,78,tbl-186.md,2,Paraná,São José da Bôa Vista,Cidade,yes,Electrica,yes,Particular,yes,1917,3:000$
+all_tables.pdf,78,tbl-186.md,3,Paraná,São José dos Pinhaes,Cidade,yes,Electrica,yes,Particular,yes,1909,5:000$
+all_tables.pdf,78,tbl-186.md,4,Paraná,São Matheus,Cidade,yes,Electrica,yes,Particular,yes,1914,3:600$
+all_tables.pdf,78,tbl-186.md,5,Paraná,Teixeira Soares,Villa,no,Electrica,yes,Particular,yes,1912,
+all_tables.pdf,78,tbl-186.md,6,Paraná,União da Victoria,Cidade,no,Electrica,yes,Particular,yes,1908,2:472$
+all_tables.pdf,78,tbl-186.md,7,Paraná,Ypiranga,Villa,no,Electrica,yes,Municipal,no,1920,12:500$
+all_tables.pdf,78,tbl-187.md,1,Paraná,Alagôa de Baixo,Cidade,no,Alcool,no,Municipal,no,1920,1:950$
+all_tables.pdf,78,tbl-187.md,2,Paraná,Altinho,Cidade,yes,Alcool,yes,Municipal,yes,1894,
+all_tables.pdf,78,tbl-187.md,3,Paraná,Amaragy,Cidade,yes,Alcool,yes,Municipal,yes,1908,2:600$
+all_tables.pdf,78,tbl-187.md,4,Paraná,Barreiros,Cidade,yes,Alcool,yes,Municipal,yes,1903,3:420$
+all_tables.pdf,78,tbl-187.md,5,Paraná,Bezerros,Cidade,yes,Kerozene,no,Municipal,yes,1895,2:700$
+all_tables.pdf,78,tbl-187.md,6,Paraná,Bôa Vista,Cidade,yes,Acetyleno,no,Municipal,yes,1911,400$
+all_tables.pdf,78,tbl-187.md,7,Paraná,Brejo da Madre de Deus,Cidade,yes,Alcool,no,Municipal,yes,,1:640$
+all_tables.pdf,78,tbl-187.md,8,Paraná,Cabo,Cidade,yes,Kerozene,no,Municipal,yes,,1:100$
+all_tables.pdf,78,tbl-187.md,9,Paraná,Canhotinho,Cidade,yes,Electrica,no,Particular,no,1919,
+all_tables.pdf,78,tbl-187.md,10,Paraná,Caruaru,Cidade,yes,Electrica,yes,Municipal,no,1917,22:642$
+all_tables.pdf,78,tbl-187.md,11,Paraná,Correntes,Cidade,yes,Electrica,yes,Particular,no,1918,3:000$
+all_tables.pdf,78,tbl-187.md,12,Paraná,Flôres,Cidade,yes,Kerozene,no,Municipal,no,,600$
+all_tables.pdf,78,tbl-187.md,13,Paraná,Floresta,Cidade,yes,Acetyleno,no,Municipal,yes,,2:000$
+all_tables.pdf,78,tbl-187.md,14,Paraná,Gamelleira,Cidade,yes,Electrica,no,Municipal,yes,1920,
+all_tables.pdf,78,tbl-187.md,15,Paraná,Garanhuns,Cidade,yes,Electrica,yes,Particular,no,1918,16:800$
+all_tables.pdf,78,tbl-187.md,16,Paraná,Gloria do Goytá,Cidade,yes,Alcool,no,Municipal,no,1916,1:000$
+all_tables.pdf,78,tbl-187.md,17,Paraná,Goyanna,Cidade,yes,Electrica,no,Particular,no,1919,20:000$
+all_tables.pdf,78,tbl-187.md,18,Paraná,Iguarassá,Cidade,yes,Alcool,no,Municipal,no,1920,2:734$
+all_tables.pdf,78,tbl-187.md,19,Paraná,Ipojuca,Cidade,yes,Electrica,no,Municipal,yes,1919,4:200$
+all_tables.pdf,78,tbl-187.md,20,Paraná,Itambé,Cidade,yes,Kerozene,no,Municipal,yes,1915,1:500$
+all_tables.pdf,78,tbl-187.md,21,Paraná,Jaboatão,Cidade,yes,Electrica,no,Municipal,yes,1915,19:860$
+all_tables.pdf,78,tbl-187.md,22,Paraná,Limoeiro,Cidade,yes,Electrica,yes,Particular,no,1915,6:720$
+all_tables.pdf,78,tbl-187.md,23,Paraná,Nazareth,Cidade,yes,Electrica,yes,Particular,yes,1920,12:300$
+all_tables.pdf,78,tbl-187.md,24,Paraná,Olinda,Cidade,yes,Electrica,yes,Particular,yes,1913,70:000$
+all_tables.pdf,78,tbl-187.md,25,Paraná,Ouricury,Cidade,yes,Kerozene,no,Municipal,no,1920,250$
+all_tables.pdf,79,tbl-188.md,2,Pernambuco,,Catégorie du Município (Ville ou Village),no,Système d'éclairage adopté,no,Entreprise directrice,no,Date de l'inauguration du service,Dépense annuelle du gouvernement
+all_tables.pdf,79,tbl-189.md,1,Pernambuco,Palmares,Cidade,no,Electrica,no,Particular,no,1916,10:800$
+all_tables.pdf,79,tbl-189.md,2,Pernambuco,Pedra,Cidade,yes,Kerozene,no,Municipal,no,,3:400$
+all_tables.pdf,79,tbl-189.md,3,Pernambuco,,,no,Acetyleno,no,Municipal,yes,,
+all_tables.pdf,79,tbl-189.md,4,Pernambuco,Petrolina,Cidade,yes,Acetyleno,yes,Municipal,yes,1904,3:000$
+all_tables.pdf,79,tbl-189.md,5,Pernambuco,Recife,Cidade,yes,Gaz Carbonico,no,Particular,no,,
+all_tables.pdf,79,tbl-189.md,6,Pernambuco,,,no,Electrica,no,Particular,yes,,
+all_tables.pdf,79,tbl-189.md,7,Pernambuco,Rio Formoso,Cidade,yes,Kerozene,no,Municipal,no,,400$
+all_tables.pdf,79,tbl-189.md,8,Pernambuco,Salgueiro,Cidade,yes,Kerozene,yes,Municipal,yes,1909,650$
+all_tables.pdf,79,tbl-189.md,9,Pernambuco,São Bento,Cidade,yes,Alcool,no,Municipal,yes,1920,1:500$
+all_tables.pdf,79,tbl-189.md,10,Pernambuco,São José do Egypto,Cidade,yes,Alcool,yes,Municipal,yes,1918,920$
+all_tables.pdf,79,tbl-189.md,11,Pernambuco,Serinhaem,Cidade,yes,Kerozene,no,Municipal,yes,,650$
+all_tables.pdf,79,tbl-189.md,12,Pernambuco,Taquartinga,Cidade,yes,Alcool,no,Municipal,yes,1920,1:600$
+all_tables.pdf,79,tbl-189.md,13,Pernambuco,Triumpho,Cidade,yes,Kerozene,no,Municipal,yes,1890,1:000$
+all_tables.pdf,79,tbl-189.md,14,Pernambuco,Victoria,Cidade,yes,Kerozene,yes,Municipal,yes,1892,6:000$
+all_tables.pdf,79,tbl-189.md,15,Pernambuco,Villa Bella,Cidade,yes,Kerozene,yes,Municipal,yes,1920,272$
+all_tables.pdf,79,tbl-190.md,1,Pernambuco,Amarante,Cidade,no,Kerozene,no,Municipal,no,1890,1:056$
+all_tables.pdf,79,tbl-190.md,2,Pernambuco,Barras do Maratahoan,Cidade,yes,Kerozene,yes,Municipal,yes,,1:200$
+all_tables.pdf,79,tbl-190.md,3,Pernambuco,Burity dos Lopes,Villa,no,Kerozene,yes,Municipal,yes,1917,1:135$
+all_tables.pdf,79,tbl-190.md,4,Pernambuco,Floriano,Cidade,no,Kerozene,yes,Municipal,yes,1895,2:468$
+all_tables.pdf,79,tbl-190.md,5,Pernambuco,Livramento,Cidade,yes,Kerozene,yes,Municipal,yes,1895,
+all_tables.pdf,79,tbl-190.md,6,Pernambuco,Miguel Alves,Cidade,yes,Kerozene,yes,Municipal,yes,1912,901$
+all_tables.pdf,79,tbl-190.md,7,Pernambuco,Parnahyba,Cidade,yes,Electrica,no,Municipal,yes,1918,
+all_tables.pdf,79,tbl-190.md,8,Pernambuco,Pedro Segundo,Cidade,yes,Kerozene,no,Municipal,yes,1917,500$
+all_tables.pdf,79,tbl-190.md,9,Pernambuco,Peripery,Cidade,yes,Kerozene,yes,Municipal,yes,1919,700$
+all_tables.pdf,79,tbl-190.md,10,Pernambuco,Piracuruca,Cidade,yes,Kerozene,yes,Municipal,yes,,1:500$
+all_tables.pdf,79,tbl-190.md,11,Pernambuco,Porto Alegre,Villa,no,Kerozene,yes,Municipal,yes,1904,800$
+all_tables.pdf,79,tbl-190.md,12,Pernambuco,São Raymundo Nonato,Cidade,no,Kerozene,yes,Municipal,yes,1914,1:200$
+all_tables.pdf,79,tbl-190.md,13,Pernambuco,Therezina,Cidade,yes,Electrica,no,Estadual,no,1914,70:000$
+all_tables.pdf,79,tbl-190.md,14,Pernambuco,União,Cidade,yes,Kerozene,no,Municipal,no,1914,1:500$
+all_tables.pdf,79,tbl-191.md,1,Pernambuco,Angra dos Reis,Cidade,no,Kerozene,no,Municipal,no,1865,6:000$
+all_tables.pdf,79,tbl-191.md,2,Pernambuco,Barra do Pirahy,Cidade,yes,Electrica,no,Particular,no,1905,7:580$
+all_tables.pdf,79,tbl-191.md,3,Pernambuco,Barra Mansa,Cidade,yes,Electrica,yes,Particular,yes,1910,10:840$
+all_tables.pdf,79,tbl-191.md,4,Pernambuco,Bom Jardim,Cidade,yes,Electrica,yes,Particular,yes,1917,3:000$
+all_tables.pdf,80,tbl-193.md,1,Rio de Janeiro,Cabo Frio,Cidade,no,Electrica,no,Particular,no,1919,
+all_tables.pdf,80,tbl-193.md,2,Rio de Janeiro,Cambucy,Villa,no,Electrica,yes,Particular,yes,1918,6:000$
+all_tables.pdf,80,tbl-193.md,3,Rio de Janeiro,Campos,Cidade,no,Electrica,yes,Particular,yes,1883,
+all_tables.pdf,80,tbl-193.md,4,Rio de Janeiro,Cantagallo,Cidade,yes,Electrica,yes,Particular,yes,1915,21:770$
+all_tables.pdf,80,tbl-193.md,5,Rio de Janeiro,Carmo,Cidade,yes,Electrica,yes,Municipal,no,1914,
+all_tables.pdf,80,tbl-193.md,6,Rio de Janeiro,Duas Bairas,Villa,no,Electrica,yes,Particular,no,1918,1:800$
+all_tables.pdf,80,tbl-193.md,7,Rio de Janeiro,Iguassú,Cidade,no,Electrica,yes,Particular,yes,1913,
+all_tables.pdf,80,tbl-193.md,8,Rio de Janeiro,Itaborahy,Cidade,yes,Kerosene,no,Municipal,no,1871,800$
+all_tables.pdf,80,tbl-193.md,9,Rio de Janeiro,Itacocara,Villa,no,Electrica,no,Particular,no,1917,15:000$
+all_tables.pdf,80,tbl-193.md,10,Rio de Janeiro,Macahé,Cidade,no,Electrica,yes,Estadual,no,1918,40:000$
+all_tables.pdf,80,tbl-193.md,11,Rio de Janeiro,Mangaratiba,Cidade,yes,Electrica,yes,Particular,no,1919,3:000$
+all_tables.pdf,80,tbl-193.md,12,Rio de Janeiro,Maricá,Cidade,yes,Kerosene,no,Municipal,no,1888,1:000$
+all_tables.pdf,80,tbl-193.md,13,Rio de Janeiro,Nictheroy,Cidade,yes,Electrica,no,Particular,no,1905,
+all_tables.pdf,80,tbl-193.md,14,Rio de Janeiro,Nova Friburgo,Cidade,yes,Electrica,yes,Particular,yes,1911,
+all_tables.pdf,80,tbl-193.md,15,Rio de Janeiro,Parahyba do Sul,Cidade,yes,Electrica,yes,Particular,yes,1910,
+all_tables.pdf,80,tbl-193.md,16,Rio de Janeiro,Paraty,Villa,no,Electrica,yes,Particular,yes,1920,4:200$
+all_tables.pdf,80,tbl-193.md,17,Rio de Janeiro,Petropolis,Cidade,no,Electrica,yes,Particular,yes,,
+all_tables.pdf,80,tbl-193.md,18,Rio de Janeiro,Rio Bonito,Cidade,yes,Acetylene,no,Municipal,no,1900,1:200$
+all_tables.pdf,80,tbl-193.md,19,Rio de Janeiro,Rio Claro,Villa,no,Acetylene,yes,Municipal,yes,1885,985$
+all_tables.pdf,80,tbl-193.md,20,Rio de Janeiro,Santa Theresa,Villa,yes,Electrica,no,Particular,no,1919,3:150$
+all_tables.pdf,80,tbl-193.md,21,Rio de Janeiro,Santo Antonio de Padua,Cidade,no,Electrica,yes,Particular,yes,1914,
+all_tables.pdf,80,tbl-193.md,22,Rio de Janeiro,São Francisco de Paula,Villa,no,Electrica,yes,Municipal,no,1920,
+all_tables.pdf,80,tbl-193.md,23,Rio de Janeiro,São Gonçalo,Cidade,no,Electrica,yes,Particular,no,1910,
+all_tables.pdf,80,tbl-193.md,24,Rio de Janeiro,São João da Barra,Cidade,yes,Kerosene,no,Municipal,no,1882,7:128$
+all_tables.pdf,80,tbl-193.md,25,Rio de Janeiro,São João Marcos,Cidade,yes,Kerosene,yes,Municipal,yes,1865,600$
+all_tables.pdf,80,tbl-193.md,26,Rio de Janeiro,São Pedro d'Aldeia,Villa,no,Kerosene,yes,Municipal,yes,1893,1:300$
+all_tables.pdf,80,tbl-193.md,27,Rio de Janeiro,Sumidouro,Villa,yes,Electrica,no,Municipal,yes,1906,1:600$
+all_tables.pdf,80,tbl-193.md,28,Rio de Janeiro,Valença,Cidade,no,Electrica,yes,Particular,no,1900,27:050$
+all_tables.pdf,80,tbl-193.md,29,Rio de Janeiro,Vassouras,Cidade,yes,Electrica,yes,Particular,yes,1911,9:988$
+all_tables.pdf,80,tbl-194.md,1,Rio de Janeiro,Angicos,Villa,no,Kerosene,no,Particular,no,1918,326$
+all_tables.pdf,80,tbl-194.md,2,Rio de Janeiro,Apody,Cidade,no,Kerosene,yes,Municipal,no,,540$
+all_tables.pdf,80,tbl-194.md,3,Rio de Janeiro,Assú,Cidade,yes,Kerosene,yes,Municipal,yes,,1:364$
+all_tables.pdf,80,tbl-194.md,4,Rio de Janeiro,Caicó,Cidade,yes,Kerosene,yes,Municipal,yes,1910,800$
+all_tables.pdf,82,tbl-196.md,1,Rio Grande do Norte,Canguaretama,Cidade,no,Eléctrica,no,Particular,no,1917,4:800$
+all_tables.pdf,82,tbl-196.md,2,Rio Grande do Norte,Ceará-mirim,Cidade,yes,Eléctrica,yes,Particular,yes,1920,4:800$
+all_tables.pdf,82,tbl-196.md,3,Rio Grande do Norte,Macahyba,Cidade,yes,Kerozene,no,Municipal,no,,2:718$
+all_tables.pdf,82,tbl-196.md,4,Rio Grande do Norte,Macau,Cidade,yes,Kerozene,yes,Municipal,yes,1896,
+all_tables.pdf,82,tbl-196.md,5,Rio Grande do Norte,Martins,Cidade,yes,Kerozene,yes,Municipal,yes,,
+all_tables.pdf,82,tbl-196.md,6,Rio Grande do Norte,Natal,Cidade,yes,Eléctrica,no,Estadual,no,1910,100:800$
+all_tables.pdf,82,tbl-196.md,7,Rio Grande do Norte,Nova Cruz,Cidade,yes,Eléctrica,yes,Particular,no,1919,3:600$
+all_tables.pdf,82,tbl-196.md,8,Rio Grande do Norte,Pedro Velho,Villa,no,Eléctrica,yes,Particular,yes,1919,2:400$
+all_tables.pdf,82,tbl-196.md,9,Rio Grande do Norte,Santa Cruz,Cidade,no,Kerozene,no,Municipal,no,1911,1:000$
+all_tables.pdf,82,tbl-196.md,10,Rio Grande do Norte,São José de Mipibú,Cidade,yes,Kerozene,yes,Municipal,yes,1902,2:000$
+all_tables.pdf,82,tbl-196.md,11,Rio Grande do Norte,Serra Negra,Villa,no,Kerozene,yes,Municipal,yes,1918,
+all_tables.pdf,82,tbl-197.md,1,Rio Grande do Norte,Alegrete,Cidade,no,Eléctrica,no,Particular,no,1908,34:000$
+all_tables.pdf,82,tbl-197.md,2,Rio Grande do Norte,Alfredo Chaves,Villa,no,Eléctrica,yes,Municipal,no,1912,7:800$
+all_tables.pdf,82,tbl-197.md,3,Rio Grande do Norte,Antonio Prado,Villa,yes,Eléctrica,yes,Particular,no,1918,1:500$
+all_tables.pdf,82,tbl-197.md,4,Rio Grande do Norte,Arroio Grande,Cidade,no,Eléctrica,yes,Municipal,no,1920,18:480$
+all_tables.pdf,82,tbl-197.md,5,Rio Grande do Norte,Bagé,Cidade,yes,Eléctrica,yes,Particular,no,1898,67:530$
+all_tables.pdf,82,tbl-197.md,6,Rio Grande do Norte,Bento Gonçalves,Villa,no,Kerozene,no,Municipal,no,1898,4:000$
+all_tables.pdf,82,tbl-197.md,7,Rio Grande do Norte,Bom Jesus,Villa,yes,Kerozene,yes,Municipal,yes,1915,1:000$
+all_tables.pdf,82,tbl-197.md,8,Rio Grande do Norte,Caçapava,Cidade,no,Eléctrica,no,Particular,no,,
+all_tables.pdf,82,tbl-197.md,9,Rio Grande do Norte,Cachoeira,Cidade,yes,Eléctrica,yes,Particular,yes,1910,18:000$
+all_tables.pdf,82,tbl-197.md,10,Rio Grande do Norte,Cangussú,Villa,no,Kerozene,no,Municipal,no,1900,1:000$
+all_tables.pdf,82,tbl-197.md,11,Rio Grande do Norte,Cruz Alta,Cidade,no,Eléctrica,no,Particular,no,1912,
+all_tables.pdf,82,tbl-197.md,12,Rio Grande do Norte,Encantado,Villa,no,Acetyleno,no,Municipal,no,1916,2:586$
+all_tables.pdf,82,tbl-197.md,13,Rio Grande do Norte,Encruzilhada,Villa,yes,Eléctrica,no,Particular,no,1913,
+all_tables.pdf,82,tbl-197.md,14,Rio Grande do Norte,Estrella,Villa,yes,Eléctrica,yes,Particular,yes,1914,7:000$
+all_tables.pdf,82,tbl-197.md,15,Rio Grande do Norte,Garibaldi,Villa,yes,Eléctrica,yes,Municipal,no,1918,12:000$
+all_tables.pdf,82,tbl-197.md,16,Rio Grande do Norte,Gravatahy,Villa,yes,Eléctrica,yes,Particular,no,1920,9:000$
+all_tables.pdf,82,tbl-197.md,17,Rio Grande do Norte,Guaporé,Villa,yes,Kerozene,no,Municipal,no,1904,1:460$
+all_tables.pdf,82,tbl-197.md,18,Rio Grande do Norte,Herval,Villa,yes,Kerozene,yes,Municipal,yes,1911,3:436$
+all_tables.pdf,82,tbl-197.md,19,Rio Grande do Norte,Ijuhy,Villa,yes,Eléctrica,no,Particular,no,1918,
+all_tables.pdf,82,tbl-197.md,20,Rio Grande do Norte,Itaquy,Cidade,no,Eléctrica,yes,Particular,yes,1919,24:902$
+all_tables.pdf,82,tbl-197.md,21,Rio Grande do Norte,Jaguarão,Cidade,yes,Eléctrica,yes,Particular,yes,1901,19:138$
+all_tables.pdf,82,tbl-197.md,22,Rio Grande do Norte,Lageado,Villa,no,Eléctrica,yes,Particular,yes,1918,
+all_tables.pdf,83,tbl-198.md,2,Rio Grande do Sul,,Catégorie du Município (Ville ou Village),no,Système d'éclairage adopté,no,Entreprise directrice,no,Date de l'inauguration du service,Dépense annuelle du gouvernement
+all_tables.pdf,83,tbl-199.md,1,Rio Grande do Sul,Lagôa Vermelha,Villa,no,Acetyleno,no,Municipal,no,,
+all_tables.pdf,83,tbl-199.md,2,Rio Grande do Sul,Lavras,Villa,yes,Acetyleno,yes,Municipal,yes,1908,1:185$
+all_tables.pdf,83,tbl-199.md,3,Rio Grande do Sul,Palmeira,Villa,yes,Kerozene,no,Municipal,yes,1890,2:000$
+all_tables.pdf,83,tbl-199.md,4,Rio Grande do Sul,Passo Fundo,Cidade,no,Electrica,no,Municipal,yes,1913,38:300$
+all_tables.pdf,83,tbl-199.md,5,Rio Grande do Sul,Pelotas,Cidade,yes,Electrica,yes,Particular,no,,12:960$
+all_tables.pdf,83,tbl-199.md,6,Rio Grande do Sul,,,no,Gaz Carbonico,no,Municipal,no,,63:971$
+all_tables.pdf,83,tbl-199.md,7,Rio Grande do Sul,Pinheiro Machado,Villa,no,Electrica,no,Particular,no,1917,3:600$
+all_tables.pdf,83,tbl-199.md,8,Rio Grande do Sul,Piratiny,Villa,yes,Acetyleno,no,Municipal,no,1910,1:228$
+all_tables.pdf,83,tbl-199.md,9,Rio Grande do Sul,Porto Alegre,Cidade,no,Acetyleno,yes,Municipal,yes,,
+all_tables.pdf,83,tbl-199.md,10,Rio Grande do Sul,,,no,Electrica,no,Particular,no,,
+all_tables.pdf,83,tbl-199.md,11,Rio Grande do Sul,Quarahy,Cidade,yes,Kerozene,no,Municipal,no,1909,4:273$
+all_tables.pdf,83,tbl-199.md,12,Rio Grande do Sul,Rio Grande,Cidade,yes,Electrica,no,Estadual,no,1908,358:970$
+all_tables.pdf,83,tbl-199.md,13,Rio Grande do Sul,Rosario,Villa,no,Electrica,yes,Municipal,no,1914,
+all_tables.pdf,83,tbl-199.md,14,Rio Grande do Sul,Sant'Anna do Livramento,Cidade,no,Electrica,yes,Particular,no,1905,31:796$
+all_tables.pdf,83,tbl-199.md,15,Rio Grande do Sul,Santa Cruz,Cidade,yes,Electrica,yes,Municipal,no,1906,24:000$
+all_tables.pdf,83,tbl-199.md,16,Rio Grande do Sul,Santa Maria da Bocca do Monte,Cidade,yes,Electrica,yes,Particular,no,1898,33:834$
+all_tables.pdf,83,tbl-199.md,17,Rio Grande do Sul,Santa Victoria do Palmar,Cidade,yes,Electrica,yes,Particular,yes,1908,16:000$
+all_tables.pdf,83,tbl-199.md,18,Rio Grande do Sul,Santo Antonio da Patrulha,Villa,no,Kerozene,no,Municipal,no,1894,1:500$
+all_tables.pdf,83,tbl-199.md,19,Rio Grande do Sul,São Borja,Cidade,no,Electrica,no,Municipal,yes,1916,85:227$
+all_tables.pdf,83,tbl-199.md,20,Rio Grande do Sul,São Francisco de Assis,Villa,no,Electrica,yes,Municipal,yes,1912,3:000$
+all_tables.pdf,83,tbl-199.md,21,Rio Grande do Sul,São Francisco de Paula de Cima da Serra,Villa,yes,Kerozene,no,Municipal,yes,,1:200$
+all_tables.pdf,83,tbl-199.md,22,Rio Grande do Sul,São Jeronymo,Villa,yes,Electrica,no,Particular,no,1912,3:600$
+all_tables.pdf,83,tbl-199.md,23,Rio Grande do Sul,São João Baptista de Camaquam,Villa,yes,Electrica,yes,Particular,yes,1920,
+all_tables.pdf,83,tbl-199.md,24,Rio Grande do Sul,São João do Montenegro,Cidade,no,Electrica,yes,Municipal,no,1919,6:380$
+all_tables.pdf,83,tbl-199.md,25,Rio Grande do Sul,São José do Norte,Villa,no,Kerozene,no,Municipal,yes,1890,2:270$
+all_tables.pdf,83,tbl-199.md,26,Rio Grande do Sul,São Leopoldo,Cidade,no,Electrica,no,Municipal,yes,1913,50:000$
+all_tables.pdf,83,tbl-199.md,27,Rio Grande do Sul,São Lourenço,Cidade,yes,Electrica,yes,Municipal,yes,1912,17:831$
+all_tables.pdf,83,tbl-199.md,28,Rio Grande do Sul,São Sepé,Villa,no,Acetyleno,no,Municipal,yes,,3:180$
+all_tables.pdf,83,tbl-199.md,29,Rio Grande do Sul,São Thiago do Boqueirão,Villa,yes,Electrica,no,Particular,no,1918,2:500$
+all_tables.pdf,83,tbl-199.md,30,Rio Grande do Sul,São Vicente,Villa,yes,Electrica,yes,Municipal,no,1914,20:036$
+all_tables.pdf,83,tbl-199.md,31,Rio Grande do Sul,,,no,Electrica,yes,Particular,no,1915,10:000$
+all_tables.pdf,83,tbl-199.md,32,Rio Grande do Sul,Soledade,Villa,yes,Kerozene,no,Municipal,no,,2:461$
+all_tables.pdf,83,tbl-199.md,33,Rio Grande do Sul,Taquara do Mundo Novo,Cidade,no,Kerozene,yes,Municipal,yes,,2:886$
+all_tables.pdf,84,tbl-201.md,1,Rio Grande do Sul,Taquara do Mundo Novo,Cidade,no,Electrica,no,Particular,no,1917,4:494$
+all_tables.pdf,84,tbl-201.md,2,Rio Grande do Sul,Taquary,Cidade,yes,Electrica,yes,Particular,yes,1915,8:800$
+all_tables.pdf,84,tbl-201.md,3,Rio Grande do Sul,Torres,Villa,no,Kerozene,no,Municipal,no,1903,699$
+all_tables.pdf,84,tbl-201.md,4,Rio Grande do Sul,Triumpho,Villa,yes,Electrica,no,Particular,no,1915,3:000$
+all_tables.pdf,84,tbl-201.md,5,Rio Grande do Sul,Uruguayana,Cidade,no,Electrica,yes,Particular,yes,1904,36:000$
+all_tables.pdf,84,tbl-201.md,6,Rio Grande do Sul,Vaccaria,Villa,no,Electrica,yes,Municipal,no,1911,20:000$
+all_tables.pdf,84,tbl-201.md,7,Rio Grande do Sul,Venancio Ayres,Villa,yes,Electrica,yes,Particular,no,1916,6:000$
+all_tables.pdf,84,tbl-201.md,8,Rio Grande do Sul,Viamão,Villa,yes,Kerozene,no,Municipal,no,,1:500$
+all_tables.pdf,84,tbl-202.md,1,Rio Grande do Sul,Blumenau,Cidade,no,Electrica,no,Particular,no,1908,13:050$
+all_tables.pdf,84,tbl-202.md,2,Rio Grande do Sul,Brusque,Cidade,yes,Electrica,yes,Particular,yes,1912,2:400$
+all_tables.pdf,84,tbl-202.md,3,Rio Grande do Sul,Camboriú,Villa,no,Kerozene,no,Municipal,no,1914,500$
+all_tables.pdf,84,tbl-202.md,4,Rio Grande do Sul,Campo Alegre,Villa,yes,Electrica,no,Particular,no,1920,3:000$
+all_tables.pdf,84,tbl-202.md,5,Rio Grande do Sul,Florianopolis,Cidade,no,Electrica,yes,Particular,yes,1910,93:000$
+all_tables.pdf,84,tbl-202.md,6,Rio Grande do Sul,Itajaby,Cidade,yes,Electrica,yes,Particular,yes,1916,
+all_tables.pdf,84,tbl-202.md,7,Rio Grande do Sul,Joinville,Cidade,yes,Electrica,yes,Particular,yes,1908,13:920$
+all_tables.pdf,84,tbl-202.md,8,Rio Grande do Sul,Lages,Cidade,yes,Electrica,yes,Particular,yes,1917,10:000$
+all_tables.pdf,84,tbl-202.md,9,Rio Grande do Sul,Mafra,Cidade,yes,Electrica,yes,Particular,yes,,
+all_tables.pdf,84,tbl-202.md,10,Rio Grande do Sul,Nova Trento,Villa,no,Electrica,yes,Particular,yes,1919,600$
+all_tables.pdf,84,tbl-202.md,11,Rio Grande do Sul,Palhoça,Cidade,no,Kerozene,no,Municipal,no,,1:217$
+all_tables.pdf,84,tbl-202.md,12,Rio Grande do Sul,Paraty,Villa,no,Kerozene,yes,Municipal,yes,1913,1:000$
+all_tables.pdf,84,tbl-202.md,13,Rio Grande do Sul,Porto União,Cidade,no,Electrica,no,Particular,no,,7:080$
+all_tables.pdf,84,tbl-202.md,14,Rio Grande do Sul,São Bento,Villa,no,Electrica,yes,Particular,yes,1912,3:000$
+all_tables.pdf,84,tbl-202.md,15,Rio Grande do Sul,São Francisco,Cidade,no,Electrica,yes,Particular,yes,1920,7:000$
+all_tables.pdf,84,tbl-202.md,16,Rio Grande do Sul,São José,Cidade,yes,Electrica,yes,Particular,yes,1912,6:309$
+all_tables.pdf,84,tbl-202.md,17,Rio Grande do Sul,Tijucas,Cidade,yes,Electrica,yes,Particular,yes,1917,3:600$
+all_tables.pdf,84,tbl-202.md,18,Rio Grande do Sul,Urussanga,Villa,no,Electrica,yes,Particular,yes,1917,600$
+all_tables.pdf,84,tbl-203.md,1,Rio Grande do Sul,Agudos,Cidade,no,Electrica,no,Particular,no,1910,
+all_tables.pdf,84,tbl-203.md,2,Rio Grande do Sul,Altinopolis,Cidade,yes,Electrica,yes,Particular,yes,1915,5:000$
+all_tables.pdf,84,tbl-203.md,3,Rio Grande do Sul,Amparo,Cidade,yes,Electrica,yes,Particular,yes,1898,48:672$
+all_tables.pdf,84,tbl-203.md,4,Rio Grande do Sul,Angatuba,Cidade,yes,Electrica,yes,Particular,yes,1916,13:550$
+all_tables.pdf,84,tbl-203.md,5,Rio Grande do Sul,Anhemby,Cidade,yes,Kerozene,no,Municipal,no,1906,1:090$
+all_tables.pdf,85,tbl-205.md,1,São Paulo,Annapolis,Cidade,no,Electrica,no,Particular,no,1914,3:500$
+all_tables.pdf,85,tbl-205.md,2,São Paulo,Apiahy,Cidade,yes,Kerozene,no,Municipal,no,1920,2:000$
+all_tables.pdf,85,tbl-205.md,3,São Paulo,Araçariquama,Cidade,yes,Kerozene,yes,Municipal,yes,1920,800$
+all_tables.pdf,85,tbl-205.md,4,São Paulo,Araraquara,Cidade,yes,Electrica,no,Particular,no,1909,31:692$
+all_tables.pdf,85,tbl-205.md,5,São Paulo,Araras,Cidade,yes,Electrica,yes,Particular,yes,1914,
+all_tables.pdf,85,tbl-205.md,6,São Paulo,Atibaia,Cidade,yes,Electrica,yes,Particular,yes,1907,12:560$
+all_tables.pdf,85,tbl-205.md,7,São Paulo,Avahy,Cidade,yes,Electrica,yes,Particular,yes,1920,8:000$
+all_tables.pdf,85,tbl-205.md,8,São Paulo,Avaíé,Cidade,yes,Electrica,yes,Particular,yes,1909,18:000$
+all_tables.pdf,85,tbl-205.md,9,São Paulo,Bananal,Cidade,yes,Electrica,yes,Particular,yes,1917,4:800$
+all_tables.pdf,85,tbl-205.md,10,São Paulo,Bariry,Cidade,yes,Electrica,yes,Particular,yes,1912,12:000$
+all_tables.pdf,85,tbl-205.md,11,São Paulo,Barra Bonita,Cidade,yes,Electrica,yes,Particular,yes,1913,6:000$
+all_tables.pdf,85,tbl-205.md,12,São Paulo,Barretos,Cidade,yes,Electrica,yes,Particular,yes,1911,28:000$
+all_tables.pdf,85,tbl-205.md,13,São Paulo,Batataes,Cidade,yes,Electrica,yes,Particular,yes,1906,19:672$
+all_tables.pdf,85,tbl-205.md,14,São Paulo,Bebedouro,Cidade,yes,Electrica,yes,Particular,yes,1911,20:640$
+all_tables.pdf,85,tbl-205.md,15,São Paulo,Bica de Pedra,Cidade,yes,Electrica,yes,Particular,yes,1910,
+all_tables.pdf,85,tbl-205.md,16,São Paulo,Bôa Esperança,Cidade,yes,Electrica,yes,Particular,yes,1913,4:850$
+all_tables.pdf,85,tbl-205.md,17,São Paulo,Botucatú,Cidade,yes,Electrica,yes,Particular,yes,1907,20:000$
+all_tables.pdf,85,tbl-205.md,18,São Paulo,Brodowski,Cidade,yes,Electrica,yes,Particular,yes,1910,8:400$
+all_tables.pdf,85,tbl-205.md,19,São Paulo,Brotas,Cidade,yes,Electrica,yes,Particular,yes,1911,9:000$
+all_tables.pdf,85,tbl-205.md,20,São Paulo,Cabreúva,Cidade,yes,Electrica,yes,Particular,yes,1920,6:000$
+all_tables.pdf,85,tbl-205.md,21,São Paulo,Cachoeira,Cidade,yes,Electrica,yes,Particular,yes,1912,
+all_tables.pdf,85,tbl-205.md,22,São Paulo,Caconde,Cidade,yes,Electrica,yes,Particular,yes,1910,
+all_tables.pdf,85,tbl-205.md,23,São Paulo,Cajurú,Cidade,yes,Electrica,yes,Particular,yes,1912,12:000$
+all_tables.pdf,85,tbl-205.md,24,São Paulo,Campinas,Cidade,yes,Electrica,yes,Particular,yes,1912,
+all_tables.pdf,85,tbl-205.md,25,São Paulo,Campo Largo de Sorocaba,Cidade,yes,Acetyleno,no,Municipal,no,,2:000$
+all_tables.pdf,85,tbl-205.md,26,São Paulo,Campos Novos,Cidade,yes,Electrica,no,Municipal,yes,1912,
+all_tables.pdf,85,tbl-205.md,27,São Paulo,Cananéá,Cidade,yes,Kerozene,no,Municipal,yes,,3:200$
+all_tables.pdf,85,tbl-205.md,28,São Paulo,Capão Bonito,Cidade,yes,Electrica,no,Particular,no,1914,28:949$
+all_tables.pdf,85,tbl-205.md,29,São Paulo,Capivary,Cidade,yes,Electrica,yes,Particular,yes,1910,14:000$
+all_tables.pdf,85,tbl-205.md,30,São Paulo,Caraguatatuba,Cidade,yes,Kerozene,no,Municipal,no,1920,1:300$
+all_tables.pdf,85,tbl-205.md,31,São Paulo,Casa Branca,Cidade,yes,Electrica,no,Particular,no,1910,18:000$
+all_tables.pdf,85,tbl-205.md,32,São Paulo,Cerqueira Cesar,Cidade,yes,Electrica,yes,Particular,yes,1920,
+all_tables.pdf,85,tbl-205.md,33,São Paulo,Cravinhos,Cidade,yes,Electrica,yes,Particular,yes,1895,23:836$
+all_tables.pdf,85,tbl-205.md,34,São Paulo,Cruzeiro,Cidade,yes,Electrica,yes,Particular,yes,1913,7:800$
+all_tables.pdf,87,tbl-207.md,1,São Paulo,Cutia,Cidade,no,Electrica,no,Particular,no,1918,3:960$
+all_tables.pdf,87,tbl-207.md,2,São Paulo,Dourado,Cidade,yes,Electrica,yes,Particular,yes,1911,9:140$
+all_tables.pdf,87,tbl-207.md,3,São Paulo,Dous Corregos,Cidade,yes,Electrica,yes,Particular,yes,1911,
+all_tables.pdf,87,tbl-207.md,4,São Paulo,Espirito Santo do Pinhal,Cidade,yes,Electrica,yes,Particular,yes,1897,37:437$
+all_tables.pdf,87,tbl-207.md,5,São Paulo,Fartura,Cidade,yes,Electrica,yes,Particular,yes,1918,4:000$
+all_tables.pdf,87,tbl-207.md,6,São Paulo,Faxina,Cidade,yes,Electrica,yes,Particular,yes,1912,
+all_tables.pdf,87,tbl-207.md,7,São Paulo,Franca,Cidade,yes,Electrica,yes,Particular,yes,1904,33:000$
+all_tables.pdf,87,tbl-207.md,8,São Paulo,Guararema,Cidade,yes,Electrica,yes,Particular,yes,1916,1:980$
+all_tables.pdf,87,tbl-207.md,9,São Paulo,Guaratinguetá,Cidade,yes,Electrica,yes,Particular,yes,1905,41:302$
+all_tables.pdf,87,tbl-207.md,10,São Paulo,Guarehy,Cidade,yes,Electrica,yes,Municipal,no,1920,7:000$
+all_tables.pdf,87,tbl-207.md,11,São Paulo,Guariba,Cidade,yes,Electrica,yes,Particular,no,1910,4:260$
+all_tables.pdf,87,tbl-207.md,12,São Paulo,Guarulhos,Cidade,yes,Electrica,yes,Particular,yes,1914,3:000$
+all_tables.pdf,87,tbl-207.md,13,São Paulo,Ibitinga,Cidade,yes,Electrica,yes,Particular,yes,1910,
+all_tables.pdf,87,tbl-207.md,14,São Paulo,Igarapava,Cidade,yes,Electrica,yes,Particular,yes,,12:000$
+all_tables.pdf,87,tbl-207.md,15,São Paulo,Igaratá,Cidade,yes,Kerozene,no,Municipal,no,,1:800$
+all_tables.pdf,87,tbl-207.md,16,São Paulo,Indaiatuba,Cidade,yes,Electrica,no,Particular,no,1912,
+all_tables.pdf,87,tbl-207.md,17,São Paulo,Ipaussú,Cidade,yes,Electrica,yes,Particular,yes,1908,6:600$
+all_tables.pdf,87,tbl-207.md,18,São Paulo,Itaberá,Cidade,yes,Electrica,yes,Municipal,no,1914,5:000$
+all_tables.pdf,87,tbl-207.md,19,São Paulo,Itanhaem,Cidade,yes,Electrica,yes,Particular,no,1918,1:500$
+all_tables.pdf,87,tbl-207.md,20,São Paulo,Itapetininga,Cidade,yes,Electrica,yes,Particular,yes,1910,22:500$
+all_tables.pdf,87,tbl-207.md,21,São Paulo,Itapira,Cidade,yes,Electrica,yes,Particular,yes,1905,22:500$
+all_tables.pdf,87,tbl-207.md,22,São Paulo,Itapolis,Cidade,yes,Electrica,yes,Particular,yes,1911,
+all_tables.pdf,87,tbl-207.md,23,São Paulo,Itaporanga,Cidade,yes,Electrica,yes,Municipal,no,1920,6:760$
+all_tables.pdf,87,tbl-207.md,24,São Paulo,Itatiba,Cidade,yes,Electrica,yes,Particular,no,1906,21:500$
+all_tables.pdf,87,tbl-207.md,25,São Paulo,Itatinga,Cidade,yes,Electrica,yes,Particular,yes,1914,
+all_tables.pdf,87,tbl-207.md,26,São Paulo,Ituverava,Cidade,yes,Electrica,yes,Particular,yes,1910,10:700$
+all_tables.pdf,87,tbl-207.md,27,São Paulo,Jaboticabal,Cidade,yes,Electrica,yes,Particular,yes,1895,25:000$
+all_tables.pdf,87,tbl-207.md,28,São Paulo,Jacaréhy,Cidade,yes,Electrica,yes,Particular,yes,1895,
+all_tables.pdf,87,tbl-207.md,29,São Paulo,Jambeiro,Cidade,yes,Electrica,yes,Particular,yes,1916,2:590$
+all_tables.pdf,87,tbl-207.md,30,São Paulo,Jardinopolis,Cidade,yes,Electrica,yes,Particular,yes,1911,
+all_tables.pdf,87,tbl-207.md,31,São Paulo,Joanopolis,Cidade,yes,Electrica,yes,Particular,yes,1911,4:910$
+all_tables.pdf,87,tbl-207.md,32,São Paulo,Jundiahy,Cidade,yes,Electrica,yes,Particular,yes,1905,42:176$
+all_tables.pdf,87,tbl-207.md,33,São Paulo,Lagoinha,Cidade,yes,Kerozene,no,Municipal,no,,1:000$
+all_tables.pdf,87,tbl-207.md,34,São Paulo,Laranjal,Cidade,yes,Electrica,no,Particular,no,,
+all_tables.pdf,88,tbl-209.md,1,São Paulo,Leme,Cidade,no,Eléctrica,no,Particular,no,1913,6:600$
+all_tables.pdf,88,tbl-209.md,2,São Paulo,Lenções,Cidade,yes,Eléctrica,yes,Particular,yes,1910,
+all_tables.pdf,88,tbl-209.md,3,São Paulo,Limeira,Cidade,yes,Eléctrica,yes,Particular,yes,,
+all_tables.pdf,88,tbl-209.md,4,São Paulo,Lorena,Cidade,yes,Eléctrica,yes,Particular,yes,1910,18:000$
+all_tables.pdf,88,tbl-209.md,5,São Paulo,Mattão,Cidade,yes,Eléctrica,yes,Particular,yes,1912,13:170$
+all_tables.pdf,88,tbl-209.md,6,São Paulo,Mineiros,Cidade,yes,Eléctrica,yes,Particular,yes,1906,7:000$
+all_tables.pdf,88,tbl-209.md,7,São Paulo,Mococa,Cidade,yes,Eléctrica,yes,Particular,yes,1905,30:145$
+all_tables.pdf,88,tbl-209.md,8,São Paulo,Mogy das Cruses,Cidade,yes,Eléctrica,yes,Particular,yes,1907,16:000$
+all_tables.pdf,88,tbl-209.md,9,São Paulo,Mogy-Guassú,Cidade,yes,Eléctrica,yes,Particular,yes,1910,6:261$
+all_tables.pdf,88,tbl-209.md,10,São Paulo,Mogy-Mirim,Cidade,yes,Eléctrica,yes,Particular,yes,1909,
+all_tables.pdf,88,tbl-209.md,11,São Paulo,Monte Alto,Cidade,yes,Eléctrica,yes,Particular,yes,1917,
+all_tables.pdf,88,tbl-209.md,12,São Paulo,Monte Azul,Cidade,yes,Eléctrica,yes,Particular,yes,1912,5:724$
+all_tables.pdf,88,tbl-209.md,13,São Paulo,Monte Mór,Cidade,yes,Kerozene,no,Municipal,no,,2:223$
+all_tables.pdf,88,tbl-209.md,14,São Paulo,Nazareth,Cidade,yes,Kerozene,yes,Municipal,yes,1858,1:300$
+all_tables.pdf,88,tbl-209.md,15,São Paulo,Novo Horizonte,Cidade,yes,Eléctrica,no,Particular,no,1919,31:000$
+all_tables.pdf,88,tbl-209.md,16,São Paulo,Olympia,Cidade,yes,Eléctrica,yes,Particular,yes,1920,6:250$
+all_tables.pdf,88,tbl-209.md,17,São Paulo,Orlandia,Cidade,yes,Eléctrica,yes,Particular,yes,1910,20:400$
+all_tables.pdf,88,tbl-209.md,18,São Paulo,Ourinhos,Cidade,yes,Eléctrica,yes,Particular,yes,1919,1:550$
+all_tables.pdf,88,tbl-209.md,19,São Paulo,Palmeiras,Cidade,yes,Eléctrica,yes,Particular,yes,1909,
+all_tables.pdf,88,tbl-209.md,20,São Paulo,Parahybuna,Cidade,yes,Eléctrica,yes,Particular,yes,1913,6:000$
+all_tables.pdf,88,tbl-209.md,21,São Paulo,Parnahyba,Cidade,yes,Eléctrica,yes,Particular,yes,1901,500$
+all_tables.pdf,88,tbl-209.md,22,São Paulo,Patrocínio do Sapucahy,Cidade,yes,Eléctrica,yes,Particular,yes,1914,5:000$
+all_tables.pdf,88,tbl-209.md,23,São Paulo,Pederneiras,Cidade,yes,Eléctrica,yes,Particular,yes,1909,7:000$
+all_tables.pdf,88,tbl-209.md,24,São Paulo,Pennapolis,Cidade,yes,Eléctrica,yes,Particular,yes,1918,
+all_tables.pdf,88,tbl-209.md,25,São Paulo,Pilar,Cidade,yes,Kerozene,no,Municipal,no,,1:300$
+all_tables.pdf,88,tbl-209.md,26,São Paulo,Pindamonhangaba,Cidade,yes,Eléctrica,no,Particular,no,1908,18:000$
+all_tables.pdf,88,tbl-209.md,27,São Paulo,Pinheiros,Cidade,yes,Kerozene,no,Municipal,no,1884,800$
+all_tables.pdf,88,tbl-209.md,28,São Paulo,Piquete,Cidade,yes,Eléctrica,no,Federal,no,1920,
+all_tables.pdf,88,tbl-209.md,29,São Paulo,Piracaia,Cidade,yes,Eléctrica,yes,Particular,no,1911,9:316$
+all_tables.pdf,88,tbl-209.md,30,São Paulo,Piracicaba,Cidade,yes,Eléctrica,yes,Particular,yes,1909,62:000$
+all_tables.pdf,88,tbl-209.md,31,São Paulo,Pirajá,Cidade,yes,Eléctrica,yes,Particular,yes,1905,
+all_tables.pdf,88,tbl-209.md,32,São Paulo,Pirajuhy,Cidade,yes,Eléctrica,yes,Particular,yes,1920,
+all_tables.pdf,88,tbl-209.md,33,São Paulo,Pirassununga,Cidade,yes,Eléctrica,yes,Municipal,no,1896,12:000$
+all_tables.pdf,88,tbl-209.md,34,São Paulo,Piratininga,Cidade,yes,Eléctrica,yes,Particular,no,1917,6:600$
+all_tables.pdf,89,tbl-211.md,1,São Paulo,Pitangueiras.,Cidade,no,Eléctrica,no,Particular,no,1911,(I)
+all_tables.pdf,89,tbl-211.md,2,São Paulo,Porto Feliz.,Cidade,yes,Eléctrica,yes,Particular,yes,1912,14:000$
+all_tables.pdf,89,tbl-211.md,3,São Paulo,Redempção.,Cidade,yes,Kerozene,no,Municipal,no,1892,2:000$
+all_tables.pdf,89,tbl-211.md,4,São Paulo,Ribeira.,Cidade,yes,Acetyleno,no,Municipal,yes,1911,1:168$
+all_tables.pdf,89,tbl-211.md,5,São Paulo,Ribeirão Bonito.,Cidade,yes,Eléctrica,no,Particular,no,1914,9:600$
+all_tables.pdf,89,tbl-211.md,6,São Paulo,Ribeirão Branco.,Cidade,yes,Eléctrica,yes,Municipal,no,1916,4:000$
+all_tables.pdf,89,tbl-211.md,7,São Paulo,Ribeirão Preto.,Cidade,yes,Eléctrica,yes,Particular,no,1899,(I)
+all_tables.pdf,89,tbl-211.md,8,São Paulo,Rio Bonito.,Cidade,yes,Kerozene,no,Municipal,no,(I),500$
+all_tables.pdf,89,tbl-211.md,9,São Paulo,Rio Claro.,Cidade,yes,Eléctrica,no,Particular,no,1912,(I)
+all_tables.pdf,89,tbl-211.md,10,São Paulo,Rio das Pedras.,Cidade,yes,Eléctrica,yes,Particular,yes,1913,6:060$
+all_tables.pdf,89,tbl-211.md,11,São Paulo,Rio Preto.,Cidade,yes,Eléctrica,yes,Particular,yes,1915,17:088$
+all_tables.pdf,89,tbl-211.md,12,São Paulo,Sallesopolis.,Cidade,yes,Eléctrica,yes,Particular,yes,(I),(I)
+all_tables.pdf,89,tbl-211.md,13,São Paulo,Santa Adélia.,Cidade,yes,Eléctrica,yes,Particular,yes,1917,5:040$
+all_tables.pdf,89,tbl-211.md,14,São Paulo,Santa Barbara.,Cidade,yes,Eléctrica,yes,Particular,yes,1915,6:200$
+all_tables.pdf,89,tbl-211.md,15,São Paulo,Santa Branca.,Cidade,yes,Eléctrica,yes,Particular,yes,(I),(I)
+all_tables.pdf,89,tbl-211.md,16,São Paulo,Santa Cruz da Conceição.,Cidade,yes,Kerozene,no,Municipal,no,1895,1:040$
+all_tables.pdf,89,tbl-211.md,17,São Paulo,Santa Isabel.,Cidade,yes,Eléctrica,no,Particular,no,1914,(I)
+all_tables.pdf,89,tbl-211.md,18,São Paulo,Santa Rita do Passa Quatro.,Cidade,yes,Eléctrica,yes,Particular,yes,1909,8:000$
+all_tables.pdf,89,tbl-211.md,19,São Paulo,Santa Rosa.,Cidade,yes,Eléctrica,yes,Particular,yes,1915,(I)
+all_tables.pdf,89,tbl-211.md,20,São Paulo,Santo Amaro.,Cidade,yes,Eléctrica,yes,Particular,yes,1913,10:893$
+all_tables.pdf,89,tbl-211.md,21,São Paulo,Santos.,Cidade,yes,Eléctrica,yes,Particular,yes,(I),114:966$
+all_tables.pdf,89,tbl-211.md,22,São Paulo,,,no,Gaz Carbonico,no,Particular,yes,(I),220:995$
+all_tables.pdf,89,tbl-211.md,23,São Paulo,São Bernardo.,Cidade,yes,Eléctrica,no,Particular,yes,1908,(I)
+all_tables.pdf,89,tbl-211.md,24,São Paulo,São Carlos.,Cidade,yes,Eléctrica,yes,Particular,yes,1909,45:923$
+all_tables.pdf,89,tbl-211.md,25,São Paulo,São João da Bôa Vista.,Cidade,yes,Eléctrica,yes,Particular,yes,1913,13:836$
+all_tables.pdf,89,tbl-211.md,26,São Paulo,São João da Boraina.,Cidade,yes,Eléctrica,yes,Particular,yes,1909,6:000$
+all_tables.pdf,89,tbl-211.md,27,São Paulo,São Joaquim.,Cidade,yes,Eléctrica,yes,Particular,yes,1918,(I)
+all_tables.pdf,89,tbl-211.md,28,São Paulo,São José do Barreiro.,Cidade,yes,Eléctrica,yes,Particular,yes,1918,(I)
+all_tables.pdf,89,tbl-211.md,29,São Paulo,São José do Rio Pardo.,Cidade,yes,Eléctrica,yes,Particular,yes,1896,25:600$
+all_tables.pdf,89,tbl-211.md,30,São Paulo,São José dos Campos.,Cidade,yes,Eléctrica,yes,Particular,yes,1909,9:000$
+all_tables.pdf,90,tbl-212.md,2,São Paulo,,Catégorie du Município (Ville ou Village),no,Système d'éclairage adopté,no,Entreprise directrice,no,Date de inauguration du service,Dépense annuelle du gouvernement
+all_tables.pdf,90,tbl-213.md,1,São Paulo,São Manoel,Cidade,no,Eléctrica,no,Particular,no,1908,(I)
+all_tables.pdf,90,tbl-213.md,2,São Paulo,São Paulo,Cidade,yes,Eléctrica,yes,Particular,yes,,598.745$
+all_tables.pdf,90,tbl-213.md,3,São Paulo,,,no,Gas Carbonico,no,Particular,yes,,1 797.860$
+all_tables.pdf,90,tbl-213.md,4,São Paulo,São Pedro,Cidade,yes,Eléctrica,no,Particular,yes,1918,7.000$
+all_tables.pdf,90,tbl-213.md,5,São Paulo,São Roque,Cidade,yes,Eléctrica,yes,Particular,yes,1908,10.000$
+all_tables.pdf,90,tbl-213.md,6,São Paulo,São Sebastião,Cidade,yes,Kerozene,no,Municipal,no,1871,2.460$
+all_tables.pdf,90,tbl-213.md,7,São Paulo,São Vicente,Cidade,yes,Eléctrica,no,Particular,no,1909,(I)
+all_tables.pdf,90,tbl-213.md,8,São Paulo,São Simão,Cidade,yes,Eléctrica,yes,Particular,yes,,(I)
+all_tables.pdf,90,tbl-213.md,9,São Paulo,Sarapuhy,Cidade,yes,Eléctrica,yes,Particular,yes,1920,8.000$
+all_tables.pdf,90,tbl-213.md,10,São Paulo,Serra Negra,Cidade,yes,Eléctrica,yes,Municipal,no,1909,14.625$
+all_tables.pdf,90,tbl-213.md,11,São Paulo,Sertãosinho,Cidade,yes,Eléctrica,yes,Particular,no,1904,39.800$
+all_tables.pdf,90,tbl-213.md,12,São Paulo,Soccorro,Cidade,yes,Eléctrica,yes,Particular,yes,1909,13.000$
+all_tables.pdf,90,tbl-213.md,13,São Paulo,Sorocaba,Cidade,yes,Eléctrica,yes,Particular,yes,1901,57.784$
+all_tables.pdf,90,tbl-213.md,14,São Paulo,Tambahú,Cidade,yes,Eléctrica,yes,Particular,yes,1909,(I)
+all_tables.pdf,90,tbl-213.md,15,São Paulo,Tatuhy,Cidade,yes,Eléctrica,yes,Particular,yes,1909,19.000$
+all_tables.pdf,90,tbl-213.md,16,São Paulo,Taubaté,Cidade,yes,Eléctrica,yes,Particular,yes,1912,32.000$
+all_tables.pdf,90,tbl-213.md,17,São Paulo,Tietê,Cidade,yes,Eléctrica,yes,Particular,yes,,(I)
+all_tables.pdf,90,tbl-213.md,18,São Paulo,Tremembé,Cidade,yes,Eléctrica,yes,Particular,yes,1913,3.388$
+all_tables.pdf,90,tbl-213.md,19,São Paulo,Una,Cidade,yes,Eléctrica,yes,Particular,yes,1916,2.100$
+all_tables.pdf,90,tbl-213.md,20,São Paulo,Villa Bella,Cidade,yes,Eléctrica,yes,Municipal,no,1920,1.680$
+all_tables.pdf,90,tbl-213.md,21,São Paulo,Viradouro,Cidade,yes,Eléctrica,yes,Particular,no,1917,(I)
+all_tables.pdf,90,tbl-213.md,22,São Paulo,Xiririca,Cidade,yes,Kerozene,no,Municipal,no,,2.000$
+all_tables.pdf,90,tbl-213.md,23,São Paulo,Yporanga,Cidade,yes,Kerozene,yes,Municipal,yes,1883,601$
+all_tables.pdf,90,tbl-214.md,1,São Paulo,Annapolis,Cidade,no,Kerozene,no,Municipal,no,,1.292$
+all_tables.pdf,90,tbl-214.md,2,São Paulo,Aracajú,Cidade,yes,Eléctrica,no,Estadual,no,1913,12.000$
+all_tables.pdf,90,tbl-214.md,3,São Paulo,Buquim,Villa,no,Kerozene,no,Municipal,no,1903,600$
+all_tables.pdf,90,tbl-214.md,4,São Paulo,Campo do Britto,Villa,yes,Kerozene,yes,Municipal,yes,1918,1.000$
+all_tables.pdf,90,tbl-214.md,5,São Paulo,,,no,Eléctrica,no,Particular,no,1918,3.000$
+all_tables.pdf,92,tbl-215.md,2,Sergipe,,Categorie du Município (Ville ou Village),no,Système d'éclairage adopté,no,Entreprise directrice,no,Date de l'inauguration du service,Dépense annuelle du gouvernement
+all_tables.pdf,92,tbl-216.md,1,Sergipe,Campos.,Cidade,no,Kerozene,no,Municipal,no,1920,1:500$
+all_tables.pdf,92,tbl-216.md,2,Sergipe,Capella.,Cidade,yes,Electrica,no,Municipal,yes,1920,
+all_tables.pdf,92,tbl-216.md,3,Sergipe,Divina Pastora.,Villa,no,Kerozene,no,Municipal,yes,,400$
+all_tables.pdf,92,tbl-216.md,4,Sergipe,Espírito Santo.,Villa,yes,Kerozene,yes,Municipal,yes,1912,450$
+all_tables.pdf,92,tbl-216.md,5,Sergipe,Estancia.,Cidade,no,Kerozene,yes,Municipal,yes,,8:000$
+all_tables.pdf,92,tbl-216.md,6,Sergipe,Garará.,Villa,no,Kerozene,yes,Municipal,yes,,
+all_tables.pdf,92,tbl-216.md,7,Sergipe,Itabaiana.,Cidade,no,Electrica,no,Particular,no,1918,4:000$
+all_tables.pdf,92,tbl-216.md,8,Sergipe,Itaporanga.,Villa,no,Kerozene,no,Municipal,no,1908,1:240$
+all_tables.pdf,92,tbl-216.md,9,Sergipe,Japaratuba.,Villa,yes,Kerozene,yes,Municipal,yes,,700$
+all_tables.pdf,92,tbl-216.md,10,Sergipe,Lagarto.,Villa,yes,Kerozene,yes,Municipal,yes,1909,1:300$
+all_tables.pdf,92,tbl-216.md,11,Sergipe,Laranjeiras.,Villa,yes,Electrica,no,Particular,no,1919,5:400$
+all_tables.pdf,92,tbl-216.md,12,Sergipe,Nossa Senhora das Dóres.,Cidade,no,Kerozene,no,Municipal,no,1908,1:200$
+all_tables.pdf,92,tbl-216.md,13,Sergipe,Pacatuba.,Villa,no,Kerozene,yes,Municipal,yes,1906,960$
+all_tables.pdf,92,tbl-216.md,14,Sergipe,Porto da Folha.,Cidade,no,Kerozene,yes,Municipal,yes,1912,246$
+all_tables.pdf,92,tbl-216.md,15,Sergipe,Propriá.,Cidade,yes,Electrica,no,Municipal,yes,1920,
+all_tables.pdf,92,tbl-216.md,16,Sergipe,Riachão.,Villa,no,Kerozene,no,Municipal,yes,1913,480$
+all_tables.pdf,92,tbl-216.md,17,Sergipe,Riachuelo.,Cidade,no,Electrica,no,Particular,no,1919,4:200$
+all_tables.pdf,92,tbl-216.md,18,Sergipe,Rosario.,Villa,no,Kerozene,no,Municipal,no,,500$
+all_tables.pdf,92,tbl-216.md,19,Sergipe,Santa Luzia.,Villa,yes,Kerozene,yes,Municipal,yes,1915,400$
+all_tables.pdf,92,tbl-216.md,20,Sergipe,Santo Amaro.,Villa,yes,Kerozene,yes,Municipal,yes,,1:000$
+all_tables.pdf,92,tbl-216.md,21,Sergipe,São Paulo.,Cidade,no,Kerozene,yes,Municipal,yes,1918,600$
+all_tables.pdf,92,tbl-216.md,22,Sergipe,Soccorro.,Villa,no,Kerozene,yes,Municipal,yes,1917,2:000$
+all_tables.pdf,92,tbl-216.md,23,Sergipe,Villa Nova.,Cidade,no,Kerozene,yes,Municipal,yes,,1:500$
+all_tables.pdf,92,tbl-217.md,1,Sergipe,Cruzeiro do Sul.,Cidade,no,Electrica,no,Particular,no,1904,17:040$
+all_tables.pdf,92,tbl-217.md,2,Sergipe,Rio Branco.,Cidade,yes,Electrica,yes,Municipal,no,1916,51:600$
+all_tables.pdf,92,tbl-217.md,3,Sergipe,Villa Seabra.,Cidade,yes,Electrica,yes,Municipal,yes,1920,
+all_tables.pdf,92,tbl-217.md,4,Sergipe,Xapury.,Cidade,yes,Electrica,yes,Particular,no,1914,18:000$

@@ -1,0 +1,32 @@
+{
+  "source_pdf": "/Users/alaskievic/Desktop/missing_rj_1975.pdf",
+  "table": "Industrial Census 1975 - Table 2",
+  "row_count": 85,
+  "order_range": [
+    688,
+    772
+  ],
+  "order_sequence_complete": true,
+  "missing_left_orders": [],
+  "missing_right_orders_with_supplied_page": [],
+  "unpaired_right_orders": [],
+  "unmatched_entry_orders": [],
+  "notes": [
+    {
+      "page": 2,
+      "issue": "right_candidate_count_mismatch",
+      "expected": 59,
+      "found": 57
+    },
+    {
+      "page": 2,
+      "order": 728,
+      "issue": "omitted_all_suppressed_row_restored"
+    },
+    {
+      "page": 2,
+      "order": 705,
+      "issue": "omitted_all_suppressed_row_restored"
+    }
+  ]
+}

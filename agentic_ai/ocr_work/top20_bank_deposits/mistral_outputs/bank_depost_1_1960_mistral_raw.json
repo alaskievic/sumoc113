@@ -1,0 +1,69 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bank_depost_1_1960.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 386603
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "[tbl-0.md](tbl-0.md)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-0.md",
+            "content": "|  EM | EM | EM | EM | B A N C O S | MILHÕES DE CRUZEIROS  |\n| --- | --- | --- | --- | --- | --- |\n|  31/12/60 | 30/6/60 | 31/12/59 | 30/6/59 |  |   |\n|  1 | 1 | 1 | 1 | Banco do Brasil S.A. | 244.335  |\n|  2 | 2 | 2 | 2 | Banco do Estado de São Paulo S.A. | 42.336  |\n|  3 | 3 | 3 | 3 | Banco da Lavoura de Minas Gerais S.A. | 29.487  |\n|  4 | 4 | 4 | 4 | Banco Nacional de Minas Gerais S.A. | 22.002  |\n|  5 | 5 | 5 | 5 | Banco de Crédito Real de Minas Gerais S.A. | 20.159  |\n|  6 | 7 | 7 | 7 | Banco Moreira Salles S.A. | 17.466  |\n|  7 | 6 | 6 | 6 | Banco Mercantil de São Paulo S.A. | 16.540  |\n|  8 | 8 | 8 | 11 | Banco Brasileiro de Descontos S.A. | 16.179  |\n|  9 | 10 | 11 | 8 | Banco Comércio e Indústria de Minas Gerais S.A. | 12.809  |\n|  10 | 11 | 9 | 9 | Banco do Comércio e Indústria de São Paulo S.A. | 12.524  |\n|  11 | 13 | 12 | 10 | Banco Comercial do Estado de São Paulo S.A. | 12.216  |\n|  12 | 9 | 10 | 12 | The First National City Bank of New York | 12.145  |\n|  13 | 12 | 13 | 13 | Banco Mineiro da Produção S.A. | 12.079  |\n|  14 | 14 | 14 | 14 | Banco Boavista S.A. | 9.595  |\n|  15 | 17 | 17 | 21 | Banco Noroeste do Estado de São Paulo S.A. | 8.033  |\n|  16 | 20 | 18 | 19 | Banco de São Paulo S.A. | 7.780  |\n|  17 | 18 | 20 | 17 | Banco Hipot. e Agrícola do Est. de Minas Gerais S.A. | 6.979  |\n|  18 | 15 | 16 | 16 | Banco da Província do Rio Grande do Sul S.A. | 6.921  |\n|  19 | 16 | 15 | 15 | Banco Hipotecário Lar Brasileiro S.A. | 6.669  |\n|  20 | 19 | 22 | 18 | Banco de Minas Gerais S.A. | 6.584  |\n|  21 | 34 | 23 | 33 | Banco Comercial do Paraná S.A. | 6.310  |\n|  22 | 24 | 29 | 20 | Banco Indústria e Comércio de Santa Catarina S.A. | 5.862  |\n|  23 | 21 | 19 | 25 | Banco da Bahia S.A. | 5.827  |\n|  24 | 22 | 21 | 28 | Banco Econômico da Bahia S.A. | 5.656  |\n|  25 | 25 | 25 | 22 | Banco do Nordeste do Brasil S.A. | 5.550  |\n|  26 | 33 | 33 | 32 | Banco Predial do Estado do Rio de Janeiro S.A. | 5.425  |\n|  27 | 28 | 31 | 24 | Banco Novo Mundo S.A. | 5.343  |\n|  28 | 26 | 27 | 31 | Banco Português do Brasil S.A. | 5.301  |\n|  29 | 31 | 24 | 26 | Banco Brasul de São Paulo S.A. | 5.266  |\n|  30 | 27 | 26 | 27 | Banco da América S.A. | 5.217  |\n|  31 | 32 | 36 | 35 | Banco Francês e Italiano para a América do Sul S.A. | 5.150  |\n|  32 | 30 | 28 | 30 | Bank of London & South America Ltd. | 5.082  |\n|  33 | 23 | 32 | 23 | Banco do Estado do Rio Grande do Sul S.A. | 4.999  |\n|  34 | 35 | 30 | 36 | Banco Itaú S.A. | 4.956  |\n|  35 | 29 | 34 | 29 | Banco Nacional do Comércio S.A. | 4.940  |\n|  36 | 37 | 40 | 41 | Banco Mercantil de Minas Gerais S.A. | 4.367  |\n|  37 | 36 | 37 | 39 | Banco Francês e Brasileiro S.A. | 4.342  |\n|  38 | 38 | 38 | 34 | Banco Irmãos Guimarães S.A. | 4.210  |\n|  39 | 42 | 49 | 50 | Banco do Povo S.A. | 3.808  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 1167,
+          "width": 1439
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 386603
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "[tbl-0.md](tbl-0.md)",
+      "lines": [
+        "[tbl-0.md](tbl-0.md)"
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 1167,
+        "width": 1439
+      },
+      "confidence_scores": null,
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  EM | EM | EM | EM | B A N C O S | MILHÕES DE CRUZEIROS  |\n| --- | --- | --- | --- | --- | --- |\n|  31/12/60 | 30/6/60 | 31/12/59 | 30/6/59 |  |   |\n|  1 | 1 | 1 | 1 | Banco do Brasil S.A. | 244.335  |\n|  2 | 2 | 2 | 2 | Banco do Estado de São Paulo S.A. | 42.336  |\n|  3 | 3 | 3 | 3 | Banco da Lavoura de Minas Gerais S.A. | 29.487  |\n|  4 | 4 | 4 | 4 | Banco Nacional de Minas Gerais S.A. | 22.002  |\n|  5 | 5 | 5 | 5 | Banco de Crédito Real de Minas Gerais S.A. | 20.159  |\n|  6 | 7 | 7 | 7 | Banco Moreira Salles S.A. | 17.466  |\n|  7 | 6 | 6 | 6 | Banco Mercantil de São Paulo S.A. | 16.540  |\n|  8 | 8 | 8 | 11 | Banco Brasileiro de Descontos S.A. | 16.179  |\n|  9 | 10 | 11 | 8 | Banco Comércio e Indústria de Minas Gerais S.A. | 12.809  |\n|  10 | 11 | 9 | 9 | Banco do Comércio e Indústria de São Paulo S.A. | 12.524  |\n|  11 | 13 | 12 | 10 | Banco Comercial do Estado de São Paulo S.A. | 12.216  |\n|  12 | 9 | 10 | 12 | The First National City Bank of New York | 12.145  |\n|  13 | 12 | 13 | 13 | Banco Mineiro da Produção S.A. | 12.079  |\n|  14 | 14 | 14 | 14 | Banco Boavista S.A. | 9.595  |\n|  15 | 17 | 17 | 21 | Banco Noroeste do Estado de São Paulo S.A. | 8.033  |\n|  16 | 20 | 18 | 19 | Banco de São Paulo S.A. | 7.780  |\n|  17 | 18 | 20 | 17 | Banco Hipot. e Agrícola do Est. de Minas Gerais S.A. | 6.979  |\n|  18 | 15 | 16 | 16 | Banco da Província do Rio Grande do Sul S.A. | 6.921  |\n|  19 | 16 | 15 | 15 | Banco Hipotecário Lar Brasileiro S.A. | 6.669  |\n|  20 | 19 | 22 | 18 | Banco de Minas Gerais S.A. | 6.584  |\n|  21 | 34 | 23 | 33 | Banco Comercial do Paraná S.A. | 6.310  |\n|  22 | 24 | 29 | 20 | Banco Indústria e Comércio de Santa Catarina S.A. | 5.862  |\n|  23 | 21 | 19 | 25 | Banco da Bahia S.A. | 5.827  |\n|  24 | 22 | 21 | 28 | Banco Econômico da Bahia S.A. | 5.656  |\n|  25 | 25 | 25 | 22 | Banco do Nordeste do Brasil S.A. | 5.550  |\n|  26 | 33 | 33 | 32 | Banco Predial do Estado do Rio de Janeiro S.A. | 5.425  |\n|  27 | 28 | 31 | 24 | Banco Novo Mundo S.A. | 5.343  |\n|  28 | 26 | 27 | 31 | Banco Português do Brasil S.A. | 5.301  |\n|  29 | 31 | 24 | 26 | Banco Brasul de São Paulo S.A. | 5.266  |\n|  30 | 27 | 26 | 27 | Banco da América S.A. | 5.217  |\n|  31 | 32 | 36 | 35 | Banco Francês e Italiano para a América do Sul S.A. | 5.150  |\n|  32 | 30 | 28 | 30 | Bank of London & South America Ltd. | 5.082  |\n|  33 | 23 | 32 | 23 | Banco do Estado do Rio Grande do Sul S.A. | 4.999  |\n|  34 | 35 | 30 | 36 | Banco Itaú S.A. | 4.956  |\n|  35 | 29 | 34 | 29 | Banco Nacional do Comércio S.A. | 4.940  |\n|  36 | 37 | 40 | 41 | Banco Mercantil de Minas Gerais S.A. | 4.367  |\n|  37 | 36 | 37 | 39 | Banco Francês e Brasileiro S.A. | 4.342  |\n|  38 | 38 | 38 | 34 | Banco Irmãos Guimarães S.A. | 4.210  |\n|  39 | 42 | 49 | 50 | Banco do Povo S.A. | 3.808  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 5.98,
+  "remote_file_id": null
+}

@@ -1,0 +1,829 @@
+{
+  "source": "/Users/alaskievic/Desktop/table_1_jp_census.pdf",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 14,
+    "doc_size_bytes": 5712440
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "6 分布 (人口)\n\n1 州, 地 方, 郡——世 代, 居 住 地, 男 女 別\n\n[tbl-0.md](tbl-0.md)\n\n*1 细化ブラジル人 1 804 名, 日本又はブラジル以外の国籍をもつもの 103 名を含む\nIncluded 1 804 naturalized Brazilians and 103 persons with non-Japanese or non-Brazilian nationality\n*2 地方, 世代, 居住地不明のもの 106 名を含む\nIncluded 106 persons whose município, generation or urban-rural residence was not reported\n*3 親許で調査されたサンパウロ市在住の独身者\nSingle persons living in São Paulo who have been enumerated in respective families residing in the interior\n\n1985\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-0.md",
+            "content": "|   | Total | 世 代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 #1 Immigrants | ブラジル 生 れ Descendants | 市 街 地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  BRASIL | #2 430 135 | 138 637 | 291 332 | 193 207 | 236 762 | 223 289 | 206 846  |\n|  SÃO PAULO | 325 520 | 104 156 | 221 364 | 156 570 | 168 950 | 168 567 | 156 953  |\n|  Município de São Paulo | 77 930 | 25 990 | 51 940 | 70 757 | 7 173 | 40 756 | 37 174  |\n|  DISTRICTOS DE |  |  |  |  |  |  |   |\n|  Aclimação | 642 | 293 | 349 | 642 | — | 337 | 305  |\n|  Alto da Mooca | 1 157 | 362 | 795 | 1 157 | — | 592 | 565  |\n|  Barra Funda | 109 | 41 | 68 | 109 | — | 58 | 51  |\n|  Bela Vista | 469 | 200 | 269 | 469 | — | 242 | 227  |\n|  Belêneinho | 644 | 223 | 421 | 644 | — | 326 | 318  |\n|  Bom Retiro | 653 | 200 | 453 | 653 | — | 358 | 295  |\n|  Brás | 1 194 | 398 | 796 | 1 194 | — | 622 | 572  |\n|  Butantã | 4 499 | 1 578 | 2 921 | 4 347 | 152 | 2 327 | 2 172  |\n|  Cambuci | 1 650 | 624 | 1 026 | 1 650 | — | 844 | 806  |\n|  Casa Verde | 2 229 | 742 | 1 487 | 2 217 | 12 | 1 119 | 1 110  |\n|  Cerqueira Cesar | 86 | 31 | 55 | 86 | — | 46 | 40  |\n|  Consolação | 168 | 82 | 86 | 168 | — | 91 | 77  |\n|  Guainazes | 209 | 81 | 128 | 122 | 87 | 123 | 86  |\n|  Ibirapuera | 3 215 | 1 151 | 2 064 | 3 211 | 4 | 1 611 | 1 604  |\n|  Indianópolis | 586 | 211 | 375 | 586 | — | 312 | 274  |\n|  Ipiranga | 5 093 | 1 718 | 3 375 | 5 072 | 21 | 2 606 | 2 487  |\n|  Itaquêra | 2 727 | 1 053 | 1 674 | 1 015 | 1 712 | 1 400 | 1 327  |\n|  Jaraguá e Perús | 380 | 125 | 255 | 43 | 337 | 203 | 177  |\n|  Jardim América | 637 | 242 | 395 | 637 | — | 323 | 314  |\n|  Jardim Paulista | 664 | 258 | 406 | 664 | — | 354 | 310  |\n|  Lapa | 1 093 | 376 | 717 | 1 093 | — | 545 | 548  |\n|  Liberdade | 3 048 | 1 270 | 1 778 | 3 048 | — | 1 571 | 1 477  |\n|  Mooca | 432 | 137 | 295 | 432 | — | 243 | 189  |\n|  Nossa Senhora do Ó | 1 478 | 504 | 974 | 1 383 | 95 | 768 | 710  |\n|  Osasco | 1 114 | 356 | 758 | 1 103 | 11 | 588 | 526  |\n|  Parelheiros | 2 136 | 710 | 1 426 | 35 | 2 101 | 1 142 | 994  |\n|  Pari | 289 | 108 | 181 | 289 | — | 149 | 140  |\n|  Penha da França | 2 650 | 849 | 1 801 | 2 641 | 9 | 1 365 | 1 285  |\n|  Perdizes | 621 | 215 | 406 | 621 | — | 334 | 287  |\n|  Pirituba | 623 | 219 | 404 | 588 | 35 | 300 | 323  |\n|  Santa Cecília | 234 | 98 | 136 | 234 | — | 119 | 115  |\n|  Santa Ifigênia | 191 | 69 | 122 | 191 | — | 103 | 88  |\n|  Santana | 1 564 | 550 | 1 014 | 1 564 | — | 817 | 747  |\n|  Santo Amaro | 2 119 | 808 | 1 311 | 1 812 | 307 | 1 104 | 1 015  |\n|  Socorro | 1 277 | 462 | 815 | 531 | 746 | 684 | 593  |\n|  São Miguel Paulista | 1 673 | 572 | 1 101 | 1 192 | 481 | 852 | 821  |\n|  Saúde | 7 055 | 2 545 | 4 510 | 7 029 | 26 | 3 516 | 3 539  |\n|  Sé | 1 010 | 378 | 632 | 1 010 | — | 516 | 494  |\n|  Tatuapé | 4 556 | 1 441 | 3 115 | 4 515 | 41 | 2 327 | 2 229  |\n|  Tucuruvi | 3 199 | 1 128 | 2 071 | 2 239 | 960 | 1 653 | 1 546  |\n|  Vila Madalena | 1 331 | 496 | 835 | 1 331 | — | 700 | 631  |\n|  Vila Maria | 863 | 291 | 572 | 863 | — | 447 | 416  |\n|  Vila Mariana | 1 618 | 588 | 1 030 | 1 618 | — | 832 | 786  |\n|  Vila Matilde | 1 389 | 460 | 929 | 1 389 | — | 706 | 683  |\n|  Vila Prudente | 3 437 | 1 011 | 2 426 | 3 437 | — | 1 725 | 1 712  |\n|  Desconhecidos#3 | 5 919 | 736 | 5 183 | 5 883 | 36 | 3 756 | 2 163  |\n|  Cercanias de São Paulo | 50 374 | 17 749 | 32 625 | 15 211 | 35 163 | 26 035 | 24 339  |\n|  Araçoiaba da Serra | 175 | 40 | 135 | 21 | 154 | 90 | 85  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9946790873214959,
+          "minimum_page_confidence_score": 0.1763069818444951
+        },
+        "blocks": null
+      },
+      {
+        "index": 1,
+        "markdown": "Geographical Distribution (Population) 7\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX\n\n[tbl-1.md](tbl-1.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-1.md",
+            "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 わ Descendants | 市街地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  Barueri | 655 | 212 | 443 | 168 | 487 | 329 | 326  |\n|  Boituva | 9 | 6 | 3 | 8 | 1 | 5 | 4  |\n|  Cabreuva | 155 | 58 | 97 | — | 155 | 74 | 81  |\n|  Campinas | 3 338 | 1 124 | 2 214 | 1 111 | 2 227 | 1 778 | 1 560  |\n|  Cotia | 2 230 | 895 | 1 335 | 269 | 1 961 | 1 136 | 1 094  |\n|  Elias Fausto | 313 | 139 | 174 | 29 | 284 | 179 | 134  |\n|  Ferraz de Vasconcelos | 296 | 113 | 183 | 166 | 130 | 157 | 139  |\n|  Franco da Rocha | 177 | 62 | 115 | 82 | 95 | 97 | 80  |\n|  Guarulhos | 4 118 | 1 326 | 2 792 | 1 244 | 2 874 | 2 069 | 2 049  |\n|  Indaiatuba | 640 | 247 | 393 | 89 | 551 | 328 | 312  |\n|  Itapecerica da Serra | 2 161 | 764 | 1 397 | 96 | 2 065 | 1 164 | 997  |\n|  Itaquaquecetuba | 884 | 303 | 581 | 23 | 861 | 431 | 453  |\n|  Itu | 376 | 167 | 209 | 95 | 281 | 198 | 178  |\n|  Jaguariuna | 110 | 60 | 50 | 3 | 107 | 62 | 48  |\n|  Jundiaí | 1 377 | 470 | 907 | 251 | 1 126 | 738 | 639  |\n|  Mairiporã | 1 031 | 327 | 704 | 53 | 978 | 529 | 502  |\n|  Mauá | 947 | 362 | 585 | 436 | 511 | 477 | 470  |\n|  Mogi das Cruzes | 11 276 | 4 109 | 7 167 | 2 669 | 8 607 | 5 852 | 5 424  |\n|  Monte Mor | 38 | 20 | 18 | — | 38 | 24 | 14  |\n|  Poá | 223 | 70 | 153 | 213 | 10 | 117 | 106  |\n|  Ribeirão Pires | 1 589 | 529 | 1 060 | 373 | 1 216 | 809 | 780  |\n|  Salesópolis | 437 | 138 | 299 | — | 437 | 209 | 228  |\n|  Salto | 219 | 79 | 140 | — | 219 | 117 | 102  |\n|  Santana do Parnaíba | 289 | 103 | 186 | 56 | 233 | 148 | 141  |\n|  Santo André | 4 023 | 1 356 | 2 667 | 3 029 | 994 | 2 047 | 1 976  |\n|  São Bernardo do Campo | 3 068 | 1 098 | 1 970 | 1 033 | 2 035 | 1 582 | 1 486  |\n|  São Caetano do Sul | 1 067 | 393 | 674 | 1 065 | 2 | 557 | 510  |\n|  São Roque | 1 193 | 465 | 728 | 154 | 1 039 | 646 | 547  |\n|  Sorocaba | 1 616 | 474 | 1 142 | 838 | 778 | 824 | 792  |\n|  Sumaré | 50 | 24 | 26 | — | 50 | 22 | 28  |\n|  Suzano | 6 040 | 2 127 | 3 913 | 1 637 | 4 403 | 3 109 | 2 931  |\n|  Valinhos | 198 | 67 | 131 | — | 198 | 100 | 98  |\n|  Vinhedo | 56 | 22 | 34 | — | 56 | 31 | 25  |\n|  São Sebastião | 436 | 131 | 305 | 64 | 372 | 228 | 208  |\n|  Caraguatatuba | 244 | 74 | 170 | 50 | 194 | 118 | 126  |\n|  Ilhabela | 53 | 9 | 44 | — | 53 | 28 | 25  |\n|  São Sebastião | 125 | 40 | 85 | 5 | 120 | 70 | 55  |\n|  Ubatuba | 14 | 8 | 6 | 9 | 5 | 12 | 2  |\n|  Santos | 3 565 | 1 005 | 2 560 | 3 177 | 388 | 1 889 | 1 676  |\n|  Cubatão | 38 | 16 | 22 | 38 | — | 21 | 17  |\n|  Guarujá | 154 | 43 | 111 | 74 | 80 | 81 | 73  |\n|  Itanhaém | 198 | 75 | 123 | 50 | 148 | 105 | 93  |\n|  Santos | 2 646 | 695 | 1 951 | 2 564 | 82 | 1 397 | 1 249  |\n|  São Vicente | 529 | 176 | 353 | 451 | 78 | 285 | 244  |\n|  Juquiá | 8 790 | 2 491 | 6 299 | 1 639 | 7 151 | 4 606 | 4 184  |\n|  Cananéia | 40 | 12 | 28 | 22 | 18 | 24 | 16  |\n|  Eldorado | 12 | 4 | 8 | — | 12 | 8 | 4  |\n|  Iguape | 320 | 85 | 235 | 53 | 267 | 173 | 147  |\n|  Itariiri | 1 754 | 499 | 1 255 | 155 | 1 599 | 901 | 853  |\n|  Jacupiranga | 1 | — | 1 | — | 1 | — | 1  |\n|  Juquiá | 1 130 | 360 | 770 | 172 | 958 | 578 | 552  |\n|  Miracatu | 1 378 | 355 | 1 023 | 177 | 1 201 | 725 | 653  |\n|  Parquera-Açu | 5 | 2 | 3 | — | 53 | 2 | 3  |\n|  Pedro de Toledo | 735 | 197 | 538 | 46 | 689 | 405 | 330  |\n|  Registro | 3 415 | 977 | 2 438 | 1 014 | 2 401 | 1 790 | 1 625  |\n|  Alto Paraíba | 35 | 14 | 21 | 1 | 34 | 13 | 22  |\n|  Paraíbuna | 35 | 14 | 21 | 1 | 34 | 13 | 22  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9972438572781078,
+          "minimum_page_confidence_score": 0.1663133441220424
+        },
+        "blocks": null
+      },
+      {
+        "index": 2,
+        "markdown": "分布 (人口)\n\n1 州, 地 方, 郡——世 代, 居 住 地, 男 女 別 (つづき)\n\n[tbl-2.md](tbl-2.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-2.md",
+            "content": "|   | Total | 世 代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 れ Descendants | 市街地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  Médio Paraíba | 6 541 | 2 262 | 4 279 | 1 582 | 4 959 | 3 516 | 3 025  |\n|  Aparecida | 228 | 92 | 136 | 31 | 197 | 114 | 114  |\n|  Bananal | 10 | 2 | 8 | — | 10 | 4 | 6  |\n|  Caçapava | 327 | 95 | 232 | 82 | 245 | 181 | 146  |\n|  Cachoeira Paulista | 22 | 11 | 11 | 1 | 21 | 15 | 7  |\n|  Cruzeiro | 80 | 23 | 57 | 3 | 77 | 39 | 41  |\n|  Guararema | 320 | 93 | 227 | 11 | 309 | 175 | 145  |\n|  Guaratinguetá | 186 | 52 | 134 | 84 | 102 | 101 | 85  |\n|  Igaratá | 159 | 49 | 110 | — | 159 | 82 | 77  |\n|  Jacareí | 679 | 232 | 447 | 177 | 502 | 385 | 294  |\n|  Lorena | 106 | 47 | 59 | 80 | 26 | 55 | 51  |\n|  Pindamonhangaba | 981 | 335 | 646 | 182 | 799 | 515 | 466  |\n|  Queluz | 11 | 3 | 8 | — | 11 | 7 | 4  |\n|  Santa Isabel | 762 | 284 | 478 | 5 | 757 | 397 | 365  |\n|  São José dos Campos | 1 382 | 473 | 909 | 537 | 845 | 748 | 634  |\n|  Taubaté | 868 | 300 | 568 | 364 | 504 | 466 | 402  |\n|  Teremembé | 420 | 171 | 249 | 25 | 395 | 232 | 188  |\n|  Campos do Jordão | 594 | 201 | 393 | 194 | 400 | 311 | 283  |\n|  Campos do Jordão | 386 | 129 | 257 | 194 | 192 | 203 | 183  |\n|  São Bento do Sapucaí | 208 | 72 | 136 | — | 208 | 108 | 100  |\n|  Bragança | 3 644 | 1 341 | 2 303 | 413 | 3 231 | 1 921 | 1 723  |\n|  Amparo | 94 | 27 | 67 | 4 | 90 | 47 | 47  |\n|  Atibaia | 1 030 | 403 | 627 | 78 | 952 | 538 | 492  |\n|  Bragança Paulista | 1 133 | 403 | 730 | 253 | 880 | 617 | 516  |\n|  Itapira | 104 | 26 | 78 | 44 | 60 | 46 | 58  |\n|  Itatiba | 377 | 144 | 233 | 21 | 356 | 194 | 183  |\n|  Jarinu | 24 | 13 | 11 | — | 24 | 17 | 7  |\n|  Joanópolis | 123 | 47 | 76 | — | 123 | 63 | 60  |\n|  Monte Alegre do Sul | 9 | 2 | 7 | — | 9 | 1 | 8  |\n|  Nazaré Paulista | 210 | 76 | 134 | — | 210 | 116 | 94  |\n|  Pedreira | 2 | 1 | 1 | 2 | — | 1 | 1  |\n|  Piracaia | 427 | 153 | 274 | — | 427 | 221 | 206  |\n|  Socorro | 111 | 46 | 65 | 11 | 100 | 60 | 51  |\n|  Mococa | 371 | 165 | 206 | 74 | 297 | 229 | 142  |\n|  Divinolândia | 28 | 8 | 20 | — | 28 | 14 | 14  |\n|  Mococa | 244 | 140 | 104 | — | 244 | 131 | 113  |\n|  Pinhal | 74 | 13 | 61 | 52 | 22 | 69 | 5  |\n|  São João da Boa Vista | 21 | 3 | 18 | 21 | — | 12 | 9  |\n|  Tapiratiba | 2 | 1 | 1 | 1 | 1 | 1 | 1  |\n|  Vargem Grande do sul | 2 | — | 2 | — | 2 | 2 | —  |\n|  Pirassununga | 387 | 114 | 273 | 178 | 209 | 202 | 185  |\n|  Casa Branca | 8 | 4 | 4 | 8 | — | 4 | 4  |\n|  Descalvado | 84 | 30 | 54 | 9 | 75 | 41 | 43  |\n|  Leme | 106 | 23 | 83 | 69 | 37 | 54 | 52  |\n|  Mogi Guaçu | 1 | 1 | — | — | 1 | 1 | —  |\n|  Mogi Mirim | 98 | 26 | 72 | 68 | 30 | 56 | 42  |\n|  Pirassununga | 85 | 28 | 57 | 19 | 66 | 44 | 41  |\n|  Santa Cruz das Palmeiras | 5 | 2 | 3 | 5 | — | 2 | 3  |\n|  Rio Claro | 942 | 239 | 703 | 570 | 372 | 478 | 464  |\n|  Americana | 374 | 101 | 273 | 152 | 222 | 183 | 191  |\n|  Araras | 31 | 8 | 23 | 21 | 10 | 16 | 15  |\n|  Itirapina | 1 | — | 1 | 1 | — | 1 | —  |\n|  Limeira | 246 | 53 | 193 | 227 | 19 | 128 | 118  |\n|  Rio Claro | 290 | 77 | 213 | 169 | 121 | 150 | 140  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9973966661800299,
+          "minimum_page_confidence_score": 0.44148524438110937
+        },
+        "blocks": null
+      },
+      {
+        "index": 3,
+        "markdown": "Geographical Distribution (Population) 9\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-3.md](tbl-3.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-3.md",
+            "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル生まれ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Piracicaba | 506 | 156 | 350 | 243 | 263 | 277 | 229  |\n|  Anhembi | 7 | 2 | 5 | — | 7 | 5 | 2  |\n|  Conchas | 1 | — | 1 | 1 | — | 1 | —  |\n|  Piracicaba | 363 | 109 | 254 | 223 | 140 | 197 | 166  |\n|  Rio das Pedras | 94 | 33 | 61 | — | 94 | 51 | 43  |\n|  Santa Bárbara d’Oeste | 29 | 8 | 21 | 13 | 16 | 15 | 14  |\n|  São Pedro | 5 | — | 5 | 5 | — | 3 | 2  |\n|  Tietê | 7 | 4 | 3 | 1 | 6 | 5 | 2  |\n|  Franca | 1 218 | 395 | 823 | 472 | 746 | 620 | 598  |\n|  Franca | 60 | 19 | 41 | 44 | 16 | 26 | 34  |\n|  Guará | 106 | 31 | 75 | 46 | 60 | 51 | 55  |\n|  Igarapava | 276 | 95 | 181 | 147 | 129 | 142 | 134  |\n|  Ituverava | 748 | 236 | 512 | 220 | 528 | 387 | 361  |\n|  Pedregulho | 28 | 14 | 14 | 15 | 13 | 14 | 14  |\n|  Ribeirão Preto | 2 693 | 804 | 1 889 | 1 305 | 1 388 | 1 392 | 1 301  |\n|  Batatais | 87 | 22 | 65 | 30 | 57 | 49 | 38  |\n|  Bendáequi | 25 | 6 | 19 | — | 25 | 13 | 12  |\n|  Cravinhos | 308 | 109 | 199 | 76 | 232 | 174 | 134  |\n|  Ipuã | 63 | 22 | 41 | 19 | 44 | 36 | 27  |\n|  Jardinópolis | 212 | 55 | 157 | 58 | 154 | 106 | 106  |\n|  Nuporanga | 1 | — | 1 | 1 | — | 1 | —  |\n|  Orlândia | 28 | 7 | 21 | 1 | 27 | 13 | 15  |\n|  Ribeirão Preto | 1 529 | 453 | 1 076 | 960 | 569 | 782 | 747  |\n|  Sales de Oliveira | 17 | 3 | 14 | — | 17 | 8 | 9  |\n|  Santa Rita do Passa Quatro | 5 | 1 | 4 | — | 5 | 2 | 3  |\n|  Santa Rosa de Viterbo | 21 | 8 | 13 | 2 | 19 | 11 | 10  |\n|  Santo Antônio da Alegria | 1 | — | 1 | — | 1 | — | 1  |\n|  São Joaquim da Barra | 148 | 43 | 105 | 57 | 91 | 69 | 79  |\n|  São Simão | 36 | 13 | 23 | 8 | 28 | 21 | 15  |\n|  Serra Azul | 21 | 5 | 16 | — | 21 | 11 | 10  |\n|  Sertãozinho | 191 | 57 | 134 | 93 | 98 | 96 | 95  |\n|  Araraquara | 4 621 | 1 475 | 3 146 | 1 613 | 3 008 | 2 341 | 2 280  |\n|  Araraquara | 1 265 | 354 | 911 | 654 | 611 | 623 | 642  |\n|  Barriha | 428 | 145 | 283 | 145 | 283 | 208 | 220  |\n|  Guariba | 71 | 25 | 46 | — | 71 | 39 | 32  |\n|  Jaboticabal | 896 | 284 | 612 | 440 | 456 | 440 | 456  |\n|  Matão | 58 | 15 | 43 | 15 | 43 | 29 | 29  |\n|  Monte Alto | 690 | 242 | 448 | 125 | 565 | 354 | 336  |\n|  Iincão | 121 | 35 | 86 | 36 | 85 | 65 | 56  |\n|  Taiaçu | 22 | 10 | 12 | 5 | 17 | 12 | 10  |\n|  Tauúva | 106 | 47 | 59 | 10 | 96 | 57 | 49  |\n|  Taquaritinga | 964 | 318 | 646 | 183 | 781 | 514 | 450  |\n|  São Carlos e Jau | 983 | 321 | 662 | 404 | 579 | 558 | 425  |\n|  Barra Bonita | 29 | 8 | 21 | 1 | 28 | 19 | 10  |\n|  Brotas | 16 | 5 | 11 | — | 16 | 9 | 7  |\n|  Ibaté | 32 | 11 | 21 | — | 32 | 18 | 14  |\n|  Itapuí | 8 | 3 | 5 | — | 8 | 4 | 4  |\n|  Jau | 158 | 52 | 106 | 127 | 31 | 86 | 72  |\n|  Macatuba | 14 | 6 | 8 | 1 | 13 | 8 | 6  |\n|  Pederneiras | 69 | 21 | 48 | 31 | 38 | 37 | 32  |\n|  Ribeirão Bonito | 48 | 16 | 32 | 22 | 26 | 25 | 23  |\n|  São Carlos | 592 | 197 | 395 | 222 | 370 | 342 | 250  |\n|  Torrinha | 17 | 2 | 15 | — | 17 | 10 | 7  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9961619152670341,
+          "minimum_page_confidence_score": 0.08292372495030349
+        },
+        "blocks": null
+      },
+      {
+        "index": 4,
+        "markdown": "10 分布 (人口)\n\n1 州，地方，郡——世代，居住地，男女別（つづき）\n\n[tbl-4.md](tbl-4.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-4.md",
+            "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル生まれ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Botucatu | 1 550 | 419 | 1 131 | 919 | 631 | 829 | 721  |\n|  Agudos | 139 | 29 | 110 | 103 | 36 | 71 | 68  |\n|  Avaré | 880 | 262 | 618 | 607 | 273 | 463 | 417  |\n|  Botucatu | 192 | 50 | 142 | 49 | 143 | 108 | 84  |\n|  Cerqueira César | 106 | 26 | 80 | — | 106 | 54 | 52  |\n|  Itatinga | 23 | 2 | 21 | 13 | 10 | 15 | 8  |\n|  Lençóis Paulista | 36 | 8 | 28 | 17 | 19 | 20 | 16  |\n|  Santa Bárbara do Rio Pardo | 20 | 8 | 12 | — | 20 | 7 | 13  |\n|  São Manuel | 154 | 34 | 120 | 130 | 24 | 91 | 63  |\n|  Piraju | 287 | 96 | 191 | 150 | 137 | 154 | 133  |\n|  Chavantes | 126 | 41 | 85 | 60 | 66 | 65 | 61  |\n|  Ipauçu | 47 | 16 | 31 | 36 | 11 | 26 | 21  |\n|  Óleo | 2 | 2 | — | 2 | — | 1 | 1  |\n|  Piraju | 112 | 37 | 75 | 52 | 60 | 62 | 50  |\n|  Barretos | 8 773 | 2 630 | 6 143 | 2 028 | 6 745 | 4 595 | 4 178  |\n|  Barretos | 2 288 | 665 | 1 623 | 915 | 1 373 | 1 212 | 1 076  |\n|  Bebedouro | 110 | 31 | 79 | 10 | 100 | 56 | 54  |\n|  Colina | 172 | 52 | 120 | 74 | 98 | 90 | 82  |\n|  Guaira | 1 637 | 506 | 1 131 | 351 | 1 286 | 856 | 781  |\n|  Guaraci | 292 | 94 | 198 | 17 | 275 | 157 | 135  |\n|  Izém | 33 | 7 | 26 | — | 33 | 14 | 19  |\n|  Jaborandi | 20 | 7 | 13 | 13 | 7 | 9 | 11  |\n|  Miguelópolis | 1 075 | 304 | 771 | 154 | 921 | 545 | 530  |\n|  Monte Azul Paulista | 27 | 8 | 19 | — | 27 | 16 | 11  |\n|  Morro Agudo | 464 | 138 | 326 | 41 | 423 | 249 | 215  |\n|  Nova Granada | 447 | 122 | 325 | 102 | 345 | 219 | 228  |\n|  Olímpia | 513 | 167 | 346 | 191 | 322 | 272 | 241  |\n|  Palestina | 252 | 78 | 174 | 11 | 241 | 135 | 117  |\n|  Paraíso | 1 | — | 1 | 1 | — | — | 1  |\n|  Paulo de Faria | 548 | 171 | 377 | 12 | 536 | 301 | 247  |\n|  Pirangi | 38 | 12 | 26 | — | 38 | 20 | 18  |\n|  Pitangueiras | 69 | 25 | 44 | 4 | 65 | 37 | 32  |\n|  Pontal | 35 | 14 | 21 | — | 35 | 21 | 14  |\n|  Riolândia | 273 | 69 | 204 | 44 | 229 | 140 | 133  |\n|  Severínia | 10 | 2 | 8 | — | 10 | 5 | 5  |\n|  Terra Rosa | 325 | 109 | 216 | 31 | 294 | 165 | 160  |\n|  Viradouro | 144 | 49 | 95 | 57 | 87 | 76 | 68  |\n|  Catanduva | 2 138 | 630 | 1 508 | 753 | 1 385 | 1 084 | 1 054  |\n|  Arianha | 2 | 2 | — | — | 2 | 1 | 1  |\n|  Bariri | 52 | 15 | 37 | 20 | 32 | 21 | 31  |\n|  Borborema | 37 | 12 | 25 | 13 | 24 | 18 | 19  |\n|  Catanduva | 648 | 184 | 464 | 348 | 300 | 335 | 313  |\n|  Fernando Prestes | 37 | 9 | 28 | — | 37 | 18 | 19  |\n|  Ibirá | 27 | 7 | 20 | — | 27 | 9 | 18  |\n|  Ibitinga | 246 | 65 | 181 | 77 | 169 | 121 | 125  |\n|  Irapuã | 8 | 2 | 6 | — | 8 | 3 | 5  |\n|  Itápolis | 156 | 45 | 111 | 20 | 136 | 76 | 80  |\n|  Nova Europa | 50 | 19 | 31 | — | 50 | 25 | 25  |\n|  Novo Horizonte | 199 | 74 | 125 | 122 | 77 | 101 | 98  |\n|  Pindorama | 143 | 32 | 111 | 53 | 90 | 74 | 69  |\n|  Santa Adélia | 239 | 86 | 153 | 56 | 183 | 127 | 112  |\n|  Tabapuã | 40 | 7 | 33 | — | 40 | 20 | 20  |\n|  Tabatinga | 196 | 59 | 137 | 17 | 179 | 108 | 88  |\n|  Urupês | 58 | 12 | 46 | 27 | 31 | 27 | 31  |\n|  Rio Prêto | 3 676 | 1 075 | 2 601 | 1 240 | 2 436 | 1 911 | 1 765  |\n|  Auriflama | 49 | 19 | 30 | 9 | 40 | 25 | 24  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9969817119694725,
+          "minimum_page_confidence_score": 0.36178763476104986
+        },
+        "blocks": null
+      },
+      {
+        "index": 5,
+        "markdown": "Geographical Distribution (Population) 11\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-5.md](tbl-5.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-5.md",
+            "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 れ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Bálsamo | 14 | 5 | 9 | 11 | 3 | 7 | 7  |\n|  Buritama | 28 | 6 | 22 | 12 | 16 | 16 | 12  |\n|  Cardoso | 56 | 13 | 43 | 3 | 53 | 29 | 27  |\n|  Cosmorama | 1 | — | 1 | — | 1 | 1 | —  |\n|  General Salgado | 30 | 12 | 18 | — | 30 | 16 | 14  |\n|  José Bonifácio | 159 | 43 | 116 | — | 159 | 84 | 75  |\n|  Macaubal | 1 | — | 1 | 1 | — | — | 1  |\n|  Mirassol | 190 | 53 | 137 | 90 | 100 | 94 | 96  |\n|  Monte Aprasível | 107 | 30 | 77 | 32 | 75 | 47 | 60  |\n|  Nhandeara | 23 | 11 | 12 | — | 23 | 14 | 9  |\n|  Nova Aliança | 41 | 6 | 35 | 15 | 26 | 24 | 17  |\n|  Planalto | 150 | 45 | 105 | — | 150 | 84 | 66  |\n|  São José do Rio Prémio | 1 284 | 373 | 911 | 620 | 664 | 675 | 609  |\n|  Tanabi | 202 | 57 | 145 | 15 | 187 | 99 | 103  |\n|  Valentim Gentil | 151 | 42 | 109 | — | 151 | 85 | 66  |\n|  Votuporanga | 1 190 | 360 | 830 | 432 | 758 | 611 | 579  |\n|  Jales | 6 407 | 1 876 | 4 531 | 1 576 | 4 831 | 3 326 | 3 081  |\n|  Estréla d'Oeste | 175 | 52 | 123 | 28 | 147 | 94 | 81  |\n|  Fernandópolis | 1 703 | 495 | 1 208 | 456 | 1 247 | 859 | 844  |\n|  Jales | 3 143 | 927 | 2 216 | 628 | 2 515 | 1 630 | 1 513  |\n|  Santa Fé do Sul | 1 386 | 402 | 984 | 464 | 922 | 743 | 643  |\n|  Bauru | 17 151 | 5 293 | 11 858 | 7 197 | 9 954 | 8 868 | 8 283  |\n|  Alto Alegre | 396 | 114 | 282 | 49 | 347 | 208 | 188  |\n|  Avanhandava | 332 | 169 | 163 | 12 | 320 | 161 | 171  |\n|  Avaí | 323 | 82 | 241 | — | 323 | 162 | 161  |\n|  Bauru | 3 562 | 1 122 | 2 440 | 1 707 | 1 855 | 1 798 | 1 764  |\n|  Cabrália Paulista | 9 | 5 | 4 | 2 | 7 | 6 | 3  |\n|  Cafelândia | 1 653 | 609 | 1 044 | 384 | 1 269 | 865 | 788  |\n|  Duartina | 794 | 300 | 494 | 223 | 571 | 417 | 377  |\n|  Guaíçara | 924 | 263 | 661 | 157 | 767 | 494 | 430  |\n|  Guarantã | 167 | 43 | 124 | 41 | 126 | 90 | 77  |\n|  Iacanga | 59 | 26 | 33 | 15 | 44 | 33 | 26  |\n|  Lins | 5 175 | 1 491 | 3 684 | 3 140 | 2 035 | 2 706 | 2 469  |\n|  Lucianópolis | 31 | 11 | 20 | — | 31 | 14 | 17  |\n|  Penápolis | 897 | 239 | 658 | 375 | 522 | 454 | 443  |\n|  Pirajuí | 284 | 94 | 190 | 116 | 168 | 158 | 126  |\n|  Piratininga | 230 | 76 | 154 | 45 | 185 | 125 | 105  |\n|  Presidente Alves | 103 | 36 | 67 | 12 | 91 | 53 | 50  |\n|  Promissão | 2 033 | 567 | 1 466 | 885 | 1 148 | 1 031 | 1 002  |\n|  Reginópolis | 4 | 2 | 2 | 4 | — | 3 | 1  |\n|  Sabino | 175 | 44 | 131 | 30 | 145 | 90 | 85  |\n|  Araçatuba | 28 789 | 8 539 | 20 250 | 11 327 | 17 462 | 14 703 | 14 086  |\n|  Andradina | 2 300 | 643 | 1 657 | 1 318 | 982 | 1 190 | 1 110  |\n|  Araçatuba | 6 231 | 1 787 | 4 444 | 3 498 | 2 733 | 3 197 | 3 034  |\n|  Bento de Abreu | 80 | 24 | 56 | 16 | 64 | 40 | 40  |\n|  Bilac | 1 509 | 378 | 1 131 | 337 | 1 172 | 765 | 744  |\n|  Birigui | 1 195 | 314 | 881 | 728 | 467 | 608 | 587  |\n|  Braúna | 234 | 66 | 168 | 95 | 139 | 121 | 113  |\n|  Castilho | 402 | 122 | 280 | 97 | 305 | 216 | 186  |\n|  Clementina | 1 869 | 575 | 1 294 | 291 | 1 578 | 985 | 884  |\n|  Coroados | 599 | 177 | 422 | 22 | 577 | 310 | 289  |\n|  Glicério | 55 | 19 | 36 | 17 | 38 | 24 | 31  |\n|  Guaraçáí | 1 435 | 445 | 990 | 248 | 1 187 | 730 | 705  |\n|  Guararapes | 2 948 | 811 | 2 137 | 1 008 | 1 940 | 1 491 | 1 457  |\n|  Lavínia | 629 | 171 | 458 | 245 | 384 | 314 | 315  |\n|  Mirandópolis | 4 108 | 1 350 | 2 758 | 1 375 | 2 733 | 2 067 | 2 041  |\n|  Murutinga do Sul | 117 | 28 | 89 | 55 | 62 | 62 | 55  |\n|  Pereira Barreto | 3 546 | 1 193 | 2 353 | 1 424 | 2 122 | 1 793 | 1 753  |\n|  Piacatu | 316 | 81 | 235 | 14 | 302 | 166 | 150  |\n|  Rubiácea | 12 | 4 | 8 | — | 12 | 7 | 5  |\n|  Valparaíso | 1 204 | 351 | 853 | 539 | 665 | 617 | 587  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9966942959469567,
+          "minimum_page_confidence_score": 0.28028132429894753
+        },
+        "blocks": null
+      },
+      {
+        "index": 6,
+        "markdown": "12 分布 (人口)\n\n1 州，地方，郡——世代，居住地，男女別 （つづき）\n\n[tbl-6.md](tbl-6.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-6.md",
+            "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル生れ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Marilia | 50 512 | 15 907 | 34 605 | 19 561 | 30 951 | 25 710 | 24 802  |\n|  Adamantina | 4 080 | 1 206 | 2 874 | 1 959 | 2 121 | 2 107 | 1 973  |\n|  Álvaro de Carvalho | 11 | 5 | 6 | 10 | 1 | 7 | 4  |\n|  Bastos | 4 020 | 1 479 | 2 541 | 1 583 | 2 437 | 1 979 | 2 041  |\n|  Flora Rica | 329 | 96 | 233 | — | 329 | 165 | 164  |\n|  Flórida Paulista | 1 859 | 563 | 1 296 | 435 | 1 424 | 949 | 910  |\n|  Gália | 408 | 190 | 218 | 122 | 286 | 195 | 213  |\n|  Garça | 1 780 | 554 | 1 226 | 947 | 833 | 929 | 851  |\n|  Getulina | 2 031 | 652 | 1 379 | 453 | 1 578 | 1 048 | 983  |\n|  Guaimbé | 1 207 | 408 | 799 | 246 | 961 | 596 | 611  |\n|  Herculândia | 124 | 28 | 96 | 67 | 57 | 59 | 65  |\n|  Irapuru | 2 273 | 652 | 1 621 | 186 | 2 087 | 1 166 | 1 107  |\n|  Júlio Mesquita | 746 | 284 | 462 | — | 746 | 388 | 358  |\n|  Junqueirópolis | 3 089 | 921 | 2 168 | 652 | 2 437 | 1 574 | 1 515  |\n|  Lucélia | 2 781 | 800 | 1 981 | 998 | 1 783 | 1 472 | 1 309  |\n|  Mariápolis | 35 | 13 | 22 | 1 | 34 | 17 | 18  |\n|  Marília | 8 676 | 2 742 | 5 934 | 4 914 | 3 762 | 4 421 | 4 255  |\n|  Oriente | 306 | 91 | 215 | 122 | 184 | 153 | 153  |\n|  Osvaldo Cruz | 2 588 | 803 | 1 785 | 1 397 | 1 191 | 1 295 | 1 293  |\n|  Pacaembu | 3 939 | 1 086 | 2 853 | 858 | 3 081 | 2 016 | 1 923  |\n|  Parapuã | 716 | 254 | 462 | 227 | 489 | 363 | 353  |\n|  Pompéia | 2 688 | 864 | 1 824 | 997 | 1 691 | 1 331 | 1 357  |\n|  Quintana | 345 | 108 | 237 | 87 | 258 | 179 | 166  |\n|  Rinópolis | 600 | 215 | 385 | 261 | 339 | 317 | 283  |\n|  Tupã | 5 440 | 1 747 | 3 693 | 2 813 | 2 627 | 2 764 | 2 676  |\n|  Vera Cruz | 441 | 146 | 295 | 226 | 215 | 220 | 221  |\n|  Dracena | 4 970 | 1 459 | 3 511 | 1 904 | 3 066 | 2 630 | 2 340  |\n|  Dracena | 2 763 | 849 | 1 914 | 1 207 | 1 556 | 1 485 | 1 278  |\n|  Monte Castelo | 183 | 47 | 186 | 54 | 129 | 95 | 88  |\n|  Ouro Verde | 234 | 63 | 171 | 23 | 211 | 128 | 106  |\n|  Panorama | 34 | 13 | 21 | 3 | 31 | 17 | 17  |\n|  Paulicéia | 185 | 66 | 119 | — | 185 | 100 | 85  |\n|  Santa Mercedes | 715 | 182 | 533 | 139 | 576 | 378 | 337  |\n|  Tupi Paulista | 856 | 239 | 617 | 478 | 378 | 427 | 429  |\n|  Assis | 6 318 | 1 946 | 4 372 | 2 637 | 3 681 | 3 253 | 3 065  |\n|  Assis | 730 | 208 | 522 | 332 | 398 | 384 | 346  |\n|  Cândido Mota | 99 | 37 | 62 | 18 | 81 | 59 | 40  |\n|  Echaporã | 108 | 29 | 79 | 34 | 74 | 56 | 52  |\n|  Ibirarema | 66 | 15 | 51 | 22 | 44 | 39 | 27  |\n|  Iepé | 7 | 7 | — | 2 | 5 | 5 | 2  |\n|  Lutécia | 65 | 23 | 42 | 28 | 37 | 35 | 30  |\n|  Maracal | 195 | 67 | 128 | 10 | 185 | 97 | 98  |\n|  Oscar Bressane | 4 | 1 | 3 | — | 4 | 2 | 2  |\n|  Ourinhos | 1 476 | 460 | 1 016 | 718 | 758 | 734 | 742  |\n|  Palmital | 62 | 18 | 44 | 16 | 46 | 34 | 28  |\n|  Paraguçu Paulista | 1 427 | 415 | 1 012 | 554 | 873 | 743 | 684  |\n|  Quatá | 183 | 50 | 133 | 142 | 41 | 94 | 89  |\n|  Rancharia | 719 | 231 | 488 | 433 | 286 | 365 | 354  |\n|  Salto Grande | 297 | 88 | 209 | 26 | 271 | 153 | 144  |\n|  Santa Cruz do Rio Pardo | 699 | 241 | 458 | 287 | 412 | 357 | 342  |\n|  São Pedro do Turvo | 181 | 56 | 125 | 15 | 166 | 96 | 85  |\n|  Presidente Prudente | 22 193 | 6 284 | 15 909 | 8 119 | 14 074 | 11 378 | 10 815  |\n|  Alfredo Marcondes | 785 | 265 | 520 | 52 | 733 | 407 | 378  |\n|  Álvares Machado | 2 752 | 760 | 1 992 | 727 | 2 025 | 1 414 | 1 338  |\n|  Anhumas | 52 | 8 | 44 | — | 52 | 23 | 29  |\n|  Caiabu | 483 | 127 | 356 | 43 | 440 | 244 | 239  |\n|  Indiana | 116 | 35 | 81 | 35 | 81 | 66 | 50  |\n|  Martinópolis | 599 | 155 | 444 | 303 | 296 | 324 | 275  |\n|  Mirante do Paranapanema | 2 219 | 655 | 1 564 | 409 | 1 810 | 1 185 | 1 034  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9969688731694323,
+          "minimum_page_confidence_score": 0.239842771875731
+        },
+        "blocks": null
+      },
+      {
+        "index": 7,
+        "markdown": "Geographical Distribution (Population) 13\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-7.md](tbl-7.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-7.md",
+            "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 丸 Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Piquerobi | 57 | 15 | 42 | 31 | 26 | 27 | 30  |\n|  Pirapózinho | 2 156 | 595 | 1 561 | 388 | 1 768 | 1 101 | 1 055  |\n|  Presidente Bernardes | 1 451 | 477 | 974 | 414 | 1 037 | 755 | 696  |\n|  Presidente Epitácio | 318 | 94 | 224 | 237 | 81 | 156 | 162  |\n|  Presidente Prudente | 7 020 | 2 008 | 5 012 | 4 300 | 2 720 | 3 581 | 3 439  |\n|  Presidente Venceslau | 2 098 | 546 | 1 552 | 587 | 1 511 | 1 061 | 1 037  |\n|  Regente Feijó | 670 | 193 | 477 | 81 | 589 | 330 | 340  |\n|  Santo Anastácio | 1 405 | 343 | 1 062 | 512 | 893 | 697 | 708  |\n|  Taciba | 12 | 8 | 4 | — | 12 | 7 | 5  |\n|  Itapetininga—Itaporanga | 2 505 | 751 | 1 754 | 485 | 2 020 | 1 366 | 1 139  |\n|  Angatuba | 23 | 8 | 15 | 2 | 21 | 15 | 8  |\n|  Fartura | 97 | 26 | 71 | 32 | 65 | 47 | 50  |\n|  Guareí | 1 | — | 1 | 1 | — | — | 1  |\n|  Itaberá | 263 | 69 | 194 | 72 | 191 | 143 | 120  |\n|  Itai | 253 | 72 | 181 | 27 | 226 | 141 | 112  |\n|  Itapetininga | 740 | 233 | 507 | 154 | 586 | 387 | 353  |\n|  Itapeva | 159 | 50 | 109 | 42 | 117 | 89 | 70  |\n|  Itaporanga | 463 | 141 | 322 | 31 | 432 | 253 | 210  |\n|  Itararé | 63 | 19 | 44 | 47 | 16 | 35 | 28  |\n|  Paranapanema | 82 | 31 | 51 | — | 82 | 51 | 31  |\n|  Ribeirão Vermelho do Sul | 81 | 17 | 64 | — | 81 | 46 | 35  |\n|  Sarapuí | 117 | 32 | 85 | — | 117 | 70 | 47  |\n|  Taquarituba | 84 | 27 | 57 | 48 | 36 | 42 | 42  |\n|  Tatuí | 79 | 26 | 53 | 29 | 50 | 47 | 32  |\n|  Paranapiacaba | 6 621 | 2 398 | 4 223 | 777 | 5 844 | 3 388 | 3 233  |\n|  Apiai | 296 | 97 | 199 | 5 | 291 | 156 | 140  |\n|  Capão Bonito | 926 | 298 | 628 | 225 | 701 | 492 | 434  |\n|  Guapiara | 420 | 120 | 300 | 39 | 381 | 223 | 197  |\n|  Ibiúna | 1 630 | 634 | 996 | 138 | 1 492 | 898 | 732  |\n|  Iporanga | 1 | — | 1 | 1 | — | — | 1  |\n|  Piedade | 2 271 | 861 | 1 410 | 225 | 2 046 | 1 040 | 1 231  |\n|  Pilar do Sul | 639 | 226 | 413 | 81 | 558 | 343 | 296  |\n|  São Miguel Arcanjo | 438 | 162 | 276 | 63 | 375 | 236 | 202  |\n|  PARANÁ | 78 097 | 23 421 | 54 676 | 28 951 | 49 146 | 40 313 | 37 784  |\n|  Tomasina | 3 380 | 1 022 | 2 358 | 496 | 2 884 | 1 639 | 1 741  |\n|  Abatiá | 103 | 33 | 70 | 23 | 80 | 51 | 52  |\n|  Carlópolis | 906 | 331 | 575 | 117 | 789 | 479 | 427  |\n|  Curiúva | 103 | 27 | 76 | 10 | 93 | 54 | 49  |\n|  Ibaiti | 443 | 132 | 311 | 94 | 349 | 229 | 214  |\n|  Joaquim Távora | 482 | 154 | 328 | 114 | 368 | 250 | 232  |\n|  Jundiaí do Sul | 18 | 4 | 14 | 10 | 8 | 9 | 9  |\n|  Pinhalão | 15 | 4 | 11 | 15 | — | 7 | 8  |\n|  Quatiguá | 130 | 38 | 92 | 11 | 119 | 66 | 64  |\n|  Ribeirão do Pinhal | 274 | 76 | 198 | 47 | 227 | 109 | 165  |\n|  Siqueira Campos | 35 | 9 | 26 | 11 | 24 | 13 | 22  |\n|  Tomasina | 61 | 16 | 45 | 7 | 54 | 21 | 40  |\n|  Venceslau Braz | 810 | 198 | 612 | 37 | 773 | 351 | 459  |\n|  Jacarézinho | 3 920 | 1 259 | 2 661 | 1 249 | 2 671 | 2 047 | 1 873  |\n|  Andirá | 247 | 60 | 187 | 75 | 172 | 130 | 117  |\n|  Bandeirantes | 1 329 | 386 | 943 | 637 | 692 | 700 | 629  |\n|  Cambará | 1 039 | 435 | 604 | 260 | 779 | 509 | 530  |\n|  Itambaracá | 372 | 100 | 272 | 36 | 336 | 209 | 163  |\n|  Jacarézinho | 215 | 56 | 159 | 116 | 99 | 116 | 99  |\n|  Ribeirão Claro | 67 | 28 | 39 | 32 | 35 | 32 | 35  |\n|  Santa Amélia | 298 | 66 | 232 | 53 | 245 | 158 | 140  |\n|  Santo Antônio da Platina | 353 | 128 | 225 | 40 | 313 | 193 | 160  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9973780981412881,
+          "minimum_page_confidence_score": 0.2491860843189255
+        },
+        "blocks": null
+      },
+      {
+        "index": 8,
+        "markdown": "14 人口（分布）\n\n1 州，地方，郡——世代，居住地，男女別（つづき）\n\n[tbl-8.md](tbl-8.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-8.md",
+            "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 れ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Cornélio Procópio | 8792 | 2591 | 6201 | 1911 | 6881 | 4540 | 4252  |\n|  Amoreira | 2346 | 715 | 1631 | 144 | 2202 | 1208 | 1138  |\n|  Congoinhas | 100 | 26 | 74 | 19 | 81 | 53 | 47  |\n|  Cornélio Procópio | 896 | 262 | 634 | 371 | 525 | 483 | 413  |\n|  Leópolis | 87 | 36 | 51 | — | 87 | 38 | 49  |\n|  Nova Fátima | 257 | 95 | 162 | 8 | 249 | 138 | 119  |\n|  Santa Mariana | 949 | 271 | 678 | 370 | 579 | 503 | 446  |\n|  Sertaneja | 1204 | 362 | 842 | 107 | 1097 | 621 | 583  |\n|  Uraí | 2953 | 824 | 2129 | 892 | 2061 | 1496 | 1457  |\n|  Londrina | 26847 | 8092 | 18755 | 10921 | 15926 | 13717 | 13130  |\n|  Alvorada do Sul | 267 | 80 | 187 | 7 | 260 | 124 | 143  |\n|  Assaí | 6650 | 2039 | 4611 | 2623 | 4027 | 3395 | 3255  |\n|  Astorga | 827 | 237 | 590 | 401 | 426 | 435 | 392  |\n|  Bela Vista do Paraíso | 401 | 104 | 297 | 191 | 210 | 204 | 197  |\n|  Cafeira | 94 | 33 | 61 | 11 | 83 | 55 | 39  |\n|  Cambé | 622 | 180 | 442 | 203 | 419 | 320 | 302  |\n|  Centenário do Sul | 383 | 108 | 275 | 101 | 282 | 214 | 169  |\n|  Colorado | 1013 | 286 | 727 | 112 | 901 | 511 | 502  |\n|  Florestópolis | 39 | 21 | 18 | 22 | 17 | 20 | 19  |\n|  Guaraci | 312 | 88 | 224 | 139 | 173 | 162 | 150  |\n|  Biporã | 483 | 144 | 339 | 173 | 310 | 258 | 225  |\n|  Iguaraçu | 446 | 126 | 320 | 163 | 283 | 224 | 222  |\n|  Itaguajé | 268 | 85 | 183 | 122 | 146 | 140 | 128  |\n|  Jaguapá | 228 | 87 | 141 | 27 | 201 | 119 | 109  |\n|  Jatalzinho | 1047 | 360 | 687 | 92 | 955 | 524 | 523  |\n|  Lobato | 307 | 91 | 216 | 55 | 252 | 154 | 153  |\n|  Londrina | 8978 | 2669 | 6309 | 5143 | 3835 | 4626 | 4352  |\n|  Lupionópolis | 261 | 78 | 183 | 100 | 161 | 125 | 136  |\n|  Munhoz de Melo | 394 | 125 | 269 | 44 | 350 | 203 | 191  |\n|  Porecatu | 79 | 23 | 56 | 31 | 48 | 40 | 39  |\n|  Primeiro de Maio | 272 | 74 | 198 | 8 | 264 | 129 | 143  |\n|  Rolândia | 1800 | 546 | 1254 | 742 | 1058 | 869 | 931  |\n|  Sabãudia | 207 | 57 | 150 | 3 | 204 | 99 | 108  |\n|  Santa Fé | 291 | 89 | 202 | 74 | 217 | 152 | 139  |\n|  Santo Inácio | 114 | 29 | 85 | 22 | 92 | 67 | 47  |\n|  São Jerónimo da Serra | 993 | 308 | 685 | 290 | 703 | 513 | 480  |\n|  Sertanópolis | 71 | 25 | 46 | 22 | 49 | 35 | 36  |\n|  Apucarana | 7029 | 2040 | 4989 | 2868 | 4161 | 3589 | 3440  |\n|  Apucarana | 2432 | 754 | 1678 | 1138 | 1294 | 1247 | 1185  |\n|  Arapongas | 3094 | 843 | 2251 | 1187 | 1907 | 1565 | 1529  |\n|  Araruva | 132 | 37 | 95 | 50 | 82 | 71 | 61  |\n|  Bom Sucesso | 226 | 78 | 148 | 67 | 159 | 116 | 110  |\n|  Borrazópolis | 294 | 83 | 211 | 35 | 259 | 152 | 142  |\n|  Faxinal | 66 | 19 | 47 | 39 | 27 | 32 | 34  |\n|  Jandaú do Sul | 501 | 146 | 355 | 320 | 181 | 263 | 238  |\n|  Manuel Ribas | 95 | 25 | 70 | 5 | 90 | 51 | 44  |\n|  Pitanga | 9 | 2 | 7 | 9 | — | 3 | 6  |\n|  São Pedro do Ivaí | 180 | 53 | 127 | 18 | 162 | 89 | 91  |\n|  Maringá | 15533 | 4553 | 10980 | 6712 | 8821 | 7977 | 7556  |\n|  Alto Paraná | 644 | 185 | 459 | 260 | 384 | 331 | 313  |\n|  Araruna | 32 | 10 | 22 | 13 | 19 | 13 | 19  |\n|  Campo Mourão | 616 | 193 | 423 | 130 | 486 | 324 | 292  |\n|  Cianorte | 472 | 118 | 354 | 323 | 149 | 236 | 236  |\n|  Cruzeiro do Sul | 374 | 118 | 256 | 9 | 365 | 186 | 188  |\n|  Engenheiro Beltrão | 19 | 14 | 5 | — | 19 | 12 | 7  |\n|  Floraí | 836 | 243 | 593 | 40 | 796 | 440 | 396  |\n|  Jussara | 278 | 78 | 200 | 128 | 150 | 145 | 133  |\n|  Mandoguaçu | 200 | 58 | 142 | 96 | 104 | 101 | 99  |\n|  Mandaguari | 746 | 198 | 548 | 456 | 290 | 395 | 351  |\n|  Marialva | 1474 | 492 | 982 | 554 | 920 | 738 | 736  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9962278912071741,
+          "minimum_page_confidence_score": 0.22523393055716603
+        },
+        "blocks": null
+      },
+      {
+        "index": 9,
+        "markdown": "Geographical Distribution (Population) 15\n\n1 BY STATE, REGION MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-9.md](tbl-9.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-9.md",
+            "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生れ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Maringá | 5 522 | 1 575 | 3 947 | 3 318 | 2 204 | 2 833 | 2 689  |\n|  Nova Esperança | 2 742 | 749 | 1 993 | 982 | 1 760 | 1 400 | 1 342  |\n|  Paranacity | 247 | 77 | 170 | 1 | 246 | 132 | 115  |\n|  Peabiru | 168 | 58 | 110 | 60 | 108 | 88 | 80  |\n|  São João do Caiuá | 197 | 85 | 112 | 54 | 143 | 104 | 93  |\n|  São Jorge | 513 | 161 | 352 | 115 | 398 | 263 | 250  |\n|  Terra Boa | 453 | 141 | 312 | 173 | 280 | 236 | 217  |\n|  Paranavaí | 5 394 | 1 611 | 3 783 | 1 778 | 3 616 | 2 856 | 2 538  |\n|  Loanda | 286 | 101 | 185 | 147 | 139 | 144 | 142  |\n|  Nova Londrina | 430 | 124 | 306 | 44 | 386 | 221 | 209  |\n|  Paraíso do Norte | 702 | 209 | 493 | 166 | 536 | 375 | 327  |\n|  Paranavaí | 2 248 | 653 | 1 595 | 1 120 | 1 128 | 1 198 | 1 050  |\n|  Querência do Norte | 1 | 1 | — | — | 1 | 1 | —  |\n|  Santa Cruz do Monte Castelo | 54 | 16 | 38 | 26 | 28 | 29 | 25  |\n|  Santa Isabel do Ivaí | 485 | 137 | 348 | 148 | 337 | 253 | 232  |\n|  São Carlos do Ivaí | 238 | 78 | 160 | 28 | 210 | 122 | 116  |\n|  Tamboara | 460 | 152 | 308 | 34 | 426 | 248 | 212  |\n|  Terra Rica | 490 | 140 | 350 | 65 | 425 | 265 | 225  |\n|  Cruzeiro do Oeste | 2 695 | 926 | 1 769 | 701 | 1 994 | 1 472 | 1 223  |\n|  Cruzeiro do Oeste | 1 789 | 605 | 1 184 | 612 | 1 177 | 957 | 832  |\n|  Goio-Ere | 90 | 42 | 48 | 1 | 89 | 55 | 35  |\n|  Guaíra | 378 | 126 | 252 | 54 | 324 | 215 | 163  |\n|  Rondon | 377 | 133 | 244 | 34 | 343 | 212 | 165  |\n|  Toledo | 61 | 20 | 41 | — | 61 | 33 | 28  |\n|  Litoral | 1 166 | 389 | 777 | 532 | 634 | 601 | 565  |\n|  Antonina | 9 | 3 | 6 | — | 9 | 6 | 3  |\n|  Guaratuba | 10 | 2 | 8 | — | 10 | 6 | 4  |\n|  Morretes | 11 | 4 | 7 | — | 11 | 3 | 8  |\n|  Paranaguá | 1 136 | 380 | 756 | 532 | 604 | 586 | 550  |\n|  Castro | 3 | — | 3 | 3 | — | 3 | —  |\n|  Castro | 3 | — | 3 | 3 | — | 3 | —  |\n|  Curitiba | 3 143 | 884 | 2 259 | 1 680 | 1 463 | 1 747 | 1 396  |\n|  Araucária | 361 | 115 | 246 | 19 | 342 | 189 | 172  |\n|  Campina Grande do Sul | 61 | 16 | 45 | — | 61 | 33 | 28  |\n|  Campo Largo | 1 | 1 | — | — | 1 | 1 | —  |\n|  Curitiba | 2 417 | 664 | 1 753 | 1 629 | 788 | 1 364 | 1 053  |\n|  Piraquara | 24 | 6 | 18 | — | 24 | 15 | 9  |\n|  Rio Negro | 98 | 34 | 64 | 9 | 89 | 54 | 44  |\n|  São José dos Pinhais | 171 | 46 | 125 | 23 | 148 | 85 | 86  |\n|  Tijucas do Sul | 10 | 2 | 8 | — | 10 | 6 | 4  |\n|  Campos Gerais | 164 | 41 | 123 | 83 | 81 | 106 | 58  |\n|  Contenda | 12 | 5 | 7 | — | 12 | 7 | 5  |\n|  Lapa | 13 | 7 | 6 | 2 | 11 | 6 | 7  |\n|  Palmeira | 9 | 1 | 8 | — | 9 | 3 | 6  |\n|  Ponta Grossa | 84 | 14 | 70 | 72 | 12 | 63 | 21  |\n|  Sengés | 36 | 8 | 28 | 3 | 33 | 20 | 16  |\n|  Tibagi | 10 | 6 | 4 | 6 | 4 | 7 | 3  |\n|  Sudoeste do Paraná | 31 | 13 | 18 | 17 | 14 | 19 | 12  |\n|  Cascavel | 9 | 4 | 5 | 5 | 4 | 7 | 2  |\n|  Foz do Iguaçu | 10 | 4 | 6 | 10 | — | 6 | 4  |\n|  Santo Antônio | 10 | 4 | 6 | — | 10 | 4 | 6  |\n|  União da Vitória | 2 | 1 | 1 | 2 | — | 2 | —  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.998086973011531,
+          "minimum_page_confidence_score": 0.438459093422751
+        },
+        "blocks": null
+      },
+      {
+        "index": 10,
+        "markdown": "16 分布 (人口)\n\n1 州, 地 方, 郡——世 代, 居 住 地, 男 女 別 (つづき)\n\n[tbl-10.md](tbl-10.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-10.md",
+            "content": "|   | Total | 世 代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 れ Descendants | 市街地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  MATO GROSSO | 8 886 | 2 730 | 6 156 | 3 253 | 5 633 | 4 790 | 4 096  |\n|  Dourados | 2 136 | 920 | 1 216 | 645 | 1 491 | 1 158 | 978  |\n|  Bataguaçu | 1 | — | 1 | — | 1 | 1 | —  |\n|  Bela Vista | 8 | 2 | 6 | 7 | 1 | 7 | 1  |\n|  Dourados | 1 838 | 844 | 994 | 543 | 1 295 | 978 | 860  |\n|  Itaporã | 204 | 51 | 153 | 73 | 131 | 121 | 83  |\n|  Maracaju | 4 | 2 | 2 | 4 | — | 2 | 2  |\n|  Nicoque | 6 | — | 6 | 6 | — | 6 | —  |\n|  Rio Brilhante | 75 | 21 | 54 | 12 | 63 | 43 | 32  |\n|  Campo Grande | 5 821 | 1 502 | 4 319 | 2 388 | 3 433 | 3 123 | 2 698  |\n|  Aparecida do Taboado | 69 | 20 | 49 | 24 | 45 | 35 | 34  |\n|  Aquidauana | 255 | 60 | 195 | 158 | 97 | 136 | 119  |\n|  Campo Grande | 4 010 | 1 003 | 3 007 | 1 944 | 2 066 | 2 128 | 1 882  |\n|  Corguinho | 602 | 164 | 438 | 31 | 571 | 325 | 277  |\n|  Corumbá | 22 | 4 | 18 | 21 | 1 | 21 | 1  |\n|  Jaraguari | 171 | 51 | 120 | 11 | 160 | 95 | 76  |\n|  Miranda | 49 | 13 | 36 | 30 | 19 | 27 | 22  |\n|  Ribas do Rio Pardo | 90 | 32 | 58 | — | 90 | 44 | 46  |\n|  Sidrolândia | 157 | 53 | 104 | 1 | 156 | 91 | 66  |\n|  Terenos | 163 | 42 | 121 | 1 | 162 | 97 | 66  |\n|  Três Lagoas | 233 | 60 | 173 | 167 | 66 | 124 | 109  |\n|  Central Mato Grosso | 929 | 308 | 621 | 220 | 709 | 509 | 420  |\n|  Barra do Bugres | 6 | 4 | 2 | — | 6 | 5 | 1  |\n|  Cáceres | 69 | 20 | 49 | 32 | 37 | 32 | 37  |\n|  Chapada dos Guimarães | 209 | 80 | 129 | — | 209 | 118 | 91  |\n|  Cuiabá | 279 | 88 | 191 | 104 | 175 | 143 | 136  |\n|  Guiratinga | 2 | — | 2 | 2 | — | — | 2  |\n|  Mato Grosso | 1 | 1 | — | — | 1 | 1 | —  |\n|  Ponte Branca | 189 | 52 | 137 | 13 | 176 | 112 | 77  |\n|  Rondonópolis | 172 | 61 | 111 | 67 | 105 | 97 | 75  |\n|  Santo Antônimo do Leverger | 1 | 1 | — | 1 | — | — | 1  |\n|  Várzea Grande | 1 | 1 | — | 1 | — | 1 | —  |\n|  GOIÁS | 1 793 | 521 | 1 272 | 682 | 1 111 | 938 | 855  |\n|  Amaro Leite | 10 | 2 | 8 | — | 10 | 5 | 5  |\n|  Anápolis | 266 | 71 | 195 | 85 | 181 | 146 | 120  |\n|  Brasília | 262 | 102 | 160 | 113 | 149 | 145 | 117  |\n|  Ceres | 232 | 70 | 162 | 3 | 229 | 120 | 112  |\n|  Cristalina | 1 | 1 | — | 1 | — | 1 | —  |\n|  Formosa | 48 | 21 | 27 | 40 | 8 | 21 | 27  |\n|  Goiandira | 15 | 2 | 13 | — | 15 | 9 | 6  |\n|  Goiânia | 497 | 127 | 370 | 288 | 209 | 251 | 246  |\n|  Inhumas | 52 | 18 | 34 | 25 | 27 | 31 | 21  |\n|  Ipameri | 2 | 1 | 1 | 2 | — | 1 | 1  |\n|  Iporá | 8 | — | 8 | 8 | — | 4 | 4  |\n|  Itaberaí | 1 | — | 1 | 1 | — | 1 | —  |\n|  Itapaci | 33 | 9 | 24 | — | 33 | 15 | 18  |\n|  Jaraguá | 66 | 16 | 50 | 35 | 31 | 30 | 36  |\n|  Jataí | 1 | 1 | — | 1 | — | 1 | —  |\n|  Nerópolis | 149 | 43 | 106 | 21 | 128 | 78 | 71  |\n|  Pires do Rio | 37 | 9 | 28 | 8 | 29 | 19 | 18  |\n|  Rialma | 66 | 18 | 48 | 51 | 15 | 35 | 31  |\n|  Ruhiataba | 5 | 2 | 3 | — | 5 | 2 | 3  |\n|  Trindade | 41 | 7 | 34 | — | 41 | 22 | 19  |\n|  Uruaçu | 1 | 1 | — | — | 1 | 1 | —  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9970322190930604,
+          "minimum_page_confidence_score": 0.4877590068160442
+        },
+        "blocks": null
+      },
+      {
+        "index": 11,
+        "markdown": "Geographical Distribution (Population) 17\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-11.md](tbl-11.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-11.md",
+            "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 九 Descendants | 市街地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  MINAS GERAIS | 2 878 | 854 | 2 024 | 1 091 | 1 787 | 1 555 | 1 323  |\n|  Triângulo Mineiro | 1 124 | 305 | 819 | 520 | 604 | 597 | 527  |\n|  Araguari | 129 | 26 | 103 | 60 | 69 | 70 | 59  |\n|  Capirópolis | 21 | 7 | 14 | 9 | 12 | 14 | 7  |\n|  Centralina | 6 | 1 | 5 | — | 6 | 4 | 2  |\n|  Conquista | 35 | 7 | 28 | 1 | 34 | 20 | 15  |\n|  Frutal | 81 | 27 | 54 | — | 81 | 39 | 42  |\n|  Ituiutata | 65 | 24 | 41 | 22 | 43 | 39 | 26  |\n|  Prata | 6 | 4 | 2 | — | 6 | 3 | 3  |\n|  Tupaciguara | 39 | 7 | 32 | 39 | — | 17 | 22  |\n|  Uterata | 558 | 143 | 415 | 293 | 265 | 294 | 264  |\n|  Uterlândia | 184 | 59 | 125 | 96 | 88 | 97 | 87  |\n|  Sul de Minas | 801 | 270 | 531 | 242 | 559 | 446 | 355  |\n|  Alfenas | 27 | 7 | 20 | 20 | 7 | 15 | 12  |\n|  Andradas | 10 | 5 | 5 | 10 | — | 5 | 5  |\n|  Camanducais | 24 | 14 | 10 | 9 | 15 | 17 | 7  |\n|  Cambui | 30 | 12 | 18 | — | 30 | 20 | 10  |\n|  Capetinga | 25 | 5 | 20 | — | 25 | 9 | 16  |\n|  Caxambu | 8 | 3 | 5 | 7 | 1 | 3 | 5  |\n|  Cristina | 1 | — | 1 | 1 | — | — | 1  |\n|  Delfim Moreira | 6 | 1 | 5 | — | 6 | 2 | 4  |\n|  Extrema | 249 | 83 | 166 | 26 | 223 | 130 | 119  |\n|  Guaxupé | 1 | — | 1 | — | 1 | 1 | —  |\n|  Itajubá | 66 | 21 | 45 | 39 | 27 | 43 | 23  |\n|  Itanhandu | 51 | 16 | 35 | 9 | 42 | 25 | 26  |\n|  Lambari | 8 | 4 | 4 | 8 | — | 5 | 3  |\n|  Machado | 11 | 4 | 7 | — | 11 | 6 | 5  |\n|  Maria da Fé | 39 | 15 | 24 | 12 | 27 | 24 | 15  |\n|  Monte Santo de Minas | 1 | — | 1 | 1 | — | 1 | —  |\n|  Ouro Fino | 15 | 3 | 12 | 4 | 11 | 6 | 9  |\n|  Parsos | 17 | 10 | 7 | 2 | 15 | 12 | 5  |\n|  Poços de Caldas | 72 | 30 | 42 | 46 | 26 | 36 | 36  |\n|  Pouso Alegre | 18 | 9 | 9 | 11 | 7 | 11 | 7  |\n|  Pratápolis | 21 | 3 | 18 | — | 21 | 11 | 10  |\n|  Santa Rita do Sapucaí | 10 | 2 | 8 | — | 10 | 6 | 4  |\n|  São Gonçalo do Sapucaí | 4 | 2 | 2 | 4 | — | 2 | 2  |\n|  São João Batista da Glória | 7 | 2 | 5 | 7 | — | 3 | 4  |\n|  São Lourenço | 50 | 12 | 38 | 19 | 31 | 31 | 19  |\n|  Toledo | 9 | 1 | 8 | — | 9 | 4 | 5  |\n|  Três Corações | 13 | 4 | 9 | 7 | 6 | 11 | 2  |\n|  Varginha | 8 | 2 | 6 | — | 8 | 7 | 1  |\n|  Belo Horizonte—Barbacena | 604 | 178 | 426 | 270 | 334 | 337 | 267  |\n|  Barbacena | 25 | 10 | 15 | 2 | 23 | 15 | 10  |\n|  Belo Horizonte | 325 | 94 | 231 | 247 | 78 | 194 | 131  |\n|  Betim | 53 | 16 | 37 | 1 | 52 | 28 | 25  |\n|  Bonfim | 12 | 3 | 9 | — | 12 | 8 | 4  |\n|  Brumadinho | 1 | — | 1 | — | 1 | 1 | —  |\n|  Carandal | 8 | 2 | 6 | — | 8 | 4 | 4  |\n|  Esmeraldas | 6 | 1 | 5 | — | 6 | 2 | 4  |\n|  Itabirito | 10 | 2 | 8 | — | 10 | 4 | 6  |\n|  Juiz de Fora | 55 | 22 | 33 | 2 | 53 | 25 | 30  |\n|  Matozinhos | 36 | 5 | 31 | — | 36 | 20 | 16  |\n|  Nova Lima | 16 | 4 | 12 | 10 | 6 | 7 | 9  |\n|  Ouro Branco | 7 | 4 | 3 | — | 7 | 4 | 3  |\n|  Pedro Leopoldo | 15 | 7 | 8 | — | 15 | 7 | 8  |\n|  Resende Costa | 5 | 4 | 1 | 1 | 4 | 3 | 2  |\n|  Ribeirão das Neves | 11 | 2 | 9 | — | 11 | 4 | 7  |\n|  Santa Luzia | 2 | — | 2 | 2 | — | 2 | —  |\n|  Vespasiano | 17 | 2 | 15 | 5 | 12 | 9 | 8  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.997330642590621,
+          "minimum_page_confidence_score": 0.3004341485639361
+        },
+        "blocks": null
+      },
+      {
+        "index": 12,
+        "markdown": "18 分布 (人口)\n\n1 州，地方，郡——世代，居住地，男女別（つづき）\n\n[tbl-12.md](tbl-12.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-12.md",
+            "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 れ Descendants | 市 街 地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  Outras Partes | 349 | 101 | 248 | 59 | 290 | 175 | 174  |\n|  Carnópolis de Minas | 6 | — | 6 | — | 6 | 3 | 3  |\n|  Corinto | 8 | 2 | 6 | — | 8 | 6 | 2  |\n|  Coronel Fabriciano | 2 | 2 | — | 2 | — | 1 | 1  |\n|  Curvelo | 1 | 1 | — | — | 1 | 1 | —  |\n|  Estréia do Sul | 1 | 1 | — | 1 | — | — | 1  |\n|  Itaúna | 45 | 11 | 34 | — | 45 | 22 | 23  |\n|  Itueta | 6 | 2 | 4 | — | 6 | 3 | 3  |\n|  Mateus Leme | 110 | 28 | 82 | — | 110 | 52 | 58  |\n|  Matias Barbosa | 10 | 4 | 6 | — | 10 | 5 | 5  |\n|  Monte Carmelo | 19 | 2 | 17 | 14 | 5 | 9 | 10  |\n|  Pará de Minas | 37 | 11 | 26 | 12 | 25 | 20 | 17  |\n|  Patos de Minas | 41 | 19 | 22 | 29 | 12 | 22 | 19  |\n|  Patrocínio | 8 | 2 | 6 | — | 8 | 2 | 6  |\n|  Rio Nôvo | 41 | 11 | 30 | — | 41 | 21 | 20  |\n|  Santana do Deserto | 13 | 5 | 8 | — | 13 | 8 | 5  |\n|  Teófilo Otoni | 1 | — | 1 | 1 | — | — | 1  |\n|  RIO DE JANEIRO | 4717 | 1687 | 3030 | 1073 | 3644 | 2505 | 2212  |\n|  Angra dos Reis | 299 | 82 | 217 | 266 | 33 | 145 | 154  |\n|  Barra do Piraí | 96 | 28 | 68 | 1 | 95 | 49 | 47  |\n|  Barra Mansa | 102 | 37 | 65 | 55 | 47 | 55 | 47  |\n|  Cabo Frio | 1 | — | 1 | 1 | — | 1 | —  |\n|  Cachoeiras de Macacu | 577 | 214 | 363 | 1 | 576 | 303 | 274  |\n|  Campos | 16 | 13 | 3 | 1 | 15 | 9 | 7  |\n|  Duas Barras | 5 | 2 | 3 | — | 5 | 2 | 3  |\n|  Duque de Caxias | 198 | 56 | 142 | 6 | 192 | 103 | 95  |\n|  Itaqual | 959 | 361 | 598 | 258 | 701 | 496 | 463  |\n|  Itaperuna | 25 | 6 | 19 | — | 25 | 14 | 11  |\n|  Macaé | 5 | 1 | 4 | — | 5 | 2 | 3  |\n|  Mangaratiba | 8 | 3 | 5 | 5 | 3 | 3 | 5  |\n|  Marques de Valença | 426 | 154 | 272 | 7 | 419 | 234 | 192  |\n|  Miguel Pereira | 17 | 7 | 10 | — | 17 | 10 | 7  |\n|  Nilópolis | 39 | 11 | 28 | 39 | — | 22 | 17  |\n|  Niteroi | 235 | 92 | 143 | 211 | 24 | 115 | 120  |\n|  Nova Friburgo | 144 | 52 | 92 | 38 | 106 | 79 | 65  |\n|  Nova Iguaçu | 231 | 89 | 142 | 31 | 200 | 133 | 98  |\n|  Paraíba do Sul | 9 | 2 | 7 | — | 9 | 5 | 4  |\n|  Petrópolis | 143 | 45 | 98 | 17 | 126 | 66 | 77  |\n|  Piraí | 7 | 6 | 1 | — | 7 | 4 | 3  |\n|  Resende | 108 | 45 | 63 | 27 | 81 | 68 | 40  |\n|  Rio Bonito | 60 | 18 | 42 | — | 60 | 31 | 29  |\n|  São Gonçalo | 7 | 1 | 6 | 7 | — | 6 | 1  |\n|  São João de Meriti | 40 | 18 | 22 | 23 | 17 | 22 | 18  |\n|  São Pedro da Aldeia | 10 | 7 | 3 | 4 | 6 | 4 | 6  |\n|  São Sebastião do Alto | 2 | 1 | 1 | — | 2 | 1 | 1  |\n|  Sapucaia | 27 | 6 | 21 | — | 27 | 18 | 9  |\n|  Silva Jardim | 5 | 4 | 1 | 1 | 4 | 4 | 1  |\n|  Sumidouro | 105 | 46 | 59 | — | 105 | 56 | 49  |\n|  Teresópolis | 573 | 174 | 399 | 39 | 534 | 311 | 262  |\n|  Três Rios | 104 | 58 | 46 | 15 | 89 | 63 | 41  |\n|  Vassouras | 87 | 36 | 51 | 2 | 85 | 44 | 43  |\n|  Volta Redonda | 47 | 12 | 35 | 18 | 29 | 27 | 20  |\n|  GUANABARA | 1086 | 390 | 696 | 832 | 254 | 653 | 433  |\n|  RONDÔNIA | 157 | 132 | 25 | — | 157 | 83 | 74  |\n|  ACRE | 3 | 1 | 2 | — | 3 | 1 | 2  |\n|  AMAZONAS | 760 | 408 | 352 | 144 | 616 | 417 | 343  |\n|  Barreirinha | 34 | 12 | 22 | — | 34 | 20 | 14  |\n|  Careiro | 5 | 2 | 3 | — | 5 | 5 | —  |\n|  Fonte Boa | 1 | — | 1 | 1 | — | 1 | —  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9967051945197992,
+          "minimum_page_confidence_score": 0.2455331721128336
+        },
+        "blocks": null
+      },
+      {
+        "index": 13,
+        "markdown": "Geographical Distribution (Population) 19\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-13.md](tbl-13.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-13.md",
+            "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル生児 Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Itacoatiara | 85 | 36 | 49 | 7 | 78 | 48 | 37  |\n|  Itapiranga | 35 | 20 | 15 | — | 35 | 21 | 14  |\n|  Manacapuru | 78 | 67 | 11 | — | 78 | 40 | 38  |\n|  Manaus | 215 | 137 | 78 | 63 | 152 | 117 | 98  |\n|  Maués | 56 | 22 | 34 | 6 | 50 | 31 | 25  |\n|  Nova Olinda do Norte | 6 | 5 | 1 | — | 6 | 3 | 3  |\n|  Parintins | 162 | 78 | 84 | 53 | 109 | 87 | 75  |\n|  Silves | 7 | 1 | 6 | — | 7 | 5 | 2  |\n|  Urucará | 14 | 7 | 7 | 6 | 8 | 8 | 6  |\n|  Urucurituba | 62 | 21 | 41 | 8 | 54 | 31 | 31  |\n|  RIO BRANCO | 79 | 65 | 14 | 2 | 77 | 42 | 37  |\n|  PARÁ | 4 467 | 3 272 | 1 195 | 380 | 4 087 | 2 457 | 2 010  |\n|  Nordeste do Pará | 3 855 | 2 817 | 1 038 | 275 | 3 580 | 2 122 | 1 733  |\n|  Ananindeua | 421 | 326 | 95 | 29 | 392 | 232 | 189  |\n|  Barcarena | 85 | 55 | 30 | 7 | 78 | 48 | 37  |\n|  Belém | 527 | 271 | 256 | 196 | 331 | 301 | 226  |\n|  Bragança | 45 | 39 | 6 | — | 45 | 24 | 21  |\n|  Capanema | 48 | 22 | 26 | 28 | 20 | 22 | 26  |\n|  Castanhal | 21 | 17 | 4 | — | 21 | 14 | 7  |\n|  Guamá | 67 | 64 | 3 | — | 67 | 34 | 33  |\n|  Inhangapi | 299 | 286 | 13 | — | 299 | 169 | 130  |\n|  Irituia | 11 | 11 | — | — | 11 | 6 | 5  |\n|  João Coelho | 648 | 555 | 93 | — | 648 | 359 | 289  |\n|  Salinópolis | 8 | 8 | — | — | 8 | 7 | 1  |\n|  Soure | 16 | 16 | — | 4 | 12 | 9 | 7  |\n|  Tomé-Açu | 1 659 | 1 147 | 512 | 11 | 1 648 | 897 | 762  |\n|  Centro-oeste do Pará | 612 | 455 | 157 | 105 | 507 | 335 | 277  |\n|  Alenquer | 91 | 59 | 32 | 49 | 42 | 46 | 45  |\n|  Itaituba | 6 | 6 | — | — | 6 | 4 | 2  |\n|  Juruti | 29 | 14 | 15 | 3 | 26 | 16 | 13  |\n|  Monte Alegre | 398 | 339 | 59 | 16 | 382 | 223 | 175  |\n|  Óbidos | 6 | 3 | 3 | 4 | 2 | 3 | 3  |\n|  Oriximiná | 27 | 7 | 20 | 3 | 24 | 13 | 14  |\n|  Prainha | 2 | — | 2 | — | 2 | 2 | —  |\n|  Santarém | 53 | 27 | 26 | 30 | 23 | 28 | 25  |\n|  MARANHÃO | 22 | 12 | 10 | 1 | 21 | 11 | 11  |\n|  PIAUI | 16 | 14 | 2 | 1 | 15 | 8 | 8  |\n|  CEARÁ | 3 | 1 | 2 | 3 | — | 3 | —  |\n|  RIO GRANDE DO NORTE | 58 | 52 | 6 | 2 | 56 | 35 | 23  |\n|  PARAÍBA | 13 | 8 | 5 | — | 13 | 8 | 5  |\n|  PERNAMBUCO | 109 | 69 | 40 | 31 | 78 | 56 | 53  |\n|  SERGIPE | 3 | 2 | 1 | 3 | — | — | 3  |\n|  BAHIA | 256 | 164 | 92 | 12 | 244 | 138 | 118  |\n|  ESPÍRITO SANTO | 52 | 22 | 30 | 15 | 37 | 29 | 23  |\n|  SANTA CATARINA | 152 | 52 | 100 | 21 | 131 | 89 | 63  |\n|  RIO GRANDE DO SUL | 842 | 604 | 238 | 140 | 702 | 499 | 343  |\n|  DESCONHECIDOS | 166 | — | — | — | — | 92 | 74  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 96,
+          "height": 1017,
+          "width": 659
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9977006377927473,
+          "minimum_page_confidence_score": 0.21026773805988233
+        },
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 14,
+      "doc_size_bytes": 5712440
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "6 分布 (人口)\n\n1 州, 地 方, 郡——世 代, 居 住 地, 男 女 別\n\n[tbl-0.md](tbl-0.md)\n\n*1 细化ブラジル人 1 804 名, 日本又はブラジル以外の国籍をもつもの 103 名を含む\nIncluded 1 804 naturalized Brazilians and 103 persons with non-Japanese or non-Brazilian nationality\n*2 地方, 世代, 居住地不明のもの 106 名を含む\nIncluded 106 persons whose município, generation or urban-rural residence was not reported\n*3 親許で調査されたサンパウロ市在住の独身者\nSingle persons living in São Paulo who have been enumerated in respective families residing in the interior\n\n1985\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "6 分布 (人口)",
+        "1 州, 地 方, 郡——世 代, 居 住 地, 男 女 別",
+        "[tbl-0.md](tbl-0.md)",
+        "*1 细化ブラジル人 1 804 名, 日本又はブラジル以外の国籍をもつもの 103 名を含む",
+        "Included 1 804 naturalized Brazilians and 103 persons with non-Japanese or non-Brazilian nationality",
+        "*2 地方, 世代, 居住地不明のもの 106 名を含む",
+        "Included 106 persons whose município, generation or urban-rural residence was not reported",
+        "*3 親許で調査されたサンパウロ市在住の独身者",
+        "Single persons living in São Paulo who have been enumerated in respective families residing in the interior",
+        "1985",
+        "SEADE",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9946790873214959,
+        "minimum_page_confidence_score": 0.1763069818444951
+      },
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|   | Total | 世 代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 #1 Immigrants | ブラジル 生 れ Descendants | 市 街 地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  BRASIL | #2 430 135 | 138 637 | 291 332 | 193 207 | 236 762 | 223 289 | 206 846  |\n|  SÃO PAULO | 325 520 | 104 156 | 221 364 | 156 570 | 168 950 | 168 567 | 156 953  |\n|  Município de São Paulo | 77 930 | 25 990 | 51 940 | 70 757 | 7 173 | 40 756 | 37 174  |\n|  DISTRICTOS DE |  |  |  |  |  |  |   |\n|  Aclimação | 642 | 293 | 349 | 642 | — | 337 | 305  |\n|  Alto da Mooca | 1 157 | 362 | 795 | 1 157 | — | 592 | 565  |\n|  Barra Funda | 109 | 41 | 68 | 109 | — | 58 | 51  |\n|  Bela Vista | 469 | 200 | 269 | 469 | — | 242 | 227  |\n|  Belêneinho | 644 | 223 | 421 | 644 | — | 326 | 318  |\n|  Bom Retiro | 653 | 200 | 453 | 653 | — | 358 | 295  |\n|  Brás | 1 194 | 398 | 796 | 1 194 | — | 622 | 572  |\n|  Butantã | 4 499 | 1 578 | 2 921 | 4 347 | 152 | 2 327 | 2 172  |\n|  Cambuci | 1 650 | 624 | 1 026 | 1 650 | — | 844 | 806  |\n|  Casa Verde | 2 229 | 742 | 1 487 | 2 217 | 12 | 1 119 | 1 110  |\n|  Cerqueira Cesar | 86 | 31 | 55 | 86 | — | 46 | 40  |\n|  Consolação | 168 | 82 | 86 | 168 | — | 91 | 77  |\n|  Guainazes | 209 | 81 | 128 | 122 | 87 | 123 | 86  |\n|  Ibirapuera | 3 215 | 1 151 | 2 064 | 3 211 | 4 | 1 611 | 1 604  |\n|  Indianópolis | 586 | 211 | 375 | 586 | — | 312 | 274  |\n|  Ipiranga | 5 093 | 1 718 | 3 375 | 5 072 | 21 | 2 606 | 2 487  |\n|  Itaquêra | 2 727 | 1 053 | 1 674 | 1 015 | 1 712 | 1 400 | 1 327  |\n|  Jaraguá e Perús | 380 | 125 | 255 | 43 | 337 | 203 | 177  |\n|  Jardim América | 637 | 242 | 395 | 637 | — | 323 | 314  |\n|  Jardim Paulista | 664 | 258 | 406 | 664 | — | 354 | 310  |\n|  Lapa | 1 093 | 376 | 717 | 1 093 | — | 545 | 548  |\n|  Liberdade | 3 048 | 1 270 | 1 778 | 3 048 | — | 1 571 | 1 477  |\n|  Mooca | 432 | 137 | 295 | 432 | — | 243 | 189  |\n|  Nossa Senhora do Ó | 1 478 | 504 | 974 | 1 383 | 95 | 768 | 710  |\n|  Osasco | 1 114 | 356 | 758 | 1 103 | 11 | 588 | 526  |\n|  Parelheiros | 2 136 | 710 | 1 426 | 35 | 2 101 | 1 142 | 994  |\n|  Pari | 289 | 108 | 181 | 289 | — | 149 | 140  |\n|  Penha da França | 2 650 | 849 | 1 801 | 2 641 | 9 | 1 365 | 1 285  |\n|  Perdizes | 621 | 215 | 406 | 621 | — | 334 | 287  |\n|  Pirituba | 623 | 219 | 404 | 588 | 35 | 300 | 323  |\n|  Santa Cecília | 234 | 98 | 136 | 234 | — | 119 | 115  |\n|  Santa Ifigênia | 191 | 69 | 122 | 191 | — | 103 | 88  |\n|  Santana | 1 564 | 550 | 1 014 | 1 564 | — | 817 | 747  |\n|  Santo Amaro | 2 119 | 808 | 1 311 | 1 812 | 307 | 1 104 | 1 015  |\n|  Socorro | 1 277 | 462 | 815 | 531 | 746 | 684 | 593  |\n|  São Miguel Paulista | 1 673 | 572 | 1 101 | 1 192 | 481 | 852 | 821  |\n|  Saúde | 7 055 | 2 545 | 4 510 | 7 029 | 26 | 3 516 | 3 539  |\n|  Sé | 1 010 | 378 | 632 | 1 010 | — | 516 | 494  |\n|  Tatuapé | 4 556 | 1 441 | 3 115 | 4 515 | 41 | 2 327 | 2 229  |\n|  Tucuruvi | 3 199 | 1 128 | 2 071 | 2 239 | 960 | 1 653 | 1 546  |\n|  Vila Madalena | 1 331 | 496 | 835 | 1 331 | — | 700 | 631  |\n|  Vila Maria | 863 | 291 | 572 | 863 | — | 447 | 416  |\n|  Vila Mariana | 1 618 | 588 | 1 030 | 1 618 | — | 832 | 786  |\n|  Vila Matilde | 1 389 | 460 | 929 | 1 389 | — | 706 | 683  |\n|  Vila Prudente | 3 437 | 1 011 | 2 426 | 3 437 | — | 1 725 | 1 712  |\n|  Desconhecidos#3 | 5 919 | 736 | 5 183 | 5 883 | 36 | 3 756 | 2 163  |\n|  Cercanias de São Paulo | 50 374 | 17 749 | 32 625 | 15 211 | 35 163 | 26 035 | 24 339  |\n|  Araçoiaba da Serra | 175 | 40 | 135 | 21 | 154 | 90 | 85  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 2,
+      "markdown": "Geographical Distribution (Population) 7\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX\n\n[tbl-1.md](tbl-1.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "Geographical Distribution (Population) 7",
+        "1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX",
+        "[tbl-1.md](tbl-1.md)",
+        "SEAD",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9972438572781078,
+        "minimum_page_confidence_score": 0.1663133441220424
+      },
+      "tables": [
+        {
+          "id": "tbl-1.md",
+          "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 わ Descendants | 市街地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  Barueri | 655 | 212 | 443 | 168 | 487 | 329 | 326  |\n|  Boituva | 9 | 6 | 3 | 8 | 1 | 5 | 4  |\n|  Cabreuva | 155 | 58 | 97 | — | 155 | 74 | 81  |\n|  Campinas | 3 338 | 1 124 | 2 214 | 1 111 | 2 227 | 1 778 | 1 560  |\n|  Cotia | 2 230 | 895 | 1 335 | 269 | 1 961 | 1 136 | 1 094  |\n|  Elias Fausto | 313 | 139 | 174 | 29 | 284 | 179 | 134  |\n|  Ferraz de Vasconcelos | 296 | 113 | 183 | 166 | 130 | 157 | 139  |\n|  Franco da Rocha | 177 | 62 | 115 | 82 | 95 | 97 | 80  |\n|  Guarulhos | 4 118 | 1 326 | 2 792 | 1 244 | 2 874 | 2 069 | 2 049  |\n|  Indaiatuba | 640 | 247 | 393 | 89 | 551 | 328 | 312  |\n|  Itapecerica da Serra | 2 161 | 764 | 1 397 | 96 | 2 065 | 1 164 | 997  |\n|  Itaquaquecetuba | 884 | 303 | 581 | 23 | 861 | 431 | 453  |\n|  Itu | 376 | 167 | 209 | 95 | 281 | 198 | 178  |\n|  Jaguariuna | 110 | 60 | 50 | 3 | 107 | 62 | 48  |\n|  Jundiaí | 1 377 | 470 | 907 | 251 | 1 126 | 738 | 639  |\n|  Mairiporã | 1 031 | 327 | 704 | 53 | 978 | 529 | 502  |\n|  Mauá | 947 | 362 | 585 | 436 | 511 | 477 | 470  |\n|  Mogi das Cruzes | 11 276 | 4 109 | 7 167 | 2 669 | 8 607 | 5 852 | 5 424  |\n|  Monte Mor | 38 | 20 | 18 | — | 38 | 24 | 14  |\n|  Poá | 223 | 70 | 153 | 213 | 10 | 117 | 106  |\n|  Ribeirão Pires | 1 589 | 529 | 1 060 | 373 | 1 216 | 809 | 780  |\n|  Salesópolis | 437 | 138 | 299 | — | 437 | 209 | 228  |\n|  Salto | 219 | 79 | 140 | — | 219 | 117 | 102  |\n|  Santana do Parnaíba | 289 | 103 | 186 | 56 | 233 | 148 | 141  |\n|  Santo André | 4 023 | 1 356 | 2 667 | 3 029 | 994 | 2 047 | 1 976  |\n|  São Bernardo do Campo | 3 068 | 1 098 | 1 970 | 1 033 | 2 035 | 1 582 | 1 486  |\n|  São Caetano do Sul | 1 067 | 393 | 674 | 1 065 | 2 | 557 | 510  |\n|  São Roque | 1 193 | 465 | 728 | 154 | 1 039 | 646 | 547  |\n|  Sorocaba | 1 616 | 474 | 1 142 | 838 | 778 | 824 | 792  |\n|  Sumaré | 50 | 24 | 26 | — | 50 | 22 | 28  |\n|  Suzano | 6 040 | 2 127 | 3 913 | 1 637 | 4 403 | 3 109 | 2 931  |\n|  Valinhos | 198 | 67 | 131 | — | 198 | 100 | 98  |\n|  Vinhedo | 56 | 22 | 34 | — | 56 | 31 | 25  |\n|  São Sebastião | 436 | 131 | 305 | 64 | 372 | 228 | 208  |\n|  Caraguatatuba | 244 | 74 | 170 | 50 | 194 | 118 | 126  |\n|  Ilhabela | 53 | 9 | 44 | — | 53 | 28 | 25  |\n|  São Sebastião | 125 | 40 | 85 | 5 | 120 | 70 | 55  |\n|  Ubatuba | 14 | 8 | 6 | 9 | 5 | 12 | 2  |\n|  Santos | 3 565 | 1 005 | 2 560 | 3 177 | 388 | 1 889 | 1 676  |\n|  Cubatão | 38 | 16 | 22 | 38 | — | 21 | 17  |\n|  Guarujá | 154 | 43 | 111 | 74 | 80 | 81 | 73  |\n|  Itanhaém | 198 | 75 | 123 | 50 | 148 | 105 | 93  |\n|  Santos | 2 646 | 695 | 1 951 | 2 564 | 82 | 1 397 | 1 249  |\n|  São Vicente | 529 | 176 | 353 | 451 | 78 | 285 | 244  |\n|  Juquiá | 8 790 | 2 491 | 6 299 | 1 639 | 7 151 | 4 606 | 4 184  |\n|  Cananéia | 40 | 12 | 28 | 22 | 18 | 24 | 16  |\n|  Eldorado | 12 | 4 | 8 | — | 12 | 8 | 4  |\n|  Iguape | 320 | 85 | 235 | 53 | 267 | 173 | 147  |\n|  Itariiri | 1 754 | 499 | 1 255 | 155 | 1 599 | 901 | 853  |\n|  Jacupiranga | 1 | — | 1 | — | 1 | — | 1  |\n|  Juquiá | 1 130 | 360 | 770 | 172 | 958 | 578 | 552  |\n|  Miracatu | 1 378 | 355 | 1 023 | 177 | 1 201 | 725 | 653  |\n|  Parquera-Açu | 5 | 2 | 3 | — | 53 | 2 | 3  |\n|  Pedro de Toledo | 735 | 197 | 538 | 46 | 689 | 405 | 330  |\n|  Registro | 3 415 | 977 | 2 438 | 1 014 | 2 401 | 1 790 | 1 625  |\n|  Alto Paraíba | 35 | 14 | 21 | 1 | 34 | 13 | 22  |\n|  Paraíbuna | 35 | 14 | 21 | 1 | 34 | 13 | 22  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 3,
+      "markdown": "分布 (人口)\n\n1 州, 地 方, 郡——世 代, 居 住 地, 男 女 別 (つづき)\n\n[tbl-2.md](tbl-2.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "分布 (人口)",
+        "1 州, 地 方, 郡——世 代, 居 住 地, 男 女 別 (つづき)",
+        "[tbl-2.md](tbl-2.md)",
+        "SEAD",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9973966661800299,
+        "minimum_page_confidence_score": 0.44148524438110937
+      },
+      "tables": [
+        {
+          "id": "tbl-2.md",
+          "content": "|   | Total | 世 代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 れ Descendants | 市街地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  Médio Paraíba | 6 541 | 2 262 | 4 279 | 1 582 | 4 959 | 3 516 | 3 025  |\n|  Aparecida | 228 | 92 | 136 | 31 | 197 | 114 | 114  |\n|  Bananal | 10 | 2 | 8 | — | 10 | 4 | 6  |\n|  Caçapava | 327 | 95 | 232 | 82 | 245 | 181 | 146  |\n|  Cachoeira Paulista | 22 | 11 | 11 | 1 | 21 | 15 | 7  |\n|  Cruzeiro | 80 | 23 | 57 | 3 | 77 | 39 | 41  |\n|  Guararema | 320 | 93 | 227 | 11 | 309 | 175 | 145  |\n|  Guaratinguetá | 186 | 52 | 134 | 84 | 102 | 101 | 85  |\n|  Igaratá | 159 | 49 | 110 | — | 159 | 82 | 77  |\n|  Jacareí | 679 | 232 | 447 | 177 | 502 | 385 | 294  |\n|  Lorena | 106 | 47 | 59 | 80 | 26 | 55 | 51  |\n|  Pindamonhangaba | 981 | 335 | 646 | 182 | 799 | 515 | 466  |\n|  Queluz | 11 | 3 | 8 | — | 11 | 7 | 4  |\n|  Santa Isabel | 762 | 284 | 478 | 5 | 757 | 397 | 365  |\n|  São José dos Campos | 1 382 | 473 | 909 | 537 | 845 | 748 | 634  |\n|  Taubaté | 868 | 300 | 568 | 364 | 504 | 466 | 402  |\n|  Teremembé | 420 | 171 | 249 | 25 | 395 | 232 | 188  |\n|  Campos do Jordão | 594 | 201 | 393 | 194 | 400 | 311 | 283  |\n|  Campos do Jordão | 386 | 129 | 257 | 194 | 192 | 203 | 183  |\n|  São Bento do Sapucaí | 208 | 72 | 136 | — | 208 | 108 | 100  |\n|  Bragança | 3 644 | 1 341 | 2 303 | 413 | 3 231 | 1 921 | 1 723  |\n|  Amparo | 94 | 27 | 67 | 4 | 90 | 47 | 47  |\n|  Atibaia | 1 030 | 403 | 627 | 78 | 952 | 538 | 492  |\n|  Bragança Paulista | 1 133 | 403 | 730 | 253 | 880 | 617 | 516  |\n|  Itapira | 104 | 26 | 78 | 44 | 60 | 46 | 58  |\n|  Itatiba | 377 | 144 | 233 | 21 | 356 | 194 | 183  |\n|  Jarinu | 24 | 13 | 11 | — | 24 | 17 | 7  |\n|  Joanópolis | 123 | 47 | 76 | — | 123 | 63 | 60  |\n|  Monte Alegre do Sul | 9 | 2 | 7 | — | 9 | 1 | 8  |\n|  Nazaré Paulista | 210 | 76 | 134 | — | 210 | 116 | 94  |\n|  Pedreira | 2 | 1 | 1 | 2 | — | 1 | 1  |\n|  Piracaia | 427 | 153 | 274 | — | 427 | 221 | 206  |\n|  Socorro | 111 | 46 | 65 | 11 | 100 | 60 | 51  |\n|  Mococa | 371 | 165 | 206 | 74 | 297 | 229 | 142  |\n|  Divinolândia | 28 | 8 | 20 | — | 28 | 14 | 14  |\n|  Mococa | 244 | 140 | 104 | — | 244 | 131 | 113  |\n|  Pinhal | 74 | 13 | 61 | 52 | 22 | 69 | 5  |\n|  São João da Boa Vista | 21 | 3 | 18 | 21 | — | 12 | 9  |\n|  Tapiratiba | 2 | 1 | 1 | 1 | 1 | 1 | 1  |\n|  Vargem Grande do sul | 2 | — | 2 | — | 2 | 2 | —  |\n|  Pirassununga | 387 | 114 | 273 | 178 | 209 | 202 | 185  |\n|  Casa Branca | 8 | 4 | 4 | 8 | — | 4 | 4  |\n|  Descalvado | 84 | 30 | 54 | 9 | 75 | 41 | 43  |\n|  Leme | 106 | 23 | 83 | 69 | 37 | 54 | 52  |\n|  Mogi Guaçu | 1 | 1 | — | — | 1 | 1 | —  |\n|  Mogi Mirim | 98 | 26 | 72 | 68 | 30 | 56 | 42  |\n|  Pirassununga | 85 | 28 | 57 | 19 | 66 | 44 | 41  |\n|  Santa Cruz das Palmeiras | 5 | 2 | 3 | 5 | — | 2 | 3  |\n|  Rio Claro | 942 | 239 | 703 | 570 | 372 | 478 | 464  |\n|  Americana | 374 | 101 | 273 | 152 | 222 | 183 | 191  |\n|  Araras | 31 | 8 | 23 | 21 | 10 | 16 | 15  |\n|  Itirapina | 1 | — | 1 | 1 | — | 1 | —  |\n|  Limeira | 246 | 53 | 193 | 227 | 19 | 128 | 118  |\n|  Rio Claro | 290 | 77 | 213 | 169 | 121 | 150 | 140  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 4,
+      "markdown": "Geographical Distribution (Population) 9\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-3.md](tbl-3.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "Geographical Distribution (Population) 9",
+        "1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)",
+        "[tbl-3.md](tbl-3.md)",
+        "SEADE",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9961619152670341,
+        "minimum_page_confidence_score": 0.08292372495030349
+      },
+      "tables": [
+        {
+          "id": "tbl-3.md",
+          "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル生まれ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Piracicaba | 506 | 156 | 350 | 243 | 263 | 277 | 229  |\n|  Anhembi | 7 | 2 | 5 | — | 7 | 5 | 2  |\n|  Conchas | 1 | — | 1 | 1 | — | 1 | —  |\n|  Piracicaba | 363 | 109 | 254 | 223 | 140 | 197 | 166  |\n|  Rio das Pedras | 94 | 33 | 61 | — | 94 | 51 | 43  |\n|  Santa Bárbara d’Oeste | 29 | 8 | 21 | 13 | 16 | 15 | 14  |\n|  São Pedro | 5 | — | 5 | 5 | — | 3 | 2  |\n|  Tietê | 7 | 4 | 3 | 1 | 6 | 5 | 2  |\n|  Franca | 1 218 | 395 | 823 | 472 | 746 | 620 | 598  |\n|  Franca | 60 | 19 | 41 | 44 | 16 | 26 | 34  |\n|  Guará | 106 | 31 | 75 | 46 | 60 | 51 | 55  |\n|  Igarapava | 276 | 95 | 181 | 147 | 129 | 142 | 134  |\n|  Ituverava | 748 | 236 | 512 | 220 | 528 | 387 | 361  |\n|  Pedregulho | 28 | 14 | 14 | 15 | 13 | 14 | 14  |\n|  Ribeirão Preto | 2 693 | 804 | 1 889 | 1 305 | 1 388 | 1 392 | 1 301  |\n|  Batatais | 87 | 22 | 65 | 30 | 57 | 49 | 38  |\n|  Bendáequi | 25 | 6 | 19 | — | 25 | 13 | 12  |\n|  Cravinhos | 308 | 109 | 199 | 76 | 232 | 174 | 134  |\n|  Ipuã | 63 | 22 | 41 | 19 | 44 | 36 | 27  |\n|  Jardinópolis | 212 | 55 | 157 | 58 | 154 | 106 | 106  |\n|  Nuporanga | 1 | — | 1 | 1 | — | 1 | —  |\n|  Orlândia | 28 | 7 | 21 | 1 | 27 | 13 | 15  |\n|  Ribeirão Preto | 1 529 | 453 | 1 076 | 960 | 569 | 782 | 747  |\n|  Sales de Oliveira | 17 | 3 | 14 | — | 17 | 8 | 9  |\n|  Santa Rita do Passa Quatro | 5 | 1 | 4 | — | 5 | 2 | 3  |\n|  Santa Rosa de Viterbo | 21 | 8 | 13 | 2 | 19 | 11 | 10  |\n|  Santo Antônio da Alegria | 1 | — | 1 | — | 1 | — | 1  |\n|  São Joaquim da Barra | 148 | 43 | 105 | 57 | 91 | 69 | 79  |\n|  São Simão | 36 | 13 | 23 | 8 | 28 | 21 | 15  |\n|  Serra Azul | 21 | 5 | 16 | — | 21 | 11 | 10  |\n|  Sertãozinho | 191 | 57 | 134 | 93 | 98 | 96 | 95  |\n|  Araraquara | 4 621 | 1 475 | 3 146 | 1 613 | 3 008 | 2 341 | 2 280  |\n|  Araraquara | 1 265 | 354 | 911 | 654 | 611 | 623 | 642  |\n|  Barriha | 428 | 145 | 283 | 145 | 283 | 208 | 220  |\n|  Guariba | 71 | 25 | 46 | — | 71 | 39 | 32  |\n|  Jaboticabal | 896 | 284 | 612 | 440 | 456 | 440 | 456  |\n|  Matão | 58 | 15 | 43 | 15 | 43 | 29 | 29  |\n|  Monte Alto | 690 | 242 | 448 | 125 | 565 | 354 | 336  |\n|  Iincão | 121 | 35 | 86 | 36 | 85 | 65 | 56  |\n|  Taiaçu | 22 | 10 | 12 | 5 | 17 | 12 | 10  |\n|  Tauúva | 106 | 47 | 59 | 10 | 96 | 57 | 49  |\n|  Taquaritinga | 964 | 318 | 646 | 183 | 781 | 514 | 450  |\n|  São Carlos e Jau | 983 | 321 | 662 | 404 | 579 | 558 | 425  |\n|  Barra Bonita | 29 | 8 | 21 | 1 | 28 | 19 | 10  |\n|  Brotas | 16 | 5 | 11 | — | 16 | 9 | 7  |\n|  Ibaté | 32 | 11 | 21 | — | 32 | 18 | 14  |\n|  Itapuí | 8 | 3 | 5 | — | 8 | 4 | 4  |\n|  Jau | 158 | 52 | 106 | 127 | 31 | 86 | 72  |\n|  Macatuba | 14 | 6 | 8 | 1 | 13 | 8 | 6  |\n|  Pederneiras | 69 | 21 | 48 | 31 | 38 | 37 | 32  |\n|  Ribeirão Bonito | 48 | 16 | 32 | 22 | 26 | 25 | 23  |\n|  São Carlos | 592 | 197 | 395 | 222 | 370 | 342 | 250  |\n|  Torrinha | 17 | 2 | 15 | — | 17 | 10 | 7  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 5,
+      "markdown": "10 分布 (人口)\n\n1 州，地方，郡——世代，居住地，男女別（つづき）\n\n[tbl-4.md](tbl-4.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "10 分布 (人口)",
+        "1 州，地方，郡——世代，居住地，男女別（つづき）",
+        "[tbl-4.md](tbl-4.md)",
+        "SEAD",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9969817119694725,
+        "minimum_page_confidence_score": 0.36178763476104986
+      },
+      "tables": [
+        {
+          "id": "tbl-4.md",
+          "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル生まれ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Botucatu | 1 550 | 419 | 1 131 | 919 | 631 | 829 | 721  |\n|  Agudos | 139 | 29 | 110 | 103 | 36 | 71 | 68  |\n|  Avaré | 880 | 262 | 618 | 607 | 273 | 463 | 417  |\n|  Botucatu | 192 | 50 | 142 | 49 | 143 | 108 | 84  |\n|  Cerqueira César | 106 | 26 | 80 | — | 106 | 54 | 52  |\n|  Itatinga | 23 | 2 | 21 | 13 | 10 | 15 | 8  |\n|  Lençóis Paulista | 36 | 8 | 28 | 17 | 19 | 20 | 16  |\n|  Santa Bárbara do Rio Pardo | 20 | 8 | 12 | — | 20 | 7 | 13  |\n|  São Manuel | 154 | 34 | 120 | 130 | 24 | 91 | 63  |\n|  Piraju | 287 | 96 | 191 | 150 | 137 | 154 | 133  |\n|  Chavantes | 126 | 41 | 85 | 60 | 66 | 65 | 61  |\n|  Ipauçu | 47 | 16 | 31 | 36 | 11 | 26 | 21  |\n|  Óleo | 2 | 2 | — | 2 | — | 1 | 1  |\n|  Piraju | 112 | 37 | 75 | 52 | 60 | 62 | 50  |\n|  Barretos | 8 773 | 2 630 | 6 143 | 2 028 | 6 745 | 4 595 | 4 178  |\n|  Barretos | 2 288 | 665 | 1 623 | 915 | 1 373 | 1 212 | 1 076  |\n|  Bebedouro | 110 | 31 | 79 | 10 | 100 | 56 | 54  |\n|  Colina | 172 | 52 | 120 | 74 | 98 | 90 | 82  |\n|  Guaira | 1 637 | 506 | 1 131 | 351 | 1 286 | 856 | 781  |\n|  Guaraci | 292 | 94 | 198 | 17 | 275 | 157 | 135  |\n|  Izém | 33 | 7 | 26 | — | 33 | 14 | 19  |\n|  Jaborandi | 20 | 7 | 13 | 13 | 7 | 9 | 11  |\n|  Miguelópolis | 1 075 | 304 | 771 | 154 | 921 | 545 | 530  |\n|  Monte Azul Paulista | 27 | 8 | 19 | — | 27 | 16 | 11  |\n|  Morro Agudo | 464 | 138 | 326 | 41 | 423 | 249 | 215  |\n|  Nova Granada | 447 | 122 | 325 | 102 | 345 | 219 | 228  |\n|  Olímpia | 513 | 167 | 346 | 191 | 322 | 272 | 241  |\n|  Palestina | 252 | 78 | 174 | 11 | 241 | 135 | 117  |\n|  Paraíso | 1 | — | 1 | 1 | — | — | 1  |\n|  Paulo de Faria | 548 | 171 | 377 | 12 | 536 | 301 | 247  |\n|  Pirangi | 38 | 12 | 26 | — | 38 | 20 | 18  |\n|  Pitangueiras | 69 | 25 | 44 | 4 | 65 | 37 | 32  |\n|  Pontal | 35 | 14 | 21 | — | 35 | 21 | 14  |\n|  Riolândia | 273 | 69 | 204 | 44 | 229 | 140 | 133  |\n|  Severínia | 10 | 2 | 8 | — | 10 | 5 | 5  |\n|  Terra Rosa | 325 | 109 | 216 | 31 | 294 | 165 | 160  |\n|  Viradouro | 144 | 49 | 95 | 57 | 87 | 76 | 68  |\n|  Catanduva | 2 138 | 630 | 1 508 | 753 | 1 385 | 1 084 | 1 054  |\n|  Arianha | 2 | 2 | — | — | 2 | 1 | 1  |\n|  Bariri | 52 | 15 | 37 | 20 | 32 | 21 | 31  |\n|  Borborema | 37 | 12 | 25 | 13 | 24 | 18 | 19  |\n|  Catanduva | 648 | 184 | 464 | 348 | 300 | 335 | 313  |\n|  Fernando Prestes | 37 | 9 | 28 | — | 37 | 18 | 19  |\n|  Ibirá | 27 | 7 | 20 | — | 27 | 9 | 18  |\n|  Ibitinga | 246 | 65 | 181 | 77 | 169 | 121 | 125  |\n|  Irapuã | 8 | 2 | 6 | — | 8 | 3 | 5  |\n|  Itápolis | 156 | 45 | 111 | 20 | 136 | 76 | 80  |\n|  Nova Europa | 50 | 19 | 31 | — | 50 | 25 | 25  |\n|  Novo Horizonte | 199 | 74 | 125 | 122 | 77 | 101 | 98  |\n|  Pindorama | 143 | 32 | 111 | 53 | 90 | 74 | 69  |\n|  Santa Adélia | 239 | 86 | 153 | 56 | 183 | 127 | 112  |\n|  Tabapuã | 40 | 7 | 33 | — | 40 | 20 | 20  |\n|  Tabatinga | 196 | 59 | 137 | 17 | 179 | 108 | 88  |\n|  Urupês | 58 | 12 | 46 | 27 | 31 | 27 | 31  |\n|  Rio Prêto | 3 676 | 1 075 | 2 601 | 1 240 | 2 436 | 1 911 | 1 765  |\n|  Auriflama | 49 | 19 | 30 | 9 | 40 | 25 | 24  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 6,
+      "markdown": "Geographical Distribution (Population) 11\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-5.md](tbl-5.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "Geographical Distribution (Population) 11",
+        "1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)",
+        "[tbl-5.md](tbl-5.md)",
+        "SEAD",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9966942959469567,
+        "minimum_page_confidence_score": 0.28028132429894753
+      },
+      "tables": [
+        {
+          "id": "tbl-5.md",
+          "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 れ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Bálsamo | 14 | 5 | 9 | 11 | 3 | 7 | 7  |\n|  Buritama | 28 | 6 | 22 | 12 | 16 | 16 | 12  |\n|  Cardoso | 56 | 13 | 43 | 3 | 53 | 29 | 27  |\n|  Cosmorama | 1 | — | 1 | — | 1 | 1 | —  |\n|  General Salgado | 30 | 12 | 18 | — | 30 | 16 | 14  |\n|  José Bonifácio | 159 | 43 | 116 | — | 159 | 84 | 75  |\n|  Macaubal | 1 | — | 1 | 1 | — | — | 1  |\n|  Mirassol | 190 | 53 | 137 | 90 | 100 | 94 | 96  |\n|  Monte Aprasível | 107 | 30 | 77 | 32 | 75 | 47 | 60  |\n|  Nhandeara | 23 | 11 | 12 | — | 23 | 14 | 9  |\n|  Nova Aliança | 41 | 6 | 35 | 15 | 26 | 24 | 17  |\n|  Planalto | 150 | 45 | 105 | — | 150 | 84 | 66  |\n|  São José do Rio Prémio | 1 284 | 373 | 911 | 620 | 664 | 675 | 609  |\n|  Tanabi | 202 | 57 | 145 | 15 | 187 | 99 | 103  |\n|  Valentim Gentil | 151 | 42 | 109 | — | 151 | 85 | 66  |\n|  Votuporanga | 1 190 | 360 | 830 | 432 | 758 | 611 | 579  |\n|  Jales | 6 407 | 1 876 | 4 531 | 1 576 | 4 831 | 3 326 | 3 081  |\n|  Estréla d'Oeste | 175 | 52 | 123 | 28 | 147 | 94 | 81  |\n|  Fernandópolis | 1 703 | 495 | 1 208 | 456 | 1 247 | 859 | 844  |\n|  Jales | 3 143 | 927 | 2 216 | 628 | 2 515 | 1 630 | 1 513  |\n|  Santa Fé do Sul | 1 386 | 402 | 984 | 464 | 922 | 743 | 643  |\n|  Bauru | 17 151 | 5 293 | 11 858 | 7 197 | 9 954 | 8 868 | 8 283  |\n|  Alto Alegre | 396 | 114 | 282 | 49 | 347 | 208 | 188  |\n|  Avanhandava | 332 | 169 | 163 | 12 | 320 | 161 | 171  |\n|  Avaí | 323 | 82 | 241 | — | 323 | 162 | 161  |\n|  Bauru | 3 562 | 1 122 | 2 440 | 1 707 | 1 855 | 1 798 | 1 764  |\n|  Cabrália Paulista | 9 | 5 | 4 | 2 | 7 | 6 | 3  |\n|  Cafelândia | 1 653 | 609 | 1 044 | 384 | 1 269 | 865 | 788  |\n|  Duartina | 794 | 300 | 494 | 223 | 571 | 417 | 377  |\n|  Guaíçara | 924 | 263 | 661 | 157 | 767 | 494 | 430  |\n|  Guarantã | 167 | 43 | 124 | 41 | 126 | 90 | 77  |\n|  Iacanga | 59 | 26 | 33 | 15 | 44 | 33 | 26  |\n|  Lins | 5 175 | 1 491 | 3 684 | 3 140 | 2 035 | 2 706 | 2 469  |\n|  Lucianópolis | 31 | 11 | 20 | — | 31 | 14 | 17  |\n|  Penápolis | 897 | 239 | 658 | 375 | 522 | 454 | 443  |\n|  Pirajuí | 284 | 94 | 190 | 116 | 168 | 158 | 126  |\n|  Piratininga | 230 | 76 | 154 | 45 | 185 | 125 | 105  |\n|  Presidente Alves | 103 | 36 | 67 | 12 | 91 | 53 | 50  |\n|  Promissão | 2 033 | 567 | 1 466 | 885 | 1 148 | 1 031 | 1 002  |\n|  Reginópolis | 4 | 2 | 2 | 4 | — | 3 | 1  |\n|  Sabino | 175 | 44 | 131 | 30 | 145 | 90 | 85  |\n|  Araçatuba | 28 789 | 8 539 | 20 250 | 11 327 | 17 462 | 14 703 | 14 086  |\n|  Andradina | 2 300 | 643 | 1 657 | 1 318 | 982 | 1 190 | 1 110  |\n|  Araçatuba | 6 231 | 1 787 | 4 444 | 3 498 | 2 733 | 3 197 | 3 034  |\n|  Bento de Abreu | 80 | 24 | 56 | 16 | 64 | 40 | 40  |\n|  Bilac | 1 509 | 378 | 1 131 | 337 | 1 172 | 765 | 744  |\n|  Birigui | 1 195 | 314 | 881 | 728 | 467 | 608 | 587  |\n|  Braúna | 234 | 66 | 168 | 95 | 139 | 121 | 113  |\n|  Castilho | 402 | 122 | 280 | 97 | 305 | 216 | 186  |\n|  Clementina | 1 869 | 575 | 1 294 | 291 | 1 578 | 985 | 884  |\n|  Coroados | 599 | 177 | 422 | 22 | 577 | 310 | 289  |\n|  Glicério | 55 | 19 | 36 | 17 | 38 | 24 | 31  |\n|  Guaraçáí | 1 435 | 445 | 990 | 248 | 1 187 | 730 | 705  |\n|  Guararapes | 2 948 | 811 | 2 137 | 1 008 | 1 940 | 1 491 | 1 457  |\n|  Lavínia | 629 | 171 | 458 | 245 | 384 | 314 | 315  |\n|  Mirandópolis | 4 108 | 1 350 | 2 758 | 1 375 | 2 733 | 2 067 | 2 041  |\n|  Murutinga do Sul | 117 | 28 | 89 | 55 | 62 | 62 | 55  |\n|  Pereira Barreto | 3 546 | 1 193 | 2 353 | 1 424 | 2 122 | 1 793 | 1 753  |\n|  Piacatu | 316 | 81 | 235 | 14 | 302 | 166 | 150  |\n|  Rubiácea | 12 | 4 | 8 | — | 12 | 7 | 5  |\n|  Valparaíso | 1 204 | 351 | 853 | 539 | 665 | 617 | 587  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 7,
+      "markdown": "12 分布 (人口)\n\n1 州，地方，郡——世代，居住地，男女別 （つづき）\n\n[tbl-6.md](tbl-6.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "12 分布 (人口)",
+        "1 州，地方，郡——世代，居住地，男女別 （つづき）",
+        "[tbl-6.md](tbl-6.md)",
+        "SEAD",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9969688731694323,
+        "minimum_page_confidence_score": 0.239842771875731
+      },
+      "tables": [
+        {
+          "id": "tbl-6.md",
+          "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル生れ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Marilia | 50 512 | 15 907 | 34 605 | 19 561 | 30 951 | 25 710 | 24 802  |\n|  Adamantina | 4 080 | 1 206 | 2 874 | 1 959 | 2 121 | 2 107 | 1 973  |\n|  Álvaro de Carvalho | 11 | 5 | 6 | 10 | 1 | 7 | 4  |\n|  Bastos | 4 020 | 1 479 | 2 541 | 1 583 | 2 437 | 1 979 | 2 041  |\n|  Flora Rica | 329 | 96 | 233 | — | 329 | 165 | 164  |\n|  Flórida Paulista | 1 859 | 563 | 1 296 | 435 | 1 424 | 949 | 910  |\n|  Gália | 408 | 190 | 218 | 122 | 286 | 195 | 213  |\n|  Garça | 1 780 | 554 | 1 226 | 947 | 833 | 929 | 851  |\n|  Getulina | 2 031 | 652 | 1 379 | 453 | 1 578 | 1 048 | 983  |\n|  Guaimbé | 1 207 | 408 | 799 | 246 | 961 | 596 | 611  |\n|  Herculândia | 124 | 28 | 96 | 67 | 57 | 59 | 65  |\n|  Irapuru | 2 273 | 652 | 1 621 | 186 | 2 087 | 1 166 | 1 107  |\n|  Júlio Mesquita | 746 | 284 | 462 | — | 746 | 388 | 358  |\n|  Junqueirópolis | 3 089 | 921 | 2 168 | 652 | 2 437 | 1 574 | 1 515  |\n|  Lucélia | 2 781 | 800 | 1 981 | 998 | 1 783 | 1 472 | 1 309  |\n|  Mariápolis | 35 | 13 | 22 | 1 | 34 | 17 | 18  |\n|  Marília | 8 676 | 2 742 | 5 934 | 4 914 | 3 762 | 4 421 | 4 255  |\n|  Oriente | 306 | 91 | 215 | 122 | 184 | 153 | 153  |\n|  Osvaldo Cruz | 2 588 | 803 | 1 785 | 1 397 | 1 191 | 1 295 | 1 293  |\n|  Pacaembu | 3 939 | 1 086 | 2 853 | 858 | 3 081 | 2 016 | 1 923  |\n|  Parapuã | 716 | 254 | 462 | 227 | 489 | 363 | 353  |\n|  Pompéia | 2 688 | 864 | 1 824 | 997 | 1 691 | 1 331 | 1 357  |\n|  Quintana | 345 | 108 | 237 | 87 | 258 | 179 | 166  |\n|  Rinópolis | 600 | 215 | 385 | 261 | 339 | 317 | 283  |\n|  Tupã | 5 440 | 1 747 | 3 693 | 2 813 | 2 627 | 2 764 | 2 676  |\n|  Vera Cruz | 441 | 146 | 295 | 226 | 215 | 220 | 221  |\n|  Dracena | 4 970 | 1 459 | 3 511 | 1 904 | 3 066 | 2 630 | 2 340  |\n|  Dracena | 2 763 | 849 | 1 914 | 1 207 | 1 556 | 1 485 | 1 278  |\n|  Monte Castelo | 183 | 47 | 186 | 54 | 129 | 95 | 88  |\n|  Ouro Verde | 234 | 63 | 171 | 23 | 211 | 128 | 106  |\n|  Panorama | 34 | 13 | 21 | 3 | 31 | 17 | 17  |\n|  Paulicéia | 185 | 66 | 119 | — | 185 | 100 | 85  |\n|  Santa Mercedes | 715 | 182 | 533 | 139 | 576 | 378 | 337  |\n|  Tupi Paulista | 856 | 239 | 617 | 478 | 378 | 427 | 429  |\n|  Assis | 6 318 | 1 946 | 4 372 | 2 637 | 3 681 | 3 253 | 3 065  |\n|  Assis | 730 | 208 | 522 | 332 | 398 | 384 | 346  |\n|  Cândido Mota | 99 | 37 | 62 | 18 | 81 | 59 | 40  |\n|  Echaporã | 108 | 29 | 79 | 34 | 74 | 56 | 52  |\n|  Ibirarema | 66 | 15 | 51 | 22 | 44 | 39 | 27  |\n|  Iepé | 7 | 7 | — | 2 | 5 | 5 | 2  |\n|  Lutécia | 65 | 23 | 42 | 28 | 37 | 35 | 30  |\n|  Maracal | 195 | 67 | 128 | 10 | 185 | 97 | 98  |\n|  Oscar Bressane | 4 | 1 | 3 | — | 4 | 2 | 2  |\n|  Ourinhos | 1 476 | 460 | 1 016 | 718 | 758 | 734 | 742  |\n|  Palmital | 62 | 18 | 44 | 16 | 46 | 34 | 28  |\n|  Paraguçu Paulista | 1 427 | 415 | 1 012 | 554 | 873 | 743 | 684  |\n|  Quatá | 183 | 50 | 133 | 142 | 41 | 94 | 89  |\n|  Rancharia | 719 | 231 | 488 | 433 | 286 | 365 | 354  |\n|  Salto Grande | 297 | 88 | 209 | 26 | 271 | 153 | 144  |\n|  Santa Cruz do Rio Pardo | 699 | 241 | 458 | 287 | 412 | 357 | 342  |\n|  São Pedro do Turvo | 181 | 56 | 125 | 15 | 166 | 96 | 85  |\n|  Presidente Prudente | 22 193 | 6 284 | 15 909 | 8 119 | 14 074 | 11 378 | 10 815  |\n|  Alfredo Marcondes | 785 | 265 | 520 | 52 | 733 | 407 | 378  |\n|  Álvares Machado | 2 752 | 760 | 1 992 | 727 | 2 025 | 1 414 | 1 338  |\n|  Anhumas | 52 | 8 | 44 | — | 52 | 23 | 29  |\n|  Caiabu | 483 | 127 | 356 | 43 | 440 | 244 | 239  |\n|  Indiana | 116 | 35 | 81 | 35 | 81 | 66 | 50  |\n|  Martinópolis | 599 | 155 | 444 | 303 | 296 | 324 | 275  |\n|  Mirante do Paranapanema | 2 219 | 655 | 1 564 | 409 | 1 810 | 1 185 | 1 034  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 8,
+      "markdown": "Geographical Distribution (Population) 13\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-7.md](tbl-7.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "Geographical Distribution (Population) 13",
+        "1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)",
+        "[tbl-7.md](tbl-7.md)",
+        "SEADE",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9973780981412881,
+        "minimum_page_confidence_score": 0.2491860843189255
+      },
+      "tables": [
+        {
+          "id": "tbl-7.md",
+          "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 丸 Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Piquerobi | 57 | 15 | 42 | 31 | 26 | 27 | 30  |\n|  Pirapózinho | 2 156 | 595 | 1 561 | 388 | 1 768 | 1 101 | 1 055  |\n|  Presidente Bernardes | 1 451 | 477 | 974 | 414 | 1 037 | 755 | 696  |\n|  Presidente Epitácio | 318 | 94 | 224 | 237 | 81 | 156 | 162  |\n|  Presidente Prudente | 7 020 | 2 008 | 5 012 | 4 300 | 2 720 | 3 581 | 3 439  |\n|  Presidente Venceslau | 2 098 | 546 | 1 552 | 587 | 1 511 | 1 061 | 1 037  |\n|  Regente Feijó | 670 | 193 | 477 | 81 | 589 | 330 | 340  |\n|  Santo Anastácio | 1 405 | 343 | 1 062 | 512 | 893 | 697 | 708  |\n|  Taciba | 12 | 8 | 4 | — | 12 | 7 | 5  |\n|  Itapetininga—Itaporanga | 2 505 | 751 | 1 754 | 485 | 2 020 | 1 366 | 1 139  |\n|  Angatuba | 23 | 8 | 15 | 2 | 21 | 15 | 8  |\n|  Fartura | 97 | 26 | 71 | 32 | 65 | 47 | 50  |\n|  Guareí | 1 | — | 1 | 1 | — | — | 1  |\n|  Itaberá | 263 | 69 | 194 | 72 | 191 | 143 | 120  |\n|  Itai | 253 | 72 | 181 | 27 | 226 | 141 | 112  |\n|  Itapetininga | 740 | 233 | 507 | 154 | 586 | 387 | 353  |\n|  Itapeva | 159 | 50 | 109 | 42 | 117 | 89 | 70  |\n|  Itaporanga | 463 | 141 | 322 | 31 | 432 | 253 | 210  |\n|  Itararé | 63 | 19 | 44 | 47 | 16 | 35 | 28  |\n|  Paranapanema | 82 | 31 | 51 | — | 82 | 51 | 31  |\n|  Ribeirão Vermelho do Sul | 81 | 17 | 64 | — | 81 | 46 | 35  |\n|  Sarapuí | 117 | 32 | 85 | — | 117 | 70 | 47  |\n|  Taquarituba | 84 | 27 | 57 | 48 | 36 | 42 | 42  |\n|  Tatuí | 79 | 26 | 53 | 29 | 50 | 47 | 32  |\n|  Paranapiacaba | 6 621 | 2 398 | 4 223 | 777 | 5 844 | 3 388 | 3 233  |\n|  Apiai | 296 | 97 | 199 | 5 | 291 | 156 | 140  |\n|  Capão Bonito | 926 | 298 | 628 | 225 | 701 | 492 | 434  |\n|  Guapiara | 420 | 120 | 300 | 39 | 381 | 223 | 197  |\n|  Ibiúna | 1 630 | 634 | 996 | 138 | 1 492 | 898 | 732  |\n|  Iporanga | 1 | — | 1 | 1 | — | — | 1  |\n|  Piedade | 2 271 | 861 | 1 410 | 225 | 2 046 | 1 040 | 1 231  |\n|  Pilar do Sul | 639 | 226 | 413 | 81 | 558 | 343 | 296  |\n|  São Miguel Arcanjo | 438 | 162 | 276 | 63 | 375 | 236 | 202  |\n|  PARANÁ | 78 097 | 23 421 | 54 676 | 28 951 | 49 146 | 40 313 | 37 784  |\n|  Tomasina | 3 380 | 1 022 | 2 358 | 496 | 2 884 | 1 639 | 1 741  |\n|  Abatiá | 103 | 33 | 70 | 23 | 80 | 51 | 52  |\n|  Carlópolis | 906 | 331 | 575 | 117 | 789 | 479 | 427  |\n|  Curiúva | 103 | 27 | 76 | 10 | 93 | 54 | 49  |\n|  Ibaiti | 443 | 132 | 311 | 94 | 349 | 229 | 214  |\n|  Joaquim Távora | 482 | 154 | 328 | 114 | 368 | 250 | 232  |\n|  Jundiaí do Sul | 18 | 4 | 14 | 10 | 8 | 9 | 9  |\n|  Pinhalão | 15 | 4 | 11 | 15 | — | 7 | 8  |\n|  Quatiguá | 130 | 38 | 92 | 11 | 119 | 66 | 64  |\n|  Ribeirão do Pinhal | 274 | 76 | 198 | 47 | 227 | 109 | 165  |\n|  Siqueira Campos | 35 | 9 | 26 | 11 | 24 | 13 | 22  |\n|  Tomasina | 61 | 16 | 45 | 7 | 54 | 21 | 40  |\n|  Venceslau Braz | 810 | 198 | 612 | 37 | 773 | 351 | 459  |\n|  Jacarézinho | 3 920 | 1 259 | 2 661 | 1 249 | 2 671 | 2 047 | 1 873  |\n|  Andirá | 247 | 60 | 187 | 75 | 172 | 130 | 117  |\n|  Bandeirantes | 1 329 | 386 | 943 | 637 | 692 | 700 | 629  |\n|  Cambará | 1 039 | 435 | 604 | 260 | 779 | 509 | 530  |\n|  Itambaracá | 372 | 100 | 272 | 36 | 336 | 209 | 163  |\n|  Jacarézinho | 215 | 56 | 159 | 116 | 99 | 116 | 99  |\n|  Ribeirão Claro | 67 | 28 | 39 | 32 | 35 | 32 | 35  |\n|  Santa Amélia | 298 | 66 | 232 | 53 | 245 | 158 | 140  |\n|  Santo Antônio da Platina | 353 | 128 | 225 | 40 | 313 | 193 | 160  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 9,
+      "markdown": "14 人口（分布）\n\n1 州，地方，郡——世代，居住地，男女別（つづき）\n\n[tbl-8.md](tbl-8.md)\n\nSEAD\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "14 人口（分布）",
+        "1 州，地方，郡——世代，居住地，男女別（つづき）",
+        "[tbl-8.md](tbl-8.md)",
+        "SEAD",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9962278912071741,
+        "minimum_page_confidence_score": 0.22523393055716603
+      },
+      "tables": [
+        {
+          "id": "tbl-8.md",
+          "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 れ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Cornélio Procópio | 8792 | 2591 | 6201 | 1911 | 6881 | 4540 | 4252  |\n|  Amoreira | 2346 | 715 | 1631 | 144 | 2202 | 1208 | 1138  |\n|  Congoinhas | 100 | 26 | 74 | 19 | 81 | 53 | 47  |\n|  Cornélio Procópio | 896 | 262 | 634 | 371 | 525 | 483 | 413  |\n|  Leópolis | 87 | 36 | 51 | — | 87 | 38 | 49  |\n|  Nova Fátima | 257 | 95 | 162 | 8 | 249 | 138 | 119  |\n|  Santa Mariana | 949 | 271 | 678 | 370 | 579 | 503 | 446  |\n|  Sertaneja | 1204 | 362 | 842 | 107 | 1097 | 621 | 583  |\n|  Uraí | 2953 | 824 | 2129 | 892 | 2061 | 1496 | 1457  |\n|  Londrina | 26847 | 8092 | 18755 | 10921 | 15926 | 13717 | 13130  |\n|  Alvorada do Sul | 267 | 80 | 187 | 7 | 260 | 124 | 143  |\n|  Assaí | 6650 | 2039 | 4611 | 2623 | 4027 | 3395 | 3255  |\n|  Astorga | 827 | 237 | 590 | 401 | 426 | 435 | 392  |\n|  Bela Vista do Paraíso | 401 | 104 | 297 | 191 | 210 | 204 | 197  |\n|  Cafeira | 94 | 33 | 61 | 11 | 83 | 55 | 39  |\n|  Cambé | 622 | 180 | 442 | 203 | 419 | 320 | 302  |\n|  Centenário do Sul | 383 | 108 | 275 | 101 | 282 | 214 | 169  |\n|  Colorado | 1013 | 286 | 727 | 112 | 901 | 511 | 502  |\n|  Florestópolis | 39 | 21 | 18 | 22 | 17 | 20 | 19  |\n|  Guaraci | 312 | 88 | 224 | 139 | 173 | 162 | 150  |\n|  Biporã | 483 | 144 | 339 | 173 | 310 | 258 | 225  |\n|  Iguaraçu | 446 | 126 | 320 | 163 | 283 | 224 | 222  |\n|  Itaguajé | 268 | 85 | 183 | 122 | 146 | 140 | 128  |\n|  Jaguapá | 228 | 87 | 141 | 27 | 201 | 119 | 109  |\n|  Jatalzinho | 1047 | 360 | 687 | 92 | 955 | 524 | 523  |\n|  Lobato | 307 | 91 | 216 | 55 | 252 | 154 | 153  |\n|  Londrina | 8978 | 2669 | 6309 | 5143 | 3835 | 4626 | 4352  |\n|  Lupionópolis | 261 | 78 | 183 | 100 | 161 | 125 | 136  |\n|  Munhoz de Melo | 394 | 125 | 269 | 44 | 350 | 203 | 191  |\n|  Porecatu | 79 | 23 | 56 | 31 | 48 | 40 | 39  |\n|  Primeiro de Maio | 272 | 74 | 198 | 8 | 264 | 129 | 143  |\n|  Rolândia | 1800 | 546 | 1254 | 742 | 1058 | 869 | 931  |\n|  Sabãudia | 207 | 57 | 150 | 3 | 204 | 99 | 108  |\n|  Santa Fé | 291 | 89 | 202 | 74 | 217 | 152 | 139  |\n|  Santo Inácio | 114 | 29 | 85 | 22 | 92 | 67 | 47  |\n|  São Jerónimo da Serra | 993 | 308 | 685 | 290 | 703 | 513 | 480  |\n|  Sertanópolis | 71 | 25 | 46 | 22 | 49 | 35 | 36  |\n|  Apucarana | 7029 | 2040 | 4989 | 2868 | 4161 | 3589 | 3440  |\n|  Apucarana | 2432 | 754 | 1678 | 1138 | 1294 | 1247 | 1185  |\n|  Arapongas | 3094 | 843 | 2251 | 1187 | 1907 | 1565 | 1529  |\n|  Araruva | 132 | 37 | 95 | 50 | 82 | 71 | 61  |\n|  Bom Sucesso | 226 | 78 | 148 | 67 | 159 | 116 | 110  |\n|  Borrazópolis | 294 | 83 | 211 | 35 | 259 | 152 | 142  |\n|  Faxinal | 66 | 19 | 47 | 39 | 27 | 32 | 34  |\n|  Jandaú do Sul | 501 | 146 | 355 | 320 | 181 | 263 | 238  |\n|  Manuel Ribas | 95 | 25 | 70 | 5 | 90 | 51 | 44  |\n|  Pitanga | 9 | 2 | 7 | 9 | — | 3 | 6  |\n|  São Pedro do Ivaí | 180 | 53 | 127 | 18 | 162 | 89 | 91  |\n|  Maringá | 15533 | 4553 | 10980 | 6712 | 8821 | 7977 | 7556  |\n|  Alto Paraná | 644 | 185 | 459 | 260 | 384 | 331 | 313  |\n|  Araruna | 32 | 10 | 22 | 13 | 19 | 13 | 19  |\n|  Campo Mourão | 616 | 193 | 423 | 130 | 486 | 324 | 292  |\n|  Cianorte | 472 | 118 | 354 | 323 | 149 | 236 | 236  |\n|  Cruzeiro do Sul | 374 | 118 | 256 | 9 | 365 | 186 | 188  |\n|  Engenheiro Beltrão | 19 | 14 | 5 | — | 19 | 12 | 7  |\n|  Floraí | 836 | 243 | 593 | 40 | 796 | 440 | 396  |\n|  Jussara | 278 | 78 | 200 | 128 | 150 | 145 | 133  |\n|  Mandoguaçu | 200 | 58 | 142 | 96 | 104 | 101 | 99  |\n|  Mandaguari | 746 | 198 | 548 | 456 | 290 | 395 | 351  |\n|  Marialva | 1474 | 492 | 982 | 554 | 920 | 738 | 736  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 10,
+      "markdown": "Geographical Distribution (Population) 15\n\n1 BY STATE, REGION MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-9.md](tbl-9.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "Geographical Distribution (Population) 15",
+        "1 BY STATE, REGION MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)",
+        "[tbl-9.md](tbl-9.md)",
+        "SEADE",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.998086973011531,
+        "minimum_page_confidence_score": 0.438459093422751
+      },
+      "tables": [
+        {
+          "id": "tbl-9.md",
+          "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生れ Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Maringá | 5 522 | 1 575 | 3 947 | 3 318 | 2 204 | 2 833 | 2 689  |\n|  Nova Esperança | 2 742 | 749 | 1 993 | 982 | 1 760 | 1 400 | 1 342  |\n|  Paranacity | 247 | 77 | 170 | 1 | 246 | 132 | 115  |\n|  Peabiru | 168 | 58 | 110 | 60 | 108 | 88 | 80  |\n|  São João do Caiuá | 197 | 85 | 112 | 54 | 143 | 104 | 93  |\n|  São Jorge | 513 | 161 | 352 | 115 | 398 | 263 | 250  |\n|  Terra Boa | 453 | 141 | 312 | 173 | 280 | 236 | 217  |\n|  Paranavaí | 5 394 | 1 611 | 3 783 | 1 778 | 3 616 | 2 856 | 2 538  |\n|  Loanda | 286 | 101 | 185 | 147 | 139 | 144 | 142  |\n|  Nova Londrina | 430 | 124 | 306 | 44 | 386 | 221 | 209  |\n|  Paraíso do Norte | 702 | 209 | 493 | 166 | 536 | 375 | 327  |\n|  Paranavaí | 2 248 | 653 | 1 595 | 1 120 | 1 128 | 1 198 | 1 050  |\n|  Querência do Norte | 1 | 1 | — | — | 1 | 1 | —  |\n|  Santa Cruz do Monte Castelo | 54 | 16 | 38 | 26 | 28 | 29 | 25  |\n|  Santa Isabel do Ivaí | 485 | 137 | 348 | 148 | 337 | 253 | 232  |\n|  São Carlos do Ivaí | 238 | 78 | 160 | 28 | 210 | 122 | 116  |\n|  Tamboara | 460 | 152 | 308 | 34 | 426 | 248 | 212  |\n|  Terra Rica | 490 | 140 | 350 | 65 | 425 | 265 | 225  |\n|  Cruzeiro do Oeste | 2 695 | 926 | 1 769 | 701 | 1 994 | 1 472 | 1 223  |\n|  Cruzeiro do Oeste | 1 789 | 605 | 1 184 | 612 | 1 177 | 957 | 832  |\n|  Goio-Ere | 90 | 42 | 48 | 1 | 89 | 55 | 35  |\n|  Guaíra | 378 | 126 | 252 | 54 | 324 | 215 | 163  |\n|  Rondon | 377 | 133 | 244 | 34 | 343 | 212 | 165  |\n|  Toledo | 61 | 20 | 41 | — | 61 | 33 | 28  |\n|  Litoral | 1 166 | 389 | 777 | 532 | 634 | 601 | 565  |\n|  Antonina | 9 | 3 | 6 | — | 9 | 6 | 3  |\n|  Guaratuba | 10 | 2 | 8 | — | 10 | 6 | 4  |\n|  Morretes | 11 | 4 | 7 | — | 11 | 3 | 8  |\n|  Paranaguá | 1 136 | 380 | 756 | 532 | 604 | 586 | 550  |\n|  Castro | 3 | — | 3 | 3 | — | 3 | —  |\n|  Castro | 3 | — | 3 | 3 | — | 3 | —  |\n|  Curitiba | 3 143 | 884 | 2 259 | 1 680 | 1 463 | 1 747 | 1 396  |\n|  Araucária | 361 | 115 | 246 | 19 | 342 | 189 | 172  |\n|  Campina Grande do Sul | 61 | 16 | 45 | — | 61 | 33 | 28  |\n|  Campo Largo | 1 | 1 | — | — | 1 | 1 | —  |\n|  Curitiba | 2 417 | 664 | 1 753 | 1 629 | 788 | 1 364 | 1 053  |\n|  Piraquara | 24 | 6 | 18 | — | 24 | 15 | 9  |\n|  Rio Negro | 98 | 34 | 64 | 9 | 89 | 54 | 44  |\n|  São José dos Pinhais | 171 | 46 | 125 | 23 | 148 | 85 | 86  |\n|  Tijucas do Sul | 10 | 2 | 8 | — | 10 | 6 | 4  |\n|  Campos Gerais | 164 | 41 | 123 | 83 | 81 | 106 | 58  |\n|  Contenda | 12 | 5 | 7 | — | 12 | 7 | 5  |\n|  Lapa | 13 | 7 | 6 | 2 | 11 | 6 | 7  |\n|  Palmeira | 9 | 1 | 8 | — | 9 | 3 | 6  |\n|  Ponta Grossa | 84 | 14 | 70 | 72 | 12 | 63 | 21  |\n|  Sengés | 36 | 8 | 28 | 3 | 33 | 20 | 16  |\n|  Tibagi | 10 | 6 | 4 | 6 | 4 | 7 | 3  |\n|  Sudoeste do Paraná | 31 | 13 | 18 | 17 | 14 | 19 | 12  |\n|  Cascavel | 9 | 4 | 5 | 5 | 4 | 7 | 2  |\n|  Foz do Iguaçu | 10 | 4 | 6 | 10 | — | 6 | 4  |\n|  Santo Antônio | 10 | 4 | 6 | — | 10 | 4 | 6  |\n|  União da Vitória | 2 | 1 | 1 | 2 | — | 2 | —  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 11,
+      "markdown": "16 分布 (人口)\n\n1 州, 地 方, 郡——世 代, 居 住 地, 男 女 別 (つづき)\n\n[tbl-10.md](tbl-10.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "16 分布 (人口)",
+        "1 州, 地 方, 郡——世 代, 居 住 地, 男 女 別 (つづき)",
+        "[tbl-10.md](tbl-10.md)",
+        "SEADE",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9970322190930604,
+        "minimum_page_confidence_score": 0.4877590068160442
+      },
+      "tables": [
+        {
+          "id": "tbl-10.md",
+          "content": "|   | Total | 世 代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 れ Descendants | 市街地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  MATO GROSSO | 8 886 | 2 730 | 6 156 | 3 253 | 5 633 | 4 790 | 4 096  |\n|  Dourados | 2 136 | 920 | 1 216 | 645 | 1 491 | 1 158 | 978  |\n|  Bataguaçu | 1 | — | 1 | — | 1 | 1 | —  |\n|  Bela Vista | 8 | 2 | 6 | 7 | 1 | 7 | 1  |\n|  Dourados | 1 838 | 844 | 994 | 543 | 1 295 | 978 | 860  |\n|  Itaporã | 204 | 51 | 153 | 73 | 131 | 121 | 83  |\n|  Maracaju | 4 | 2 | 2 | 4 | — | 2 | 2  |\n|  Nicoque | 6 | — | 6 | 6 | — | 6 | —  |\n|  Rio Brilhante | 75 | 21 | 54 | 12 | 63 | 43 | 32  |\n|  Campo Grande | 5 821 | 1 502 | 4 319 | 2 388 | 3 433 | 3 123 | 2 698  |\n|  Aparecida do Taboado | 69 | 20 | 49 | 24 | 45 | 35 | 34  |\n|  Aquidauana | 255 | 60 | 195 | 158 | 97 | 136 | 119  |\n|  Campo Grande | 4 010 | 1 003 | 3 007 | 1 944 | 2 066 | 2 128 | 1 882  |\n|  Corguinho | 602 | 164 | 438 | 31 | 571 | 325 | 277  |\n|  Corumbá | 22 | 4 | 18 | 21 | 1 | 21 | 1  |\n|  Jaraguari | 171 | 51 | 120 | 11 | 160 | 95 | 76  |\n|  Miranda | 49 | 13 | 36 | 30 | 19 | 27 | 22  |\n|  Ribas do Rio Pardo | 90 | 32 | 58 | — | 90 | 44 | 46  |\n|  Sidrolândia | 157 | 53 | 104 | 1 | 156 | 91 | 66  |\n|  Terenos | 163 | 42 | 121 | 1 | 162 | 97 | 66  |\n|  Três Lagoas | 233 | 60 | 173 | 167 | 66 | 124 | 109  |\n|  Central Mato Grosso | 929 | 308 | 621 | 220 | 709 | 509 | 420  |\n|  Barra do Bugres | 6 | 4 | 2 | — | 6 | 5 | 1  |\n|  Cáceres | 69 | 20 | 49 | 32 | 37 | 32 | 37  |\n|  Chapada dos Guimarães | 209 | 80 | 129 | — | 209 | 118 | 91  |\n|  Cuiabá | 279 | 88 | 191 | 104 | 175 | 143 | 136  |\n|  Guiratinga | 2 | — | 2 | 2 | — | — | 2  |\n|  Mato Grosso | 1 | 1 | — | — | 1 | 1 | —  |\n|  Ponte Branca | 189 | 52 | 137 | 13 | 176 | 112 | 77  |\n|  Rondonópolis | 172 | 61 | 111 | 67 | 105 | 97 | 75  |\n|  Santo Antônimo do Leverger | 1 | 1 | — | 1 | — | — | 1  |\n|  Várzea Grande | 1 | 1 | — | 1 | — | 1 | —  |\n|  GOIÁS | 1 793 | 521 | 1 272 | 682 | 1 111 | 938 | 855  |\n|  Amaro Leite | 10 | 2 | 8 | — | 10 | 5 | 5  |\n|  Anápolis | 266 | 71 | 195 | 85 | 181 | 146 | 120  |\n|  Brasília | 262 | 102 | 160 | 113 | 149 | 145 | 117  |\n|  Ceres | 232 | 70 | 162 | 3 | 229 | 120 | 112  |\n|  Cristalina | 1 | 1 | — | 1 | — | 1 | —  |\n|  Formosa | 48 | 21 | 27 | 40 | 8 | 21 | 27  |\n|  Goiandira | 15 | 2 | 13 | — | 15 | 9 | 6  |\n|  Goiânia | 497 | 127 | 370 | 288 | 209 | 251 | 246  |\n|  Inhumas | 52 | 18 | 34 | 25 | 27 | 31 | 21  |\n|  Ipameri | 2 | 1 | 1 | 2 | — | 1 | 1  |\n|  Iporá | 8 | — | 8 | 8 | — | 4 | 4  |\n|  Itaberaí | 1 | — | 1 | 1 | — | 1 | —  |\n|  Itapaci | 33 | 9 | 24 | — | 33 | 15 | 18  |\n|  Jaraguá | 66 | 16 | 50 | 35 | 31 | 30 | 36  |\n|  Jataí | 1 | 1 | — | 1 | — | 1 | —  |\n|  Nerópolis | 149 | 43 | 106 | 21 | 128 | 78 | 71  |\n|  Pires do Rio | 37 | 9 | 28 | 8 | 29 | 19 | 18  |\n|  Rialma | 66 | 18 | 48 | 51 | 15 | 35 | 31  |\n|  Ruhiataba | 5 | 2 | 3 | — | 5 | 2 | 3  |\n|  Trindade | 41 | 7 | 34 | — | 41 | 22 | 19  |\n|  Uruaçu | 1 | 1 | — | — | 1 | 1 | —  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 12,
+      "markdown": "Geographical Distribution (Population) 17\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-11.md](tbl-11.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "Geographical Distribution (Population) 17",
+        "1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)",
+        "[tbl-11.md](tbl-11.md)",
+        "SEADE",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.997330642590621,
+        "minimum_page_confidence_score": 0.3004341485639361
+      },
+      "tables": [
+        {
+          "id": "tbl-11.md",
+          "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 九 Descendants | 市街地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  MINAS GERAIS | 2 878 | 854 | 2 024 | 1 091 | 1 787 | 1 555 | 1 323  |\n|  Triângulo Mineiro | 1 124 | 305 | 819 | 520 | 604 | 597 | 527  |\n|  Araguari | 129 | 26 | 103 | 60 | 69 | 70 | 59  |\n|  Capirópolis | 21 | 7 | 14 | 9 | 12 | 14 | 7  |\n|  Centralina | 6 | 1 | 5 | — | 6 | 4 | 2  |\n|  Conquista | 35 | 7 | 28 | 1 | 34 | 20 | 15  |\n|  Frutal | 81 | 27 | 54 | — | 81 | 39 | 42  |\n|  Ituiutata | 65 | 24 | 41 | 22 | 43 | 39 | 26  |\n|  Prata | 6 | 4 | 2 | — | 6 | 3 | 3  |\n|  Tupaciguara | 39 | 7 | 32 | 39 | — | 17 | 22  |\n|  Uterata | 558 | 143 | 415 | 293 | 265 | 294 | 264  |\n|  Uterlândia | 184 | 59 | 125 | 96 | 88 | 97 | 87  |\n|  Sul de Minas | 801 | 270 | 531 | 242 | 559 | 446 | 355  |\n|  Alfenas | 27 | 7 | 20 | 20 | 7 | 15 | 12  |\n|  Andradas | 10 | 5 | 5 | 10 | — | 5 | 5  |\n|  Camanducais | 24 | 14 | 10 | 9 | 15 | 17 | 7  |\n|  Cambui | 30 | 12 | 18 | — | 30 | 20 | 10  |\n|  Capetinga | 25 | 5 | 20 | — | 25 | 9 | 16  |\n|  Caxambu | 8 | 3 | 5 | 7 | 1 | 3 | 5  |\n|  Cristina | 1 | — | 1 | 1 | — | — | 1  |\n|  Delfim Moreira | 6 | 1 | 5 | — | 6 | 2 | 4  |\n|  Extrema | 249 | 83 | 166 | 26 | 223 | 130 | 119  |\n|  Guaxupé | 1 | — | 1 | — | 1 | 1 | —  |\n|  Itajubá | 66 | 21 | 45 | 39 | 27 | 43 | 23  |\n|  Itanhandu | 51 | 16 | 35 | 9 | 42 | 25 | 26  |\n|  Lambari | 8 | 4 | 4 | 8 | — | 5 | 3  |\n|  Machado | 11 | 4 | 7 | — | 11 | 6 | 5  |\n|  Maria da Fé | 39 | 15 | 24 | 12 | 27 | 24 | 15  |\n|  Monte Santo de Minas | 1 | — | 1 | 1 | — | 1 | —  |\n|  Ouro Fino | 15 | 3 | 12 | 4 | 11 | 6 | 9  |\n|  Parsos | 17 | 10 | 7 | 2 | 15 | 12 | 5  |\n|  Poços de Caldas | 72 | 30 | 42 | 46 | 26 | 36 | 36  |\n|  Pouso Alegre | 18 | 9 | 9 | 11 | 7 | 11 | 7  |\n|  Pratápolis | 21 | 3 | 18 | — | 21 | 11 | 10  |\n|  Santa Rita do Sapucaí | 10 | 2 | 8 | — | 10 | 6 | 4  |\n|  São Gonçalo do Sapucaí | 4 | 2 | 2 | 4 | — | 2 | 2  |\n|  São João Batista da Glória | 7 | 2 | 5 | 7 | — | 3 | 4  |\n|  São Lourenço | 50 | 12 | 38 | 19 | 31 | 31 | 19  |\n|  Toledo | 9 | 1 | 8 | — | 9 | 4 | 5  |\n|  Três Corações | 13 | 4 | 9 | 7 | 6 | 11 | 2  |\n|  Varginha | 8 | 2 | 6 | — | 8 | 7 | 1  |\n|  Belo Horizonte—Barbacena | 604 | 178 | 426 | 270 | 334 | 337 | 267  |\n|  Barbacena | 25 | 10 | 15 | 2 | 23 | 15 | 10  |\n|  Belo Horizonte | 325 | 94 | 231 | 247 | 78 | 194 | 131  |\n|  Betim | 53 | 16 | 37 | 1 | 52 | 28 | 25  |\n|  Bonfim | 12 | 3 | 9 | — | 12 | 8 | 4  |\n|  Brumadinho | 1 | — | 1 | — | 1 | 1 | —  |\n|  Carandal | 8 | 2 | 6 | — | 8 | 4 | 4  |\n|  Esmeraldas | 6 | 1 | 5 | — | 6 | 2 | 4  |\n|  Itabirito | 10 | 2 | 8 | — | 10 | 4 | 6  |\n|  Juiz de Fora | 55 | 22 | 33 | 2 | 53 | 25 | 30  |\n|  Matozinhos | 36 | 5 | 31 | — | 36 | 20 | 16  |\n|  Nova Lima | 16 | 4 | 12 | 10 | 6 | 7 | 9  |\n|  Ouro Branco | 7 | 4 | 3 | — | 7 | 4 | 3  |\n|  Pedro Leopoldo | 15 | 7 | 8 | — | 15 | 7 | 8  |\n|  Resende Costa | 5 | 4 | 1 | 1 | 4 | 3 | 2  |\n|  Ribeirão das Neves | 11 | 2 | 9 | — | 11 | 4 | 7  |\n|  Santa Luzia | 2 | — | 2 | 2 | — | 2 | —  |\n|  Vespasiano | 17 | 2 | 15 | 5 | 12 | 9 | 8  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 13,
+      "markdown": "18 分布 (人口)\n\n1 州，地方，郡——世代，居住地，男女別（つづき）\n\n[tbl-12.md](tbl-12.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "18 分布 (人口)",
+        "1 州，地方，郡——世代，居住地，男女別（つづき）",
+        "[tbl-12.md](tbl-12.md)",
+        "SEADE",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9967051945197992,
+        "minimum_page_confidence_score": 0.2455331721128336
+      },
+      "tables": [
+        {
+          "id": "tbl-12.md",
+          "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル 生 れ Descendants | 市 街 地 Urban | 農 村 Rural | 男 M | 女 F  |\n|  Outras Partes | 349 | 101 | 248 | 59 | 290 | 175 | 174  |\n|  Carnópolis de Minas | 6 | — | 6 | — | 6 | 3 | 3  |\n|  Corinto | 8 | 2 | 6 | — | 8 | 6 | 2  |\n|  Coronel Fabriciano | 2 | 2 | — | 2 | — | 1 | 1  |\n|  Curvelo | 1 | 1 | — | — | 1 | 1 | —  |\n|  Estréia do Sul | 1 | 1 | — | 1 | — | — | 1  |\n|  Itaúna | 45 | 11 | 34 | — | 45 | 22 | 23  |\n|  Itueta | 6 | 2 | 4 | — | 6 | 3 | 3  |\n|  Mateus Leme | 110 | 28 | 82 | — | 110 | 52 | 58  |\n|  Matias Barbosa | 10 | 4 | 6 | — | 10 | 5 | 5  |\n|  Monte Carmelo | 19 | 2 | 17 | 14 | 5 | 9 | 10  |\n|  Pará de Minas | 37 | 11 | 26 | 12 | 25 | 20 | 17  |\n|  Patos de Minas | 41 | 19 | 22 | 29 | 12 | 22 | 19  |\n|  Patrocínio | 8 | 2 | 6 | — | 8 | 2 | 6  |\n|  Rio Nôvo | 41 | 11 | 30 | — | 41 | 21 | 20  |\n|  Santana do Deserto | 13 | 5 | 8 | — | 13 | 8 | 5  |\n|  Teófilo Otoni | 1 | — | 1 | 1 | — | — | 1  |\n|  RIO DE JANEIRO | 4717 | 1687 | 3030 | 1073 | 3644 | 2505 | 2212  |\n|  Angra dos Reis | 299 | 82 | 217 | 266 | 33 | 145 | 154  |\n|  Barra do Piraí | 96 | 28 | 68 | 1 | 95 | 49 | 47  |\n|  Barra Mansa | 102 | 37 | 65 | 55 | 47 | 55 | 47  |\n|  Cabo Frio | 1 | — | 1 | 1 | — | 1 | —  |\n|  Cachoeiras de Macacu | 577 | 214 | 363 | 1 | 576 | 303 | 274  |\n|  Campos | 16 | 13 | 3 | 1 | 15 | 9 | 7  |\n|  Duas Barras | 5 | 2 | 3 | — | 5 | 2 | 3  |\n|  Duque de Caxias | 198 | 56 | 142 | 6 | 192 | 103 | 95  |\n|  Itaqual | 959 | 361 | 598 | 258 | 701 | 496 | 463  |\n|  Itaperuna | 25 | 6 | 19 | — | 25 | 14 | 11  |\n|  Macaé | 5 | 1 | 4 | — | 5 | 2 | 3  |\n|  Mangaratiba | 8 | 3 | 5 | 5 | 3 | 3 | 5  |\n|  Marques de Valença | 426 | 154 | 272 | 7 | 419 | 234 | 192  |\n|  Miguel Pereira | 17 | 7 | 10 | — | 17 | 10 | 7  |\n|  Nilópolis | 39 | 11 | 28 | 39 | — | 22 | 17  |\n|  Niteroi | 235 | 92 | 143 | 211 | 24 | 115 | 120  |\n|  Nova Friburgo | 144 | 52 | 92 | 38 | 106 | 79 | 65  |\n|  Nova Iguaçu | 231 | 89 | 142 | 31 | 200 | 133 | 98  |\n|  Paraíba do Sul | 9 | 2 | 7 | — | 9 | 5 | 4  |\n|  Petrópolis | 143 | 45 | 98 | 17 | 126 | 66 | 77  |\n|  Piraí | 7 | 6 | 1 | — | 7 | 4 | 3  |\n|  Resende | 108 | 45 | 63 | 27 | 81 | 68 | 40  |\n|  Rio Bonito | 60 | 18 | 42 | — | 60 | 31 | 29  |\n|  São Gonçalo | 7 | 1 | 6 | 7 | — | 6 | 1  |\n|  São João de Meriti | 40 | 18 | 22 | 23 | 17 | 22 | 18  |\n|  São Pedro da Aldeia | 10 | 7 | 3 | 4 | 6 | 4 | 6  |\n|  São Sebastião do Alto | 2 | 1 | 1 | — | 2 | 1 | 1  |\n|  Sapucaia | 27 | 6 | 21 | — | 27 | 18 | 9  |\n|  Silva Jardim | 5 | 4 | 1 | 1 | 4 | 4 | 1  |\n|  Sumidouro | 105 | 46 | 59 | — | 105 | 56 | 49  |\n|  Teresópolis | 573 | 174 | 399 | 39 | 534 | 311 | 262  |\n|  Três Rios | 104 | 58 | 46 | 15 | 89 | 63 | 41  |\n|  Vassouras | 87 | 36 | 51 | 2 | 85 | 44 | 43  |\n|  Volta Redonda | 47 | 12 | 35 | 18 | 29 | 27 | 20  |\n|  GUANABARA | 1086 | 390 | 696 | 832 | 254 | 653 | 433  |\n|  RONDÔNIA | 157 | 132 | 25 | — | 157 | 83 | 74  |\n|  ACRE | 3 | 1 | 2 | — | 3 | 1 | 2  |\n|  AMAZONAS | 760 | 408 | 352 | 144 | 616 | 417 | 343  |\n|  Barreirinha | 34 | 12 | 22 | — | 34 | 20 | 14  |\n|  Careiro | 5 | 2 | 3 | — | 5 | 5 | —  |\n|  Fonte Boa | 1 | — | 1 | 1 | — | 1 | —  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 14,
+      "markdown": "Geographical Distribution (Population) 19\n\n1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)\n\n[tbl-13.md](tbl-13.md)\n\nSEADE\n\nDocumento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP.",
+      "lines": [
+        "Geographical Distribution (Population) 19",
+        "1 BY STATE, REGION, MUNICÍPIO — GENERATION, RESIDENCE, SEX (Continued)",
+        "[tbl-13.md](tbl-13.md)",
+        "SEADE",
+        "Documento assinado digitalmente com certificado digital emitido sob a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, instituída através de medida provisória nº 2.200-2. Autoridade Certificadora emissora: AC Imprensa Oficial SP."
+      ],
+      "dimensions": {
+        "dpi": 96,
+        "height": 1017,
+        "width": 659
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9977006377927473,
+        "minimum_page_confidence_score": 0.21026773805988233
+      },
+      "tables": [
+        {
+          "id": "tbl-13.md",
+          "content": "|   | Total | 世代 Generation |   | 居住地 Residence |   | 男 女 Sex  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  移民 Immigrants | ブラジル生児 Descendants | 市街地 Urban | 農村 Rural | 男 M | 女 F  |\n|  Itacoatiara | 85 | 36 | 49 | 7 | 78 | 48 | 37  |\n|  Itapiranga | 35 | 20 | 15 | — | 35 | 21 | 14  |\n|  Manacapuru | 78 | 67 | 11 | — | 78 | 40 | 38  |\n|  Manaus | 215 | 137 | 78 | 63 | 152 | 117 | 98  |\n|  Maués | 56 | 22 | 34 | 6 | 50 | 31 | 25  |\n|  Nova Olinda do Norte | 6 | 5 | 1 | — | 6 | 3 | 3  |\n|  Parintins | 162 | 78 | 84 | 53 | 109 | 87 | 75  |\n|  Silves | 7 | 1 | 6 | — | 7 | 5 | 2  |\n|  Urucará | 14 | 7 | 7 | 6 | 8 | 8 | 6  |\n|  Urucurituba | 62 | 21 | 41 | 8 | 54 | 31 | 31  |\n|  RIO BRANCO | 79 | 65 | 14 | 2 | 77 | 42 | 37  |\n|  PARÁ | 4 467 | 3 272 | 1 195 | 380 | 4 087 | 2 457 | 2 010  |\n|  Nordeste do Pará | 3 855 | 2 817 | 1 038 | 275 | 3 580 | 2 122 | 1 733  |\n|  Ananindeua | 421 | 326 | 95 | 29 | 392 | 232 | 189  |\n|  Barcarena | 85 | 55 | 30 | 7 | 78 | 48 | 37  |\n|  Belém | 527 | 271 | 256 | 196 | 331 | 301 | 226  |\n|  Bragança | 45 | 39 | 6 | — | 45 | 24 | 21  |\n|  Capanema | 48 | 22 | 26 | 28 | 20 | 22 | 26  |\n|  Castanhal | 21 | 17 | 4 | — | 21 | 14 | 7  |\n|  Guamá | 67 | 64 | 3 | — | 67 | 34 | 33  |\n|  Inhangapi | 299 | 286 | 13 | — | 299 | 169 | 130  |\n|  Irituia | 11 | 11 | — | — | 11 | 6 | 5  |\n|  João Coelho | 648 | 555 | 93 | — | 648 | 359 | 289  |\n|  Salinópolis | 8 | 8 | — | — | 8 | 7 | 1  |\n|  Soure | 16 | 16 | — | 4 | 12 | 9 | 7  |\n|  Tomé-Açu | 1 659 | 1 147 | 512 | 11 | 1 648 | 897 | 762  |\n|  Centro-oeste do Pará | 612 | 455 | 157 | 105 | 507 | 335 | 277  |\n|  Alenquer | 91 | 59 | 32 | 49 | 42 | 46 | 45  |\n|  Itaituba | 6 | 6 | — | — | 6 | 4 | 2  |\n|  Juruti | 29 | 14 | 15 | 3 | 26 | 16 | 13  |\n|  Monte Alegre | 398 | 339 | 59 | 16 | 382 | 223 | 175  |\n|  Óbidos | 6 | 3 | 3 | 4 | 2 | 3 | 3  |\n|  Oriximiná | 27 | 7 | 20 | 3 | 24 | 13 | 14  |\n|  Prainha | 2 | — | 2 | — | 2 | 2 | —  |\n|  Santarém | 53 | 27 | 26 | 30 | 23 | 28 | 25  |\n|  MARANHÃO | 22 | 12 | 10 | 1 | 21 | 11 | 11  |\n|  PIAUI | 16 | 14 | 2 | 1 | 15 | 8 | 8  |\n|  CEARÁ | 3 | 1 | 2 | 3 | — | 3 | —  |\n|  RIO GRANDE DO NORTE | 58 | 52 | 6 | 2 | 56 | 35 | 23  |\n|  PARAÍBA | 13 | 8 | 5 | — | 13 | 8 | 5  |\n|  PERNAMBUCO | 109 | 69 | 40 | 31 | 78 | 56 | 53  |\n|  SERGIPE | 3 | 2 | 1 | 3 | — | — | 3  |\n|  BAHIA | 256 | 164 | 92 | 12 | 244 | 138 | 118  |\n|  ESPÍRITO SANTO | 52 | 22 | 30 | 15 | 37 | 29 | 23  |\n|  SANTA CATARINA | 152 | 52 | 100 | 21 | 131 | 89 | 63  |\n|  RIO GRANDE DO SUL | 842 | 604 | 238 | 140 | 702 | 499 | 343  |\n|  DESCONHECIDOS | 166 | — | — | — | — | 92 | 74  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 11.649,
+  "remote_file_id": null
+}

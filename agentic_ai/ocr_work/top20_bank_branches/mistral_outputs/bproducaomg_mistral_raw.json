@@ -1,0 +1,62 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bproducaomg.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 222490
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "# BANCO MINEIRO DA PRODUÇÃO S. A.\n\nFUNDADO EM 1934 — Carta Patente n.º 3.830, de 17 de maio de 1955, em substituição à de n.º 1.405, de 23/10/1938, cancelada.\n\nMATRIZ: PRAÇA SETE DE SETEMBRO — BELO HORIZONTE\n\nFILIAIS:\n\nSão Paulo — RUA BOÁ VISTA, 88 • Rio de Janeiro — AV. PRESIDENTE VARGAS, 435 - A • Juiz de Fora — RUA HALFELD, 422\n\nCAPITAL ... Cr$ 500.000.000,00 — — RESERVAS ... Cr$ 340.000.000,00\n\nAGÊNCIAS: Minas Gerais: — Abaeté, Águas Formosas, Aimorés, Almenara, Alto Rio Doce, Araçuaí, Araguari, Bambuí, Bicas, Bôa Esperança, Bocaiúva, Bom Despacho, Caetés (Urbana BH), Cambuquirá, Campesire, Campina Verde, Campo Belo, Candeias, Carangola, Caratinga, C. do Rio Claro, Cássia, C. das Alagôas, Curvêlo, Divino, Divinópolis, Dom Silvério, Dôres do Indaiá, Entre R. de Minas, Espinosa, Francisco Sá, Frutal, Gov. Valadares, Guarani, Ipanema, Itamoqi, Ituiutaba, Jacutinga, Joaima, Lajinha, Lambari, Lavras, Leopoldina, Luz, Machado, Malacacheta, Manhuaçu, Manhumirim, Mantena, Monte s Claros, Muriaé, Nepomuceno, Oliveira, Pará de Minas, Paraguassú, Passos, Patos de Minas, Patrocínio, Pedra Azul, Pitanguí, Poco Fundo, Pocos de Caldas, Ponte Nova, Pouso Alegre, Pratápolis, Presidente Soares, Raul Soares, Redentor (Urb. J. de Fora), Rio Casca, Rio Novo, Santa Rita do Sapucaí, São Domingos do Prata, São Matheus (Urb. J. de Fora), São Sebastião do Paraíso, Teófilo Oioni, Tombos, Tupaciquara, Tupinambas (Urb. BH), Tupis (Urb. BH), Ubá, Uberaba, Uberlândia, Varqinha, Vicosa, Distrito Federal: N. S. de Fátima (Brasília). Estado da Bahia: Castro Alves (Urb. Salvador), Feira de Santana, Ruy Barbosa (Urb. Salvador), Vitória da Conquista, Espírito Santo: Colatina, Vitória. — Estado da Guanabara: Avenida (Urb. R. de Janeiro), Candelária (Urb. Rio de Janeiro), Caiete (Urb. Rio de Janeiro), Cinelândia (Urb. Rio de Janeiro), Copacabana (Urb. Rio de Janeiro), Méter (Urb. Rio de Janeiro), Olaria (Urb. Rio de Janeiro), P. da Bandeira (Urb. Rio de Janeiro), P. Independência (Urb. Rio de Janeiro), Saenz Peña (Urb. Rio de Janeiro), Saúde (Urb. Rio de Janeiro). Estado de Paraná: Apucarana, Curitiba, Londrina, Maringá. Estado de Pernambuco: Guararapes (Urb. Recife), Marq. de Olinda (Urb. Recife). Rio Grande do Sul: Porto Alegre. Estado de São Paulo: Brás (Urb. S. Paulo), Franca, Paula Souza (Urb. S. Paulo), P. da República (Urb. S. Paulo), Ribeirão Preto, R. Augusta (Urb. S. Paulo), Santos.\n\nDepósitos garantidos pelo Estado de Minas Gerais (Lei n.º 187, de 10/9/1937)",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 590,
+          "width": 1253
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 222490
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "# BANCO MINEIRO DA PRODUÇÃO S. A.\n\nFUNDADO EM 1934 — Carta Patente n.º 3.830, de 17 de maio de 1955, em substituição à de n.º 1.405, de 23/10/1938, cancelada.\n\nMATRIZ: PRAÇA SETE DE SETEMBRO — BELO HORIZONTE\n\nFILIAIS:\n\nSão Paulo — RUA BOÁ VISTA, 88 • Rio de Janeiro — AV. PRESIDENTE VARGAS, 435 - A • Juiz de Fora — RUA HALFELD, 422\n\nCAPITAL ... Cr$ 500.000.000,00 — — RESERVAS ... Cr$ 340.000.000,00\n\nAGÊNCIAS: Minas Gerais: — Abaeté, Águas Formosas, Aimorés, Almenara, Alto Rio Doce, Araçuaí, Araguari, Bambuí, Bicas, Bôa Esperança, Bocaiúva, Bom Despacho, Caetés (Urbana BH), Cambuquirá, Campesire, Campina Verde, Campo Belo, Candeias, Carangola, Caratinga, C. do Rio Claro, Cássia, C. das Alagôas, Curvêlo, Divino, Divinópolis, Dom Silvério, Dôres do Indaiá, Entre R. de Minas, Espinosa, Francisco Sá, Frutal, Gov. Valadares, Guarani, Ipanema, Itamoqi, Ituiutaba, Jacutinga, Joaima, Lajinha, Lambari, Lavras, Leopoldina, Luz, Machado, Malacacheta, Manhuaçu, Manhumirim, Mantena, Monte s Claros, Muriaé, Nepomuceno, Oliveira, Pará de Minas, Paraguassú, Passos, Patos de Minas, Patrocínio, Pedra Azul, Pitanguí, Poco Fundo, Pocos de Caldas, Ponte Nova, Pouso Alegre, Pratápolis, Presidente Soares, Raul Soares, Redentor (Urb. J. de Fora), Rio Casca, Rio Novo, Santa Rita do Sapucaí, São Domingos do Prata, São Matheus (Urb. J. de Fora), São Sebastião do Paraíso, Teófilo Oioni, Tombos, Tupaciquara, Tupinambas (Urb. BH), Tupis (Urb. BH), Ubá, Uberaba, Uberlândia, Varqinha, Vicosa, Distrito Federal: N. S. de Fátima (Brasília). Estado da Bahia: Castro Alves (Urb. Salvador), Feira de Santana, Ruy Barbosa (Urb. Salvador), Vitória da Conquista, Espírito Santo: Colatina, Vitória. — Estado da Guanabara: Avenida (Urb. R. de Janeiro), Candelária (Urb. Rio de Janeiro), Caiete (Urb. Rio de Janeiro), Cinelândia (Urb. Rio de Janeiro), Copacabana (Urb. Rio de Janeiro), Méter (Urb. Rio de Janeiro), Olaria (Urb. Rio de Janeiro), P. da Bandeira (Urb. Rio de Janeiro), P. Independência (Urb. Rio de Janeiro), Saenz Peña (Urb. Rio de Janeiro), Saúde (Urb. Rio de Janeiro). Estado de Paraná: Apucarana, Curitiba, Londrina, Maringá. Estado de Pernambuco: Guararapes (Urb. Recife), Marq. de Olinda (Urb. Recife). Rio Grande do Sul: Porto Alegre. Estado de São Paulo: Brás (Urb. S. Paulo), Franca, Paula Souza (Urb. S. Paulo), P. da República (Urb. S. Paulo), Ribeirão Preto, R. Augusta (Urb. S. Paulo), Santos.\n\nDepósitos garantidos pelo Estado de Minas Gerais (Lei n.º 187, de 10/9/1937)",
+      "lines": [
+        "# BANCO MINEIRO DA PRODUÇÃO S. A.",
+        "FUNDADO EM 1934 — Carta Patente n.º 3.830, de 17 de maio de 1955, em substituição à de n.º 1.405, de 23/10/1938, cancelada.",
+        "MATRIZ: PRAÇA SETE DE SETEMBRO — BELO HORIZONTE",
+        "FILIAIS:",
+        "São Paulo — RUA BOÁ VISTA, 88 • Rio de Janeiro — AV. PRESIDENTE VARGAS, 435 - A • Juiz de Fora — RUA HALFELD, 422",
+        "CAPITAL ... Cr$ 500.000.000,00 — — RESERVAS ... Cr$ 340.000.000,00",
+        "AGÊNCIAS: Minas Gerais: — Abaeté, Águas Formosas, Aimorés, Almenara, Alto Rio Doce, Araçuaí, Araguari, Bambuí, Bicas, Bôa Esperança, Bocaiúva, Bom Despacho, Caetés (Urbana BH), Cambuquirá, Campesire, Campina Verde, Campo Belo, Candeias, Carangola, Caratinga, C. do Rio Claro, Cássia, C. das Alagôas, Curvêlo, Divino, Divinópolis, Dom Silvério, Dôres do Indaiá, Entre R. de Minas, Espinosa, Francisco Sá, Frutal, Gov. Valadares, Guarani, Ipanema, Itamoqi, Ituiutaba, Jacutinga, Joaima, Lajinha, Lambari, Lavras, Leopoldina, Luz, Machado, Malacacheta, Manhuaçu, Manhumirim, Mantena, Monte s Claros, Muriaé, Nepomuceno, Oliveira, Pará de Minas, Paraguassú, Passos, Patos de Minas, Patrocínio, Pedra Azul, Pitanguí, Poco Fundo, Pocos de Caldas, Ponte Nova, Pouso Alegre, Pratápolis, Presidente Soares, Raul Soares, Redentor (Urb. J. de Fora), Rio Casca, Rio Novo, Santa Rita do Sapucaí, São Domingos do Prata, São Matheus (Urb. J. de Fora), São Sebastião do Paraíso, Teófilo Oioni, Tombos, Tupaciquara, Tupinambas (Urb. BH), Tupis (Urb. BH), Ubá, Uberaba, Uberlândia, Varqinha, Vicosa, Distrito Federal: N. S. de Fátima (Brasília). Estado da Bahia: Castro Alves (Urb. Salvador), Feira de Santana, Ruy Barbosa (Urb. Salvador), Vitória da Conquista, Espírito Santo: Colatina, Vitória. — Estado da Guanabara: Avenida (Urb. R. de Janeiro), Candelária (Urb. Rio de Janeiro), Caiete (Urb. Rio de Janeiro), Cinelândia (Urb. Rio de Janeiro), Copacabana (Urb. Rio de Janeiro), Méter (Urb. Rio de Janeiro), Olaria (Urb. Rio de Janeiro), P. da Bandeira (Urb. Rio de Janeiro), P. Independência (Urb. Rio de Janeiro), Saenz Peña (Urb. Rio de Janeiro), Saúde (Urb. Rio de Janeiro). Estado de Paraná: Apucarana, Curitiba, Londrina, Maringá. Estado de Pernambuco: Guararapes (Urb. Recife), Marq. de Olinda (Urb. Recife). Rio Grande do Sul: Porto Alegre. Estado de São Paulo: Brás (Urb. S. Paulo), Franca, Paula Souza (Urb. S. Paulo), P. da República (Urb. S. Paulo), Ribeirão Preto, R. Augusta (Urb. S. Paulo), Santos.",
+        "Depósitos garantidos pelo Estado de Minas Gerais (Lei n.º 187, de 10/9/1937)"
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 590,
+        "width": 1253
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 4.641,
+  "remote_file_id": null
+}

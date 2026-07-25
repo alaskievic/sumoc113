@@ -1,0 +1,90 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+CRELTESLERALLECECEACLCKEALELASEESERASCESEASRASEESRAREESSESAEREARSEALASSREREESCCCEEEREEESSSERSEEEKEALTLES RR EATERESRECARE ERC
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DC CENSO INDUSTRIAL DE 1980 E 1985
+SERESSESACRECESEASASLSESASSEAAECTACCCESALCCLCASECLASESCCALSCECERAECECAAREISTEASTALSRRRELISSESCS REA RRASRACERRRATEECCERCERA CANA
+* = s
+* * CENSO DE 1980 x
+* x ”
+* EEERAASFELAÇAASEARKSEKSCSXEASEESSESSESARLKEEEASEEENLESIS ERES
+NUM. = * * PESSOAL OCUPADO * *
+* * = EM 31-12-1980 * ANO DE 1980 *
+* x s = =
+DE + MUNICIPIOS, CLASSES = CRTESERFIZESRSLEAEECESLSAAREESSRREEESRESEEREAEER ERR
+hd * NUMERO * x = * * *
+* E . * . * * * VALOR DA *
+OR- = *DE ESTA-* > Ed SALARIOS = VALOR x .*
+x GENEROS DA INDUSTRIA * * + x RETIRADAS = BRUTO DA *TRANSFORMAÇÃO *
+x * BELECI-* * LIGADO A + E OUTRAS a PRODUÇÃO * *
+DEM = . * TOTAL * = * REMUNERAÇÕES < INDUSTRIAL « INDUSTRIAL «*
+* * MENTOS +“ * PRODUÇÃO + . * Lá *
+z * x * EESSKSERRSKRACERREARESSESECEISESEECRTEARA TA
+* * * + x *
+x * ” x * (MIL CRUZEIROS) z
+x * x x * *
+CEEE CERCAS CESSEASTESSECASEEREESEEASSLSAAL SALAS ILE TERESA CEEE REA E REA
+1508 MOBILIARIC,..peccrccic src rrarrarara ecra 100 545 387 34 272 128 710 65 136
+1509 PAPEL E PAPELÃO........ccccccce rss re cecrrraeras & 133 122 10 641 83 844 34 715
+1510 BORRACHA.......cccccscrrercra rear arrasa € 134 sz 20 osB 117 5e9 ga B70
+1511 COUROS E PELES........ccccisssresacrerartrra vara 14 182 122 18 sB4 125 946 45 160
+1512 QUIMICA.....cccsscccs cc crer eraararce sanar avo 13 235 209 19 506 216 428 77 023
+1513 FARMACEUTICA.....ccccricc errar eras raras 2 (D) tD) (X) (D) (X)
+1514 PERFUMARIA... cics rr era narr rr rarr 6 BO 64 5 746 72 745 25 616
+1515 MATS. PLASTICAS,....sccccclssarcrrreraararo ars 5 93 55 E 935 167 677 65 557
+1516 TEXTIL...cccccescsc carr rcerrrrr race sa sacas Ba 4 83º 4 244 467 949 5 783 546 2 076 423
+1517 VESTUARIO. ....cccscersrrrcrr rar resinas 47 1 024 8765 E1 944 968 516 593 510
+1516 ALIMENTARES... ..ccrcscerrra cerca reserve 453 5 241 3 738 385 454 4 265 208 1 722 373
+1518 BEBIDAS......ccccsirccrcrera re rare ca rare rr sas ze 216 142 26 446 176 438 120 572
+1520 FUMO, ..cccscrercr rece arcerrr rrenan 13 165 144 12 061 245 053 103 476
+1521 GRAFICA....cccrssrccccrrerrr arca rare sarro 30 448 315 “o 893 167 385 103 235
+1522 DIVERSAS... .ccecccrrrcrr rear rta rare rrrrarrranão 23 731 660 374 505 777 070 578 818
+1523 ARACAJU... ,cccrcarcas cera rrrr cr sarro vara ra cara 383 s 766 6 6880 1 725 265 B 372 153 3 852 213
+1524 EXTRATIVA MINERAL......cccrcrscrccaracrrea raras 10 1 O96 12 571 864 14 0398 13 728
+1525 TRANSFORMAÇÃO.......iccicrccscrrerrrrreneriraa 372 8 651 6. 849 1 148 325 8 350 7897 3 831 231
+1526 NÃO METALICOS......ccccccrsscsrerre ceras rear 51 Bags 555 107 519 1 276 671 537 654
+1527 METALURGICA....sccccscscrrrrcecerrrr araras 32 511 397 53 941 446 647 281 677
+1528 MECANICA......ciccccrcrrr erre rare ra ras 25 421 370 50 872 154 372 126 662
+15298 MATERIAL ELETRICO.....cccccscrcccccrrere renas 6 83 67 1C 251 37 092 22 640
+1530 TRANSPORTE.....ccccserscrrrr cer rro scr rrr raras 4 83 64 7 058 33 998 30 590
+1531 MADEIRA.....sscrccrcrarr re rrra rr rara serena ras 13 116 Bá 7 091 as 281 21 533
+1532 MOBILIARIO,..prccrcrccrrrrarer err crra rr rear 17 182 138 12 481 47 Bia 27 916
+153º PAPEL E PAPELÃO........cciccccsire rr rarrarao 4 133 122 10 641 83 B44 34 715
+1534 BORRACHA... ..ccscccrcarrer encare nara nte raras 3 95 63 14 036 69 461 52 683
+1535 COUROS E PELES.....ccccccirenecanecacererrres 2 (D) (D) (X) (E) (X)
+1536 QUIMICA.,...ccisicecsc cronica cana rransraras 7 196 182 17 068 146 812 57 174
+1537 FARMACEUTICA......rcsscssccc rrenan rar rerc cas 2 (D) (D) (X) (D) (X)
+1538 PERFUMARIA... cscrecercece cercar crcrrneaarraa ra s 76 61 5 351 71 221 24 982
+1539 MATS. PLASTICAS......ccccscercrrrcerrererrars 2 (D) (Cc) (X) (D) (X)
+1540 TEXTIL. ..ccccereceruran re rercer rr rrre rar 28 2 109 1 845 190 sos 2 212 429 705 690
+1541 VESTUARIO. , Lelis rrer creci rrrna rancores z5 878 765 54 048 632 791 371 829
+1542 ALIMENTARES... . cics errar racer s9 1 563 1 027 156 259 1 903 953 711 478
+1543 BEBIDAS......crcccrcranecer cr rernnreccrrrrrrras 7 146 105 23 956 155 073 108 441
+1544 FUMO, cercar rira recon rr narrar erre rr 1 (Cc) (Cc) 4X) (A) (X)
+1545 GRAFICA..., cicero nero re varre seara ca 23 407 284 38 765 157 291 100 589
+1546 DIVERSAS.....ccccccrscrere corar errarcr erre seres 13 682 636 371 890 768 541 572 479
+1547 AMPARO DE SÃO FRANCISCO.......cciccrsccasescaras 1 (a) (A) x) ta) (X)
+1548 AQUIDABÃ.....ccecccrrrrrorrrrercne rar rara rrsasos 17 57 35 4 548 12 650 7 452
+1549 ARAUA,..ccsscscraroarranse sarna casa roses sarna 6 75 60 3 291 259 028 67 953
+1550 AREIA BRANCA.....cscscccrcrcorercorcasssa serras 16 67 30 3 528 11 144 4a 910
+1551 BARRA DOS COQUEIROS.........cccccrsrccereraceras 3 14 8 716 8 661 3 695
+1552 BOQUIM.....ccssscsssenserrra rca sasseasaassearsa 12 B6 64 4 221 16 249 9 645
+1553 BREJO GRANDE.......ccsscsreccrre ca rera carentes 12 Elo) 20 1 570 8 593 3 103
+1554 CAMPO DO BRITO......scccccrrrcaserirsercaracuras 6 34 27 1 928 10 997 3 821
+1555 CANHOBA......ccccicecrcrra carro renas res arenas - - - - “ -
+1556 CANINDE DE SÃO FRANCISCO,......cccccrcirercaress 1 (a) (A) X) (A) (XxX)
+1557 CAPELA.....cccscsreraca crer o sarau acarraa ars 16 874 782 52 748 522 651 257 941
+1558 CARIRA......isccccrccrcerararr ares rr rara raras 28 103 64 3 734 17 742 7 460
+1558 CARMOPOLIS.......,cccsersre errar sara rare rara 7 av 27 1 591 7 338 3 938
+1560 CEDRO DE SÃO JOÃO........ccccicisiescrercreranoa 4 21 14 955 6 900 2 718
+1561 CRISTINAPOLIS.......ccccscsccrcncacercarcarreras 4 22 14 1 389 10 046 4 346
+1562 CUMBE,.,...ccccrererrrr rear rrrar roca rs rca cera 1 (A) (a) x) (a) (X)
+1563 OIVINA PASTORA,.....cccesccrancrcesercercarerras 3 25 15 2 S14 28 632 15 614
+1564 ESTANCIA,.....secccscrcercrrerererrrrrrrcar saca 66 2 283 1 924 225 840 2 278 571 917 063
+1565 FEIRA NOVA,.......ccrccececuccencrrrrcsta raras 4 20 12 1 302 15 510 3 578
+1566 FREI PAULO......cccrcccrrerire roer rrare rare 14 7 36 5 158 70 057 24 251
+1567 GARARU......cccerccrrcarer eae rrre rivais erro 10 28 16 1 005 8 588 2 544
+1568 GENERAL MAYNARD.......crcrcrrrrccernarsracrcera 1 (A) (a) (x) (A) (X)
+1569 GRACHO CARDOSO.......,cccrccrrrrrenacrecasracrra 12 38 20 1 788 26 340 4 326
+1570 ILHA DAS FLORES..........ccrccccccccrascceraaros 8 33 17 1 514 . 16 316 8 iso
+1571 INDIAROBA.....cccsccrccrtarce rasa cera rre sarna 8 29 21 1 432 5 477 2 981
+1572 ITABAIANA.....ccrccrcrcrcerese raras casser caras 126 798 566 42 433 336 162 183 470
+60 .

@@ -1,0 +1,26 @@
+{
+  "source_pdf": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/censo_1985/part5_all_1985.pdf",
+  "mistral_json": "output_ocr/censo_1985/part5_all_1985/part5_all_1985_mistral_raw.json",
+  "supplemental_tesseract_dir": "output_ocr/censo_1985/part5_all_1985/tesseract_review",
+  "processed_pdf_pages": "1-249",
+  "appendix_excluded_from_page": 250,
+  "files": [
+    "industrial_table_1.csv",
+    "industrial_table_2.csv",
+    "industrial_table_3_merged.csv",
+    "commerce_table_1.csv",
+    "commerce_table_2.csv",
+    "commerce_table_3_merged.csv",
+    "services_table_1.csv",
+    "services_table_2.csv",
+    "services_table_3_merged.csv",
+    "table_3_merge_audit.json",
+    "summary_tables_audit.json"
+  ],
+  "notes": [
+    "Raw OCR strings are preserved; thousands separators are not normalized.",
+    "Table 3 joins use the printed order number.",
+    "Supplemental Portuguese Tesseract text is used only to fill an incomplete Mistral/PDF-text row when all expected columns reconcile.",
+    "needs_review=yes means one side of the printed pair still did not reconcile exactly."
+  ]
+}

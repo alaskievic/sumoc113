@@ -1,0 +1,579 @@
+order_number,entry,establishments_1980,personnel_total_1980,personnel_linked_to_production_1980,salaries_withdrawals_other_compensation_1980_mil_cruzeiros,gross_production_value_1980_mil_cruzeiros,industrial_transformation_value_1980_mil_cruzeiros,companies_headquartered_in_municipality_1985,establishments_1985,personnel_total_1985,personnel_linked_to_production_1985,salaries_withdrawals_other_compensation_1985_mil_cruzeiros,gross_production_value_1985_mil_cruzeiros,industrial_transformation_value_1985_mil_cruzeiros,source_page_1980,source_page_1985,left_extraction_method,right_extraction_method,needs_review
+1,BRASIL,,,,,,,175 652,207 157,5 608 704,4 217 212,96 449 248 431,1 132 811 769 037,523 906 798 448,4,5,pdf_text_tokens_partial,mistral_table,yes
+2,EXTRATIVA MINERAL,4 83_7,110 044,72 463,26 949 370,208 088 815,147 834 407,1 992,2 973,107 376,78 800,2 555 001 300,52 933 461 376,45 991 056 589,4,5,pdf_text_layout,mistral_table,no
+3,TR~NSFORMAÇÃO,,,,,,,173 660,204 184,5 501 328,4 138 412,93 894 247 131,1 079 878 307 661,477 915 741 859,4,5,pdf_text_tokens_partial,mistral_table,yes
+4,NAO METALICOS,35 501,444 372,323 845,54 725 509,425 494 952,233 650 607,26 843,28 974,365 643,275 855,4 102 263 245,33 178 100 772,20 522 941 485,4,5,pdf_text_layout,mistral_table,no
+5,METALURGICA,19 948,641 546,471 734,132 735 895,1 396 560 294,480 289 548,16 621,18 964,565 036,427 914,11 292 003 136,150 493 933 516,58 369 855 703,4,5,pdf_text_layout,mistral_table,no
+6,MECANICA,12 412,602 453,474 578,156 492 359,762 640·905,419 766 672,7 867,11 088,552 163,440 962,13 807 905 147,73 502 013 185,43 967 809 865,4,5,pdf_text_layout,mistral_table,no
+7,MATERIAL ELETRICO,4 658,297 378,218 147,66 972 713,542 665 099,288 072 959,3 047,4 573,315 767,230 731,7 465 297 562,62 253 200 015,36 151 456 103,4,5,pdf_text_layout,mistral_table,no
+8,TRANSPORTE,4 526,344 750,250 189,88 039 736,776 469 693,307 868 236,3 361,4 184,341 621,257 925,9 025 553 049,79 384 244 141,30 715 409 051,4,5,pdf_text_layout,mistral_table,no
+9,MADEIRA,20 873,274 247,208 840,26 599 319,201 203 067,108 703 601,15 677,17 129,218 059,174 875,1 799 927 984,13 412 764 399,7 566 235 042,4,5,pdf_text_layout,mistral_table,no
+10,MOBILIARIO . . . .t,13 750,186 686,140 588,20 939 585,145 723 460,73 500 928,12 845,13 759,186 467,147 125,1 708 471 024,12 946 085 093,6 844 398 486,4,5,pdf_text_layout,mistral_table,no
+11,PAPEL E PAPE LA O,2 151,130 018,91 562,24 936 128,264 220 323,114 495 098,1 317,2 107,132 948,98 957,2 739 039 127,30 119 138 254,14 015 403 745,4,5,pdf_text_layout,mistral_table,no
+12,BORRACHA,1 519,64 765,49 942,13 686 227,149 210 017,51 953 533,1 056,1 421,71 656,53 447,1 667 459 058,17 788 912 485,8 805 459 453,4,5,pdf_text_layout,mistral_table,no
+13,COUROS E PELES,1 509,45 317,36 936,5 879 184,48 600 831,19 567 217,1 347,1 604,53 849,46 762,566 342 126,6 575 937 764,2 874 318 104,4,5,pdf_text_layout,mistral_table,no
+14,QUIMICA,4 774,222 118,121 129,80 844 941,1 766 457 710,601 354 695,2 301,5 066,267 742,165 442,9 414 992 805,224 533 760 108,82 797 136 577,4,5,pdf_text_layout,mistral_table,no
+15,F ARMACEUT I CA,1 122,54 426,26 814,16 691 111,107 267 595,66 020 199,433,930,49 058,24 282,1 454 315 316,12 577 172 729,8 071 471 841,4,5,pdf_text_layout,mistral_table,no
+16,PERFUMARIA,1 113,36 239,20 271,8 352 570,84 004 488,39 280 355,878,1 140,36 807,20 378,786 075 086,9 003 398 412,4 264 068 676,4,5,pdf_text_layout,mistral_table,no
+17,MATS. PLASTICAS,3 147,135 681,102 573,21 926 260,196 638 919,94 709 899,2 274,2 975,146 151,115 781,2 122 145 884,20 631 679 939,10 712 834 597,4,5,pdf_text_layout,mistral_table,no
+18,TEXTIL . . . . . . . . . . . . . . . . . . . . . . ',7 177,417 750,348 224,58 695 563,634 946 815,257 835 863.,3 814,5 570,351 360,296 196,4 501 530 660,61 887 669 456,28 434 008 601,4,5,pdf_text_layout,mistral_table,no
+19,VESTUARIO,20 571,492 863,410 530,48 172 080,377 802 507,195 750 623,21 888,23 200,955 234,560 662,5 552 313 929,47 485 497 411,24 748 660 004,4,5,pdf_text_layout,mistral_table,no
+20,ALIMENTARES,46 662,724 213,490 214,86 311 627,580 985 683,479 457 327,36 690,43 034,733 199,905 698,8 555 562 476,172 320 771 707,57 405 540 462,4,5,pdf_text_layout,mistral_table,no
+21,BEBIDAS,3 216,77 021,46 092,14 218 331,112 006 572,55 559 135,2 189,2 798,77 167,47 725,1 261 270 854,11 485 924 889,5 936 149 714,4,5,pdf_text_layout,mistral_table,no
+22,FUMO,560,29 527,21 772,7 006 654,59 696 294,31 462 531,143,434,27 924,15 990,725 922 476,6 378 669 516,3 637 174 155,4,5,pdf_text_layout,mistral_table,no
+23,GRAFICA,9 081,169 883,101 427,34 415 147,156 882 437,103 891 041,6 008,9 053,164 523,101 721,2 828 276 608,14 448 553 199,9 278 233 948,4,5,pdf_text_layout,mistral_table,no
+24,DIVERSAS,6 518,170 988,128 197,29 050 688,176 918 866,109 864 243,5 261,6 181,168 954,129 973,2 517 577 579,19 470 879 671,12 797 176 447,4,5,pdf_text_layout,mistral_table,no
+25,REGIÃO NORTE,7 709,145 627,106 572,16 240 202,204 836 133,107 136 482,7 145,7 991,149 820,109 858,1 787 563 346,26 414 503 487,14 556 371 887,4,5,pdf_text_layout,mistral_table,no
+26,EXTRATIVA MINERAL,73,747,3 815,627 389,11 448 318,8 803 556,22,64,10 181,5 186,205 266 524,2 995 351 873,2 671 933 620,4,5,pdf_text_layout,mistral_table,no
+27,TR~NSFORMAÇÃO,631,139 634,102 525,14 562 979,193 270 646,98 239 696,7 123,7 927,139 639,104 672,1 582 296 822,23 419 151 614,11 884 438 267,4,5,pdf_text_layout,mistral_table,no
+28,NAO METALICOS,375,12 792,9 132,1 112 953,8 148 682,4 637 062,1 233,1 282,10 822,7 800,89 052 731,883 437 978,584 504 626,4,5,pdf_text_layout,mistral_table,no
+29,METALURGICA,291,5 090,3 804,667 558,7 665 118,3 279 996,408,445,5 146,3 719,67 273 815,815 399 622,440 416 210,4,5,pdf_text_layout,mistral_table,no
+30,MECANICA,133 ..,4 300,3 '.536,657 298,5 319 258,3 324 297,112,1 169,6 416,5 130,94 355 378,1 190 948 599,709 403 931,4,5,pdf_text_layout,mistral_table,no
+31,MATERIAL ELETRICO,99,20 775,"17 ""565",2 056 202,"65 424 3""8",32 862 128,67,118,24 148,19 114,326 261 939,8 139 393 285,4 284 529 684,4,5,pdf_text_layout,mistral_table,no
+32,TRANSPORTE,271,7 083,5 803,843 506,10 854 784,6 116 359,207,227,5 251,3 737,78 953 706,1 230 729 088,721 771 830,4,5,pdf_text_layout,mistral_table,no
+33,MADEIRA,456,34 278,26 281,2 966 396,20 702 467,11 756 447,1 674,2 026,31 893,26 454,269 296 632,2 388 395 322,1 278 484 055,4,5,pdf_text_layout,mistral_table,no
+34,MOBI LIARIO,379,3 699,2 683,324 563,1 977 083,1 150 777,596,614,3 673,2 555,32 001 941,175 309 642,101 816 183,4,5,pdf_text_layout,mistral_table,no
+35,PAPEL E PAPELAO,15,5 434,394,666 052,6 080 727,3 677 289,10,16,1 947,1 276,41 734 877,606 613 195,86 975 447,4,5,pdf_text_layout,mistral_table,no
+36,"BORRACHA . . . . . . . . . ,., .... , ...... .'",54,1 662,1 208,191 020,4 501 079,1 829 147,48,78,1 859,1 308,18 302 893,551 647 161,264 330 141,4,5,pdf_text_layout,mistral_table,no
+37,COUROS E PELES,17,657,520,92 342,718 098,316 598,16,17,765,668,7 323 733,79 893 452,39 502 814,4,5,pdf_text_layout,mistral_table,no
+38,QUIMICA,65,362,799,291 610,8 320 427,4 122 879,29,82,1 715,1 054,43 115 045,773 898 942,339 892 630,4,5,pdf_text_layout,mistral_table,no
+39,FARMACEUTICA,30,366,138,92 407,170 888,113 704,4,18,247,124,4 620 900,12 896 924,8 853 237,4,5,pdf_text_tokens,mistral_table,no
+40,PERFUMARIA,29,802 559,93 808,1,424 211,829 780,22,27,510,435,7 553 987,77 014 689,23 102 358,4,5,pdf_text_tokens,mistral_table,no
+41,MATS. PLASTICAS,25,1 667,1 368,177 984,1 608 817,848 110,19,29,3 632,3 072,41 966 237,362 824 550,198 026 034,4,5,pdf_text_layout,mistral_table,no
+42,TEXTIL,74,7 241,6 140,671 935,14 614 673,5 873 594,18,1,5 584,4 747,41 905 150,989 613 856,541 577 565,4,5,pdf_text_layout,mistral_table,no
+43,VESTUARIO,142,2 834,2 465,221 140,3 06' 706,1 062 251,124,132,1 272,933,8 717 838,64 324 391,38 872 398,4,5,pdf_text_layout,mistral_table,no
+44,ALIMENTARES,774,18 739,12 667,1 814 969,19 777 950,8 730 052,1 983,2 156,21 707,14 307,238 967 335,2 372 998 106,988 488 147,4,5,pdf_text_layout,mistral_table,no
+45,BEBIDAS,88,3 602,2 140,552 415,3 901 995,2 613 499,45,63,4 990,2 445,65 110 190,444 459 947,311 976 711,4,5,pdf_text_layout,mistral_table,no
+46,FUMO,14,581 448,141 201,1,430 304,503 185,-,11,897,381,13 280 497,240 150 741,183 781 420,4,5,pdf_text_tokens,mistral_table,no
+47,GRAFICA,181,2 745,852,374 782,1 504 404,838 782,197,216,3 383,2 342,37 836 444,219 123 265,155 434 182,4,5,pdf_text_layout,mistral_table,no
+48,DIVERSAS,119,3 925,023,552 838,6 060 627,3 753 760,113,135,3 882,3 071,54 685 364,800 218 757,472 656 863,4,5,pdf_text_layout,mistral_table,no
+49,RONDONIA,689,347 622,984 302,8,282 607,495 358,990,1 074,13 757,10 336,166 688 341,1 812 338 645,1 059 122 391,4,5,pdf_text_tokens,mistral_table,no
+50,EXTRATIVA MINERAL,19,2 382,1 599,442 289,3 109 5o•,3 258 287,9,22,3 304,2 342,59 717 489,420 526 631,329 350 125,4,5,pdf_text_layout,mistral_table,no
+51,TR~NSFORMAÇÃO,670,965,4 023,542 013,4 573 103,2 237 071,981,1 052,10 453,7 994,106 970 852,1 391 812 014,729 772 266,4,5,pdf_text_layout,mistral_table,no
+52,NAO METALICOS,88,619,376,44 918,313 647,276 618,114,119,984,704,9 697 092,75 937 844,53 653 331,4,5,pdf_text_tokens,mistral_table,no
+53,METALURGICA,22,103,67,10 315,37 842,21 085,75,80,338,214,3 791 519,20 290 528,11 053 985,4,5,pdf_text_tokens,mistral_table,no
+54,MECANICA,,,,,,,13,18,221,178,3 904 810,13 065 268,10 490 679,4,5,pdf_text_tokens_partial,mistral_table,yes
+55,MATERIAL ELETRICO,2,(A),(A),(X),(B),(X),2,3,14,11,174 653,1 915 592,1 307 891,4,5,pdf_text_tokens,mistral_table,no
+56,TRANSPORTE,6,46,31,2 360,12 183,7 045,27,30,270,199,2 662 058,15 014 608,8 430 159,4,5,pdf_text_tokens,mistral_table,no
+57,MADEIRA,,,,,,,283,313,5 468,4 598,56 024 363,753 541 036,415 138 160,4,5,pdf_text_tokens_partial,mistral_table,yes
+58,MOBILIAR I O,35,205,125,19 970,77 802,51 251,112,111,600,415,5 678 818,25 178 180,13 627 335,4,5,pdf_text_tokens,mistral_table,no
+59,PAPEL,,,,,,,1,2,(A),(A),(A),(A),(A),4,5,pdf_text_tokens_partial,mistral_table,yes
+60,BORRACHA,5,133,96,21 853,471 586,136 369,5,5,154,137,1 549 503,93 945 226,54 927 139,4,5,pdf_text_tokens,mistral_table,no
+61,QUIMICA,2,(B),(B),(X),(D),(X),3,8,112,72,1 719 583,12 202 047,9 596 577,4,5,pdf_text_tokens,mistral_table,no
+62,PERFUMARIA,1,(A),(A),(X),(A),(X),1,1,(B),(A),(A),(B),(A),4,5,pdf_text_tokens,mistral_table,no
+63,MATS. PLASTICAS,-,-,-,-,-,-,1,1,(B),(A),(A),(A),(A),4,5,tesseract_por_review,mistral_table,no
+64,TEXTIL,1,(A),(A),(X),(A),(X),,,,,,,,4,5,pdf_text_tokens,missing,yes
+65,VESTUARIO,7,30,22,2 876,5 722,"21""",19,21,91,58,938 595,4 161 593,2 085 662,4,5,pdf_text_tokens,mistral_table,no
+66,ALIMENTARES,158,910,471,77 175,937 095,358 613,264,272,1 430,837,13 842 013,321 201 470,109 547 477,4,5,pdf_text_tokens,mistral_table,no
+67,BEBIDAS,5,50,42,2 385,9 U7,5 880,5,5,275,234,1 910 226,30 771 122,22 592 362,4,5,pdf_text_layout,mistral_table,no
+68,FUMO,1,(C),(B),(X),(B),(X),-,1,(D),(A),(A),(A),(A),4,5,pdf_text_tokens,mistral_table,no
+69,GRAFICA,29,243,167,24 581,99 774,64 551,43,43,418,311,4 073 465,22 548 052,15 779 165,4,5,pdf_text_tokens,mistral_table,no
+70,DIVERSAS,10,32,11,2 921,11 768,8 278,12,12,39,19,388 722,1 668 942,1 199 098,4,5,pdf_text_tokens,mistral_table,no
+71,PORTO VELHO,170,3 961,2 728,602 863,4 525 171,3 754 319,208,243,4 551,3 058,78 499 647,687 642 326,497 419 538,4,5,pdf_text_layout,mistral_table,no
+72,EXTRATIVA MINERAL,17,2 371,592,441 600,3 7D4 734,3 253 800,5,15,2 531,1 641,55 498 435,326 083 869,248 749 704,4,5,pdf_text_layout,mistral_table,no
+73,TR~NSFORMAÇÃO,153,1 590,1 136,161 263,820 437,600 519,203,228,2 020,1 417,23 001 212,361 558 657,248 669 834,4,5,pdf_text_tokens,mistral_table,no
+74,NAO METALICOS,331,213,29,6a9,253 887,228 496,33,36,316,206,2 915 634,15 720 516,9 461 941,4,5,tesseract_por_review,mistral_table,no
+75,METALURGICA,10,56,40,6 520,22 214,14 321,42,45,186,96,2 281 352,12 339 614,7 701 125,4,5,tesseract_por_review,mistral_table,no
+76,MECANICA,7,95,85,22 373,38 757,33 267,5,9,183,157,3 507 423,8 994 867,7 098 593,4,5,tesseract_por_review,mistral_table,no
+77,MATERIAL ELETRICO,2,(A),(A),(X),(B),(X),2,3,14,11,174 653,1 916 592,1 307 891,6,7,pdf_text_tokens,mistral_table,no
+78,TRANSPORTE,3,36,27,2 024,7 050,4 070,10,11,115,84,1 092 481,8 453 792,5 033 963,6,7,pdf_text_tokens,mistral_table,no
+79,MADEIRA,20,352,256,34 057,128 806,84 405,11,14,168,119,2 707 907,230 334 755,161 825 699,6,7,pdf_text_tokens,mistral_table,no
+80,MOBILIARIO,7,45,30,4 670,14 552,10 594,23,25,120,80,1 242 817,5 184 776,2 819 890,6,7,pdf_text_tokens,mistral_table,no
+81,PAPEL,,,,,,,1,2,(A),(A),(X),(A),(X),6,7,pdf_text_tokens_partial,mistral_table,yes
+82,BORRACHA,1,(0),(0),IX),(B),(X),-,-,-,-,-,-,-,6,7,pdf_text_tokens,mistral_table,no
+83,QUIMICA,2,(8),(8),IX>,(0),IX),-,4,52,22,976 743,8 106 558,7 663 797,6,7,pdf_text_tokens,mistral_table,no
+84,VESTUARIO,3,23,19,2 310,4 586,3 323,9,11,61,44,562 813,2 735 101,1 391 302,6,7,pdf_text_tokens,mistral_table,no
+85,ALIMENTARES,29,349,256,27 182,231 732,59 353,41,41,291,181,2 463 205,20 997 372,10 490 698,6,7,pdf_text_tokens,mistral_table,no
+86,BEBIDAS,4,34,28,1 650,7 342,4 336,2,2,(F),(F),(X),(G),(X),6,7,pdf_text_tokens,mistral_table,no
+87,FUMO,1,(C),(8),IX),(B),IX>,-,-,(D),(A),(X),(A),(A),6,7,pdf_text_tokens,mistral_table,no
+88,GRAFICA,16,175,119,17 830,68 049,42 619,17,17,249,201,2 617 284,16 160 475,11 361 515,6,7,pdf_text_tokens,mistral_table,no
+89,DIVERSAS,8,26,7,2 562,9 978,7 110,7,7,25,14,305 781,1 455 741,1 071 359,6,7,pdf_text_tokens,mistral_table,no
+90,AR I QUEMES,75,403,251,40 304,298 917,162 590,81,87,1 366,1 135,13 317 007,200 619 439,139 982 591,6,7,pdf_text_tokens,mistral_table,no
+91,CACOAL,104,566 281,36,931 696,861 292,8~0,75,76,658,479,8 460 475,f86 995 374,62 094 336,6,7,pdf_text_tokens,mistral_table,no
+92,CERE.JEIRAS,-,-,-,-,-,-,35,36,341,262,3 369 423,48 435 892,21 131 900,6,7,tesseract_por_review,mistral_table,no
+93,COLORADO DO OESTE,-,-,-,-,*m,-,33,37,258,187,4 065 771,29 950 732,13 885 823,6,7,tesseract_por_review,mistral_table,no
+94,COSTA MARQUES,-,-,-,-,=,-,33,36,323,248,2 150 752,19 229 930,7 959 917,6,7,tesseract_por_review,mistral_table,no
+95,ESPIGÃO D'OESTE,,,,,,,16,17,105,71,1 167 017,7 809 774,4 842 514,6,7,pdf_text_layout_partial,mistral_table,yes
+96,GUA.JARA-MIRIM,42,393 278,ss,834,710 263,301 898,45,50,414,332,4 201 198,87 296 460,56 858 385,6,7,pdf_text_tokens,mistral_table,no
+97,JARU,-,-,-,-,-,-,54,57,567,464,5 033 247,39 610 419,19 565 440,6,7,tesseract_por_review,mistral_table,no
+98,JI-PARANA,114,1 417,1 085,111 624,907 645,502 560,126,130,1 492,1 168,14 817 491,168 092 655,87 716 235,6,7,pdf_text_tokens,mistral_table,no
+99,OURO PRETO DO OESTE,,,,,,,37,39,342,211,2 905 895,35 415 662,12 254 010,6,7,pdf_text_layout_partial,mistral_table,yes
+100,PIMENTA BUENO,59,446,221,28 142,215 438,97 046,60,62,665,535,7 218 536,73 857 758,35 899 895,6,7,pdf_text_tokens,mistral_table,no
+101,PRESIDENTE MEDICI,-,-,-,-,-,-,47,48,283,204,2 200 853,22 568 507,12 913 995,6,7,tesseract_por_review,mistral_table,no
+102,ROLIM DE MOURA,-,-,-,-,-,-,83,87,1 240,1 022,11 182 734,119 498 450,46 765 898,6,7,tesseract_por_review,mistral_table,no
+103,VILHENA,125,1,161 778,108 604,928 312,384 125,57,69,1 132,960,8 098 295,85 215 267,39 831 914,6,7,pdf_text_tokens,mistral_table,no
+104,ACRE,231,2 091,1 453,201 107,2 218 716,993 473,230,259,2 707,1 909,26 918 921,295 666 056,156 070 157,6,7,pdf_text_layout,mistral_table,no
+105,"EXTRATIVA MINERAL •••• , .•••. ,,, •• ,, •••••.•••• , .•. IA)",1,(A),(A),(X),(A),(X),-,-,-,-,-,-,-,6,7,tesseract_por_review,mistral_table,no
+106,TR~NSFORMAÇÃO,230,(F),IF),(X),(G),(X),230,259,2 707,1 909,26 918 921,295 666 056,156 070 157,6,7,pdf_text_tokens,mistral_table,no
+107,NAO METALICOS,336,243,29,724,94 366,77 426,47,47,423,340,3 460 620,12 748 307,10 356 152,6,7,tesseract_por_review,mistral_table,no
+108,METALURGICA,,,,,,,12,12,60,45,598 864,6 335 807,2 726 633,6,7,tesseract_por_review_partial,mistral_table,yes
+109,MECANICA,6,36,16,s 883,11 120,9 115,2,3,8,6,132 412,1 004 762,505 521,6,7,pdf_text_layout,mistral_table,no
+110,MATERIAL ELETRICO,-,-,-,-,-,-,-,1,(C),(C),(A),(C),(X),6,7,tesseract_por_review,mistral_table,no
+111,TRANSPORTE,2,IB°>,(A),(X),(A),(X),2,2,(B),(A),(X),(A),(X),6,7,pdf_text_tokens,mistral_table,no
+112,MADEIRA,54,608,476,54 348,315 888,221 038,45,55,611,500,5 038 565,54 583 379,46 209 274,6,7,pdf_text_tokens,mistral_table,no
+113,MOBILIARIO,14,81,61,7 336,41 963,22 735,36,37,141,95,1 415 440,4 341 029,2 906 714,6,7,pdf_text_tokens,mistral_table,no
+114,BORRACHA,13,322 229,31 963,+,087 828,395 510,19,27,719,424,5 360 622,129 359 723,53 835 399,6,7,tesseract_por_review,mistral_table,no
+115,QUIMICA,-,-,-,-,-,-,-,1,(A),(A),(X),(B),(X),6,7,tesseract_por_review,mistral_table,no
+116,PERFUMARIA,-,-,-,-,-,-,1,1,(A),(A),(X),(A),(X),6,7,tesseract_por_review,mistral_table,no
+117,VESTUARIO,8,21,10,1 970,6 327,3 702,2,2,(B),(A),(X),(B),(X),6,7,pdf_text_tokens,mistral_table,no
+118,ALIMENTARES,60,358,218,35 770,491 049,149 541,52,57,373,242,5 524 412,57 574 722,13 864 812,6,7,pdf_text_tokens,mistral_table,no
+119,BEBIDAS,4,108,55,10 006,85 060,59 699,3,3,186,106,2 777 722,19 731 077,17 901 193,6,7,pdf_text_tokens,mistral_table,no
+120,FUMO,1,IA),(A),IX),IA),IXJ,-,1,(B),(A),(X),(A),(X),6,7,pdf_text_tokens,mistral_table,no
+121,GRAFICA,9 133,86,14 117,se,242,39 719,8,8,140,122,1 918 830,7 728 026,6 007 656,6,7,pdf_text_tokens,mistral_table,no
+122,OI VERSAS,3,14,4,1 076,2,189 682,1,2,(B),(A),(X),(B),(X),6,7,pdf_text_tokens,mistral_table,no
+123,RIO BRANCO,115,353,895,uo 598,1 535 091,656 991,96,112,1 663,1 230,18 801 086,205 496 696,123 075 680,6,7,pdf_text_layout,mistral_table,no
+124,EXTRATIVA MINERAL,,,,,,,-,-,-,-,-,-,-,6,7,pdf_text_tokens_partial,mistral_table,yes
+125,TRANSFORMACAO,114,tr),tr),(X),ta),(XxX),96,112,1 663,1 230,18 801 086,205 496 696,123 075 680,6,7,tesseract_por_review,mistral_table,no
+126,NAO METALICOS,21,162,101,18 345,56 097,46 118,19,79,215,168,1 934 037,7 419 329,5 936 739,6,7,tesseract_por_review,mistral_table,no
+127,METALURGI CA,7,56,45,s 718,20 090,10 284,7,7,49,38,475 224,5 443 307,2 273 952,6,7,pdf_text_layout,mistral_table,no
+128,MECANICA,6,36,16,5 883,11 120,9 115,2,2,(B),(A),(X),(C),(X),6,7,pdf_text_tokens,mistral_table,no
+129,MATERIAL ELETRICO,,,,,,,-,-,(C),(C),(X),(A),(X),6,7,pdf_text_layout_partial,mistral_table,yes
+130,TRANSPORTE,-,-,-,”,-,-,1,1,(B),(A),(X),(A),(X),6,7,tesseract_por_review,mistral_table,no
+131,MADEIRA,23,267,203,25 754,113 469,65 549,17,23,386,301,3 700 319,48 205 256,42 429 567,6,7,pdf_text_tokens,mistral_table,no
+132,MOBILIARIO,4,48,39,4 484,30 808,15 659,12,12,45,26,386 500,1 339 000,737 800,6,7,pdf_text_tokens,mistral_table,no
+133,BORRACHA,9,299,212,29 241,947 129,336 641,5,8,380,308,4 017 279,89 139 488,42 814 937,6,7,pdf_text_tokens,mistral_table,no
+134,QUIMICA,,,,,,,-,1,(A),(A),(X),(B),(X),6,7,pdf_text_layout_partial,mistral_table,yes
+135,PERFUMARIA,-,-,-,-,-,-,1,1,(A),(A),(X),(A),(X),6,7,tesseract_por_review,mistral_table,no
+136,VESTUARIO,7,19,9,1 908,6 200,3 633,1,1,(A),(A),(X),(B),(X),6,7,pdf_text_tokens,pdf_text_tokens,no
+137,ALIMENTARES,23,223,132,22 663,206 058,70 328,21,24,231,142,2 910 797,23 753 213,3 186 563,6,7,tesseract_por_review,mistral_table,no
+138,BEBIDAS,,,,,,,2,2,(F),(F),(X),(F),(X),6,7,manual_label_from_pdf_layout,mistral_table,yes
+139,FUMO,,,,,,,-,1,(B),(A),(X),(A),(X),6,7,manual_label_from_pdf_layout,mistral_table,yes
+140,GRAFICA,,,,,,,7,7,134,118,1 889 962,7 678 341,5 964 451,6,7,manual_label_from_pdf_layout,mistral_table,yes
+141,DIVERSAS,,,,,,,1,2,(B),(A),(X),(B),(X),6,7,manual_label_from_pdf_layout,mistral_table,yes
+142,ASSIS BRASIL,,,,,,,8,8,179,24,230 400,683 150,505 166,6,7,manual_label_from_pdf_layout,mistral_table,yes
+143,BRASILEIA,,,,,,,12,12,64,41,416 328,2 965 315,1 758 359,6,7,manual_label_from_pdf_layout,mistral_table,yes
+144,CRUZEIRO DO SUL,,,,,,,40,45,349,285,3 089 181,69 647 126,22 547 287,6,7,manual_label_from_pdf_layout,mistral_table,yes
+145,FEIJO,5,12,6,787,2 711,1 577,9,9,45,37,375 100,1 435 080,1 075 739,8,9,mistral_table,mistral_table,no
+146,MANCIO LIMA,3,3,2,176,1 690,1 384,4,4,13,8,79 900,347 280,208 108,8,9,mistral_table,mistral_table,no
+147,MANOEL URBANO,4,22,15,448,540,468,2,2,(B),(B),(X),(B),(X),8,9,mistral_table,mistral_table,no
+148,PLACIDO DE CASTRO,10,62,54,6 665,18 862,13 370,3,4,22,19,206 530,506 165,320 915,8,9,mistral_table,mistral_table,no
+149,SENADOR GUIOMARD,7,139,122,9 575,272 603,95 984,7,8,83,75,1 256 889,4 168 928,1 607 879,8,9,mistral_table,mistral_table,no
+150,SENA MADUREIRA,17,104,72,9 260,166 862,73 747,19,25,139,77,1 071 063,6 044 356,2 543 197,8,9,mistral_table,mistral_table,no
+151,TARAUACA,15,66,44,4 777,18 187,10 954,26,26,107,77,1 057 400,2 993 230,1 711 114,8,9,mistral_table,mistral_table,no
+152,XAPURI,8,58,47,7 903,66 006,59 024,4,4,35,30,223 689,928 515,314 623,8,9,mistral_table,mistral_table,no
+153,AMAZONAS,1 104,55 916,45 148,6 134 975,120 932 064,62 655 294,994,1 188,62 512,47 057,810 308 244,16 530 886 892,9 013 366 710,8,9,mistral_table,mistral_table,no
+154,EXTRATIVA MINERAL,14,338,111,131 634,564 214,552 895,2,3,3 503,911,67 624 741,1 178 343 222,1 160 761 325,8,9,mistral_table,mistral_table,no
+155,TRANSFORMAÇÃO,1 086,55 367,44 826,5 957 491,120 282 033,62 033 281,992,1 185,59 009,46 146,742 683 503,15 352 545 670,7 852 605 385,8,9,mistral_table,mistral_table,no
+156,NÃO METALICOS,107,2 077,1 693,195 830,1 440 242,968 015,74,83,1 197,1 006,9 004 795,56 206 806,34 795 499,8,9,mistral_table,mistral_table,no
+157,METALURGICA,94,2 619,2 042,384 737,5 977 040,2 401 333,112,123,2 320,1 712,39 792 770,626 646 892,336 968 903,8,9,mistral_table,mistral_table,no
+158,MECANICA,46,2 113,1 827,301 481,4 315 697,2 559 473,40,56,4 027,3 098,36 348 826,939 170 619,578 059 343,8,9,mistral_table,mistral_table,no
+159,MATERIAL ELETRICO,70,20 456,17 368,1 990 858,65 085 764,32 632 910,50,82,23 566,18 701,314 935 731,9 099 522 969,4 255 531 076,8,9,mistral_table,mistral_table,no
+160,TRANSPORTE,75,4 997,4 172,512 150,9 659 231,5 460 061,75,82,3 765,2 639,65 693 679,1 136 241 049,664 800 158,8,9,mistral_table,mistral_table,no
+161,MADEIRA,145,5 673,4 793,498 583,3 128 965,2 298 334,137,146,5 790,5 127,44 196 348,276 489 505,191 270 896,8,9,mistral_table,mistral_table,no
+162,MOBILIARIO,85,1 663,1 310,156 818,1 125 993,709 204,94,98,833,587,8 172 788,68 236 351,39 755 691,8,9,mistral_table,mistral_table,no
+163,PAPEL E PAPELÃO,5,167,109,16 912,116 565,75 293,4,5,266,227,2 794 802,26 722 843,11 624 659,8,9,mistral_table,mistral_table,no
+164,BORRACHA,13,487,332,58 365,1 071 053,356 383,10,15,399,347,3 917 215,135 453 327,71 846 520,8,9,mistral_table,mistral_table,no
+165,COUROS E PELES,4,180,164,15 091,162 980,79 961,1,2,(F),(F),(X),(F),(X),8,9,mistral_table,mistral_table,no
+166,QUIMICA,24,522,408,117 127,5 913 592,2 784 601,11,27,947,726,27 829 463,644 034 162,264 756 142,8,9,mistral_table,mistral_table,no
+167,FARMACÉUTICA,4,(E),(D),(X),(E),(X),-,2,(B),(A),(X),(A),(X),8,9,mistral_table,mistral_table,no
+168,PERFUMARIA,4,111,58,12 261,175 651,123 131,1,2,(B),(A),(X),(A),(X),8,9,mistral_table,mistral_table,no
+169,MATS. PLASTICAS,16,1 307,1 102,132 865,1 227 368,735 098,14,19,3 197,2 820,37 763 365,321 199 969,182 780 934,8,9,mistral_table,mistral_table,no
+170,TEXTIL,37,4 110,3 431,367 847,9 428 393,4 022 940,7,32,2 280,2 096,16 996 486,557 858 871,352 705 389,8,9,mistral_table,mistral_table,no
+171,VESTUARIO,26,544,427,56 348,346 144,240 110,30,31,439,349,3 071 168,34 799 008,22 163 356,8,9,mistral_table,mistral_table,no
+172,ALIMENTARES,224,2 948,2 020,326 563,3 551 052,749 749,249,276,3 180,2 079,34 153 070,354 356 425,163 483 962,8,9,mistral_table,mistral_table,no
+173,BEBIDAS,10,1 495,767,245 946,1 440 250,960 601,5,8,2 171,996,30 690 307,223 713 409,170 583 208,8,9,mistral_table,mistral_table,no
+174,FUMO,2,(D),(D),(X),(D),(X),-,1,(D),(A),(X),(A),(X),8,9,mistral_table,mistral_table,no
+175,GRAFICA,38,782,572,107 632,339 868,198 510,39,46,1 259,873,14 504 897,83 793 200,51 161 107,8,9,mistral_table,mistral_table,no
+176,DIVERSAS,57,3 012,2 370,442 922,5 725 618,3 626 077,39,49,3 243,2 656,46 785 349,754 391 134,452 300 098,8,9,mistral_table,mistral_table,no
+177,MANAUS,747,51 816,42 211,5 759 358,117 730 185,60 747 431,632,788,54 445,42 089,719 151 722,15 043 040 105,7 658 714 125,8,9,mistral_table,mistral_table,no
+178,EXTRATIVA MINERAL,8,219,26,107 039,26 247,17 763,2,2,(F),(A),(X),(A),(X),8,9,mistral_table,mistral_table,no
+179,TRANSFORMAÇÃO,735,51 386,41 974,5 606 469,117 518 121,60 660 550,630,786,(F),(F),(X),(G),(X),8,9,mistral_table,mistral_table,no
+180,NÃO METALICOS,46,1 452,1 199,151 740,1 258 821,824 318,24,28,356,263,3 652 367,38 545 651,20 232 265,8,9,mistral_table,mistral_table,no
+181,METALURGICA,85,2 588,2 033,380 362,5 960 780,2 390 537,99,109,2 258,1 669,39 152 461,624 096 796,335 994 384,8,9,mistral_table,mistral_table,no
+182,MECANICA,45,2 109,1 827,301 153,4 314 993,2 559 011,35,51,4 013,3 089,38 174 076,938 517 179,577 647 453,8,9,mistral_table,mistral_table,no
+183,MATERIAL ELETRICO,70,20 456,17 368,1 990 858,65 085 764,32 632 910,50,82,23 566,18 701,314 935 731,9 099 522 969,4 255 531 076,8,9,mistral_table,mistral_table,no
+184,TRANSPORTE,43,4 817,4 056,490 066,9 587 714,5 412 135,30,35,3 506,2 457,62 963 866,1 126 336 761,658 747 449,8,9,mistral_table,mistral_table,no
+185,MADEIRA,63,3 884,3 420,354 006,2 482 561,1 874 592,53,96,3 455,3 119,26 544 791,159 386 259,105 856 175,8,9,mistral_table,mistral_table,no
+186,MOBILIARIO,63,1 588,1 268,148 905,1 099 544,693 160,51,55,626,445,9 428 035,61 987 337,36 375 017,8,9,mistral_table,mistral_table,no
+187,PAPEL E PAPELÃO,5,167,109,16 912,116 565,75 293,4,5,266,227,2 794 802,26 722 843,11 624 659,8,9,mistral_table,mistral_table,no
+188,BORRACHA,10,333,209,41 358,510 376,143 113,6,10,125,92,1 804 852,33 641 416,16 296 512,8,9,mistral_table,mistral_table,no
+189,COUROS E PELES,4,180,164,15 091,162 980,79 661,1,2,(F),(F),(X),(F),(X),8,9,mistral_table,mistral_table,no
+190,QUIMICA,20,462,354,111 907,5 882 315,2 774 268,8,22,800,584,26 358 494,632 496 267,257 762 569,8,9,mistral_table,mistral_table,no
+191,FARMACÉUTICA,4,(E),(D),(X),(E),(X),-,2,(B),(A),(X),(A),(X),8,9,mistral_table,mistral_table,no
+192,PERFUMARIA,4,111,58,12 261,175 651,123 131,1,2,(B),(A),(X),(A),(X),8,9,mistral_table,mistral_table,no
+193,MATS. PLASTICAS,16,1 307,1 102,132 865,1 227 368,735 098,14,19,3 197,2 820,37 763 365,321 199 969,182 780 934,8,9,mistral_table,mistral_table,no
+194,TEXTIL,28,3 669,3 135,319 455,8 956 625,3 818 411,6,24,2 237,2 077,17 751 342,556 022 997,351 631 962,8,9,mistral_table,mistral_table,no
+195,VESTUARIO,25,542,427,56 228,345 902,240 056,30,31,436,349,3 071 168,34 799 008,22 163 356,8,9,mistral_table,mistral_table,no
+196,ALIMENTARES,103,2 363,1 697,271 636,2 899 717,1 461 789,139,154,2 455,1 587,27 832 169,317 022 015,144 414 557,8,9,mistral_table,mistral_table,no
+197,BEBIDAS,9,1 488,762,245 696,1 439 286,959 846,5,8,2 171,996,30 690 307,223 713 409,170 583 206,8,9,mistral_table,mistral_table,no
+198,FUMO,2,(D),(D),(X),(D),(X),-,1,(D),(A),(X),(A),(X),8,9,mistral_table,mistral_table,no
+199,GRAFICA,34,756,555,106 213,335 754,195 652,39,45,1 247,854,14 457 658,83 572 974,51 089 756,8,9,mistral_table,mistral_table,no
+200,DIVERSAS,56,3 008,2 368,442 702,5 724 838,3 625 772,35,45,3 225,2 643,46 652 736,753 651 134,451 965 359,8,9,mistral_table,mistral_table,no
+201,AMATURA,-,-,-,-,-,-,1,1,(C),(C),(X),(B),(X),8,9,mistral_table,mistral_table,no
+202,ANORI,4,22,12,2 062,4 556,2 862,7,7,51,30,315 740,1 051 000,658 540,8,9,mistral_table,mistral_table,no
+203,ATALAIA DO NORTE,4,29,21,876,3 360,2 027,3,3,58,52,653 900,7 835 000,4 740 900,8,9,mistral_table,mistral_table,no
+204,AUTAZES,4,14,6,912,6 290,3 437,4,4,18,13,222 244,1 157 343,772 823,8,9,mistral_table,mistral_table,no
+205,BARCELOS,6,44,32,1 629,7 248,4 334,6,8,55,45,781 733,1 271 162,641 161,8,9,mistral_table,mistral_table,no
+206,BARREIRINHA,2,(B),(B),(X),(B),(X),4,4,21,16,193 840,915 560,372 320,8,9,mistral_table,mistral_table,no
+207,BENJAMIN CONSTANT,21,258,186,29 915,149 176,91 293,10,10,185,167,680 600,5 589 369,3 171 637,8,9,mistral_table,mistral_table,no
+208,BERURI,-,-,-,-,-,-,2,2,(D),(D),(X),(B),(X),8,9,mistral_table,mistral_table,no
+209,BOA VISTA DO RAMOS,-,-,-,-,-,-,2,2,(C),(B),(X),(B),(X),8,9,mistral_table,mistral_table,no
+210,BOCA DO ACRE,12,90,61,6 334,36 619,20 527,17,17,107,72,942 155,2 685 448,1 903 999,8,9,mistral_table,mistral_table,no
+211,BORBA,4,26,15,2 642,18 464,4 501,7,8,145,134,1 069 107,32 548 760,19 570 028,8,9,mistral_table,mistral_table,no
+212,CANUTAMA,6,32,17,1 251,3 362,1 744,3,3,9,7,180 720,675 800,453 800,10,11,mistral_table,mistral_table,no
+213,CARAUARI,9,278,244,12 622,29 844,19 025,8,9,95,81,1 101 869,3 775 840,3 046 975,10,11,mistral_table,mistral_table,no
+214,CAREIRO,4,50,34,4 701,9 527,6 501,6,6,58,48,226 762,666 700,401 600,10,11,mistral_table,mistral_table,no
+215,COARI,19,119,60,11 077,108 189,66 447,23,25,152,120,985 024,4 758 840,2 808 623,10,11,mistral_table,mistral_table,no
+216,CODAJAS,7,42,24,7 644,25 105,18 975,6,7,51,32,724 967,2 223 861,1 349 653,10,11,mistral_table,mistral_table,no
+217,EIRUNEPE,9,142,122,13 618,170 882,78 164,7,8,112,102,973 717,23 857 014,14 038 683,10,11,mistral_table,mistral_table,no
+218,ENVIRA,-,-,-,-,-,-,2,2,(C),(C),(X),(A),(X),10,11,mistral_table,mistral_table,no
+219,FONTE BOA,6,31,23,3 356,8 738,5 410,3,3,12,7,114 600,168 050,124 050,10,11,mistral_table,mistral_table,no
+220,HUMAITA,15,86,51,5 345,54 474,35 079,4,5,22,14,237 256,828 596,530 596,10,11,mistral_table,mistral_table,no
+221,IPIXUNA,3,9,4,752,2 125,1 149,1,1,(A),(A),(X),(A),(X),10,11,mistral_table,mistral_table,no
+222,IRANDUBA,-,-,-,-,-,-,11,12,302,268,2 111 808,9 518 195,6 437 217,10,11,mistral_table,mistral_table,no
+223,ITACOATIARA,35,795,531,69 466,558 052,241 495,37,43,1 644,1 418,11 454 961,91 181 997,66 979 330,10,11,mistral_table,mistral_table,no
+224,ITAPIRANGA,3,13,6,1 385,7 080,4 359,2,2,(D),(C),(X),(D),(X),10,11,mistral_table,mistral_table,no
+225,JURUA,1,(A),(A),(X),(B),(X),-,-,-,-,-,-,-,10,11,mistral_table,mistral_table,no
+226,JUTAI,6,22,15,1 980,5 490,1 833,3,3,17,13,176 400,787 080,289 080,10,11,mistral_table,mistral_table,no
+227,LABREA,16,163,124,20 335,361 256,192 116,14,15,158,125,2 047 520,29 375 093,13 917 689,10,11,mistral_table,mistral_table,no
+228,MANACAPURU,12,297,232,28 101,103 871,82 617,19,24,312,263,2 730 711,32 507 875,19 269 349,10,11,mistral_table,mistral_table,no
+229,MANAGUIRI,-,-,-,-,-,-,1,1,(B),(A),(X),(A),(X),10,11,mistral_table,mistral_table,no
+230,MANICORE,12,100,71,6 803,32 943,19 403,8,8,37,18,242 500,875 630,251 270,10,11,mistral_table,mistral_table,no
+231,MARÁA,3,10,7,1 580,2 320,1 532,2,2,(A),(A),(X),(A),(X),10,11,mistral_table,mistral_table,no
+232,MAUES,12,102,77,12 638,355 366,134 567,17,19,130,99,1 372 776,11 215 353,7 421 068,10,11,mistral_table,mistral_table,no
+233,NHAMUNDA,2,(C),(C),(X),(A),(X),-,-,-,-,-,-,-,10,11,mistral_table,mistral_table,no
+234,NOVA OLINDA DO NORTE,7,34,17,3 660,22 073,12 973,6,6,36,22,312 910,2 262 020,862 463,10,11,mistral_table,mistral_table,no
+235,NOVO AIRÃO,7,57,45,5 750,36 646,25 489,12,12,64,50,534 494,833 500,691 100,10,11,mistral_table,mistral_table,no
+236,NOVO ARIPUANÁ,5,111,83,22 659,530 963,528 061,8,8,40,27,671 160,3 323 900,1 397 976,10,11,mistral_table,mistral_table,no
+237,PARINTINS,45,596,471,54 442,419 430,217 238,37,43,443,379,3 475 423,16 006 294,9 940 454,10,11,mistral_table,mistral_table,no
+238,PAUINI,3,19,14,823,3 504,1 326,2,2,(C),(B),(X),(B),(X),10,11,mistral_table,mistral_table,no
+239,PRESIDENTE FIGUEIREDO,-,-,-,-,-,-,2,3,3 192,936,52 141 487,1 179 943 222,1 161 875 321,10,11,mistral_table,mistral_table,no
+240,RIO PRETO DA EVA,-,-,-,-,-,-,3,3,11,2,72 300,406 689,145 889,10,11,mistral_table,mistral_table,no
+241,SANTO ANTONIO DO IÇA,7,21,10,881,3 378,2 113,1,1,(C),(C),(X),(A),(X),10,11,mistral_table,mistral_table,no
+242,SÃO GABRIEL DA CACHOEIRA,2,(A),(A),(X),(A),(X),1,1,(A),(A),(X),(B),(X),10,11,mistral_table,mistral_table,no
+243,SÃO PAULO DE OLIVEIÇÃO,11,149,118,6 828,20 687,11 177,3,3,15,12,55 153,163 800,123 014,10,11,mistral_table,mistral_table,no
+244,SÃO SEBASTIÃO DO UATUMÁ,-,-,-,-,-,-,7,8,36,24,345 800,1 033 735,628 324,10,11,mistral_table,mistral_table,no
+245,SILVES,3,15,9,2 969,10 686,7 908,2,2,(B),(B),(X),(C),(X),10,11,mistral_table,mistral_table,no
+246,TABATINGA,-,-,-,-,-,-,8,8,43,35,331 640,1 256 900,777 366,10,11,mistral_table,mistral_table,no
+247,TAPAUA,3,24,16,1 453,7 175,5 935,5,5,22,14,120 765,316 860,157 270,10,11,mistral_table,mistral_table,no
+248,TEFE,17,217,122,21 330,43 138,26 151,18,23,177,151,1 210 917,5 264 236,3 210 714,10,11,mistral_table,mistral_table,no
+249,TONANTINS,-,-,-,-,-,-,1,1,(C),(B),(X),(A),(X),10,11,mistral_table,mistral_table,no
+250,URUCARA,9,47,29,5 350,31 927,24 602,1,1,(A),(A),(X),(A),(X),10,11,mistral_table,mistral_table,no
+251,URUCURITUBA,1,(A),(A),(X),(A),(X),5,6,76,48,755 835,6 247 265,2 575 310,10,11,mistral_table,mistral_table,no
+252,RORAIMA,127,892,556,108 106,488 227,286 345,181,191,1 112,808,12 006 887,54 554 147,33 171 624,10,11,mistral_table,mistral_table,no
+253,TRANSFORMAÇÃO,127,892,556,108 106,488 227,286 345,181,191,1 112,808,12 006 887,54 554 147,33 171 624,10,11,mistral_table,mistral_table,no
+254,NÃO METÁLICOS,50,281,179,31 794,78 251,56 459,81,81,396,297,4 120 779,10 064 408,7 228 076,10,11,mistral_table,mistral_table,no
+255,METALURGICA,6,28,17,3 658,12 338,5 865,15,16,75,43,869 745,2 513 534,1 470 191,10,11,mistral_table,mistral_table,no
+256,MECANICA,5,24,16,1 745,4 582,2 419,-,1,(A),(A),(X),(A),(X),10,11,mistral_table,mistral_table,no
+257,MATERIAL ELÉTRICO,1,(A),(A),(X),(A),(X),-,-,-,-,-,-,-,10,11,mistral_table,mistral_table,no
+258,TRANSPORTE,2,(B),(A),(X),(A),(X),1,1,(B),(A),(X),(A),(X),10,11,mistral_table,mistral_table,no
+259,MADEIRA,32,376,249,52 528,302 104,171 709,23,27,348,285,3 326 208,15 297 229,8 563 650,10,11,mistral_table,mistral_table,no
+260,MOBILIÁRIO,3,29,24,2 342,7 056,4 436,20,20,72,42,1 113 002,12 284 408,8 223 707,10,11,mistral_table,mistral_table,no
+261,COUROS E PELES,-,-,-,-,-,-,1,1,(B),(A),(X),(D),(X),10,11,mistral_table,mistral_table,no
+262,MATS. PLASTICAS,1,(A),(A),(X),(A),(X),,,,,,,,12,13,mistral_table,pdf_text_layout_partial,yes
+263,VESTUÁRIO,1,(A),(A),(X),(A),(X),,,,,,,,12,13,mistral_table,missing,yes
+264,ALIMENTARES,20,113,49,10 889,66 650,35 553,34,36,159,97,1 805 947,11 237 906,5 953 978,12,13,mistral_table,mistral_table,no
+265,BEBIDAS,2,(B),(A),(X),(B),(X),,,,,,,,12,13,mistral_table,missing,yes
+266,FUMO,1,(A),(A),(X),(A),(X),,,,,,,,12,13,mistral_table,pdf_text_layout_partial,yes
+267,GRAFICA,3,18,14,2 674,7 328,3 632,2,3,23,19,228 099,1 032 230,794 515,12,13,mistral_table,mistral_table,no
+268,DIVERSAS,1,(A),(A),(X),(A),(X),3,3,14,11,184 000,567 000,420 317,12,13,mistral_table,mistral_table,no
+269,BOA VISTA,111,724,416,80 764,361 931,209 477,148,1 56 943,6S9,10 068 207,43 721,14 1,26 478 65S,12,13,mistral_table,pdf_text_layout,no
+270,TRANSFORMAÇÃO,111,724,416,80 764,361 931,209 477,148,156,943,699,10 068 207,43 721 141,26 478 655,12,13,mistral_table,mistral_table,no
+271,NÃO METALICOS,48,271,172,30 930,75 289,52 919,79,79,383,291,4 073 779,9 890 608,7 064 076,12,13,mistral_table,mistral_table,no
+272,METALURGICA,6,28,17,3 658,12 338,5 865,15,16,75,43,869 745,2 513 534,1 470 191,12,13,mistral_table,mistral_table,no
+273,MECANICA,5,24,16,1 745,4 582,2 419,-,(E),(A),(A),(X),(A),(X),12,13,mistral_table,tesseract_por_review,no
+274,MATERIAL ELETRICO,1,(A),(A),(X),(A),(X),,,,,,,,12,13,mistral_table,missing,yes
+275,TRANSPORTE,2,(B),(A),(X),(A),(X),1,1,(0),(Al,CX l,(A ),CX l,12,13,mistral_table,pdf_text_layout,no
+276,MADEIRA,22,231,119,28 670,188 447,102 238,13,16,259,215,2 089 208,9 573 011,5 068 049,12,13,mistral_table,mistral_table,no
+277,MOBILIÁRIO,3,29,24,2 342,7 056,4 436,12,12,43,24,846 672,9 339 520,6 375 849,12,13,mistral_table,mistral_table,no
+278,COUROS E PELES,-,-,-,-,-,-,1,1,(8),<AI,(XI,(O),(X),12,13,mistral_table,pdf_text_layout,no
+279,MATS. PLASTICAS,-,-,-,-,-,-,1,1,( A ),(A),(XI,(A),(X),12,13,mistral_table,pdf_text_layout,no
+280,VESTUÁRIO,1,(A),(A),(X),(A),(X),,,,,,,,12,13,mistral_table,missing,yes
+281,ALIMENTARES,16,100,46,8 269,56 973,30 696,21,22,121,82,1 417 597,9 217 806,4 768 468,12,13,mistral_table,mistral_table,no
+282,BEBIDAS,2,(B),(A),(X),(B),(X),,,,,,,,12,13,mistral_table,missing,yes
+283,FUMO,1,(A),(A),(X),(A),(X),,,,,,,,12,13,mistral_table,pdf_text_layout_partial,yes
+284,GRAFICA,3,18,14,2 674,7 328,3 632,2,3,23,19,228 099,1 032 230,794 515,12,13,mistral_table,mistral_table,no
+285,DIVERSAS,1,(A),(A),(X),(A),(X),3,3,14,11,184 000,567 000,420 317,12,13,mistral_table,mistral_table,no
+286,ALTO ALEGRE,-,-,-,-,-,-,3,4,22,17,272 400,868 000,369 100,12,13,mistral_table,mistral_table,no
+287,BONFIM,-,-,-,-,-,-,,,,,,,,12,13,mistral_table,pdf_text_layout_partial,yes
+288,CARACARAI,16,168,140,27 342,126 296,76 868,5,5,34,27,355 830,3 114 079,1 788 043,12,13,mistral_table,mistral_table,no
+289,MUCAJAI,-,-,-,-,-,-,11,11,56,36,445 350,2 058 400,1 187 200,12,13,mistral_table,mistral_table,no
+290,SÃO JOÃO DA BALIZA,-,-,-,-,-,-,7,7,26,11,434 500,2 536 527,1 865 601,12,13,mistral_table,mistral_table,no
+291,SÃO LUIZ,-,-,-,-,-,-,7,7,29,16,388 600,2 040 000,1 358 015,12,13,mistral_table,mistral_table,no
+292,PARA,4 675,71 963,49 672,7 994 797,66 414 165,34 523 212,3 857,4 321,63 302,45 456,695 624 209,7 063 301 226,3 885 675 554,12,13,mistral_table,mistral_table,no
+293,EXTRATIVA MINERAL,28,2 473,1 784,794 664,4 975 144,4 086 494,8,28,2 673,1 390,60 224 031,1 092 813 435,925 126 833,12,13,mistral_table,mistral_table,no
+294,TRANSFORMAÇÃO,4 646,69 455,47 867,7 196 149,61 407 669,30 412 606,3 849,4 293,60 629,44 066,635 400 178,5 970 487 791,2 960 548 721,12,13,mistral_table,mistral_table,no
+295,NÃO METALICOS,893,8 804,6 240,770 958,6 089 704,3 166 617,787,817,7 037,4 879,57 475 283,699 157 174,473 604 301,12,13,mistral_table,mistral_table,no
+296,METALURGICA,138,2 140,1 552,250 527,1 554 652,810 276,152,171,2 141,1 578,20 919 412,153 048 838,85 238 238,12,13,mistral_table,mistral_table,no
+297,MECANICA,59,1 680,1 491,210 471,722 288,549 201,43,72,1 663,1 505,36 005 203,192 741 028,107 720 283,12,13,mistral_table,mistral_table,no
+298,MATERIAL ELETRICO,26,316,197,64 724,334 548,225 379,13,30,546,382,10 845 355,36 921 585,26 964 278,12,13,mistral_table,mistral_table,no
+299,TRANSPORTE,182,2 005,1 574,326 485,109 357,431 727,85,95,1 134,853,9 650 545,76 714 957,46 945 188,12,13,mistral_table,mistral_table,no
+300,MADEIRA,1 692,21 432,16 383,802 449,12 281 804,6 499 810,1 202,1 288,18 050,14 757,144 407 937,1 174 560 306,674 482 309,12,13,mistral_table,mistral_table,no
+301,MOBILIÁRIO,194,1 521,1 033,122 787,665 806,326 896,248,254,1 665,1 186,13 213 191,53 931 394,30 245 628,12,13,mistral_table,mistral_table,no
+302,PAPEL E PAPELÃO,9,5 266,285,648 856,5 964 162,3 601 996,5,9,1 677,1 048,38 886 716,579 854 414,75 314 850,12,13,mistral_table,mistral_table,no
+303,BORRACHA,22,687,528,76 021,1 857 637,933 142,12,27,547,372,7 071 972,190 220 931,82 716 813,12,13,mistral_table,mistral_table,no
+304,COUROS E PELES,12,472,354,77 135,552 904,236 761,13,13,634,559,6 055 621,67 338 927,31 413 138,12,13,mistral_table,mistral_table,no
+305,QUÍMICA,39,631,384,173 306,2 383 369,1 326 162,13,38,550,232,10 845 589,107 797 901,57 959 491,12,13,mistral_table,mistral_table,no
+306,FARMACÊUTICA,26,302,97,86 726,138 500,99 996,4,16,242,124,4 432 227,12 670 173,8 626 486,12,13,mistral_table,mistral_table,no
+307,PERFUMARIA,24,688,501,81 487,1 247 680,706 150,16,20,589,424,7 414 226,76 128 605,22 575 235,12,13,mistral_table,mistral_table,no
+308,MATS. PLASTICAS,9,360,266,45 119,381 449,113 012,3,8,425,245,4 158 372,41 464 129,15 123 692,12,13,mistral_table,mistral_table,no
+309,TEXTIL,36,3 130,2 709,304 028,5 185 408,1 850 380,9,34,3 304,2 651,22 908 654,431 755 087,188 812 176,12,13,mistral_table,mistral_table,no
+310,VESTUÁRIO,80,2 178,1 973,155 982,2 693 835,806 269,52,56,664,480,4 251 781,23 453 907,13 441 062,12,13,mistral_table,mistral_table,no
+311,ALIMENTARES,1 005,12 914,9 072,1 266 839,13 144 764,5 834 669,1 022,1 135,14 919,10 042,173 323 600,1 505 953 533,641 407 739,12,13,mistral_table,mistral_table,no
+312,BEBIDAS,64,1 925,1 266,292 524,2 358 508,1 581 761,30,44,2 243,1 074,28 274 627,163 464 075,96 354 924,12,13,mistral_table,mistral_table,no
+313,FUMO,7,515,412,118 548,1 400 308,473 579,-,6,625,381,11 839 778,240 150 741,183 781 420,12,13,mistral_table,mistral_table,no
+314,GRAFICA,86,1 454,929,216 915,968 102,515 427,86,96,1 423,936,16 379 912,100 369 619,79 458 972,12,13,mistral_table,mistral_table,no
+315,DIVERSAS,43,835,621,104 277,312 884,113 396,54,64,551,358,7 040 177,42 790 367,18 361 498,12,13,mistral_table,mistral_table,no
+316,REGIÃO METROPOLITANA,1 018,30 281,21 565,3 886 724,32 148 874,16 038 731,693,965,28 495,20 579,324 732 954,2 916 241 606,1 658 585 858,12,13,mistral_table,mistral_table,no
+317,EXTRATIVA MINERAL,11,607,35,262 281,15 912,15 887,2,6,76,19,3 412 909,62 358,62 358,12,13,mistral_table,mistral_table,no
+318,TRANSFORMAÇÃO,1 006,29 639,21 509,3 620 459,32 101 610,15 996 732,691,959,28 419,20 560,321 320 045,2 916 179 248,1 658 523 500,12,13,mistral_table,mistral_table,no
+319,NÃO METALICOS,119,3 236,2 386,348 276,2 323 022,1 234 301,44,59,1 830,1 247,21 913 485,233 442 282,153 734 135,12,13,mistral_table,mistral_table,no
+320,METALURGICA,90,1 920,1 403,231 470,1 451 506,751 829,78,92,1 694,1 290,16 317 413,135 620 302,75 723 524,12,13,mistral_table,mistral_table,no
+321,MECANICA,47,1 062,913,136 172,470 276,374 808,27,49,734,613,8 305 143,39 090 068,33 093 274,12,13,mistral_table,mistral_table,no
+322,MATERIAL ELETRICO,25,304,188,63 237,305 125,198 781,8,25,531,376,10 496 055,36 089 685,26 393 178,12,13,mistral_table,mistral_table,no
+323,TRANSPORTE,25,898,739,128 658,414 003,252 629,23,31,685,509,5 832 451,47 281 022,27 612 216,12,13,mistral_table,mistral_table,no
+324,MADEIRA,34,4 173,3 272,426 718,3 084 728,2 036 388,81,114,4 967,4 063,47 310 050,397 207 625,271 559 309,12,13,mistral_table,mistral_table,no
+325,MOBILIÁRIO,52,878,637,70 170,1 884 584,209 867,56,60,855,656,6 244 315,28 531 783,14 947 210,12,13,mistral_table,mistral_table,no
+326,PAPEL E PAPELÃO,6,499,73,57 024,228 977,137 876,4,7,637,373,6 329 175,65 451 897,39 338 318,12,13,mistral_table,mistral_table,no
+327,BORRACHA,14,330,215,37 712,286 712,688 305,7,18,347,237,4 154 764,85 413 088,41 004 898,12,13,mistral_table,mistral_table,no
+328,COUROS E PELES,4,442,340,75 023,546 900,233 463,3,3,599,541,5 826 691,66 420 077,30 889 022,12,13,mistral_table,mistral_table,no
+329,QUÍMICA,30,802,367,171 061,2 378 840,1 323 188,7,28,506,216,10 088 130,104 057 194,54 450 141,12,13,mistral_table,mistral_table,no
+330,FARMACÊUTICA,26,302,97,86 726,138 500,99 996,4,16,242,124,4 432 227,12 670 173,8 626 486,12,13,mistral_table,mistral_table,no
+331,PERFUMARIA,20,666,487,79 893,1 240 524,703 839,12,16,515,374,5 917 909,59 188 859,17 452 747,12,13,mistral_table,mistral_table,no
+332,MATS. PLASTICAS,9,360,266,45 119,361 449,113 012,3,7,413,233,4 082 842,40 305 289,15 001 660,12,13,mistral_table,mistral_table,no
+333,TEXTIL,16,1 761,1 517,152 371,3 305 973,1 433 161,3,16,1 811,1 406,13 940 732,205 951 621,85 720 410,12,13,mistral_table,mistral_table,no
+334,VESTUÁRIO,42,1 916,1 754,136 560,1 884 067,462 580,35,39,607,446,3 722 816,21 543 100,12 240 592,12,13,mistral_table,mistral_table,no
+335,ALIMENTARES,225,6 092,4 191,700 421,7 407 517,3 208 945,216,264,7 253,5 734,93 353 166,845 586 581,406 518 948,12,13,mistral_table,mistral_table,no
+336,BEBIDAS,18,1 428,868,256 003,2 217 654,1 502 081,5,16,1 788,782,22 973 255,137 400 386,82 104 862,12,13,mistral_table,mistral_table,no
+337,FUMO,6,506,407,115 611,1 396 967,470 238,5,5,915,381,11 634 990,240 150 741,183 781 420,12,13,mistral_table,mistral_table,no
+338,GRAFICA,66,1 318,838,205 118,916 502,485 113,58,68,1 260,821,15 112 334,95 281 225,76 045 716,12,13,mistral_table,mistral_table,no
+339,DIVERSAS,35,748,551,97 117,262 384,78 412,17,26,260,136,3 332 102,19 496 280,2 184 434,12,13,mistral_table,mistral_table,no
+340,BELEM,915,26 151,18 432,3,396 305,28 466 021 14 066 077,660,919,26 691,19 232,306 194 303,2 739 780 211,1 554 387 355,14,15,mistral_table,mistral_table,no
+341,EXTRATIVA MINERAL,5,563,2,256 271,623 623,623 623,2,5,57,-,3 191 338,-,-,14,15,mistral_table,mistral_table,no
+342,TRANSFORMACAO,,,,,,,658,914,26 634,19 232,303 002 965,2 739 780 211,1 554 387 355,14,15,tesseract_por_review_partial,mistral_table,yes
+343,NAO METALICOS,,,,,,,38,48,873,570,11 798 149,143 529 646,97 505 804,14,15,manual_label_from_pdf_layout,mistral_table,yes
+344,METALUROICA,73,1 224,904,148 855,H1 065,510 414,74,88,1 627,1 236,15 332 253,122 753 588,72 926 034,14,15,pdf_text_layout,mistral_table,no
+345,MECANICA,41,753 117,IS,911,361 054,217 244,27,49,734,613,8 305 143,39 090 068,33 093 274,14,15,pdf_text_tokens,mistral_table,no
+346,MATERIAL ELETRICO,23,213 178,llO,916,295 305,1113172,8,25,531,376,10 496 055,36 089 685,26 393 178,14,15,pdf_text_tokens,mistral_table,no
+347,TRANSPORTE,25,898,739,128 158,414 003,252 629,22,30,675,502,5 789 822,47 201 937,27 616 441,14,15,pdf_text_tokens,mistral_table,no
+348,MADEIRA,121,4 010,3 132.,411 921,2 984 173,111 331,75,108,4 676,3 814,44 940 880,368 456 413,249 424 169,14,15,pdf_text_layout,mistral_table,no
+349,"MOBILIARIO. , • ••• •. , • , ••• , , • , • , ••• , •• , , , •• , , • ••• .s",645,457,48,516,251 419,126 779,51,54,750,569,5 183 802,24 001 551,12 324 361,14,15,pdf_text_tokens,mistral_table,no
+350,PAPE L E PAPELAO,6,499,73,57 024,228 977,137 176,4,7,637,373,5 329 175,65 451 867,39 338 318,14,15,pdf_text_layout,mistral_table,no
+351,BORRACHA,13,306,194,35 aso,262 702,S73 001,6,14,294,205,3 345 139,79 932 555,36 492 626,14,15,pdf_text_layout,mistral_table,no
+352,COUROS E P E LES,4,442,340,75 023,546 100,233 463,3,3,595,541,5 826 691,68 420 077,30 889 022,14,15,pdf_text_layout,mistral_table,no
+353,QUIMICA,26,764 346,113 130,2,324 746,287 232,4,25,472,192,9 831 730,101 604 869,54 059 760,14,15,pdf_text_tokens,mistral_table,no
+354,FAAMACEUTICA,26,302,97,16 726,131 500,99 996,4,16,242,124,4 432 227,12 670 173,8 626 486,14,15,pdf_text_tokens,mistral_table,no
+355,PERFUMARIA,19,662,415,78 727,231 471,703 220,12,16,515,374,5 917 909,59 188 859,17 452 747,14,15,pdf_text_tokens,mistral_table,no
+356,MATS. PLASTICAS,6,ao,61,8 575,149 721,15 669,2,6,388,213,3 899 925,39 110 862,14 225 114,14,15,pdf_text_tokens,mistral_table,no
+357,TEXTIL,16,1 76 1,1 517,152 371,3 305 873,433 161,3,16,1 811,1 406,13 940 732,205 951 621,85 720 410,14,15,pdf_text_layout,mistral_table,no
+358,VESTUARIO,,,,,,,35,39,607,446,3 722 816,21 543 100,12 240 592,14,15,manual_label_from_pdf_layout,mistral_table,yes
+359,ALIMENTARES,202,5 671,3 919,645 975,6 973 427,3 077 772,210,255,7 280,5 558,90 857 836,814 454 698,391 942 587,14,15,pdf_text_layout,mistral_table,no
+360,BEBIDAS,11,1 169,742.,208 344,1 138 402,1 337 083,5,16,1 788,782,22 973 255,137 400 386,82 104 862,14,15,pdf_text_layout,mistral_table,no
+361,FUMO,,,,,,,5,15,618,381,11 634 990,240 150 741,183 781 420,14,15,manual_label_from_pdf_layout,mistral_table,yes
+362,ORAFICA,66,311,838,205 118,916 502,415 113,58,68,1 260,821,15 112 334,95 281 225,76 045 716,14,15,pdf_text_tokens,mistral_table,no
+363,DIVERSAS,32,729 537,94 785,254 815,71,"ª""",17,26,260,136,3 332 102,19 496 280,2 184 434,14,15,pdf_text_tokens,mistral_table,no
+364,SANTAREM,177,978,526 167,1S4,352 154,640 011,173,193,1 755,1 132,14 574 587,149 118 039,79 299 130,14,15,pdf_text_tokens,mistral_table,no
+365,TRANSPORTE,11,83,69,13 978,39 451,28 568,7,8,78,69,838 928,17 941 686,13 627 262,14,15,pdf_text_tokens,mistral_table,no
+366,MADE IRA,26,504 401,39,225 255,2aa,146 827,31,31,263,195,1 993 207,14 852 375,8 378 889,14,15,pdf_text_tokens,mistral_table,no
+367,BORRACHA,,,,,,,3,3,72,41,662 123,59 116 843,24 429 645,14,15,pdf_text_tokens_partial,mistral_table,yes
+368,TEXTIL,,,,,,,3,6,258,205,826 094,8 268 077,3 928 622,14,15,manual_label_from_pdf_layout,mistral_table,yes
+369,ALIMEN TARES,46,309,19 1,24 899,199 559,8 3 641,40,48,234,187,2 076 047,17 952 868,8 510 947,14,15,pdf_text_layout,mistral_table,no
+370,DEMAIS GENEROS,,,,,,,91,102,820,435,8 158 188,30 986 190,21 323 765,14,15,manual_label_from_pdf_layout,mistral_table,yes
+371,ABAETETUBA,,,,,,,346,352,2 222,1 483,9 338 788,30 739 101,17 264 421,14,15,manual_label_from_pdf_layout,mistral_table,yes
+372,ACARA,7,1,22,106 298,71 400,31 321,37,39,303,200,2 376 340,15 829 853,8 833 926,14,15,pdf_text_tokens,mistral_table,no
+373,"AFUA •• , , . , • ••••• , •••• •• • , . , , . , , ,, ••• • • ••• • ••••• • 12.6 2.68",887,12,064,411 715,2,41 592,169,184,1 096,902,8 334 401,44 931 186,23 149 894,14,15,pdf_text_tokens,mistral_table,no
+374,ALENQUER,,,,,,,25,27,125,79,785 713,4 888 320,2 727 591,14,15,manual_label_from_pdf_layout,mistral_table,yes
+375,ALMEIRIM,,,,,,,11,14,1 915,1 438,53 420 302,883 690 480,279 719 364,14,15,manual_label_from_pdf_layout,mistral_table,yes
+376,AL TAMIRA,58,434,269,40 244,180 4C2,109 463,71,75,682,480,7 739 551,84 811 974,66 533 465,14,15,pdf_text_layout,mistral_table,no
+377,ANAJAS,43,490,431,43 U3,305 574,1 53 893,48,53,307,226,2 827 318,14 567 361,6 964 167,14,15,pdf_text_layout,mistral_table,no
+378,ANANINDEUA,103,4 130,3 133,490 418,3 882 153,1 972 654,33,46,1 804,1 347,18 538 651,176 461 395,104 198 503,14,15,pdf_text_layout,mistral_table,no
+379,AUGUSTO CORAEA,5,14,9,764,545,1 151,4,4,18,12,84 240,264 313,191 363,14,15,pdf_text_tokens,mistral_table,no
+380,CANETA,140,672,445,47 582,190 885,94 661,10,10,40,21,392 120,2 028 200,1 075 200,14,15,pdf_text_tokens,mistral_table,no
+381,BAGRE,,,,,,,17,19,82,62,905 226,3 150 485,1 835 939,14,15,manual_label_from_pdf_layout,mistral_table,yes
+382,BAIÃO,18,80,81,531,34 753,14 786,10,12,40,27,547 800,3 463 000,1 823 000,14,15,pdf_text_tokens,mistral_table,no
+383,BARCARENA,22,241 209,19 624,113 798,(E),101,10,11,51,34,322 780,1 509 517,857 084,14,15,pdf_text_tokens,mistral_table,no
+384,BENEVIDES,,,,,,,41,48,1 793,660,18 436 148,107 548 944,45 524 432,14,15,manual_label_from_pdf_layout,mistral_table,yes
+385,BONITO,3,4,414,815,1,022,3,3,27,23,159 595,588 610,331 990,14,15,pdf_text_tokens,mistral_table,no
+386,BAAOANÇA,59,460,341,34 054,167 415,13 691,43,45,343,246,2 179 049,20 201 016,7 508 461,14,15,pdf_text_tokens,mistral_table,no
+387,BREVES,417,3 778,z 735,259 110,629 ~71,115 148,65,75,1 186,883,8 180 363,62 008 599,34 624 116,14,15,pdf_text_layout,mistral_table,no
+388,BUJARU,,,,,,,13,13,103,89,510 976,2 983 149,1 891 890,14,15,manual_label_from_pdf_layout,mistral_table,yes
+389,CACHOEIRA DO ARARI,7,21,12,830,2 572,1351,2,3,8,6,44 080,174 200,93 010,14,15,tesseract_por_review,mistral_table,no
+390,CAMETA,,,,,,,79,79,358,244,3 483 787,15 065 229,8 063 131,14,15,manual_label_from_pdf_layout,mistral_table,yes
+391,CUAUÇA,13,46,26,2 348,12 719,7 066,39,47,1 031,864,11 605 525,181 694 954,107 738 221,14,15,pdf_text_tokens,mistral_table,no
+392,CAPITÃO POÇO,17,69,43,390,27 571,15 564,18,20,151,88,785 031,4 113 831,1 439 930,14,15,pdf_text_tokens,mistral_table,no
+393,CASTANHAL,71 151,1 506,179 088,2,598 211,830 500,76,87,2 128,1 729,15 924 936,273 111 734,135 274 448,14,15,pdf_text_tokens,mistral_table,no
+394,CHAVES,24,219 177,10 198,71 825,2a,516,15,17,112,83,894 350,3 713 269,1 725 766,14,15,pdf_text_tokens,mistral_table,no
+395,COLARES,1,61,49,5 136,37 676,25 148,5,5,27,17,227 980,781 935,415 498,14,15,pdf_text_tokens,mistral_table,no
+396,CONCEIÇÃO DO ARAGUAIA,119,2 418,710,295 0511,2 071 682,918 151,40,40,165,102,1 660 674,12 671 590,6 341 634,14,15,pdf_text_layout,mistral_table,no
+397,CUARALINHO,26,118,110,10 560,54 581,20 222,38,38,242,155,2 428 000,7 274 760,3 181 600,14,15,pdf_text_tokens,mistral_table,no
+398,CURUCA,,,,,,,4,4,15,9,81 000,361 300,122 700,14,15,manual_label_from_pdf_layout,mistral_table,yes
+399,FARO,10,34,21,3 891,10 326,7 820,13,13,65,37,568 618,2 105 500,1 461 920,14,15,pdf_text_tokens,mistral_table,no
+400,OURUPA,26,224,142 .,15 535,101 2 11,C6 714,91,92,543,287,4 428 600,13 783 947,7 037 175,14,15,pdf_text_layout,mistral_table,no
+401,IGARAPE-AÇU,4,37,19,3 468,54 013,22 677,15,17,74,49,404 206,9 499 080,3 761 313,16,17,mistral_table,mistral_table,no
+402,IGARAPE-MIRI,181,1 304,940,75 936,308 571,197 668,171,174,1 130,926,9 595 147,51 421 648,21 403 770,16,17,mistral_table,mistral_table,no
+403,INHANGAPI,7,54,36,3 326,10 199,7 099,7,7,43,34,243 545,821 600,572 642,16,17,mistral_table,mistral_table,no
+404,IRITUIA,27,245,198,22 125,120 182,66 812,19,19,290,257,1 524 826,12 309 057,6 868 404,16,17,mistral_table,mistral_table,no
+405,ITAITUBA,31,157,98,15 625,95 445,59 943,57,59,219,120,3 247 172,18 997 028,12 521 610,16,17,mistral_table,mistral_table,no
+406,ITUPIRANGA,15,80,52,4 667,32 745,11 763,19,19,108,76,966 300,4 818 675,2 348 559,16,17,mistral_table,mistral_table,no
+407,JACUNDA,13,78,47,5 519,67 383,27 480,22,23,175,137,2 012 101,11 492 945,6 154 894,16,17,mistral_table,mistral_table,no
+408,JURUTI,7,20,14,2 134,6 355,3 768,4,4,17,7,195 300,773 000,352 520,16,17,mistral_table,mistral_table,no
+409,LIMOEIRO DO AJURU,117,571,331,36 387,120 324,53 772,76,76,354,224,3 159 820,29 571 600,10 449 780,16,17,mistral_table,mistral_table,no
+410,MARABA,83,778,463,54 479,481 777,246 499,195,204,1 493,1 086,13 378 198,192 566 508,110 779 685,16,17,mistral_table,mistral_table,no
+411,MARACANÁ,9,36,19,1 852,7 452,5 498,14,14,201,156,1 128 153,10 279 314,4 671 163,16,17,mistral_table,mistral_table,no
+412,MARAPANIM,9,39,27,2 325,12 008,7 233,9,9,29,15,289 200,1 176 640,453 604,16,17,mistral_table,mistral_table,no
+413,MELGAÇO,12,58,28,4 672,37 016,9 921,41,41,157,77,1 155 292,5 174 748,2 753 960,16,17,mistral_table,mistral_table,no
+414,MOCAJUBA,18,111,92,5 291,18 565,9 840,13,13,66,50,1 083 000,3 488 000,1 953 000,16,17,mistral_table,mistral_table,no
+415,MOJU,44,348,285,42 699,292 615,146 913,14,14,142,122,865 496,10 399 314,2 805 697,16,17,mistral_table,mistral_table,no
+416,MONTE ALEGRE,13,52,38,5 066,21 252,15 350,31,33,148,81,1 315 775,10 006 455,5 892 863,16,17,mistral_table,mistral_table,no
+417,MUANA,145,1 014,806,57 333,259 254,168 436,162,164,803,527,2 559 881,8 455 948,4 339 808,16,17,mistral_table,mistral_table,no
+418,NOVA TIMBOTEUA,4,10,5,505,1 370,831,2,2,(B),(B),(X),(A),(X),16,17,mistral_table,mistral_table,no
+419,OBIDOS,38,381,323,30 464,451 334,145 924,26,34,363,302,2 739 729,38 214 120,11 717 118,16,17,mistral_table,mistral_table,no
+420,OEIRAS DO PARA,103,540,396,50 072,335 888,183 472,54,54,360,279,1 903 000,6 391 000,3 191 000,16,17,mistral_table,mistral_table,no
+421,ORIXIMINA,23,1 506,1 473,477 414,4 497 522,3 771 007,20,28,1 470,866,54 507 497,905 932 032,779 685 072,16,17,mistral_table,mistral_table,no
+422,OUREM,25,125,96,10 895,69 131,32 163,36,41,243,188,1 773 544,12 180 343,6 605 879,16,17,mistral_table,mistral_table,no
+423,PARAGOMINAS,113,1 318,1 027,74 872,812 712,366 854,127,134,2 633,2 304,15 320 926,167 614 380,83 632 878,16,17,mistral_table,mistral_table,no
+424,PEIXE-BOI,1,(A),(A),(X),(B),(X),4,4,14,8,59 954,302 512,67 792,16,17,mistral_table,mistral_table,no
+425,PONTA DE PEDRAS,20,121,74,10 040,27 375,18 188,15,15,89,66,661 955,1 644 861,1 105 036,16,17,mistral_table,mistral_table,no
+426,PORTEL,23,982,923,62 812,333 611,124 280,14,21,860,751,5 243 077,43 342 433,25 821 107,16,17,mistral_table,mistral_table,no
+427,PORTO DE MOZ,10,85,61,5 639,56 907,31 100,3,4,62,49,426 459,3 609 848,1 274 392,16,17,mistral_table,mistral_table,no
+428,PRAINHA,14,280,174,60 897,257 929,84 109,12,13,84,52,490 803,6 639 382,2 900 340,16,17,mistral_table,mistral_table,no
+429,PRIMAVERA,11,51,26,2 340,9 517,6 644,6,6,33,21,131 000,496 634,194 434,16,17,mistral_table,mistral_table,no
+430,REDENÇÃO,-,-,-,-,-,-,26,28,451,383,4 684 907,75 022 869,38 973 151,16,17,mistral_table,mistral_table,no
+431,RIO MARIA,-,-,-,-,-,-,12,14,220,191,1 610 523,21 113 191,7 724 675,16,17,mistral_table,mistral_table,no
+432,RONDON DO PARA,-,-,-,-,-,-,39,42,361,279,2 835 145,27 168 782,14 882 120,16,17,mistral_table,mistral_table,no
+433,SALINOPOLIS,9,63,38,4 341,26 067,9 933,8,8,51,40,377 643,1 392 000,657 687,16,17,mistral_table,mistral_table,no
+434,SALVATERRA,7,34,21,670,5 772,3 480,3,3,11,5,86 280,414 355,192 355,16,17,mistral_table,mistral_table,no
+435,SANTA CRUZ DO ARARI,4,10,-,485,1 208,616,3,3,7,3,66 160,260 820,136 673,16,17,mistral_table,mistral_table,no
+436,SANTA ISABEL DO PARA,29,636,440,54 092,860 613,548 433,24,27,783,606,7 035 521,91 939 965,30 274 845,16,17,mistral_table,mistral_table,no
+437,SANTA MARIA DO PARA,11,58,33,2 317,16 887,7 873,6,6,26,14,116 936,328 900,142 710,16,17,mistral_table,mistral_table,no
+438,SANTANA DO ARAGUAIA,10,171,122,26 503,226 436,115 738,6,8,799,468,24 181 283,170 633 326,26 774 326,16,17,mistral_table,mistral_table,no
+439,SANTAREM NOVO,-,-,-,-,-,-,1,1,(A),(A),(X),(A),(X),16,17,mistral_table,mistral_table,no
+440,SANTO ANTONIO DO TAUA,11,95,73,7 587,64 582,50 918,14,14,84,52,1 048 648,7 800 947,2 654 178,16,17,mistral_table,mistral_table,no
+441,SÃO CAETANO DE ODIVELAS,22,78,41,4 564,13 485,7 769,3,3,10,3,80 418,556 000,272 904,16,17,mistral_table,mistral_table,no
+442,SÃO DOMINGOS DO CAPIM,69,785,569,61 231,473 803,272 300,10,11,128,109,820 295,5 109 039,2 797 346,16,17,mistral_table,mistral_table,no
+443,SÃO FELIX DO XINGU,5,219,159,34 566,230 877,224 897,13,17,970,546,9 797 532,114 212 133,77 442 670,16,17,mistral_table,mistral_table,no
+444,SÃO FRANCISCO DO PARA,5,31,21,3 034,96 492,45 613,3,3,53,43,642 161,15 205 705,6 141 035,16,17,mistral_table,mistral_table,no
+445,SÃO JOÃO DO ARAGUAIA,43,213,117,14 617,120 920,67 827,27,27,124,72,778 553,6 093 496,2 879 051,16,17,mistral_table,mistral_table,no
+446,SÃO MIGUEL DO GUAMA,17,178,146,13 324,117 050,41 467,14,16,275,241,1 462 105,13 569 177,6 260 830,16,17,mistral_table,mistral_table,no
+447,SÃO SEBASTIÃO DA BOA VISTA,76,456,343,29 209,124 242,57 358,56,56,316,175,2 150 505,7 693 270,4 281 831,16,17,mistral_table,mistral_table,no
+448,SENADOR JOSE PORFIRIO,2,(C),(C),(X),(C),(X),2,2,(B),(A),(X),(A),(X),18,19,mistral_table,mistral_table,no
+449,SOURE,22,92,57,7 638,23 767,13 459,12,12,71,55,527 607,1 831 695,1 221 885,18,19,mistral_table,mistral_table,no
+450,TOME-AÇU,18,244,184,19 765,142 993,79 718,29,29,301,241,1 736 025,11 482 401,6 195 804,18,19,mistral_table,mistral_table,no
+451,TUCURUÍ,26,649,547,92 297,477 787,287 086,56,59,395,288,3 909 110,16 139 656,9 248 585,18,19,mistral_table,mistral_table,no
+452,VIGIA,34,221,177,14 830,324 330,70 374,26,27,107,67,1 085 745,2 899 007,1 714 665,18,19,mistral_table,mistral_table,no
+453,VISEU,25,163,125,11 407,47 289,21 634,16,17,91,69,734 879,2 162 757,1 037 728,18,19,mistral_table,mistral_table,no
+454,XINGUARA,-,-,-,-,-,-,51,55,563,469,5 408 007,39 038 828,17 762 161,18,19,mistral_table,mistral_table,no
+455,AMAPÁ,163,3 384,2 443,622 455,4 500 759,2 309 489,147,183,3 290,2 446,56 344 911,493 685 079,329 395 652,18,19,mistral_table,mistral_table,no
+456,EXTRATIVA MINERAL,6,538,311,256 822,2 192 322,899 238,2,7,679,522,17 485 859,301 496 069,254 710 132,18,19,mistral_table,mistral_table,no
+457,TRANSFORMAÇÃO,157,2 846,2 132,365 633,2 308 437,1 410 251,145,176,2 611,1 924,38 859 052,192 189 010,74 685 520,18,19,mistral_table,mistral_table,no
+458,NÃO METALICOS,3,37,30,2 752,14 369,13 010,5,9,138,123,990 595,2 132 631,1 680 790,18,19,mistral_table,mistral_table,no
+459,METALÚNGICA,4,42,35,6 652,23 681,11 715,3,4,32,24,228 483,713 890,463 854,18,19,mistral_table,mistral_table,no
+460,MECANICA,7,320,298,112 200,218 195,153 411,8,12,471,325,15 726 092,44 134 775,12 205 743,18,19,mistral_table,mistral_table,no
+461,TRANSPORTE,-,-,-,-,-,-,5,5,27,19,548 800,1 090 000,494 044,18,19,mistral_table,mistral_table,no
+462,MADEIRA,65,1 915,1 396,201 179,1 830 262,1 120 860,51,62,1 108,846,13 242 579,98 428 205,34 913 181,18,19,mistral_table,mistral_table,no
+463,MOBILIÁRIO,12,88,67,7 248,27 136,16 372,13,13,50,35,501 008,1 692 031,1 050 202,18,19,mistral_table,mistral_table,no
+464,PAPEL E PAPELÃO,1,(A),(A),(X),(A),(X),1,1,(C),(B),(X),(C),(X),18,19,mistral_table,mistral_table,no
+465,BORRACHA,-,-,-,-,-,-,1,1,(C),(B),(X),(C),(X),18,19,mistral_table,tesseract_por_review,no
+466,VESTUÁRIO,4,13,9,1 307,2 980,2 443,5,5,23,13,158 567,446 463,314 663,18,19,mistral_table,mistral_table,no
+467,ALIMENTARES,52,346,234,27 182,163 557,72 677,43,51,554,442,5 424 402,34 379 579,17 656 806,18,19,mistral_table,mistral_table,no
+468,BEBIJAS,1,(C),(B),(X),(A),(X),1,2,(F),(D),(X),(F),(X),18,19,mistral_table,mistral_table,no
+469,FUMO,1,(A),(A),(X),(C),(X),-,1,(B),(A),(X),(A),(X),18,19,mistral_table,mistral_table,no
+470,GRAFICA,5,52,42,4 355,18 165,9 781,7,7,50,35,296 499,1 368 114,831 429,18,19,mistral_table,mistral_table,no
+471,DIVERAS,2,(C),(C),(X),(B),(X),3,4,28,24,127 250,335 014,149 603,18,19,mistral_table,mistral_table,no
+472,MACAPÁ,144,3 300,2 398,615 898,4 474 649,2 293 643,129,160,2 932,2 127,51 617 422,466 727 433,314 424 392,18,19,mistral_table,mistral_table,no
+473,EXTRATIVA MINERAL,6,538,311,256 822,2 192 322,899 238,2,5,425,271,13 635 222,280 000 414,243 018 510,18,19,mistral_table,mistral_table,no
+474,TRANSFORMAÇÃO,138,2 762,2 067,359 076,2 282 327,1 394 405,127,155,2 507,1 856,37 982 200,186 727 019,71 405 882,18,19,mistral_table,mistral_table,no
+475,NÃO METALICOS,3,37,30,2 752,14 369,13 010,5,9,138,123,990 595,2 132 631,1 680 790,18,19,mistral_table,mistral_table,no
+476,METALÚNGICA,4,42,35,6 652,23 681,11 715,3,4,32,24,228 483,713 890,463 854,18,19,mistral_table,mistral_table,no
+477,MECANICA,7,320,298,112 200,218 195,153 411,8,12,471,325,15 726 092,44 134 775,12 205 743,18,19,mistral_table,mistral_table,no
+478,TRANSPORTE,-,-,-,-,-,-,5,5,27,19,548 800,1 090 000,494 044,18,19,mistral_table,mistral_table,no
+479,MADEIRA,58,1 865,1 361,196 914,1 812 333,1 109 861,43,53,1 043,798,12 749 289,94 711 419,32 570 868,18,19,mistral_table,mistral_table,no
+480,MOBILIÁRIO,12,88,67,7 246,27 136,16 372,13,13,50,35,501 008,1 692 031,1 050 202,18,19,mistral_table,mistral_table,no
+481,PAPEL E PAPELÃO,1,(A),(A),(X),(A),(X),-,-,-,-,-,-,-,18,19,mistral_table,mistral_table,no
+482,BORRACHA,-,-,-,-,-,-,1,1,(C),(B),(X),(C),(X),18,19,mistral_table,mistral_table,no
+483,VESTUÁRIO,3,9,2,1 062,2 360,2 054,5,5,23,13,158 567,446 463,314 663,18,19,mistral_table,mistral_table,no
+484,ALIMENTARES,41,316,227,25 135,155 996,68 219,33,39,515,422,5 040 840,32 634 374,16 719 481,18,19,mistral_table,mistral_table,no
+485,BEBIJAS,1,(C),(B),(X),(A),(X),1,2,(F),(D),(X),(F),(X),18,19,mistral_table,mistral_table,no
+486,FUMO,1,(A),(A),(X),(C),(X),-,1,(B),(A),(X),(A),(X),18,19,mistral_table,mistral_table,no
+487,GRAFICA,5,52,42,4 355,18 165,9 781,7,7,50,35,296 499,1 368 114,831 429,18,19,mistral_table,mistral_table,no
+488,DIVERAS,2,(C),(C),(X),(B),(X),3,4,28,24,127 250,335 014,149 603,18,19,mistral_table,mistral_table,no
+489,AMAPÁ,4,10,5,697,1 228,905,4,5,14,8,128 170,405 531,222 181,18,19,mistral_table,mistral_table,no
+490,CALÇOENE,3,9,1,810,2 079,1 473,3,5,265,258,3 993 837,21 852 655,11 893 922,18,19,mistral_table,mistral_table,no
+491,MAZAGÃO,9,59,37,4 569,20 355,11 595,10,12,75,51,577 482,4 566 620,2 804 717,18,19,mistral_table,mistral_table,no
+492,DIAPOQUE,3,6,2,481,2 448,1 873,1,1,(A),(A),(X),(A),(X),18,19,mistral_table,mistral_table,no
+493,TOCANTINS,720,3 034,1 678,194 480,1 999 595,873 311,746,775,3 140,1 846,19 671 833,164 071 442,79 569 799,18,19,mistral_table,mistral_table,no
+494,EXTRATIVA MINERAL,5,13,8,1 130,5 286,4 941,1,4,22,21,214 404,2 172 516,1 985 205,18,19,mistral_table,mistral_table,no
+495,TRANSFORMAÇÃO,715,3 021,1 670,193 330,1 994 309,868 370,745,771,3 118,1 825,19 457 429,161 898 926,77 584 594,18,19,mistral_table,mistral_table,no
+496,NÃO METALICOS,185,638,371,36 977,118 103,79 917,125,126,647,451,4 303 567,25 190 808,13 186 477,18,19,mistral_table,mistral_table,no
+497,METALÚNGICA,18,99,45,5 827,38 965,19 174,38,39,180,103,1 073 022,5 850 133,2 496 406,18,19,mistral_table,mistral_table,no
+498,MECANICA,2,(D),(A),(X),(C),(X),6,7,22,14,233 223,707 530,396 083,18,19,mistral_table,mistral_table,no
+499,MATERIAL ELÉTRICO,-,-,-,-,-,-,2,2,(B),(A),(X),(A),(X),18,19,mistral_table,mistral_table,no
+500,TRANSPORTE,4,21,18,1 074,10 466,5 671,12,12,42,19,254 424,1 275 474,889 281,18,19,mistral_table,mistral_table,no
+501,MADEIRA,178,807,471,54 197,320 226,186 543,133,135,548,341,3 060 832,15 525 662,7 906 586,18,19,mistral_table,mistral_table,no
+502,MOBILIÁRIO,36,112,63,8 064,31 327,19 883,73,75,312,195,1 907 694,9 644 249,6 103 906,18,19,mistral_table,mistral_table,no
+503,BORRACHA,3,33,23,2 798,12 975,7 743,1,2,(D),(D),(X),(D),(X),18,19,mistral_table,mistral_table,no
+504,COURSE E PELES,1,(B),(A),(X),(B),(X),1,1,(A),(A),(X),(A),(X),18,19,mistral_table,mistral_table,no
+505,QUÍMICA,-,-,-,-,-,-,2,8,102,24,2 634 638,9 328 108,7 043 696,18,19,mistral_table,mistral_table,no
+506,PERFUMÁRIA,-,-,-,-,-,-,3,3,10,5,29 961,349 304,186 283,18,19,mistral_table,mistral_table,no
+507,VESTUÁRIO,16,45,23,2 417,10 376,5 379,16,17,52,31,240 127,1 122 920,654 335,18,19,mistral_table,mistral_table,no
+508,ALIMENTARES,255,1 152,603,70 551,1 423 783,529 250,319,329,1 092,568,4 893 891,88 254 471,36 573 373,18,19,mistral_table,mistral_table,no
+509,BEBIJAS,2,(B),(A),(X),(B),(X),1,1,(A),(A),(X),(A),(X),18,19,mistral_table,mistral_table,no
+510,FUMO,1,(A),(A),(X),(A),(X),-,-,-,-,-,-,-,18,19,mistral_table,mistral_table,no
+511,GRAFICA,11,63,42,4 207,12 925,7 162,12,13,70,46,434 742,2 284 024,1 401 338,18,19,mistral_table,mistral_table,no
+512,DIVERAS,3,12,7,594,1 900,1 193,1,1,(A),(A),(X),(A),(X),18,19,mistral_table,mistral_table,no
+513,MIRACÉMA DO NORTE,20,89,51,4 822,20 010,12 469,19,22,72,09,319 309,1 093 004,615 421,18,19,mistral_table,mistral_table,no
+514,TRANSFORMAÇÃO,20,89,51,4 822,20 010,12 469,19,22,72,39,319 309,1 093 004,615 421,20,21,mistral_table,mistral_table,no
+515,NÃO METALICOS,5,(D),(D),(X),(B),(X),4,4,16,8,137 297,223 688,193 277,20,21,mistral_table,mistral_table,no
+516,METALURGICA,-,-,-,-,-,-,1,1,(A),(A),(X),(A),(X),20,21,mistral_table,pdf_text_tokens,no
+517,MADEIRA,5,28,15,1 463,6 227,4 580,5,6,23,13,43 662,269 557,158 014,20,21,mistral_table,mistral_table,no
+518,MOBILIÁRIO,1,(A),(A),(X),(A),(X),2,4,17,11,89 576,311 656,117 478,20,21,mistral_table,mistral_table,no
+519,ALIMENTARES,9,20,5,1 276,8 686,3 548,7,7,(C),(B),(X),(A),(X),20,21,mistral_table,mistral_table,no
+520,ALMAS,4,10,5,318,3 191,1 416,4,4,8,4,23 552,56 080,46 280,20,21,mistral_table,mistral_table,no
+521,ALVORADA,16,85,37,2 759,17 659,10 499,15,15,44,16,146 438,2 176 115,626 396,20,21,mistral_table,mistral_table,no
+522,ANANAS,13,81,56,5 605,17 442,11 748,9,9,31,12,109 081,1 305 620,609 885,20,21,mistral_table,mistral_table,no
+523,ARAGUACEMA,11,30,18,863,3 667,1 771,6,7,25,18,200 481,2 175 768,1 969 803,20,21,mistral_table,mistral_table,no
+524,ARAGUAÇU,6,22,9,776,6 565,5 536,8,7,21,6,136 569,694 100,252 650,20,21,mistral_table,mistral_table,no
+525,ARAGUAINA,96,618,386,36 585,1 090,387 445,109,113,760,576,4 021 470,67 225 308,37 330 694,20,21,mistral_table,mistral_table,no
+526,ARAGUATINS,15,44,19,3 757,17 299,9 373,5,5,11,2,27 946,803 219,569 057,20,21,mistral_table,mistral_table,no
+527,ARAPOEMA,26,90,55,4 583,31 610,18 550,20,20,69,38,291 400,2 672 670,1 431 690,20,21,mistral_table,mistral_table,no
+528,ARRAIAS,16,57,25,5 672,15 847,9 793,12,12,49,22,850 150,2 113 744,1 186 653,20,21,mistral_table,mistral_table,no
+529,AUGUSTINOPOLIS,-,-,-,-,-,-,2,4,13,6,107 943,1 188 200,185 192,20,21,mistral_table,mistral_table,no
+530,AURORA DO NORTE,3,11,7,802,3 390,2 376,5,5,10,3,26 742,293 576,72 771,20,21,mistral_table,mistral_table,no
+531,AXIXA DE GOIAS,5,19,11,1 737,9 255,4 613,5,5,22,13,71 184,1 156 350,311 313,20,21,mistral_table,mistral_table,no
+532,BABAÇULANDIA,20,45,25,2 743,12 832,8 093,2,2,(B),(A),(X),(A),(X),20,21,mistral_table,mistral_table,no
+533,BREJINHO DE NAZARE,4,9,1,233,1,125 692,12,12,17,4,145 340,350 093,244 588,20,21,mistral_table,mistral_table,no
+534,COLINAS DE GOIAS,38,179,108,10 611,45 096,22 170,53,53,220,137,1 252 347,6 702 603,3 156 516,20,21,mistral_table,mistral_table,no
+535,CONCEIÇÃO DO NORTE,1,(A),(A),(X),(A),(X),-,-,-,-,-,-,-,20,21,mistral_table,mistral_table,no
+536,COUTO DE MAGALHÃES,1,(A),(A),(X),(A),(X),5,5,43,35,243 568,2 415 673,967 221,20,21,mistral_table,mistral_table,no
+537,CRISTALANDIA,11,48,21,2 990,15 557,10 926,12,12,59,41,244 992,1 991 551,174 203,20,21,mistral_table,mistral_table,no
+538,DIANÓPOLIS,10,21,12,1 340,6 228,4 509,11,11,61,37,1 017 494,1 320 151,- 140 180,20,21,mistral_table,mistral_table,no
+539,DOIS IRMÃOS DE GOIAS,5,16,7,415,3 259,2 029,6,6,10,2,55 085,165 066,107 722,20,21,mistral_table,mistral_table,no
+540,DUERE,3,12,5,440,1,097 827,6,6,29,17,203 090,444 205,265 650,20,21,mistral_table,mistral_table,no
+541,FATIMA,-,-,-,-,-,-,6,6,13,4,70 650,256 153,147 161,20,21,mistral_table,mistral_table,no
+542,FIGUEIROPOLIS,-,-,-,-,-,-,7,7,21,8,87 671,1 064 424,298 698,20,21,mistral_table,mistral_table,no
+543,FILADELFIA,5,21,5,1 103,5 912,2 958,-,1,(A),(A),(X),(A),(X),20,21,mistral_table,mistral_table,no
+544,FORMOSO DO ARAQUAIA,12,51,29,3 905,14 537,8 995,7,7,32,19,263 938,2 031 506,- 701 286,20,21,mistral_table,mistral_table,no
+545,GOIATINS,6,14,11,827,3 117,1 507,3,3,21,16,77 800,310 096,143 696,20,21,mistral_table,mistral_table,no
+546,GUARAI,24,87,47,5 278,38 657,19 271,21,21,86,48,320 256,3 712 345,1 276 043,20,21,mistral_table,mistral_table,no
+547,GURUPI,78,400,237,25 826,141 301,49 857,74,82,329,154,3 802 092,18 078 287,10 574 107,20,21,mistral_table,mistral_table,no
+548,ITACAJA,6,15,4,1 450,3 125,2 066,4,4,14,8,60 090,387 946,204 244,20,21,mistral_table,mistral_table,no
+549,ITAGUATINS,1,(A),(A),(X),(A),(X),1,1,(A),(A),(X),(A),(X),20,21,mistral_table,mistral_table,no
+550,ITAPORÃ DE GOIAS,5,6,2,400,909,500,6,6,15,9,85 806,342 180,170 680,20,21,mistral_table,mistral_table,no
+551,LIZARDA,1,(A),(A),(X),(A),(X),-,-,-,-,-,-,-,20,21,mistral_table,mistral_table,no
+552,MIRANORTE,15,68,47,2 759,19 816,8 390,20,20,57,30,243 545,849 821,429 034,20,21,mistral_table,mistral_table,no
+553,MONTE DO CARMO,2,(A),(A),(X),(A),(X),3,3,5,2,23 200,63 600,47 200,20,21,mistral_table,mistral_table,no
+554,NATIVIDADE,12,22,8,1 258,2 635,1 315,10,10,31,18,222 500,688 900,357 400,20,21,mistral_table,mistral_table,no
+555,NAZARE,2,(A),(A),(X),(B),(X),4,4,9,4,124 700,642 000,260 270,20,21,mistral_table,mistral_table,no
+556,NOVA OLINDA,-,-,-,-,-,-,5,5,14,8,85 195,373 795,216 847,20,21,mistral_table,mistral_table,no
+557,NOVO ACORDO,4,11,6,310,985,591,2,2,(B),(A),(X),(A),(X),20,21,mistral_table,mistral_table,no
+558,PALMEIROPOLIS,-,-,-,-,-,-,11,11,37,17,144 700,476 354,318 133,20,21,mistral_table,mistral_table,no
+559,PARAI SO DO NORTE DE GOIAS,29,149,75,7 531,68 007,27 145,42,44,166,81,531 720,10 321 010,3 488 408,20,21,mistral_table,mistral_table,no
+560,PARANÁ,12,39,19,2 684,9 668,6 864,2,2,(B),(A),(X),(A),(X),20,21,mistral_table,mistral_table,no
+561,PEDRO AFONSO,4,8,3,276,1,589 812,3,5,10,2,8 463,107 387,77 058,20,21,mistral_table,mistral_table,no
+562,PEIXE,20,71,32,3 150,9 572,4 825,5,8,65,34,581 393,4 098 537,882 029,20,21,mistral_table,mistral_table,no
+563,COLMEIA,25,55,16,3 597,17 610,8 539,26,26,79,39,363 124,2 128 841,1 027 671,20,21,mistral_table,mistral_table,no
+564,PINDORAMA DE GOIAS,1,(A),(A),(X),(A),(X),4,4,9,2,69 000,244 000,180 200,22,23,mistral_table,mistral_table,no
+565,PIUM,8,30,14,1 607,3 621,2 683,6,6,14,8,40 200,170 336,107 843,22,23,mistral_table,mistral_table,no
+566,PONTE ALTA DO BOM JESUS,-,-,-,-,-,-,2,2,(D),(D),(X),(E),(X),22,23,mistral_table,mistral_table,no
+567,PONTE ALTA DO NORTE,6,14,4,309,748,571,6,6,25,18,94 210,472 500,419 500,22,23,mistral_table,mistral_table,no
+568,PORTO NACIONAL,50,201,116,12 441,90 689,43 056,94,94,284,152,1 426 610,7 167 255,3 941 436,22,23,mistral_table,mistral_table,no
+569,PRESIDENTE KENNEDY,6,13,3,408,1 837,988,7,7,12,5,88 000,242 410,169 410,22,23,mistral_table,mistral_table,no
+570,RIO SONO,-,-,-,-,-,-,2,2,(B),(A),(X),(A),(X),22,23,mistral_table,mistral_table,no
+571,SÃO SEBASTIÃO DO TOCANTINS,14,43,20,3 320,47 863,15 114,3,3,9,5,76 700,505 560,185 973,22,23,mistral_table,mistral_table,no
+572,SILVANOPOLIS,-,-,-,-,-,-,5,5,15,9,71 300,221 264,132 314,22,23,mistral_table,mistral_table,no
+573,SITIO NOVO DE GOIAS,3,15,6,768,18 535,4 696,2,2,(B),(A),(X),(B),(X),22,23,mistral_table,mistral_table,no
+574,TAQUATINGA,6,17,10,1 683,7 221,3 120,4,5,13,8,57 563,355 100,166 179,22,23,mistral_table,mistral_table,no
+575,TOCANTINIA,6,20,13,962,2 640,1 597,1,1,(A),(A),(X),(A),(X),22,23,mistral_table,mistral_table,no
+576,TOCANTINOPOLIS,16,94,50,17 807,71 987,25 643,10,11,53,25,333 014,5 465 220,1 634 369,22,23,mistral_table,mistral_table,no
+577,WANDERLANDIA,-,-,-,-,-,-,5,5,19,11,73 800,861 000,488 200,22,23,mistral_table,mistral_table,no
+578,XAMBIOA,17,64,36,6 841,90 285,46 393,7,8,32,20,117 648,818 379,216 038,22,23,mistral_table,mistral_table,no

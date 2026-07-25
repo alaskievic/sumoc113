@@ -1,0 +1,72 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+SREMEESEASLRAKKAEESEKEECEKLREEASRAAEEESAELESSSESASSSTASEDESSRSALERAAREAT PRESSE DESC ESASAALAERACASDELSRERRRRRA RARE
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO INDUSTRIAL DE 1980 E 1985
+BMEGSASERESCCLESSASCESACESSLESASEAAASRTASSASTASSESSATTSSSSESLSASTADDECASSELASRISSRLLADSRALESS EAST SERES RD
+* * *
+* . x CENSO DE 1980 *
+* * *
+* DEGRSSISASESESAISRESALLSTSRARSESASSSSTCLSRSROSEESRASEALC CADENETA
+NUM, * * * PESSOAL OCUPADO x *
+x * * EM 31-12-1980 ad ANO DE 1980 *
+* * x x *
+DE + MUNICIPIOS, CLASSES = CXESCSEMLESESAESESSASSELACAS EITA SLEESTLCLSASRSASASEESERTAESAE AA
+* * NUMERO * x * x * *
+* E * * * * * * VALOR DA Ed
+OR- * *DE ESTA-+ Ed * SALARIOS * VALOR * .*
+* GENEROS DA INDUSTRIA * Ed hd * RETIRADAS «+ BRUTO DA *TRANSFORMAÇÃO *
+x * BELECI-* * LIGADO A + E OUTRAS * PRODUÇÃO * bd
+DEM * * * TOTAL x - * REMUNERAÇÕES * INDUSTRIAL + INDUSTRIAL *
+* * MENTOS + * PRODUÇÃO * * * *
+* * < x BESSASTSSSAKEKSAKARLLSESA LESSA
+* * z x * *x
+* * * * * (MIL CRUZEIROS) *
+* * * * * *
+BRECESLESEAAEARSEEEEEEELAEACAELSSESESECEESRADE ESSES EELTESLESASESESCASADET RESETAR SSL
+1705 CONCHAL.,...cccccrecccccranorencrcrsan terceiros 36 272 186 25 790 304 830 127 496
+1705 CONCHAS.......ciccericerercarararronarrroncrroso 95 781 504 41 877 1 402 306 209 951
+1707 CORDEIROPOLIS.,........cccccreuiaccerccresenrers 45 1 740 1 547 202 553 1 060 090 626 590
+170B COROADOS..........cciciserssrrrrra ce rerrrnerrena 10 26 9 1 6365 22 664 5 466
+1709 CORONEL MACEDO........cccciccecrrercarecca raves 5 41 28 2 108 8 097 5 578
+1710 CORUMBATAI.......cccicerecrrenerarecercanncrrros 32 148 84 9 849 77 961 37 784
+1711 COSMOPOLIS.,......cscccslccccrecerrrnarra rata [2 1 338 1033 220 028 4 452 103 + 898 953
+1712 COSMORAMA.....icccerccirrrracrererrerrrasrransaa 20 67 30 3 214 121 472 22 159
+1713 COTIA,....sccsccnresoncanereracarranerrnr ro renas 248 13 490 10 128 2 887 778 26 731 962 13 060 709
+1714 CRAVINHOS......cccccsccrrauare rrenan ro renas 63 964 545 217 260 1 157 248 411 860
+1715 CRISTAIS PAULISTA......cerccccnnercrarera raras 6 43 31 4113 65 248 22 594
+1716 CRUZALIA......cccccciicerrrerre rare rna res crsenas 10 115 82 17 080 112 445 51 447
+1717 CRUZEIRO.......ccccccrrccracarcc reuniao reune ra 126 5 883 a 464 1 074 035 10 962 922 4 780 760
+1718 CUBATÃO......ccccccicecrcrcerrrecrnrarrrra avr 149 25 104 16 563 11 517 800 324 922 077 ai 789 586
+1719 CUNHA... .ccccrrencerera carrera nunes rr nero rara 19 53 zo 2 643 165 398 9 678
+1720 DESCALVADO........cccsunareranerrenaire vastas 78 1 694 1 150 211 544 3 005 734 1 242 478
+1721 DIVINDLANDIA......cscrraccrnerecarracnane resmas 14 70 45 4 265 16 756 — B 585
+1722 DOBRADA,.......cecicccrrrrencarrrerar rena rre res 7 118 91 17 058 357 534 60 055
+1723 DOIS CORREGOS........cccccrcireccrccrrerercrrvas 48 864 576 107 101 1332 829 261 049
+1724 DOLCINOPOLIS.,.......cccricscerrcrcrarrorreremes z (A) (A) DO (A) (XxX)
+1725 DOURADO........cccrccrrrera crer crranarra ruas 20 181 128 12 324 116 784 29 827
+1726 DRACENA....cisscrscre cearense rr rara sera erra ras 91 960 601 Bs 533 1 528 565 550 148
+1727 OUARTINA....cescccicrrereasrrr racer sorria crss 28 648 546 49 226 354 683 165 314
+1728 DUMONT... .ccrscrsccracr renas nine carrara araras 14 136 77 17 475 811 182 156 498
+1729 ECHAPORÃ,....ccccssscerrcccrera erre rce re racrrss 13 67 42 4 174 367 153 22 597
+1730 ELDORADO,....ccisccrarorananrer sra re raras rasa “ 175 133 14 404 274 114 129 659
+1731 ELIAS FAUSTO....cecscccrererercrrrerccrrrrareres 30 526 442 65 970 1 066 597 399 048
+1732 EMBU-GUAÇU.....ccrencccrareeror eras rrnare sra rss 15 2 264 1 B69 250 192 1 5692 240 789 OTE
+1733 ESPIRITO SANTO DO PINHAL... cccsscsccssoccrsesvas 103 2 246 1 807 276 308 3 132 259 1 158 988
+1734 ESTRELA D'OESTE.....ccccccrricsce renan rasrrares 19 71 30 6 399 BOO 999 BO 247
+1735 ESTRELA DO NORTE...,,..ccsseccasrerasecana renas 2 (e) (B) (x) (B) (X1
+1736 FARTURA....cccsccscacres cre rasa raras vira narra 22 94 57 a 653 21 197 12 944
+1737 FERNANDOPOLIS,..,..,.ccissiserarco rr crrsarrana 131 1 592 1 122 169 195 3 314 559 678 352
+1738 FERNANDO PRESTES.......cicccercarrraca sra rarcsas 10 24 8 1 307 60 473 9 972
+1739 FERRAZ DE VASCONCELOS.......ccsssstrsrercrrneaas 102 5 041 a 308 561 515 5 031 874 2 510 075
+1740 FLORA RICA....ccrecccrracace racer erra cera reres 5 17 4 294 778 404
+1741 FLOREAL.,...cerccsrrracecarnrrrrera erra rs cera sara 10 72 41 5 368 34 272 17 374
+1742 FLORIDA PAULISTA..,..,cccccrercroncss sora sacas zo 103 59 8 421 440 275 61 480
+1743 FLORINIA,..cocccrtrercerarrrara sr crrrrass rasa 3 13 8 560 3 182 1 810
+1744 FRANCISCO MORATO,.,.,...ccccrccccerenirrrareranao 35 660 516 102 305 608 813 3298 981
+1745 FRANCO DA ROCHA....,...icccccicseccersercrrerars 53 1711 + 271 374 755 4 635 895 2 159 114
+1746 GABRIEL MONTEIRO.......ccscersecorarrorrraarrsca 5 17 882 89 039 11 776
+1747 GALIA,«ccrcrucserance nene ra rrrne ser racrre rasas zo 152 79 15 309 71 862 3313
+1748 GARÇA....crsccerccrra rece rasnarore nave vasarra 68 817 672 73 979 2 169 027 536 489
+1749 GASTÃO VIDIGAL......cccccersiisccrarareraracrata 7 23 8 1 807 17 871 5 391
+1750 GENERAL SALGADO,..,...ccccantarerrracranrrrecaaa 21 [2 26 4 916 69 744 20 001
+1751 GETULINA......cccscccecricerasaseran asc rare 18 tos 65t 8 164 750 893 77 124
+64

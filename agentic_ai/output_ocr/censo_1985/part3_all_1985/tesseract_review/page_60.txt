@@ -1,0 +1,88 @@
+CENSOS ECONOMICOS DE 1985 -- MUNICIPIOS
+KERRRESAASSESRESESEAARARESSEEEREASEERERASALSEESALERLASASSELASEAAELEETLSSSESASSSPESESATRASERCLRSSSESASSARAERESRR RETRATAR
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO DOS SERVIÇOS DE 1980 E 1985
+ESSEREECERERAEEEEREEREEE EESC EEE
+* + *
+* * CENSO. DE 1980 *
+* + *
+* RECRSRESESSESEASALASEASESSRRLESASESESRRRELASESETASEELCARCERARA REA
+NUM, * * * PESSOAL OCUPADO * *
+* + * * ANO DE 1980 >
+* * * EM 31-12-1980 * *
+DE + MUNICIPIOS * FECECECEESACEESEESRAEESEERLELESERESRCEEELET ERR RS
+* * NUMERO += * * x +
+* * * * LIGADO A + SALARIOS, + ”
+OR- * * DE * * * RETIRADAS «x TOTAL DA *
+* CLASSES E GENEROS DE SERVIÇOS * x * ATIVIDADE * E OUTRAS «+ *
++ x ESTABELE-* x * REMUNERAÇÕES* RECEITA +
+DEM = * x TOTAL * DA * Ed *
+* * CIMENTOS + * . * x
+* * x * PRESTAÇÃO EEXEREKESISESEESARSAMEHARELARA
+* * * x * *
+* * = «DE SERVIÇOS* (MIL CRUZEIROS) *
+* . * * * x *
+E E ES E RS RÃ E ÃO
+132 COMPRA, VENDA, ADMINISTRAÇÃO BENS IMOVEIS............0.0. 5 13 2 2 624 10 266
+133 COMPRA E VENDA DE BENS IMOVEIS........ccccssiccccerreco 3 (B) (a) (XxX) (A)
+134 ADMINISTRAÇÃO, LOCAÇÃO, ETC......csccccsicsusaccrscarers 2 (B) (A) (x) tc)
+135 RIO BRANCO.........ccccccsuccscrcr rara rr eae raro rasas 300 2 195 1 430 229 663 886 529
+136 ALOJAMENTO E ALIMENTAÇÃO... ..cccrsceercerercrraracrarrers 117 535. 283 39 977 210 034
+137 ALOJAMENTO. .,..cccsscc renina renina carrera snsc ras 13 139 99 B 589 43 730
+138 ALIMENTAÇÃO, issues rca reacrarer rotas rr s erra ra narra 104 396 184 31 388 166 304
+139 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO.......ccsseccrcscrreos 85 317 195 35 644 112 452
+140 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO........cccsciscrssass 86 317 195 35 644 112 452
+141 PESSOAIS, DE HIGIENE E ESTETICA PESSOAL......cicccrseraas 21 70 38 9 315 22 453
+142 PESSOAIS.....ccsiscrrarerc erica rrenan cara a surra ara 9 32 13 3 160 12 16
+143 HIGIENE E DE ESTETICA PESSOAL.........cicscscsciscrrenaa 12 38 25 6 155 10 2892
+144 RADIODIFUSÃO, TELEVISÃO E DIVERSÕES..........ccisecaro 10 ss Bo 9 670 26 794
+145 RADIODIFUSÃO E TELEVISÃO.........ccccccccesrerccccrerras 3 64 56 6 513 17 316
+146 DIVERSÕES......ciccrsicerccccrcrrre rsrsr rar rr rara 7 34 24 3 157 9 478
+147 AUXILIARES DIVERSOS.....ceccrsarcerrnarrerrsnaara rasa ra 61 1 162 832 132 433 5BO4 528
+148 AUX. DA AGROPECUARIA E REFLORESTAMENTO.................. 7 318 124 68 286 297 066
+149 AUX. COMERCIO, LOCAÇÃO DE BENS E SERVIÇOS............... 4 (B) (A) (X) (B)
+150 AUX. FINANC., SEGUROS E CAPITALIZAÇÃO...........c... e... 1 (D) (D) (X) (D)
+151 AUXILIARES DOS TRANSPORTES.......ccsecereceracacrerrees 7 95 54 12 918 76 765
+152 AUX. CONSTRUÇÃO, OBRAS, GEODESIA, ETC........sc.ccssesrs. 3 9 3 1 700 8 530
+153 AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC........sccrscrcccaros 3 149 142 6 867 15 183
+154 AUX. PRESTADOS A EMPRESAS E PESSOAS............cccrsaao. 33 549 476 35 110 8s 462
+155 AUXILIARES DA SAUDE........cclccccsrecrcccrrrcercrrcrera 3 8 5 1 510 3 700
+156 COMPRA, VENDA, ADMINISTRAÇÃO BENS IMOVEIS.....,.......4.. 5 13 2 2 624 10 268
+157 COMPRA E VENDA DE BENS IMOVEIS,........cccccsirccsrccas 3 tB) (A) 4x) ta)
+158 ADMINISTRAÇÃO, LOCAÇÃO, ETC.........ccccccrccce certas 2 (B) (A) (XxX) tc)
+159 ASSIS BRASIL.......cccciccccrccaererara care rasante seres - - - - -
+160 BRASILEIA......cccccrss crencas errar cerra acne rsrs 28 100 46 7 817 35 843
+161 CRUZEIRO DO SUL......ccccsccicaererercrerr rara rasro raro 72 194 118 16 832 52 666
+162 FEIJO...c.crisscscceccerrecrrrr racer ora nericr rara ra sara 14 22 5 986 5 306
+163 MANCIO LIMA.....crcccsscercuaererrrnaare re raras caras 2 (a) (a) XxX) (a)
+164 MANDEL URBANO,....cccccssrrcccrrccrnrace rr eraara carrera 2 (B> ta) (X) (A)
+165 PLACIDO DE CASTRO.......cccciciccrccrraneric cre nrra rear 5 16 5 960 6 B20
+166 SENADOR GUIOMARD.......cccccrrcccrrererarccrrcrrrarase rasos 6 22 12 1 778 5 301
+167 SENA MADUREIRA.......cccrcrcrcrrerererauara rise ra cerrada 38 65 18 5 428 19 904
+168 TARAUACA.....ccccersrccccrr rr cara cerrrn renan rena a cara 21 52 27 4 630 13 519
+169 XAPURI...cscrcrccer errar re rara errar e recria rara rara 31 77 32 5 139 21 185
+170 AMAZONAS... .crrrrrre carro rara nene ur as rr rea e carr cara 1 798 15 772 11 138 2 005 486 8 583 292
+171 ALOJAMENTO E ALIMENTAÇÃO... ...icciscscrcarererrananeraroa 828 5 152 3 229 501 292 2 559 932
+172 ALOJAMENTO... ,.ccrrcs crentes carrera serras carros 116 1 985 1 352 221 414 1 097 263
+173 ALIMENTAÇÃO. ....ccrcs errar rra cr ere rsrs errar re rtareaas 712 3 167 1 877 279 878 1 462 669
+174 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO.......ccssicccccrereas 373 1 642 1 039 202 690 664 136
+175 REPARAÇÃO, MANUTENÇÃO E INSTALAÇÃO.......cscccrcsacctrrs 373 + 642 1 039 202 690 664 136
+176 PESSOAIS, DE HIGIENE E ESTETICA PESSOAL... .crccicrrerrros 126 468 284 48 718 138 052
+177 PESSOAIS. ...cccrsrer erro repare rr racer r o veses ros 41 235 152 21 123 72 929
+178 HIGIENE E DE ESTETICA PESSOAL........ccccrccrrrercrrreos 8s 233 132 28 595 65 123
+179 RADIODIFUSÃO, TELEVISÃO E DIVERSÕES.........cccsissicrors 77 727 484 84 646 450 470
+180 RADIODIFUSÃO E TELEVISÃO.,....cscscccscsccsrcercrasrenra 38 572 404 66 544 327 895
+181 DIVERSÕES,....ccscscccccunccire res rera rar ore rc arenas 38 155 so 18 102 122 575
+182 AUXILIARES DIVERSOS...,...cccccrcrrercrra crase raras sa rãs 369 7 646 6 031 1 144 614 4 682 249
+183 AUX. DA AGROPECUARIA E REFLORESTAMENTO............0..0.4.. 3 476 100 141 797 309 817
+184 AUX. COMERCIO, LOCAÇÃO DE BENS E SERVIÇOS............... 81 627 382 110 965 725 024
+185 AUX. FINANC., SEGUROS E CAPITALIZAÇÃO.........cressrecs 17 88 50 12 142 57 480
+186 AUXILIARES DOS TRANSPORTES....,..ccscreserarraaraaracars 53 1 689 1 373 323 242 1323 127
+187 AUX. CONSTRUÇÃO, OBRAS, GEODESIA, ETC.,......cscccacsaos 14 1 108 1 059 so 666 345 588
+188 AUX. DE LIMPEZA, HIGIENIZAÇÃO, ETC........ccccrlscscss 16 1153 1 072 81 183 157 082
+189 AUX. PRESTADOS A EMPRESAS E PESSOAS.............2iscsros 154 2 321 1 877 360 761 1 704 482
+190 AUXILIARES DA SAUDE......cccccccscceracarcrruac carr caera 31 184 118 23 858 59 649
+191 COMPRA, VENDA, ADMINISTRAÇÃO BENS IMOVEIS.........c.c...s 25 137 71 22 526 BB 453
+192 COMPRA E VENDA DE BENS IMOVEIS........cccrccsscrrarcecas 17 109 59 18 816 79 997
+193 ADMINISTRAÇÃO, LOCAÇÃO, ETC.....ccccisccrcrcerrercso seas 8 28 12 s 710 8 456
+194 MANAUS... .ccecrrrrerceraena near es raca src nr cas rear 1 295 14 313 10 527 1 865 572 7 982 272
+66

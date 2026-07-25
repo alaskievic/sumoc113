@@ -1,0 +1,698 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/questionario_agri/quest_agri_go.pdf",
+  "engine": "paddleocr",
+  "lang": "pt",
+  "ocr_version": "PP-OCRv3",
+  "dpi": 180,
+  "text_det_limit_side_len": 1400,
+  "pages": [
+    {
+      "page": 80,
+      "elapsed_seconds": 2.372,
+      "lines": [
+        "72=",
+        "terra boa por 2$ooo e menos.",
+        "agricola, e em carro de bois, 20o réis.",
+        "NOTA",
+        "A villa de Mestre d'Armas tem 50 casas com cerca de 40o habitantes, optimo",
+        "clima e abundancia d'agua. Um rego d'agua abastece a villa e desse rego deri-",
+        "vam-se outros menores, que vao passar pelos quintaes das casas.",
+        "A criacao é mais desenvolvida e cuidada do que a agricultura ; as pastagens",
+        "sao boas e as terras ferteis.",
+        "Calculam em 3.0oo cabecas o gado annualmente vendido.",
+        "Exporta nao pequena quantidade de cal, couros, sola e salitre.",
+        "Na zona demarcada no planalto central pelo Dr. Cruls, para ser construida",
+        "a capital da Republica, acha-se grande parte deste municipio."
+      ],
+      "scores": [
+        0.7593943476676941,
+        0.9811291694641113,
+        0.965979278087616,
+        0.9976462721824646,
+        0.9813633561134338,
+        0.968928337097168,
+        0.9929732084274292,
+        0.9906434416770935,
+        0.9824748635292053,
+        0.9813246130943298,
+        0.9913934469223022,
+        0.9869579076766968,
+        0.9963376522064209
+      ],
+      "boxes": [
+        [
+          733,
+          118,
+          831,
+          141
+        ],
+        [
+          501,
+          208,
+          813,
+          231
+        ],
+        [
+          497,
+          330,
+          913,
+          357
+        ],
+        [
+          738,
+          390,
+          818,
+          415
+        ],
+        [
+          404,
+          449,
+          1210,
+          485
+        ],
+        [
+          360,
+          481,
+          1209,
+          516
+        ],
+        [
+          361,
+          519,
+          1051,
+          541
+        ],
+        [
+          403,
+          544,
+          1210,
+          580
+        ],
+        [
+          359,
+          580,
+          648,
+          603
+        ],
+        [
+          404,
+          609,
+          1000,
+          636
+        ],
+        [
+          404,
+          641,
+          1069,
+          668
+        ],
+        [
+          403,
+          670,
+          1209,
+          702
+        ],
+        [
+          356,
+          703,
+          997,
+          731
+        ]
+      ]
+    },
+    {
+      "page": 97,
+      "elapsed_seconds": 4.114,
+      "lines": [
+        "de 500 réis a 1$200.",
+        " O frete por via fuvial é de 2o a 2oo réis por kilo de cereal e",
+        "conforme a distancia.",
+        "NOTA",
+        "A actual localidade foi séde do grande aldeiamento dos indios Cherentes,",
+        "Nacional. Frei Antonio foi encarregado da catechese desse grande aldeiamento",
+        "a extraordinario poder de vontade, conseguiu, senao chamar a civilisacao toda a",
+        "exterminio de que eram victimas as demais tribus, resultando dahi o cruzamento",
+        "com. o pessoal adventicio e pouco a pouco o rapido decrescimento do numero de",
+        "cherentes puros.",
+        "Após. a morte de frei Antonio, que mantinha uma escola primaria onde",
+        "os indios aprendiam a ler e escrever, instruccao alguma lhes foi mais ministrada",
+        ":erdendo-se,senao tudo, ao menos grande parte do que fez frei Antonio, pois",
+        "hoje nao ha chefe capaz de exercer autoridade sobre elles que.se entregam a",
+        "toda sorte de vicios, sobretudo a mbriaguez.",
+        "Depois que conheceram a superioridade das armas .de fogo para caca, aban-",
+        "donaram as flexas, sendo para elles uma arma de fogo o melhor presente.",
+        "Ha pouco o Dr. Mandacarü, chefe da catechese em Goyaz, deu-lhes muitos",
+        "presentes, inclusive cargueiros para conduzirem suas cargas, porém, maos arreei-",
+        "ros, deixaram os burros se pisarem, abandonando-os nos caminhos, arreiados",
+        "com parte da carga, da qual s6 retiraram as armas e ferragens.",
+        "E.",
+        "12"
+      ],
+      "scores": [
+        0.9102995991706848,
+        0.9850215315818787,
+        0.9698570966720581,
+        0.9982386231422424,
+        0.9917439222335815,
+        0.9993994832038879,
+        0.9852637648582458,
+        0.9932327270507812,
+        0.9617486000061035,
+        0.9887620210647583,
+        0.9849937558174133,
+        0.9936935305595398,
+        0.9836369752883911,
+        0.989730715751648,
+        0.9922332763671875,
+        0.9791939854621887,
+        0.9953547716140747,
+        0.9796068668365479,
+        0.9886919260025024,
+        0.9879348278045654,
+        0.9885716438293457,
+        0.7932736277580261,
+        0.7886407375335693
+      ],
+      "boxes": [
+        [
+          193,
+          189,
+          429,
+          217
+        ],
+        [
+          181,
+          240,
+          934,
+          280
+        ],
+        [
+          197,
+          282,
+          435,
+          309
+        ],
+        [
+          457,
+          326,
+          539,
+          349
+        ],
+        [
+          98,
+          378,
+          936,
+          422
+        ],
+        [
+          57,
+          439,
+          938,
+          486
+        ],
+        [
+          55,
+          499,
+          939,
+          548
+        ],
+        [
+          59,
+          593,
+          940,
+          641
+        ],
+        [
+          62,
+          625,
+          940,
+          671
+        ],
+        [
+          64,
+          675,
+          235,
+          702
+        ],
+        [
+          107,
+          686,
+          941,
+          733
+        ],
+        [
+          59,
+          719,
+          940,
+          763
+        ],
+        [
+          52,
+          750,
+          940,
+          794
+        ],
+        [
+          59,
+          780,
+          943,
+          825
+        ],
+        [
+          63,
+          820,
+          557,
+          853
+        ],
+        [
+          106,
+          841,
+          939,
+          884
+        ],
+        [
+          67,
+          874,
+          865,
+          914
+        ],
+        [
+          108,
+          902,
+          941,
+          944
+        ],
+        [
+          66,
+          932,
+          942,
+          980
+        ],
+        [
+          64,
+          966,
+          940,
+          1006
+        ],
+        [
+          67,
+          999,
+          760,
+          1038
+        ],
+        [
+          115,
+          1582,
+          131,
+          1594
+        ],
+        [
+          145,
+          1580,
+          161,
+          1592
+        ]
+      ]
+    },
+    {
+      "page": 116,
+      "elapsed_seconds": 1.842,
+      "lines": [
+        "-108",
+        "razao de r$5oo por 15 kilos de cereaes.",
+        "NOTA",
+        "calcadas e uma populacao de 2.ooo habitantes, mais out menos.",
+        "Ha diversas escolas primarias.",
+        "O rio das Almas corta a cidade, aformozeando-a.",
+        "exportam vinho para os municipios vizinhos.",
+        "O rio das Almas divide o municipio do de Jaragua. O clima é cptino"
+      ],
+      "scores": [
+        0.8888627290725708,
+        0.9769508242607117,
+        0.9964624047279358,
+        0.9893299341201782,
+        0.9904252886772156,
+        0.9850409626960754,
+        0.9966192841529846,
+        0.969183087348938
+      ],
+      "boxes": [
+        [
+          732,
+          101,
+          836,
+          124
+        ],
+        [
+          495,
+          219,
+          920,
+          246
+        ],
+        [
+          741,
+          277,
+          820,
+          303
+        ],
+        [
+          361,
+          374,
+          1030,
+          400
+        ],
+        [
+          404,
+          405,
+          735,
+          429
+        ],
+        [
+          406,
+          437,
+          926,
+          458
+        ],
+        [
+          361,
+          532,
+          836,
+          554
+        ],
+        [
+          404,
+          559,
+          1135,
+          587
+        ]
+      ]
+    },
+    {
+      "page": 128,
+      "elapsed_seconds": 5.537,
+      "lines": [
+        "120",
+        "feijao:.em.,Fevereiro.",
+        "efnpreitadas..",
+        "contractos'cumpridos..",
+        "TERRAS-Qualidades-As terras do municipio sao: boas, em sua maioria",
+        "",
+        "ha poucas; sao.quasi todas frescas e planas; montanhosas, sao",
+        "unicamente as dos valles dos rios do Peixe e Corumba. A vegetacao",
+        "é representada por mattas virgens magnificas ; boas capoeiras; bons",
+        "campos e alguns cerrados.",
+        "1",
+        "Precos - Um hectare de terra boa custa de 2$ooo.a 3$ooo,",
+        "approximadamente.:",
+        "TRANSPORTE-O transporte para o mercado local é feito em animaes dos",
+        ". .proprios productores; até Araguary, em trcpa ou carro de bois",
+        "custa 266 réis por kilo ou litro de cereal.",
+        "NOTA.",
+        "Ha no municipio diversas lavras que serviram outr'ora para a mineracao",
+        "ro ouro, demonstrando a vida.activa e prospera que,gozou Santa Cruz em",
+        "tempos idos. Nas lavras affirmam, ainda se retira sem auxilio de batea, graos de",
+        "puro ouro.",
+        "No municipio tambem exploraram.outr'ora, amianthc: e vulcanite.",
+        "Os principaes'mercados sao: Araguary,, Uberaba. e Uberabinha, além dos",
+        "municipios vizinho's.",
+        "A :exportacao de gado é de I.ooo. a.2.ooo .rezes por 'anno. Todas as suas",
+        "invernadas sao separadas por arame farpado. e nellas crescem muito.bem os capins :",
+        "jaragua, catingueiro röxo e. algum capim branco.",
+        "A peste que mais persegue a criacao, é a febre aphtosa, que sómente",
+        "recrudesceu neste munidipio, dizem os praticos, depois da introduccao do gado",
+        "zebü, vindo de Minas Geraes. Contra ella, apenas tem sido empregadas a sangria",
+        "e a creolina, porém, sem resultado.",
+        "No sitio do Sr. Capitao Antonio Alves Ferreira, distante. da villa sete",
+        "kilometros ha um.cafesal novo com 6:ooo.pés, plantado pelo Sr. Ferreira, que",
+        "além desta plantacao ensaia o cultivo do trigo, montando ja um moinho movido",
+        "a agua e junto a este um descarocador de café.",
+        ".O Sr. Octaviano Guimaraes, negociante na villa, ja exportou este anno",
+        "para Araguary, cerca de 2.0oo arrobas de toucinho."
+      ],
+      "scores": [
+        0.9915671348571777,
+        0.9099664092063904,
+        0.8914127945899963,
+        0.9644637703895569,
+        0.9781529903411865,
+        0.0,
+        0.9597861766815186,
+        0.968189001083374,
+        0.9764313101768494,
+        0.9574267864227295,
+        0.49796488881111145,
+        0.9321590065956116,
+        0.9603644609451294,
+        0.9805151224136353,
+        0.9826533794403076,
+        0.9848562479019165,
+        0.9370031356811523,
+        0.9703874588012695,
+        0.9807056784629822,
+        0.9900968670845032,
+        0.9503241777420044,
+        0.9718535542488098,
+        0.9735994338989258,
+        0.9611651301383972,
+        0.9208903908729553,
+        0.9764456152915955,
+        0.9698606133460999,
+        0.9747529625892639,
+        0.9939498901367188,
+        0.9840676784515381,
+        0.9818625450134277,
+        0.9791294932365417,
+        0.9670042991638184,
+        0.9915332794189453,
+        0.9909386038780212,
+        0.9789949655532837,
+        0.9814298152923584
+      ],
+      "boxes": [
+        [
+          712,
+          102,
+          841,
+          127
+        ],
+        [
+          494,
+          194,
+          720,
+          214
+        ],
+        [
+          495,
+          256,
+          639,
+          275
+        ],
+        [
+          487,
+          470,
+          759,
+          491
+        ],
+        [
+          352,
+          492,
+          1208,
+          532
+        ],
+        [
+          485,
+          568,
+          492,
+          575
+        ],
+        [
+          487,
+          616,
+          1206,
+          652
+        ],
+        [
+          487,
+          646,
+          1205,
+          683
+        ],
+        [
+          489,
+          678,
+          1204,
+          713
+        ],
+        [
+          487,
+          714,
+          785,
+          735
+        ],
+        [
+          403,
+          742,
+          407,
+          747
+        ],
+        [
+          448,
+          734,
+          1206,
+          778
+        ],
+        [
+          488,
+          773,
+          700,
+          796
+        ],
+        [
+          353,
+          797,
+          1206,
+          835
+        ],
+        [
+          469,
+          832,
+          1206,
+          866
+        ],
+        [
+          489,
+          865,
+          916,
+          890
+        ],
+        [
+          728,
+          916,
+          813,
+          943
+        ],
+        [
+          393,
+          967,
+          1201,
+          1003
+        ],
+        [
+          348,
+          997,
+          1204,
+          1035
+        ],
+        [
+          351,
+          1028,
+          1204,
+          1064
+        ],
+        [
+          351,
+          1063,
+          462,
+          1084
+        ],
+        [
+          393,
+          1090,
+          1097,
+          1124
+        ],
+        [
+          392,
+          1120,
+          1202,
+          1158
+        ],
+        [
+          348,
+          1156,
+          565,
+          1176
+        ],
+        [
+          390,
+          1182,
+          1202,
+          1219
+        ],
+        [
+          346,
+          1212,
+          1201,
+          1249
+        ],
+        [
+          347,
+          1242,
+          874,
+          1275
+        ],
+        [
+          392,
+          1271,
+          1203,
+          1311
+        ],
+        [
+          348,
+          1304,
+          1200,
+          1340
+        ],
+        [
+          347,
+          1333,
+          1200,
+          1372
+        ],
+        [
+          347,
+          1367,
+          711,
+          1393
+        ],
+        [
+          389,
+          1394,
+          1202,
+          1433
+        ],
+        [
+          344,
+          1425,
+          1200,
+          1464
+        ],
+        [
+          343,
+          1454,
+          1200,
+          1494
+        ],
+        [
+          343,
+          1489,
+          853,
+          1516
+        ],
+        [
+          384,
+          1516,
+          1200,
+          1556
+        ],
+        [
+          345,
+          1549,
+          906,
+          1579
+        ]
+      ]
+    }
+  ]
+}

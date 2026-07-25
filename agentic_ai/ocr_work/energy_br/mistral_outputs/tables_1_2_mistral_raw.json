@@ -1,0 +1,298 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/energy_br/tables_1_2.pdf",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 4,
+    "doc_size_bytes": 207453
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "RECENSEAMENTO REALIZADO EM 1 DE SETEMBRO DE 1920 XV\n\nO seguinte quadro permite apreciar mais detalhadamente o valor dos melhoramentos industriais, quer em relação à época do seu início, quer em relação às diversas regiões beneficiadas.\n\nDistribuição regional das usinas eléctricas segundo a época da fundação e a força dos motores empregados\n\n[tbl-0.md](tbl-0.md)\n\nSegundo o anno em que começaram a funcionar, é esta a relação das principais usinas com potencial superior a 1.000 cavalos-vapor.\n\nUsinas de electricidade que dispõem de mais de 1.000 H. P. segundo a data de sua fundação\n\n[tbl-1.md](tbl-1.md)\n\nANNO DE 1889\n\n[tbl-2.md](tbl-2.md)\n\nANNO DE 1891\n\n[tbl-3.md](tbl-3.md)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-0.md",
+            "content": "|  ESTADOS, DISTRICTO FEDERAL E TERRITORIO | USINAS INSTALLADAS  |   |   |   |   |   |   |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  TOTAL |   | ATÉ 1890 |   | De 1891 a 1900 |   | De 1901 a 1910 |   | De 1911 a 1920  |\n|   |  Número | Potência H. P. | Número | Potência H. P. | Número | Potência H. P. | Número | Potência H. P. | Número  |\n|  Alagoas | 4 | 1.471 | — | — | — | — | 1 | 1.290 | 3  |\n|  Amazonas | 3 | 2.182 | — | — | — | — | 2 | 2.012 | 1  |\n|  Bahia | 8 | 24.067 | — | — | — | — | 2 | 7.316 | 6  |\n|  Ceará | 3 | 115 | — | — | — | — | — | — | 3  |\n|  Districto Federal | 1 | 30.000 | — | — | — | — | — | — | 1  |\n|  Espírito Santo | 11 | 7.534 | — | — | — | — | 3 | 6.438 | 8  |\n|  Goyaz | 1 | 100 | — | — | — | — | — | — | 1  |\n|  Maranhão | 2 | 335 | — | — | — | — | — | — | 2  |\n|  Matto Grosso | 8 | 1.316 | — | — | — | — | — | — | 8  |\n|  Minas Gerais | 91 | 58.414 | 1 | 6.150 | 1 | 700 | 16 | 11.984 | 73  |\n|  Pará | 4 | 6.800 | — | — | — | — | 1 | 6.590 | 3  |\n|  Paratyba | 7 | 1.798 | — | — | — | — | — | — | 7  |\n|  Paraná | 20 | 6.715 | 1 | 4.200 | — | — | 7 | 1.665 | 12  |\n|  Pernambuco | 16 | 15.196 | — | — | — | — | — | — | 16  |\n|  Piauí | 2 | 760 | — | — | — | — | — | — | 2  |\n|  Rio de Janeiro | 18 | 82.980 | — | — | — | — | 4 | 78.150 | 14  |\n|  Rio Grande do Norte | 4 | 1.759 | — | — | — | — | 1 | 1.710 | 3  |\n|  Rio Grande do Sul | 41 | 14.247 | — | — | 4 | 4.576 | 6 | 2.270 | 31  |\n|  Santa Catharina | 11 | 7.671 | — | — | — | — | 4 | 7.280 | 7  |\n|  São Paulo | 78 | 211.168 | — | — | 3 | 1.815 | 29 | 59.745 | 46  |\n|  Sergipe | 6 | 629 | — | — | — | — | — | — | 6  |\n|  Território do Acre | 4 | 195 | — | — | — | — | 1 | 10 | 3  |\n|  TOTAL | 343 | 475.652 | 2 | 10.350 | 8 | 7.091 | 77 | 186.460 | 256  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          },
+          {
+            "id": "tbl-1.md",
+            "content": "|  DENOMINAÇÃO DA EMPRESA | Denominação da usina | LOCAL DA USINA |   | Potência H. P.  |\n| --- | --- | --- | --- | --- |\n|   |   |  Estado | Município  |   |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          },
+          {
+            "id": "tbl-2.md",
+            "content": "|  Companhia Mineira de Electricidade | Marmellos | Minas Gerais | Juiz de Fóra | 6.150  |\n| --- | --- | --- | --- | --- |\n|  The South Brazilian Railway Company, Limited | Central | Paraná | Curitiba | 4.200  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          },
+          {
+            "id": "tbl-3.md",
+            "content": "|  Companhia Fiat Lux. | — | Rio Grande do Sul | Porto Alegre | 3.230  |\n| --- | --- | --- | --- | --- |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 107,
+          "height": 1018,
+          "width": 743
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9944056095417099,
+          "minimum_page_confidence_score": 0.2414095628679407
+        },
+        "blocks": null
+      },
+      {
+        "index": 1,
+        "markdown": "XVI\n\nDIRECTORIA GERAL DE ESTATISTICA\n\nUsinas de electricidade que dispõem de mais de 1.000 H. P. segundo a data de sua fundação\n\n(CONTINUAÇÃO)\n\n[tbl-4.md](tbl-4.md)\n\n(1) Possue duas instalações, sendo uma thermica (motor de combustão interna), com 250 H. P. e outra hydr.ica (roda d'água), com 1 110 H. P. (2) Possue duas instalações thermicas, sendo uma de 810 H. P. (machina a vapor) e outra de 480 H. P. (motor de combustão interna)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-4.md",
+            "content": "|  DENOMINAÇÃO DA EMPRESA | Denominação da usina | LOCAL DA USINA |   | Potência H. P.  |\n| --- | --- | --- | --- | --- |\n|   |  | Estado | Município |   |\n|  ANNO DE 1897  |   |   |   |   |\n|  Companhia Mogyana de Luz e Força | Salto Grande | São Paulo | Espírito Santo do Pinhal | 1.250  |\n|  ANNO DE 1901  |   |   |   |   |\n|  The São Paulo Tramway, Light and Power Company, Limited | Parnahyba | São Paulo | Parnahyba | 21 500  |\n|  ANNO DE 1904  |   |   |   |   |\n|  B & M Barbará | — | Rio Grande do Sul | Uruguayana | 1.100  |\n|  Companhia Campineira de Tracção, Luz e Força | Salto Grande | São Paulo | Campinas | 5.000  |\n|  Companhia Ytdana de Força e Luz | Lavras | » » | Salto | 2.200  |\n|  ANNO DE 1905  |   |   |   |   |\n|  The Pará Electric Railway and Lighting Company, Limited | — | Pará | Belém. | 6 590  |\n|  Empresa Electrica Bragantina | Flores | São Paulo | Bragança | 1 500  |\n|  Companhia Luz e Força de Guaratinguetá (1) | Sodré | » » | Guaratinguetá | 1.360  |\n|  ANNO DE 1906  |   |   |   |   |\n|  The Rio de Janeiro Tramway, Light and Power Company, Limited | Ribeirão das Lages | Rio de Janeiro | Pirahy | 60.000  |\n|  ANNO DE 1907  |   |   |   |   |\n|  Nova Empresa de Luz Electrica (2) | — | Alagoas | Maceió | 1.290  |\n|  Municipalidade de São Salvador | — | Bahia | São Salvador | 2.616  |\n|  Companhia Linha Circular de Carris da Bahia | Preguiça | » | » » | 4.700  |\n|  Companhia Força e Luz Cataguazes — Leopoldina | Maurício | Minas Geraes | Leopoldina | 3.000  |\n|  Companhia Paulista de Força e Luz | Central | São Paulo | Lenções | 2 000  |\n|  ANNO DE 1908  |   |   |   |   |\n|  Companhia Brasileira de Energia Electrica | Alberto Torres | Rio de Janeiro | Parahyba do Sul | 18 000  |\n|  Empresa Força e Luz de Santa Catharina | — | Santa Catharina. | Blumenau. | 5 000  |\n|  Companhia de Electricidade São Paulo e Rio | Izabel | São Paulo | Pindamonhangaba | 4 075  |\n|  ANNO DE 1909  |   |   |   |   |\n|  Companhia Luz e Força de Uberabinha | — | Minas Geraes | Uberabinha | 1 500  |\n|  Empresa Electrica de Piracicaba | — | São Paulo | Piracicaba | 1 150  |\n|  Companhia Luz e Força de Tatuhy | Jurumirim. | » » | Tietê | 2.040  |\n|  ANNO DE 1910  |   |   |   |   |\n|  The Manáos Tramways and Light Company Limited | Central | Amazonas | Manáos | 2 000  |\n|  Companhia Serviços Reunidos do Itapemirim | Fructeiras | Espírito Santo | Cachoeiro do Itapemirim | 4 077  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 103,
+          "height": 1020,
+          "width": 660
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9900176056739062,
+          "minimum_page_confidence_score": 0.19795591546560634
+        },
+        "blocks": null
+      },
+      {
+        "index": 2,
+        "markdown": "RECENSEAMENTO REALIZADO EM 1 DE SETEMBRO DE 1920 XVII\n\nUsinas de electricidade que dispõem de mais 1.000 H. P. segundo a data de sua fundação\n\n(CONTINUAÇÃO)\n\n[tbl-5.md](tbl-5.md)\n\n(1) Possue duas instalações thermicas, sendo uma de 550 H. P. (machina a vapor) e outra de 1.160 H. P. (motor de combustão interna). (2) Possue duas instalações, sendo uma thermica (motor de combustão interna), com 1.000 H. P., e outra hydraulica (turbina), com 450 H. P.\n\nREC. B",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-5.md",
+            "content": "|  DENOMINAÇÃO DA EMPRESA | Denominação da usina | LOCAL DA USINA |   | Potência H. P.  |\n| --- | --- | --- | --- | --- |\n|   |   |  Estado | Município  |   |\n|  ANNO DE 1910  |   |   |   |   |\n|  Governo do Estado do Espírito Santo | Jucá | Espírito Santo | Santa Isabel | 2.226  |\n|  Companhia Sul Mineira de Electricidade | Rio Verde | Minas Gerais | Varginha | 1.250  |\n|  Repartição dos Serviços Urbanos de Natal (1) | Oitizeiro | Rio Grande do Norte | Natal | 1.710  |\n|  Empresa Força e Luz do Jahá | Gavião Peixoto | São Paulo | Araraquara | 6.000  |\n|  Companhia Força e Luz de Brotas | — | » | Brotas | 1.500  |\n|  Companhia Campineira de Tracção, Luz e Força | Salto Grande | » | Campinas | 4.000  |\n|  ANNO DE 1911  |   |   |   |   |\n|  Empresa Força e Luz de Ribeirão Preto | Evangelina | São Paulo | Huverava | 5.000  |\n|  São Paulo Electric Company Limited | Sorocaba | » | Sorocaba | 71.400  |\n|  Companhia Força e Luz Norte de São Paulo | — | » | Sallesopolis | 3.000  |\n|  ANNO DE 1912  |   |   |   |   |\n|  Société Anonyme du Gaz de Rio de Janeiro | — | Districto Federal | Rio de Janeiro | 30.000  |\n|  Companhia Brasileira de Carbureto de Calcio | Guary | Minas Gerais | Palmyra | 7.800  |\n|  The Rio Grandense Light & Power Syndicate, Limited | — | Rio Grande do Sul | Pelotas | 2.340  |\n|  Empresa Central Eléctrica de Rio Claro (2) | Corumbatahy | São Paulo | Rio Claro | 1.450  |\n|  Companhia Paulista de Electricidade | Capão Preto | » | São Carlos | 4.890  |\n|  The São Paulo Tramway, Light and Power Company, Limited | — | » | São Paulo | 13.600  |\n|  ANNO DE 1913  |   |   |   |   |\n|  Companhia Francana de Electricidade | Esmeril | São Paulo | Patrocínio do Sapucahy | 2.500  |\n|  ANNO DE 1914  |   |   |   |   |\n|  The Conquista—Xicão Gold Mines Company, Limited | — | Minas Gerais | Campanha | 1.300  |\n|  Companhia Brasileira de Tramways, Luz e Força | Tombos | » | Carangola | 4.000  |\n|  Companhia Industrial Sul Mineira | Lourenço Velho | » | Itajubá | 2.100  |\n|  Adão Pereira de Araujo | Rio dos Aventureiros | » | São José d’Além Parahyba | 1.300  |\n|  Pernambuco Tramways and Power Company, Limited | — | Pernambuco | Recife | 14.000  |\n|  Empresa Força e Luz Ibero-Americana | Chave do Vaz | Rio de Janeiro | Cantagallo | 1.500  |\n|  Companhia Nacional de Estamparia | Baptista | São Paulo | Pilar | 1.770  |\n|  Companhia de Electricidade S. Simão-Cajurá | Itaipava | » | Santa Rosa | 2.000  |\n|  Empresa Força e Luz de São João da Bós Vista | Santa Ignez | » | São João da Bós Vista | 1.600  |\n|  ANNO DE 1915  |   |   |   |   |\n|  St. John del Rey Mining Company, Limited | «D» | Minas Gerais | Villa Nova de Lima | 1.876  |\n|  St. John del Rey Mining Company, Limited | «E» | » | » | 1.876  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 101,
+          "height": 1015,
+          "width": 700
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.990463599506367,
+          "minimum_page_confidence_score": 0.4294811051281191
+        },
+        "blocks": null
+      },
+      {
+        "index": 3,
+        "markdown": "XVIII\n\nDIRECTORIA GERAL DE ESTATISTICA\n\nUsinas de electricidade que dispõem de mais de 1.000 H. P. segundo a data de sua fundação\n\n(CONCLUSÃO)\n\n[tbl-6.md](tbl-6.md)\n\nAs 66 usinas incluídas na relação supra, cada uma com força superior a 1 000 cavallos-vapor, representam o avultado potencial de 420 976 cavallos, ou sejam quase 9/10 (88,5 %) do total apurado para o conjunto das usinas recenseadas. Os demais estabelecimentos, excluídos da mesma relação por não excederem em potencia a mais de 1 000 cavallos-vapor, constituem, ao contrário, diminuta proporção, equivalente a 54 676 cavallos-vapor, ou sejam pouco mais de 11 % da força total apurada.\n\n(1) Possui duas instalações thermicas, sendo uma de 300 H P (machina a vapor) e outra de 1.150 H P. (motor de combustão interna)",
+        "images": [],
+        "tables": [
+          {
+            "id": "tbl-6.md",
+            "content": "|  DENOMINAÇÃO DA EMPRESA | Denominação da usina | LOCAL DA USINA |   | Potencia H P  |\n| --- | --- | --- | --- | --- |\n|   |  | Estado | Município |   |\n|  ANNO DE 1916  |   |   |   |   |\n|  Companhia Campineira de Tracção, Luz e Força | Jaguary. | São Paulo | Campinas | 7 000  |\n|  ANNO DE 1917  |   |   |   |   |\n|  Municipalidade de Barbacena | Bias Fortes | Minas Gerais | Barbacena | 2 000  |\n|  ANNO DE 1918  |   |   |   |   |\n|  Governo do Estado do Rio Grande do Sul | — | Rio Grande do Sul | Rio Grande | 1 500  |\n|  ANNO DE 1919  |   |   |   |   |\n|  Empresa de Electricidade de Araraquara | Chibarro | São Paulo | Araraquara | 2 500  |\n|  ANNO DE 1920  |   |   |   |   |\n|  Companhia Brazileira de Energia Eléctrica | Bananeiras | Bahia | Cachoeira | 15 600  |\n|  Companhia de Electricidade e Viação Urbana de Minas Gerais | — | Minas Gerais | Bello Horizonte | 1 330  |\n|  Companhia de Electricidade e Viação Urbana de Minas Gerais | Rio de Pedras | — | Ouro Preto | 2 450  |\n|  Empresa Força e Luz da Parahyba do Norte (1) | Tamblá | Parahyba | Parahyba | 1 450  |\n|  The Rio de Janeiro Tramway, Light and Power Company, Limited | Parahybuna | Rio de Janeiro | Parahyba do Sul | 1 200  |\n|  Companhia Paulista de Força e Luz | Avanhandava | São Paulo | Pennapolis | 3 000  |\n|  Empresa Força e Luz de Ribeirão Preto | Burity | — | Igarapava | 1 360  |\n|  Empresa Central Eléctrica de Rio Claro | Nova Mogy-Guassú | — | Rio Claro | 2 870  |\n|  Companhia Força e Luz Santa Cruz | Santa Cruz | — | Santa Cruz | 1 200  |\n|  Companhia Dócas de Santos | Itatinga | — | Santos | 20 000  |",
+            "format": "markdown",
+            "word_confidence_scores": null
+          }
+        ],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 103,
+          "height": 1017,
+          "width": 654
+        },
+        "confidence_scores": {
+          "word_confidence_scores": [],
+          "average_page_confidence_score": 0.9907340843329652,
+          "minimum_page_confidence_score": 0.3800517176152314
+        },
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 4,
+      "doc_size_bytes": 207453
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "RECENSEAMENTO REALIZADO EM 1 DE SETEMBRO DE 1920 XV\n\nO seguinte quadro permite apreciar mais detalhadamente o valor dos melhoramentos industriais, quer em relação à época do seu início, quer em relação às diversas regiões beneficiadas.\n\nDistribuição regional das usinas eléctricas segundo a época da fundação e a força dos motores empregados\n\n[tbl-0.md](tbl-0.md)\n\nSegundo o anno em que começaram a funcionar, é esta a relação das principais usinas com potencial superior a 1.000 cavalos-vapor.\n\nUsinas de electricidade que dispõem de mais de 1.000 H. P. segundo a data de sua fundação\n\n[tbl-1.md](tbl-1.md)\n\nANNO DE 1889\n\n[tbl-2.md](tbl-2.md)\n\nANNO DE 1891\n\n[tbl-3.md](tbl-3.md)",
+      "lines": [
+        "RECENSEAMENTO REALIZADO EM 1 DE SETEMBRO DE 1920 XV",
+        "O seguinte quadro permite apreciar mais detalhadamente o valor dos melhoramentos industriais, quer em relação à época do seu início, quer em relação às diversas regiões beneficiadas.",
+        "Distribuição regional das usinas eléctricas segundo a época da fundação e a força dos motores empregados",
+        "[tbl-0.md](tbl-0.md)",
+        "Segundo o anno em que começaram a funcionar, é esta a relação das principais usinas com potencial superior a 1.000 cavalos-vapor.",
+        "Usinas de electricidade que dispõem de mais de 1.000 H. P. segundo a data de sua fundação",
+        "[tbl-1.md](tbl-1.md)",
+        "ANNO DE 1889",
+        "[tbl-2.md](tbl-2.md)",
+        "ANNO DE 1891",
+        "[tbl-3.md](tbl-3.md)"
+      ],
+      "dimensions": {
+        "dpi": 107,
+        "height": 1018,
+        "width": 743
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9944056095417099,
+        "minimum_page_confidence_score": 0.2414095628679407
+      },
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  ESTADOS, DISTRICTO FEDERAL E TERRITORIO | USINAS INSTALLADAS  |   |   |   |   |   |   |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  TOTAL |   | ATÉ 1890 |   | De 1891 a 1900 |   | De 1901 a 1910 |   | De 1911 a 1920  |\n|   |  Número | Potência H. P. | Número | Potência H. P. | Número | Potência H. P. | Número | Potência H. P. | Número  |\n|  Alagoas | 4 | 1.471 | — | — | — | — | 1 | 1.290 | 3  |\n|  Amazonas | 3 | 2.182 | — | — | — | — | 2 | 2.012 | 1  |\n|  Bahia | 8 | 24.067 | — | — | — | — | 2 | 7.316 | 6  |\n|  Ceará | 3 | 115 | — | — | — | — | — | — | 3  |\n|  Districto Federal | 1 | 30.000 | — | — | — | — | — | — | 1  |\n|  Espírito Santo | 11 | 7.534 | — | — | — | — | 3 | 6.438 | 8  |\n|  Goyaz | 1 | 100 | — | — | — | — | — | — | 1  |\n|  Maranhão | 2 | 335 | — | — | — | — | — | — | 2  |\n|  Matto Grosso | 8 | 1.316 | — | — | — | — | — | — | 8  |\n|  Minas Gerais | 91 | 58.414 | 1 | 6.150 | 1 | 700 | 16 | 11.984 | 73  |\n|  Pará | 4 | 6.800 | — | — | — | — | 1 | 6.590 | 3  |\n|  Paratyba | 7 | 1.798 | — | — | — | — | — | — | 7  |\n|  Paraná | 20 | 6.715 | 1 | 4.200 | — | — | 7 | 1.665 | 12  |\n|  Pernambuco | 16 | 15.196 | — | — | — | — | — | — | 16  |\n|  Piauí | 2 | 760 | — | — | — | — | — | — | 2  |\n|  Rio de Janeiro | 18 | 82.980 | — | — | — | — | 4 | 78.150 | 14  |\n|  Rio Grande do Norte | 4 | 1.759 | — | — | — | — | 1 | 1.710 | 3  |\n|  Rio Grande do Sul | 41 | 14.247 | — | — | 4 | 4.576 | 6 | 2.270 | 31  |\n|  Santa Catharina | 11 | 7.671 | — | — | — | — | 4 | 7.280 | 7  |\n|  São Paulo | 78 | 211.168 | — | — | 3 | 1.815 | 29 | 59.745 | 46  |\n|  Sergipe | 6 | 629 | — | — | — | — | — | — | 6  |\n|  Território do Acre | 4 | 195 | — | — | — | — | 1 | 10 | 3  |\n|  TOTAL | 343 | 475.652 | 2 | 10.350 | 8 | 7.091 | 77 | 186.460 | 256  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  DENOMINAÇÃO DA EMPRESA | Denominação da usina | LOCAL DA USINA |   | Potência H. P.  |\n| --- | --- | --- | --- | --- |\n|   |   |  Estado | Município  |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|  Companhia Mineira de Electricidade | Marmellos | Minas Gerais | Juiz de Fóra | 6.150  |\n| --- | --- | --- | --- | --- |\n|  The South Brazilian Railway Company, Limited | Central | Paraná | Curitiba | 4.200  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-3.md",
+          "content": "|  Companhia Fiat Lux. | — | Rio Grande do Sul | Porto Alegre | 3.230  |\n| --- | --- | --- | --- | --- |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 2,
+      "markdown": "XVI\n\nDIRECTORIA GERAL DE ESTATISTICA\n\nUsinas de electricidade que dispõem de mais de 1.000 H. P. segundo a data de sua fundação\n\n(CONTINUAÇÃO)\n\n[tbl-4.md](tbl-4.md)\n\n(1) Possue duas instalações, sendo uma thermica (motor de combustão interna), com 250 H. P. e outra hydr.ica (roda d'água), com 1 110 H. P. (2) Possue duas instalações thermicas, sendo uma de 810 H. P. (machina a vapor) e outra de 480 H. P. (motor de combustão interna)",
+      "lines": [
+        "XVI",
+        "DIRECTORIA GERAL DE ESTATISTICA",
+        "Usinas de electricidade que dispõem de mais de 1.000 H. P. segundo a data de sua fundação",
+        "(CONTINUAÇÃO)",
+        "[tbl-4.md](tbl-4.md)",
+        "(1) Possue duas instalações, sendo uma thermica (motor de combustão interna), com 250 H. P. e outra hydr.ica (roda d'água), com 1 110 H. P. (2) Possue duas instalações thermicas, sendo uma de 810 H. P. (machina a vapor) e outra de 480 H. P. (motor de combustão interna)"
+      ],
+      "dimensions": {
+        "dpi": 103,
+        "height": 1020,
+        "width": 660
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9900176056739062,
+        "minimum_page_confidence_score": 0.19795591546560634
+      },
+      "tables": [
+        {
+          "id": "tbl-4.md",
+          "content": "|  DENOMINAÇÃO DA EMPRESA | Denominação da usina | LOCAL DA USINA |   | Potência H. P.  |\n| --- | --- | --- | --- | --- |\n|   |  | Estado | Município |   |\n|  ANNO DE 1897  |   |   |   |   |\n|  Companhia Mogyana de Luz e Força | Salto Grande | São Paulo | Espírito Santo do Pinhal | 1.250  |\n|  ANNO DE 1901  |   |   |   |   |\n|  The São Paulo Tramway, Light and Power Company, Limited | Parnahyba | São Paulo | Parnahyba | 21 500  |\n|  ANNO DE 1904  |   |   |   |   |\n|  B & M Barbará | — | Rio Grande do Sul | Uruguayana | 1.100  |\n|  Companhia Campineira de Tracção, Luz e Força | Salto Grande | São Paulo | Campinas | 5.000  |\n|  Companhia Ytdana de Força e Luz | Lavras | » » | Salto | 2.200  |\n|  ANNO DE 1905  |   |   |   |   |\n|  The Pará Electric Railway and Lighting Company, Limited | — | Pará | Belém. | 6 590  |\n|  Empresa Electrica Bragantina | Flores | São Paulo | Bragança | 1 500  |\n|  Companhia Luz e Força de Guaratinguetá (1) | Sodré | » » | Guaratinguetá | 1.360  |\n|  ANNO DE 1906  |   |   |   |   |\n|  The Rio de Janeiro Tramway, Light and Power Company, Limited | Ribeirão das Lages | Rio de Janeiro | Pirahy | 60.000  |\n|  ANNO DE 1907  |   |   |   |   |\n|  Nova Empresa de Luz Electrica (2) | — | Alagoas | Maceió | 1.290  |\n|  Municipalidade de São Salvador | — | Bahia | São Salvador | 2.616  |\n|  Companhia Linha Circular de Carris da Bahia | Preguiça | » | » » | 4.700  |\n|  Companhia Força e Luz Cataguazes — Leopoldina | Maurício | Minas Geraes | Leopoldina | 3.000  |\n|  Companhia Paulista de Força e Luz | Central | São Paulo | Lenções | 2 000  |\n|  ANNO DE 1908  |   |   |   |   |\n|  Companhia Brasileira de Energia Electrica | Alberto Torres | Rio de Janeiro | Parahyba do Sul | 18 000  |\n|  Empresa Força e Luz de Santa Catharina | — | Santa Catharina. | Blumenau. | 5 000  |\n|  Companhia de Electricidade São Paulo e Rio | Izabel | São Paulo | Pindamonhangaba | 4 075  |\n|  ANNO DE 1909  |   |   |   |   |\n|  Companhia Luz e Força de Uberabinha | — | Minas Geraes | Uberabinha | 1 500  |\n|  Empresa Electrica de Piracicaba | — | São Paulo | Piracicaba | 1 150  |\n|  Companhia Luz e Força de Tatuhy | Jurumirim. | » » | Tietê | 2.040  |\n|  ANNO DE 1910  |   |   |   |   |\n|  The Manáos Tramways and Light Company Limited | Central | Amazonas | Manáos | 2 000  |\n|  Companhia Serviços Reunidos do Itapemirim | Fructeiras | Espírito Santo | Cachoeiro do Itapemirim | 4 077  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 3,
+      "markdown": "RECENSEAMENTO REALIZADO EM 1 DE SETEMBRO DE 1920 XVII\n\nUsinas de electricidade que dispõem de mais 1.000 H. P. segundo a data de sua fundação\n\n(CONTINUAÇÃO)\n\n[tbl-5.md](tbl-5.md)\n\n(1) Possue duas instalações thermicas, sendo uma de 550 H. P. (machina a vapor) e outra de 1.160 H. P. (motor de combustão interna). (2) Possue duas instalações, sendo uma thermica (motor de combustão interna), com 1.000 H. P., e outra hydraulica (turbina), com 450 H. P.\n\nREC. B",
+      "lines": [
+        "RECENSEAMENTO REALIZADO EM 1 DE SETEMBRO DE 1920 XVII",
+        "Usinas de electricidade que dispõem de mais 1.000 H. P. segundo a data de sua fundação",
+        "(CONTINUAÇÃO)",
+        "[tbl-5.md](tbl-5.md)",
+        "(1) Possue duas instalações thermicas, sendo uma de 550 H. P. (machina a vapor) e outra de 1.160 H. P. (motor de combustão interna). (2) Possue duas instalações, sendo uma thermica (motor de combustão interna), com 1.000 H. P., e outra hydraulica (turbina), com 450 H. P.",
+        "REC. B"
+      ],
+      "dimensions": {
+        "dpi": 101,
+        "height": 1015,
+        "width": 700
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.990463599506367,
+        "minimum_page_confidence_score": 0.4294811051281191
+      },
+      "tables": [
+        {
+          "id": "tbl-5.md",
+          "content": "|  DENOMINAÇÃO DA EMPRESA | Denominação da usina | LOCAL DA USINA |   | Potência H. P.  |\n| --- | --- | --- | --- | --- |\n|   |   |  Estado | Município  |   |\n|  ANNO DE 1910  |   |   |   |   |\n|  Governo do Estado do Espírito Santo | Jucá | Espírito Santo | Santa Isabel | 2.226  |\n|  Companhia Sul Mineira de Electricidade | Rio Verde | Minas Gerais | Varginha | 1.250  |\n|  Repartição dos Serviços Urbanos de Natal (1) | Oitizeiro | Rio Grande do Norte | Natal | 1.710  |\n|  Empresa Força e Luz do Jahá | Gavião Peixoto | São Paulo | Araraquara | 6.000  |\n|  Companhia Força e Luz de Brotas | — | » | Brotas | 1.500  |\n|  Companhia Campineira de Tracção, Luz e Força | Salto Grande | » | Campinas | 4.000  |\n|  ANNO DE 1911  |   |   |   |   |\n|  Empresa Força e Luz de Ribeirão Preto | Evangelina | São Paulo | Huverava | 5.000  |\n|  São Paulo Electric Company Limited | Sorocaba | » | Sorocaba | 71.400  |\n|  Companhia Força e Luz Norte de São Paulo | — | » | Sallesopolis | 3.000  |\n|  ANNO DE 1912  |   |   |   |   |\n|  Société Anonyme du Gaz de Rio de Janeiro | — | Districto Federal | Rio de Janeiro | 30.000  |\n|  Companhia Brasileira de Carbureto de Calcio | Guary | Minas Gerais | Palmyra | 7.800  |\n|  The Rio Grandense Light & Power Syndicate, Limited | — | Rio Grande do Sul | Pelotas | 2.340  |\n|  Empresa Central Eléctrica de Rio Claro (2) | Corumbatahy | São Paulo | Rio Claro | 1.450  |\n|  Companhia Paulista de Electricidade | Capão Preto | » | São Carlos | 4.890  |\n|  The São Paulo Tramway, Light and Power Company, Limited | — | » | São Paulo | 13.600  |\n|  ANNO DE 1913  |   |   |   |   |\n|  Companhia Francana de Electricidade | Esmeril | São Paulo | Patrocínio do Sapucahy | 2.500  |\n|  ANNO DE 1914  |   |   |   |   |\n|  The Conquista—Xicão Gold Mines Company, Limited | — | Minas Gerais | Campanha | 1.300  |\n|  Companhia Brasileira de Tramways, Luz e Força | Tombos | » | Carangola | 4.000  |\n|  Companhia Industrial Sul Mineira | Lourenço Velho | » | Itajubá | 2.100  |\n|  Adão Pereira de Araujo | Rio dos Aventureiros | » | São José d’Além Parahyba | 1.300  |\n|  Pernambuco Tramways and Power Company, Limited | — | Pernambuco | Recife | 14.000  |\n|  Empresa Força e Luz Ibero-Americana | Chave do Vaz | Rio de Janeiro | Cantagallo | 1.500  |\n|  Companhia Nacional de Estamparia | Baptista | São Paulo | Pilar | 1.770  |\n|  Companhia de Electricidade S. Simão-Cajurá | Itaipava | » | Santa Rosa | 2.000  |\n|  Empresa Força e Luz de São João da Bós Vista | Santa Ignez | » | São João da Bós Vista | 1.600  |\n|  ANNO DE 1915  |   |   |   |   |\n|  St. John del Rey Mining Company, Limited | «D» | Minas Gerais | Villa Nova de Lima | 1.876  |\n|  St. John del Rey Mining Company, Limited | «E» | » | » | 1.876  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    },
+    {
+      "page": 4,
+      "markdown": "XVIII\n\nDIRECTORIA GERAL DE ESTATISTICA\n\nUsinas de electricidade que dispõem de mais de 1.000 H. P. segundo a data de sua fundação\n\n(CONCLUSÃO)\n\n[tbl-6.md](tbl-6.md)\n\nAs 66 usinas incluídas na relação supra, cada uma com força superior a 1 000 cavallos-vapor, representam o avultado potencial de 420 976 cavallos, ou sejam quase 9/10 (88,5 %) do total apurado para o conjunto das usinas recenseadas. Os demais estabelecimentos, excluídos da mesma relação por não excederem em potencia a mais de 1 000 cavallos-vapor, constituem, ao contrário, diminuta proporção, equivalente a 54 676 cavallos-vapor, ou sejam pouco mais de 11 % da força total apurada.\n\n(1) Possui duas instalações thermicas, sendo uma de 300 H P (machina a vapor) e outra de 1.150 H P. (motor de combustão interna)",
+      "lines": [
+        "XVIII",
+        "DIRECTORIA GERAL DE ESTATISTICA",
+        "Usinas de electricidade que dispõem de mais de 1.000 H. P. segundo a data de sua fundação",
+        "(CONCLUSÃO)",
+        "[tbl-6.md](tbl-6.md)",
+        "As 66 usinas incluídas na relação supra, cada uma com força superior a 1 000 cavallos-vapor, representam o avultado potencial de 420 976 cavallos, ou sejam quase 9/10 (88,5 %) do total apurado para o conjunto das usinas recenseadas. Os demais estabelecimentos, excluídos da mesma relação por não excederem em potencia a mais de 1 000 cavallos-vapor, constituem, ao contrário, diminuta proporção, equivalente a 54 676 cavallos-vapor, ou sejam pouco mais de 11 % da força total apurada.",
+        "(1) Possui duas instalações thermicas, sendo uma de 300 H P (machina a vapor) e outra de 1.150 H P. (motor de combustão interna)"
+      ],
+      "dimensions": {
+        "dpi": 103,
+        "height": 1017,
+        "width": 654
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9907340843329652,
+        "minimum_page_confidence_score": 0.3800517176152314
+      },
+      "tables": [
+        {
+          "id": "tbl-6.md",
+          "content": "|  DENOMINAÇÃO DA EMPRESA | Denominação da usina | LOCAL DA USINA |   | Potencia H P  |\n| --- | --- | --- | --- | --- |\n|   |  | Estado | Município |   |\n|  ANNO DE 1916  |   |   |   |   |\n|  Companhia Campineira de Tracção, Luz e Força | Jaguary. | São Paulo | Campinas | 7 000  |\n|  ANNO DE 1917  |   |   |   |   |\n|  Municipalidade de Barbacena | Bias Fortes | Minas Gerais | Barbacena | 2 000  |\n|  ANNO DE 1918  |   |   |   |   |\n|  Governo do Estado do Rio Grande do Sul | — | Rio Grande do Sul | Rio Grande | 1 500  |\n|  ANNO DE 1919  |   |   |   |   |\n|  Empresa de Electricidade de Araraquara | Chibarro | São Paulo | Araraquara | 2 500  |\n|  ANNO DE 1920  |   |   |   |   |\n|  Companhia Brazileira de Energia Eléctrica | Bananeiras | Bahia | Cachoeira | 15 600  |\n|  Companhia de Electricidade e Viação Urbana de Minas Gerais | — | Minas Gerais | Bello Horizonte | 1 330  |\n|  Companhia de Electricidade e Viação Urbana de Minas Gerais | Rio de Pedras | — | Ouro Preto | 2 450  |\n|  Empresa Força e Luz da Parahyba do Norte (1) | Tamblá | Parahyba | Parahyba | 1 450  |\n|  The Rio de Janeiro Tramway, Light and Power Company, Limited | Parahybuna | Rio de Janeiro | Parahyba do Sul | 1 200  |\n|  Companhia Paulista de Força e Luz | Avanhandava | São Paulo | Pennapolis | 3 000  |\n|  Empresa Força e Luz de Ribeirão Preto | Burity | — | Igarapava | 1 360  |\n|  Empresa Central Eléctrica de Rio Claro | Nova Mogy-Guassú | — | Rio Claro | 2 870  |\n|  Companhia Força e Luz Santa Cruz | Santa Cruz | — | Santa Cruz | 1 200  |\n|  Companhia Dócas de Santos | Itatinga | — | Santos | 20 000  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 6.921,
+  "remote_file_id": null
+}

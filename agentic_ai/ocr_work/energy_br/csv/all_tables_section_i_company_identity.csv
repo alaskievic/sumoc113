@@ -1,0 +1,343 @@
+source_file,page,source_table_id,row_in_table,state,company,municipality,plant,installation_year
+all_tables.pdf,1,tbl-1.md,1,Alagoas,Nova Empresa de Luz Electrica,Maceió,—,1907
+all_tables.pdf,1,tbl-1.md,2,Alagoas,Empresa Penedense de Luz e Agua,Penedo,—,1916
+all_tables.pdf,1,tbl-1.md,3,Alagoas,Empresa Luz e Força São Miguel,São Miguel de Campos,—,1917
+all_tables.pdf,1,tbl-1.md,4,Alagoas,Empresa Luz Electrica de Victoria,Victoria,—,1920
+all_tables.pdf,1,tbl-2.md,1,Amazonas,Empresa Electrica Municipal,Humaythá,—,1905
+all_tables.pdf,1,tbl-2.md,2,Amazonas,"The Manáos Tramways and Light Company, Limited",Manáos,Central,1910
+all_tables.pdf,1,tbl-2.md,3,Amazonas,Madeira-Mamoré Railway Company,Porto Velho,—,1918
+all_tables.pdf,1,tbl-3.md,1,Bahia,Antonio Balbino de Carvalho,Barreiras,Carvalho,1920
+all_tables.pdf,1,tbl-3.md,2,Bahia,Companhia Brasileira de Energia Electrica,Cachoeira,Bananeiras,1920
+all_tables.pdf,1,tbl-3.md,3,Bahia,Empresa Industrial Conquistense,Conquista,—,1920
+all_tables.pdf,1,tbl-3.md,4,Bahia,Companhia Luz e Força,Ilhéos,—,1916
+all_tables.pdf,1,tbl-3.md,5,Bahia,Companhia Distribuidora de Luz e Força do Estado da Bahia,Santo Amaro,—,1920
+all_tables.pdf,1,tbl-3.md,6,Bahia,Municipalidade de São Salvador,São Salvador,—,1907
+all_tables.pdf,1,tbl-3.md,7,Bahia,Companhia Linha Circular de Carris da Bahia,São Salvador,Preguiça,1907
+all_tables.pdf,1,tbl-3.md,8,Bahia,Companhia Valença Industrial,Valença,Nossa Senhora do Amparo,1913
+all_tables.pdf,1,tbl-4.md,1,Ceará,Orphanato Casa de São Francisco,Canindé,São Francisco,1918
+all_tables.pdf,1,tbl-4.md,2,Ceará,Dr Audalio Costa,Crato,—,1920
+all_tables.pdf,1,tbl-4.md,3,Ceará,Empresa Electrica de Maranguape,Maranguape,—,1917
+all_tables.pdf,1,tbl-5.md,1,Districto Federal,Société Anonyme du Gaz de Rio de Janeiro,Capital Federal,—,1914
+all_tables.pdf,3,tbl-13.md,1,Espírito Santo,"Comp. Força e Luz, Limit, de Affonso Claudio",Affonso Claudio,Barra do Rio do Peixe,1920
+all_tables.pdf,3,tbl-13.md,2,Espírito Santo,Empresa Força e Luz Alegre-Veado,Alegre,—,1919
+all_tables.pdf,3,tbl-13.md,3,Espírito Santo,André Carloni,Cachoeiro de Santa Leopoldina,—,1918
+all_tables.pdf,3,tbl-13.md,4,Espírito Santo,Comp. Serviços Reunidos do Itapemirim,Cachoeiro do Itapemirim,Fructeiras,1910
+all_tables.pdf,3,tbl-13.md,5,Espírito Santo,Municipalidade de Cachoeiro do Itapemirim,Cachoeiro do Itapemirim,Ilha da Luz,1903
+all_tables.pdf,3,tbl-13.md,6,Espírito Santo,De Biase & Companhia,Espírito Santo do Rio Pardo,—,1915
+all_tables.pdf,3,tbl-13.md,7,Espírito Santo,"Duarte, Beiriz & Companhia",Piúma,Pedra d'Agua,1916
+all_tables.pdf,3,tbl-13.md,8,Espírito Santo,Governo do Estado do Espírito Santo,Santa Isabel,Jucú,1910
+all_tables.pdf,3,tbl-13.md,9,Espírito Santo,Sociedade Anonyma de Melhoramentos,Santa Thereza,Santa Thereza,1918
+all_tables.pdf,3,tbl-13.md,10,Espírito Santo,Empresa de Electricidade São Matheus,São Matheus,São Matheus,1916
+all_tables.pdf,3,tbl-13.md,11,Espírito Santo,Companhia de Electricidade Muquy do Sul,São Pedro do Itabapoana,Apparecida,1918
+all_tables.pdf,3,tbl-14.md,1,Goyaz,"Guedes, Ratto & Companhia",Goyas,Santa Therezinha,1920
+all_tables.pdf,3,tbl-15.md,1,Maranhão,Fabrica Santa Emygdia,Pedreiras,—,1920
+all_tables.pdf,3,tbl-15.md,2,Maranhão,South American and General Syndicate,São Luiz,—,1917
+all_tables.pdf,3,tbl-16.md,1,Matto Grosso,Empresa Luz e Força de Aquidauana,Aquidauana,—,1920
+all_tables.pdf,3,tbl-16.md,2,Matto Grosso,"Companhia Mattogrossense de Electricidade, Limitada",Campo Grande,—,1918
+all_tables.pdf,3,tbl-16.md,3,Matto Grosso,Companhia de Electricidade de Corumbá,Corumbá,—,1912
+all_tables.pdf,3,tbl-16.md,4,Matto Grosso,João Pedro Dias,Cuyabá,Cuyabá,1919
+all_tables.pdf,3,tbl-16.md,5,Matto Grosso,Municipalidade de Miranda,Miranda,Municipal,1919
+all_tables.pdf,5,tbl-22.md,2,Matto Grosso,Municipalidade de Nioac,Nioac,—,1920
+all_tables.pdf,5,tbl-22.md,3,Matto Grosso,Companhia Força e Luz de Tres Lagôas,Tres Lagôas,—,1920
+all_tables.pdf,5,tbl-23.md,1,Minas Geraes,José Ernesto Komel,Abre Campo,—,1918
+all_tables.pdf,5,tbl-23.md,2,Minas Geraes,Empresa Força e Luz de Araguary,Araguary,Prada de Energia Eléctrica,1910
+all_tables.pdf,5,tbl-23.md,3,Minas Geraes,Municipalidade de Araxá,Araxá,—,1914
+all_tables.pdf,5,tbl-23.md,4,Minas Geraes,Municipalidade de Barbacena,Barbacena,Bias Portes,1917
+all_tables.pdf,5,tbl-23.md,5,Minas Geraes,Sociedade Carandahyense de Electricidade,Barbacena,—,1917
+all_tables.pdf,5,tbl-23.md,6,Minas Geraes,Companhia de Electricidade e Viação Urbana de Minas Geraes,Bello Horizonte,—,1920
+all_tables.pdf,5,tbl-23.md,7,Minas Geraes,,Ouro Preto,Rio de Pedras,1920
+all_tables.pdf,5,tbl-23.md,8,Minas Geraes,Municipalidade de Cabo Verde,Cabo Verde,Municipal,1912
+all_tables.pdf,5,tbl-23.md,9,Minas Geraes,Municipalidade de Caethé,Caethé,Funil,1914
+all_tables.pdf,5,tbl-23.md,10,Minas Geraes,Empresa Sul Mineira de Força e Luz,Caldas,Rio Verde,1916
+all_tables.pdf,5,tbl-23.md,11,Minas Geraes,"The Conquista — Xieão Gold Mines Company, Ltd",Campanha,—,1914
+all_tables.pdf,5,tbl-23.md,12,Minas Geraes,Municipalidade de Campo Bello,Campo Bello,Municipal,1913
+all_tables.pdf,5,tbl-23.md,13,Minas Geraes,Empresa Força e Luz de Campos Geraes,Campos Geraes,—,1918
+all_tables.pdf,5,tbl-23.md,14,Minas Geraes,"Companhia Brasileira de Tramways, Luz e Força",Carangola,Tombos,1914
+all_tables.pdf,5,tbl-23.md,15,Minas Geraes,Companhia Industrial de Caratinga,Caratinga,Cachoeira do Lago,1919
+all_tables.pdf,5,tbl-23.md,16,Minas Geraes,S A Força e Luz de Carmo do Rio Claro,Carmo do Rio Claro,Santa Quiteria,1916
+all_tables.pdf,5,tbl-23.md,17,Minas Geraes,Municipalidade de Caxambú,Caxambú,Furnas,1911
+all_tables.pdf,7,tbl-28.md,1,Minas Geraes,Municipalidade de Christina,Christina,Godefredo Fonseca,1911
+all_tables.pdf,7,tbl-28.md,2,Minas Geraes,Carneiro Junqueira & Companhia,Conceição do Rio Verde,—,1919
+all_tables.pdf,7,tbl-28.md,3,Minas Geraes,Companhia Cedro e Cachoeira,Curvello,Fabrica de Cachoeira,1907
+all_tables.pdf,7,tbl-28.md,4,Minas Geraes,"Ramos, Guerra & Companhia",Diamantina,Santa Maria,1912
+all_tables.pdf,7,tbl-28.md,5,Minas Geraes,Miranda & Gomes,»,—,1913
+all_tables.pdf,7,tbl-28.md,6,Minas Geraes,Empresa Dorense de Electricidade,Dóres da Bôa Esperança,—,1920
+all_tables.pdf,7,tbl-28.md,7,Minas Geraes,Empresa Luz Electrica de Entre-Rios,Entre-Rios,—,1919
+all_tables.pdf,7,tbl-28.md,8,Minas Geraes,Municipalidade de Formiga,Formiga,Santa Maria,1907
+all_tables.pdf,7,tbl-28.md,9,Minas Geraes,Municipalidade de Fructal,Fructal,—,1920
+all_tables.pdf,7,tbl-28.md,10,Minas Geraes,Empresa Nacional de Electricidade,Guaranesia,Santa Cleonice,1918
+all_tables.pdf,7,tbl-28.md,11,Minas Geraes,,Muzambinho,Santa Nair,1911
+all_tables.pdf,7,tbl-28.md,12,Minas Geraes,Companhia Industrial Sul Mineira,Itajubá,Lourenço Velho,1914
+all_tables.pdf,7,tbl-28.md,13,Minas Geraes,Municipalidade de Itapecerica,Itapecerica,—,1918
+all_tables.pdf,7,tbl-28.md,14,Minas Geraes,Companhia Industrial Itadnense,Itaúna,—,1912
+all_tables.pdf,7,tbl-28.md,15,Minas Geraes,"Siqueira, Meirelles, Junqueira & Companhia",Jacuhy,—,1912
+all_tables.pdf,7,tbl-28.md,16,Minas Geraes,Municipalidade de Jaguary,Jaguary,Municipal,1913
+all_tables.pdf,7,tbl-28.md,17,Minas Geraes,Companhia Mineira de Electricidade,Juz de Póra,Marmellos,1889
+all_tables.pdf,7,tbl-28.md,18,Minas Geraes,Municipalidade de Lavras e Estrada de Ferro Oeste de Minas,Lavras,—,1909
+all_tables.pdf,7,tbl-28.md,19,Minas Geraes,Companhia Força e Luz Cataguazes-Leopoldina,Leopoldina,Maurício,1907
+all_tables.pdf,7,tbl-28.md,20,Minas Geraes,,Pomba,Santo Antonio,1918
+all_tables.pdf,7,tbl-28.md,21,Minas Geraes,,São Paulo do Muriahé,Coronel Domiciano,1910
+all_tables.pdf,9,tbl-32.md,1,Minas Geraes,Companhia Regional de Força e Luz,Lima Duarte,—,1918
+all_tables.pdf,9,tbl-32.md,2,Minas Geraes,"The Ouro Preto Gold Mines of Brazil, Limited",Marianna,—,1911
+all_tables.pdf,9,tbl-32.md,3,Minas Geraes,,»,—,1906
+all_tables.pdf,9,tbl-32.md,4,Minas Geraes,Rossetti & Centola,Monte Santo,—,1910
+all_tables.pdf,9,tbl-32.md,5,Minas Geraes,Municipalidade de Oliveira,Oliveira,Jacaré,1907
+all_tables.pdf,9,tbl-32.md,6,Minas Geraes,,Ouro Pino,—,1910
+all_tables.pdf,9,tbl-32.md,7,Minas Geraes,,Paraisopolis,Dr Bueno de Paiva,1912
+all_tables.pdf,9,tbl-32.md,8,Minas Geraes,Companhia Sul Mineira de Electricidade,São Gonçalo do Sapucahy,Rio Dourado,1912
+all_tables.pdf,9,tbl-32.md,9,Minas Geraes,,Varginha,Rio Verde,1910
+all_tables.pdf,9,tbl-32.md,10,Minas Geraes,Companhia Ouropretana de Electricidade,Ouro Preto,Tombadouro,1902
+all_tables.pdf,9,tbl-32.md,11,Minas Geraes,Companhia Brasileira de Carbureto de Calcio,Palmyra,Guary,1912
+all_tables.pdf,9,tbl-32.md,12,Minas Geraes,Municipalidade de Passa Quatro,Passa Quatro,—,1911
+all_tables.pdf,9,tbl-32.md,13,Minas Geraes,Municipalidade de Patos,Patos,—,1915
+all_tables.pdf,9,tbl-32.md,14,Minas Geraes,Municipalidade de Peidões,Perdões,—,1918
+all_tables.pdf,9,tbl-32.md,15,Minas Geraes,Companhia Industria e Viação de Pirapora,Pirapora,—,1919
+all_tables.pdf,9,tbl-32.md,16,Minas Geraes,Companhia Industrial Pitanguyense,Pitanguy,—,1919
+all_tables.pdf,9,tbl-32.md,17,Minas Geraes,Municipalidade de Piumhy,Piumhy,—,1919
+all_tables.pdf,9,tbl-32.md,18,Minas Geraes,Luiz José Dias & Companhia,Poços de Caldas,—,1905
+all_tables.pdf,9,tbl-32.md,19,Minas Geraes,Municipalidade de Ponte Nova,Ponte Nova,—,1913
+all_tables.pdf,9,tbl-32.md,20,Minas Geraes,Municipalidade de Pouso Alegre,Pouso Alegre,Ponte de Pedras,1907
+all_tables.pdf,9,tbl-32.md,21,Minas Geraes,Baêta & Mello,Queluz,Hydrodina,1917
+all_tables.pdf,11,tbl-35.md,2,Minas Geraes,ESTADO DE (CONTIN),,,
+all_tables.pdf,11,tbl-35.md,3,Minas Geraes,W T Atherton,Rio Piracicaba,Lages,1920
+all_tables.pdf,11,tbl-35.md,4,Minas Geraes,Empresa Hydro-Electrica Nacional,Rio Preto,Romeo,1920
+all_tables.pdf,11,tbl-35.md,5,Minas Geraes,Municipalidade de Sabará,Sabará,—,1917
+all_tables.pdf,11,tbl-35.md,6,Minas Geraes,Municipalidade de Santa Luzia do Rio das Velhas,»,—,1913
+all_tables.pdf,11,tbl-35.md,7,Minas Geraes,Municipalidade de Conquista,Sacramento,Sacramento,1908
+all_tables.pdf,11,tbl-35.md,8,Minas Geraes,Companhia Industrial Bello Horizonte,Santa Luzia do Rio das Velhas,—,1916
+all_tables.pdf,11,tbl-35.md,9,Minas Geraes,Dr. Estevão Leite de Magalhães Pinto,Santa Quiteria,—,1914
+all_tables.pdf,11,tbl-35.md,10,Minas Geraes,Companhia Força e Luz Minas Sul,Santa Rita do Sapucahy,Delphim Moreira,1920
+all_tables.pdf,11,tbl-35.md,11,Minas Geraes,Municipalidade de Santo Antonio do Monte,Santo Antonio do Monte,—,1918
+all_tables.pdf,11,tbl-35.md,12,Minas Geraes,Municipalidade de São Domingos do Prata,São Domingos do Prata,—,1916
+all_tables.pdf,11,tbl-35.md,13,Minas Geraes,Municipalidade de São Gothardo,São Gothardo,Cachoeira de Confusão,1920
+all_tables.pdf,11,tbl-35.md,14,Minas Geraes,Adão Pereira de Araujo,São José d'Além Parahyba,Rio dos Aventureiros,1914
+all_tables.pdf,11,tbl-35.md,15,Minas Geraes,Villela & Companhia,» » » »,—,1912
+all_tables.pdf,11,tbl-35.md,16,Minas Geraes,Empresa Força e Luz de Silvestre Ferraz,Silvestre Ferraz,Força e Luz,1915
+all_tables.pdf,11,tbl-35.md,17,Minas Geraes,Municipalidade de São João d'El-Rey,Tiradentes,—,1900
+all_tables.pdf,11,tbl-35.md,18,Minas Geraes,Companhia Turvense de Luz e Força,Turvo,—,1917
+all_tables.pdf,11,tbl-35.md,19,Minas Geraes,Companhia Luz e Força de Uberabinha,Uberabinha,—,1909
+all_tables.pdf,11,tbl-35.md,20,Minas Geraes,Empresa Força e Luz Hervalense,Viçosa,—,1920
+all_tables.pdf,11,tbl-35.md,21,Minas Geraes,Companhia Fiação e Tecidos São Sylvestre,»,São Sylvestre,1920
+all_tables.pdf,13,tbl-39.md,1,Parahyba,St John dei Rey Mining Company Limited,Villa Nova de Lima,A,1915
+all_tables.pdf,13,tbl-39.md,2,Parahyba,,,B,1915
+all_tables.pdf,13,tbl-39.md,3,Parahyba,,,C,1915
+all_tables.pdf,13,tbl-39.md,4,Parahyba,,,D,1915
+all_tables.pdf,13,tbl-39.md,5,Parahyba,,,E,1915
+all_tables.pdf,13,tbl-39.md,6,Parahyba,,,Gaia,1915
+all_tables.pdf,13,tbl-39.md,7,Parahyba,,,Crystaes,1915
+all_tables.pdf,13,tbl-39.md,8,Parahyba,,,Retiro,1915
+all_tables.pdf,13,tbl-39.md,9,Parahyba,Resende,1915,,
+all_tables.pdf,13,tbl-39.md,10,Parahyba,Municipalidade de Villa Nova de Resende,Villa Nova de Resende,Ossos,1915
+all_tables.pdf,13,tbl-39.md,11,Parahyba,,,Conquista,1916
+all_tables.pdf,13,tbl-40.md,1,Paraná,"The Pará Electric Railway and Lighting Company, Limited",Belém,—,1905
+all_tables.pdf,13,tbl-40.md,2,Paraná,Municipalidade de Belém,—,Mosqueiro,1920
+all_tables.pdf,13,tbl-40.md,3,Paraná,Empresa de Melhoramentos Publicos,Bragança,—,1911
+all_tables.pdf,13,tbl-40.md,4,Paraná,Municipalidade de Chaves,Chaves,—,1914
+all_tables.pdf,13,tbl-41.md,1,Paraná,Municipalidade de Alagôa Nova,Alagôa Nova,—,1919
+all_tables.pdf,13,tbl-41.md,2,Paraná,Antonio Maia & Companhia,Areia,—,1919
+all_tables.pdf,13,tbl-41.md,3,Paraná,Empresa Hydro-Electrica Borborema,Bananeiras,—,1919
+all_tables.pdf,13,tbl-41.md,4,Paraná,Empresa Luz e Força de Campina Grande,Campina Grande,—,1920
+all_tables.pdf,13,tbl-41.md,5,Paraná,Empresa Luz e Força de Guarabira,Guarabira,—,1919
+all_tables.pdf,13,tbl-41.md,6,Paraná,J Alves da Silva,Itabayanna,—,1919
+all_tables.pdf,13,tbl-41.md,7,Paraná,Empresa Força e Luz da Parahyba do Norte,Parahyba,També,1920
+all_tables.pdf,13,tbl-42.md,1,Paraná,Empresa Luz e Força de Antonina,Antonina,—,1905
+all_tables.pdf,13,tbl-42.md,2,Paraná,Rodolpho Voss,Arancaria,—,1907
+all_tables.pdf,13,tbl-42.md,3,Paraná,Telles Pusch Limitada,Castro,—,1911
+all_tables.pdf,13,tbl-42.md,4,Paraná,"The South Brazilian Railway, Company, Limited",Curityba,Central,1889
+all_tables.pdf,15,tbl-49.md,1,Paraná,Antonio Meirelles Solinho,Deodoro,Itahysinho,1913
+all_tables.pdf,15,tbl-49.md,2,Paraná,Municipalidade de Foz do Iguassú,Foz do Iguassú,—,1908
+all_tables.pdf,15,tbl-49.md,3,Paraná,Emilio B Gomes,Iraty,Iraty,1918
+all_tables.pdf,15,tbl-49.md,4,Paraná,Annibal Dias de Paiva,Lapa,Paiva,1911
+all_tables.pdf,15,tbl-49.md,5,Paraná,Empresa de Luz Electrica de Palmas,Palmas,—,1917
+all_tables.pdf,15,tbl-49.md,6,Paraná,Municipalidade de Palmeira,Palmeira,—,1914
+all_tables.pdf,15,tbl-49.md,7,Paraná,E de Melhoramentos Urbanos de Paranaguá,Paranaguá,Rio Miranda,1903
+all_tables.pdf,15,tbl-49.md,8,Paraná,José Fanchin,Pitahy,—,1915
+all_tables.pdf,15,tbl-49.md,9,Paraná,Martins & Carvalho,Ponta Grossa,Pitanguy,1904
+all_tables.pdf,15,tbl-49.md,10,Paraná,Dursky & Companhia,Prudentopolis,—,1912
+all_tables.pdf,15,tbl-49.md,11,Paraná,Heraclito de Magalhães,São José da Boa Vista,—,1918
+all_tables.pdf,15,tbl-49.md,12,Paraná,José Zaniolo,São José dos Pinhaes,—,1909
+all_tables.pdf,15,tbl-49.md,13,Paraná,Emilio Carlos Prohmann,São Matheus,—,1914
+all_tables.pdf,15,tbl-49.md,14,Paraná,Manoel Azevedo Macedo,Teixeira Soares,—,1911
+all_tables.pdf,15,tbl-49.md,15,Paraná,Alexandre Schlemm & Companhia,União da Victoria,—,1908
+all_tables.pdf,15,tbl-49.md,16,Paraná,Municipalidade de Ypiranga,Ypiranga,Fiat,1920
+all_tables.pdf,15,tbl-50.md,1,Pernambuco,Empresa de Luz Cabense,Cabo,—,1920
+all_tables.pdf,15,tbl-50.md,2,Pernambuco,Motta Irmãos,Canhotinho,—,1919
+all_tables.pdf,15,tbl-50.md,3,Pernambuco,Municipalidade de Caruaru,Caruaru,Municipal,1917
+all_tables.pdf,15,tbl-50.md,4,Pernambuco,Francisco José dos Santos,Correntes,São Francisco,1918
+all_tables.pdf,15,tbl-50.md,5,Pernambuco,Municipalidade de Gamelleira,Gamelleira,Gamelleira,1920
+all_tables.pdf,15,tbl-50.md,6,Pernambuco,—,—,Ribeirão,1920
+all_tables.pdf,15,tbl-50.md,7,Pernambuco,Empresa de Melhoramentos em Garanhuns,Garanhuns,—,1918
+all_tables.pdf,15,tbl-50.md,8,Pernambuco,Municipalidade de Goyanna,Goyanna,Goyauna,1919
+all_tables.pdf,15,tbl-50.md,9,Pernambuco,Municipalidade de Jaboatão,Jaboatão,Jaboatão,1915
+all_tables.pdf,15,tbl-50.md,10,Pernambuco,João Carneiro da Silva,Limoeiro,—,1915
+all_tables.pdf,15,tbl-50.md,11,Pernambuco,Empresa de Luz e Cinema,Nazareth,—,1920
+all_tables.pdf,17,tbl-54.md,2,Pernambuco,ESTADO DE (CONCLU),,,
+all_tables.pdf,17,tbl-54.md,3,Pernambuco,Companhia Santa Thereza,Olinda,—,1913
+all_tables.pdf,17,tbl-54.md,4,Pernambuco,Companhia Progresso e Luz de Palmares,Palmares,—,1915
+all_tables.pdf,17,tbl-54.md,5,Pernambuco,Municipalidade de Panellas,Panellas,São José,1920
+all_tables.pdf,17,tbl-54.md,6,Pernambuco,"Pernambuco Tramways and Power Company, Limited",Recife,—,1914
+all_tables.pdf,17,tbl-54.md,7,Pernambuco,Queiros & Andrade,Timbaúba,—,1920
+all_tables.pdf,17,tbl-54.md,8,Pernambuco,ESTADO,,,
+all_tables.pdf,17,tbl-54.md,9,Pernambuco,Municipalidade de Parnahyba,Parnahyba,Municipal,1918
+all_tables.pdf,17,tbl-54.md,10,Pernambuco,ESTADO DO,,,
+all_tables.pdf,17,tbl-54.md,11,Pernambuco,Empresa Fluminense de Força e Luz,Barra do Pirahy,Quirino,1913
+all_tables.pdf,17,tbl-54.md,12,Pernambuco,Companhia Fiação e Tecidos São José,Barra Mansa,Chalet,1909
+all_tables.pdf,17,tbl-54.md,13,Pernambuco,Luiz Corrêa da Rocha Sobrinho,Bom Jardim,Banquete,1917
+all_tables.pdf,17,tbl-54.md,14,Pernambuco,Empresa de Electricidade de Cabo-Frio,Cabo-Frio,—,1919
+all_tables.pdf,17,tbl-54.md,15,Pernambuco,Herdeiros de José Constancio Monnerat,Cantagallo,Santo Antonio,1917
+all_tables.pdf,17,tbl-54.md,16,Pernambuco,Empresa Força e Luz Ibero-Americana,»,Chave do Vaz,1914
+all_tables.pdf,17,tbl-54.md,17,Pernambuco,Municipalidade de Carmo,Carmo,Emboque,1914
+all_tables.pdf,17,tbl-54.md,18,Pernambuco,Regino Monnerat.,Duas Barras,São José,1912
+all_tables.pdf,17,tbl-54.md,19,Pernambuco,Governo do Estado do Rio de Janeiro,Macahé,—,1918
+all_tables.pdf,17,tbl-54.md,20,Pernambuco,Dr Luiz Duque Estrada Guerra,Mangaratiba,—,1919
+all_tables.pdf,17,tbl-54.md,21,Pernambuco,Julius Arp & Companhia,Nova Friburgo,—,1911
+all_tables.pdf,17,tbl-54.md,22,Pernambuco,Companhia Brasileira de Energia Eléctrica,Parahyba do Sul,Alberto Torres,1908
+all_tables.pdf,19,tbl-59.md,2,Rio de Janeiro,ESTADO DO (CONCLU),,,
+all_tables.pdf,19,tbl-59.md,3,Rio de Janeiro,"The Rio de Janeiro Tramway, Light and Power Company, Limited",Parahyba do Sul,Parahybema,1920
+all_tables.pdf,19,tbl-59.md,4,Rio de Janeiro,,Pirahy,Ribeirão das Lages,1906
+all_tables.pdf,19,tbl-59.md,5,Rio de Janeiro,Empresa Industrial Santa Thereza,Paraty,—,1920
+all_tables.pdf,19,tbl-59.md,6,Rio de Janeiro,Companhia Força e Luz Norte Fluminense,Santo Antonio de Padua,—,1913
+all_tables.pdf,19,tbl-59.md,7,Rio de Janeiro,J Moraes,São Francisco de Paula,—,1920
+all_tables.pdf,19,tbl-59.md,8,Rio de Janeiro,Municipalidade de Sumidouro,Sumidouro,Sumidouro,1906
+all_tables.pdf,19,tbl-59.md,9,Rio de Janeiro,ESTADO DO RIO,,,
+all_tables.pdf,19,tbl-59.md,10,Rio de Janeiro,Empresa Força e Luz de Canguaretama,Canguaretama,—,(1)1917
+all_tables.pdf,19,tbl-59.md,11,Rio de Janeiro,Repartição dos Serviços Urbanos de Natal,Natal,Oitiseiro,1910
+all_tables.pdf,19,tbl-59.md,12,Rio de Janeiro,Odilon Amancio & Companhia,Nova Cruz,—,1919
+all_tables.pdf,19,tbl-59.md,13,Rio de Janeiro,Joaquim da Luz,Pedro Velho,—,1919
+all_tables.pdf,19,tbl-59.md,14,Rio de Janeiro,ESTADO DO RIO,,,
+all_tables.pdf,19,tbl-59.md,15,Rio de Janeiro,Dornellas & Companhia,Alegrete,—,1908
+all_tables.pdf,19,tbl-59.md,16,Rio de Janeiro,Municipalidade de Alfredo Chaves,Alfredo Chaves,—,1912
+all_tables.pdf,19,tbl-59.md,17,Rio de Janeiro,Municipalidade de Artoio Grande,Artoio Grande,Municipal,1920
+all_tables.pdf,19,tbl-59.md,18,Rio de Janeiro,Companhia Geral de Luz e Força,Bagé,—,1899
+all_tables.pdf,19,tbl-59.md,19,Rio de Janeiro,Armando & Companhia,Caçapava,Caçapava,1913
+all_tables.pdf,19,tbl-59.md,20,Rio de Janeiro,Companhia Força e Luz Cachoeirense,Cachoeira,—,1910
+all_tables.pdf,19,tbl-59.md,21,Rio de Janeiro,Salathiel Soares de Barros & Companhia,Cruz Alta,—,1911
+all_tables.pdf,19,tbl-59.md,22,Rio de Janeiro,Municipalidade de Encruzilhada,Encruzilhada,—,1913
+all_tables.pdf,19,tbl-59.md,23,Rio de Janeiro,Ruschel & Irmãos,Estrella,—,1914
+all_tables.pdf,19,tbl-59.md,24,Rio de Janeiro,Guilherme Mollmann,Garibaldi,—,1920
+all_tables.pdf,19,tbl-59.md,25,Rio de Janeiro,Hickenbick & Bos,Ijuhy,—,1917
+all_tables.pdf,19,tbl-59.md,26,Rio de Janeiro,Companhia Itaquiense de Melhoramentos e Electricidade,Itaquy,—,1918
+all_tables.pdf,19,tbl-59.md,27,Rio de Janeiro,Sociedade Anonyma Luz Electrica Jaguarense,Jaguarião,—,1900
+all_tables.pdf,19,tbl-59.md,28,Rio de Janeiro,Empresa Força e Luz de Lageado,Lageado,—,1918
+all_tables.pdf,21,tbl-64.md,2,Rio de Janeiro,ESTADO DO RIO (CONCLU),,,
+all_tables.pdf,21,tbl-64.md,3,Rio de Janeiro,Fr Weidlich & Companhia,Passo Fundo,—,1920
+all_tables.pdf,21,tbl-64.md,4,Rio de Janeiro,Municipalidade de Passo Fundo,Passo Fundo,Municipal,1913
+all_tables.pdf,21,tbl-64.md,5,Rio de Janeiro,The Rio Grandense Light & Power Syndicate Limited,Pelotas,—,1912
+all_tables.pdf,21,tbl-64.md,6,Rio de Janeiro,Companhia Fiat Lux,Porto Alegre,—,1891
+all_tables.pdf,21,tbl-64.md,7,Rio de Janeiro,Governo do Estado do Rio Grande do Sul,Rio Grande,—,1918
+all_tables.pdf,21,tbl-64.md,8,Rio de Janeiro,Frederico Ernesto Wunderlich,Rio Pardo,—,1911
+all_tables.pdf,21,tbl-64.md,9,Rio de Janeiro,Municipalidade de Rosario,Rosario,—,1914
+all_tables.pdf,21,tbl-64.md,10,Rio de Janeiro,Companhia Telephonica Rio Grandense,Sant'Anna do Livramento,—,1905
+all_tables.pdf,21,tbl-64.md,11,Rio de Janeiro,Municipalidade de Santa Cruz,Santa Cruz,—,1906
+all_tables.pdf,21,tbl-64.md,12,Rio de Janeiro,Companhia Santa Mariense de Luz Electrica,Santa Maria da Bocca do Monte,—,1898
+all_tables.pdf,21,tbl-64.md,13,Rio de Janeiro,Companhia Luz Electrica São Pedrense,» » » » » »,—,1920
+all_tables.pdf,21,tbl-64.md,14,Rio de Janeiro,Municipalidade de Santa Victoria do Palmar,Santa Victoria do Palmar,—,1908
+all_tables.pdf,21,tbl-64.md,15,Rio de Janeiro,Roberto Freis,Santo Angelo,—,1920
+all_tables.pdf,21,tbl-64.md,16,Rio de Janeiro,Municipalidade de São Francisco de Assis,São Francisco de Assis,—,1912
+all_tables.pdf,21,tbl-64.md,17,Rio de Janeiro,Irmãos Corso & Companhia,São Francisco de Paula de Cima da Serra,—,1920
+all_tables.pdf,21,tbl-64.md,18,Rio de Janeiro,Companhia Estrada de Ferro e Minas de São Jeronymo,São Jeronymo,—,1912
+all_tables.pdf,21,tbl-64.md,19,Rio de Janeiro,Jorge Franke,São João Baptista de Camaquam,—,1920
+all_tables.pdf,21,tbl-64.md,20,Rio de Janeiro,Municipalidade de São João do Montenegro,São João do Montenegro,—,1919
+all_tables.pdf,21,tbl-64.md,21,Rio de Janeiro,Municipalidade de São Leopoldo,São Leopoldo,Picada 18,1913
+all_tables.pdf,21,tbl-64.md,22,Rio de Janeiro,Municipalidade de São Vicente,São Vicente,—,1914
+all_tables.pdf,21,tbl-64.md,23,Rio de Janeiro,Pedro Pellizzari,São Vicente,"Jaguary,",1915
+all_tables.pdf,21,tbl-64.md,24,Rio de Janeiro,Waldemar Arnt,Taquaty,Bom Retiro,1918
+all_tables.pdf,21,tbl-64.md,25,Rio de Janeiro,Michel & Oliveira,Taquaty,—,1915
+all_tables.pdf,21,tbl-64.md,26,Rio de Janeiro,Viuva Bello Ferreira,Trimopho,—,1915
+all_tables.pdf,21,tbl-64.md,27,Rio de Janeiro,B & M Barberá,Uruguayana,—,1904
+all_tables.pdf,21,tbl-64.md,28,Rio de Janeiro,Municipalidade de Vaccaria,Vaccaria,—,1911
+all_tables.pdf,21,tbl-64.md,29,Rio de Janeiro,Jorge Schuck,Venancio Ayres,—,1916
+all_tables.pdf,23,tbl-68.md,1,São Paulo,Empresa Força e Luz de Santa Catharina,Blumenau,—,1908
+all_tables.pdf,23,tbl-68.md,2,São Paulo,Isabel Knonz Duarte,Campo Alegre,Santa Isabel,1920
+all_tables.pdf,23,tbl-68.md,3,São Paulo,Governo do Estado de Santa Catharina,Florianopolis,Maroim,1910
+all_tables.pdf,23,tbl-68.md,4,São Paulo,"Emp Joinvillense de Electricidade, Luz e Força",Joinville,Pirahy,1908
+all_tables.pdf,23,tbl-68.md,5,São Paulo,Empresa de Electricidade de Lages,Lages,—,1917
+all_tables.pdf,23,tbl-68.md,6,São Paulo,N Bley Netto,Mafra,São Lourenço,1910
+all_tables.pdf,23,tbl-68.md,7,São Paulo,João Bauer,Nova Trento,—,1919
+all_tables.pdf,23,tbl-68.md,8,São Paulo,Henrique Moeller & Companhia,São Bento,—,1912
+all_tables.pdf,23,tbl-68.md,9,São Paulo,Empresa de Electricidade de São Francisco,São Francisco,São Francisco,1919
+all_tables.pdf,23,tbl-68.md,10,São Paulo,Manoel Cruz,Tijucas,—,1917
+all_tables.pdf,23,tbl-68.md,11,São Paulo,Antonio Ferraro & Angelo Antonio Nichele,Urussanga,—,1917
+all_tables.pdf,23,tbl-69.md,1,São Paulo,Municipalidade de Angatuba,Angatuba,—,1916
+all_tables.pdf,23,tbl-69.md,2,São Paulo,Empresa de Electricidade de Araraquara,Araraquara,Chibarro,1919
+all_tables.pdf,23,tbl-69.md,3,São Paulo,Empresa Força e Luz do Jahú,Araraquara,Gavião Peixoto,1910
+all_tables.pdf,23,tbl-69.md,4,São Paulo,Empresa de Electricidade de Avaré,Avaré,—,1909
+all_tables.pdf,23,tbl-69.md,5,São Paulo,Empresa Força e Luz de Bananal,Bananal,—,1916
+all_tables.pdf,23,tbl-69.md,6,São Paulo,Companhia de Melhoramentos de Batataes,Batataes,—,1906
+all_tables.pdf,23,tbl-69.md,7,São Paulo,Empresa Electrica de Bebedouro,Bebedouro,—,1910
+all_tables.pdf,23,tbl-69.md,8,São Paulo,Companhia Paulista Força e Luz,Botucatá,Rio Pardo,1906
+all_tables.pdf,23,tbl-69.md,9,São Paulo,,Dous Corregos,Dous Corregos,1911
+all_tables.pdf,23,tbl-69.md,10,São Paulo,,Lenções,Central,1907
+all_tables.pdf,23,tbl-69.md,11,São Paulo,,Pennapolis,Avanhandava,1920
+all_tables.pdf,25,tbl-74.md,1,São Paulo,Empresa Electrica Bragantina,Bragança e,Guaraciaba Flôres,(1)1905(1)1905
+all_tables.pdf,25,tbl-74.md,2,São Paulo,Companhia Força e Luz de Brotas,Brotas,—,1910
+all_tables.pdf,25,tbl-74.md,3,São Paulo,Empresa Força e Luz de Buquira,Buquira,Odette,1919
+all_tables.pdf,25,tbl-74.md,4,São Paulo,Emilio Kunch & Companhia,Cabreúva,Guaxinduba,1920
+all_tables.pdf,25,tbl-74.md,5,São Paulo,Empresa Hydro-Electrica da Serra da Bocaina,Cachoeira,Patmos,1911
+all_tables.pdf,25,tbl-74.md,6,São Paulo,Empresa Nacional de Electricidade,Caconde,Santa Celida,1918
+all_tables.pdf,25,tbl-74.md,7,São Paulo,"Companhia Campineira de Tracção, Luz e Força",Campinas e,Salto Grande Jaguary,19041916
+all_tables.pdf,25,tbl-74.md,8,São Paulo,"Rawlinson, Müller & Companhia",Campinas,Salto Grande,1910
+all_tables.pdf,25,tbl-74.md,9,São Paulo,Municipalidade de Campos Novos,Campos Novos do Paranapanema,Simis,1912
+all_tables.pdf,25,tbl-74.md,10,São Paulo,Companhia Força e Luz de Casa Branca,Casa Branca,Santa Rita,1909
+all_tables.pdf,25,tbl-74.md,11,São Paulo,Companhia Mogyana de Luz e Força,Espírito Santo do Pinhal,Salto Grande,1897
+all_tables.pdf,25,tbl-74.md,12,São Paulo,"Castro, Almeida & Companhia",Fartura,—,1918
+all_tables.pdf,25,tbl-74.md,13,São Paulo,Empresa Luz e Força Meridional Paulista,Faxina,—,1911
+all_tables.pdf,25,tbl-74.md,14,São Paulo,Companhia Força e Luz Jacarêhy-Guararema,Guararema,Putim,1916
+all_tables.pdf,25,tbl-74.md,15,São Paulo,Companhia Luz e Força de Guaratinguetá,Guaratinguetá,Sodré,1905
+all_tables.pdf,27,tbl-78.md,1,São Paulo,Municipalidade de Guarey,Guarey,—,1920
+all_tables.pdf,27,tbl-78.md,2,São Paulo,Empresa Força e Luz de Ribeirão Preto,Igarapava,Buritys,1920
+all_tables.pdf,27,tbl-78.md,3,São Paulo,,Ituverava,Evangelina,1911
+all_tables.pdf,27,tbl-78.md,4,São Paulo,Municipalidade de Iguape,Iguape,—,1920
+all_tables.pdf,27,tbl-78.md,5,São Paulo,Empresa de Força e Luz de Itaberá,Itaberá,—,1914
+all_tables.pdf,27,tbl-78.md,6,São Paulo,Arens & Companhia,Itanhaem,—,1918
+all_tables.pdf,27,tbl-78.md,7,São Paulo,Empresa de Electricidade Sul Paulista,Itapetininga,Turvinho,1910
+all_tables.pdf,27,tbl-78.md,8,São Paulo,Companhia Paulista de Energia Eléctrica,Itapolis,São Lourenço,1910
+all_tables.pdf,27,tbl-78.md,9,São Paulo,,São José do Rio Pardo,Santa Alice,1910
+all_tables.pdf,27,tbl-78.md,10,São Paulo,,Soccorro,Soccorro,1910
+all_tables.pdf,27,tbl-78.md,11,São Paulo,Municipalidade de Itaporanga,Itaporanga,—,1920
+all_tables.pdf,27,tbl-78.md,12,São Paulo,"Novaes, Ribas & Companhia",Itararé,Symphoroso Queiroz,1912
+all_tables.pdf,27,tbl-78.md,13,São Paulo,Companhia Força e Luz de Jaboticabal,Jaboticabal,Correço Rico,1895
+all_tables.pdf,27,tbl-78.md,14,São Paulo,Empresa Eléctrica Corralinhense,Joanopolis,—,1920
+all_tables.pdf,27,tbl-78.md,15,São Paulo,Governo do Estado de São Paulo,Jaquey,Hospício,1917
+all_tables.pdf,27,tbl-78.md,16,São Paulo,Municipalidade de Mogy-Mirim,Mogy-Mirim,—,1909
+all_tables.pdf,27,tbl-78.md,17,São Paulo,Stefano & Maluf,Nova Horizonte,—,1919
+all_tables.pdf,27,tbl-78.md,18,São Paulo,Empresa Força e Luz Parahybonense,Parahybuna,—,1913
+all_tables.pdf,29,tbl-82.md,1,São Paulo,"The São Paulo Tramway, Light and Power Company, Limited",Parnahyba São Paulo,Parnahyba —,19011912
+all_tables.pdf,29,tbl-82.md,2,São Paulo,São Paulo Electric Company Limited (I),Sorocaba,Sorocaba,1911
+all_tables.pdf,29,tbl-82.md,3,São Paulo,Companhia Francana de Electricidade,Patrocínio do Sap : :ahy,Esmeril,1913
+all_tables.pdf,29,tbl-82.md,4,São Paulo,Rosa & Companhia,Piedade,—,1920
+all_tables.pdf,29,tbl-82.md,5,São Paulo,Companhia Nacional de Estamparia,Pilar,Baptista,1914
+all_tables.pdf,29,tbl-82.md,6,São Paulo,Empresa de Electricidade São Paulo e Rio,Pindamonhangaba,Izabel,1908
+all_tables.pdf,29,tbl-82.md,7,São Paulo,Matheus & Companhia,Piracaia,Lagrado,1910
+all_tables.pdf,29,tbl-82.md,8,São Paulo,Empresa Electrica de Piracicaba,Piracicaba,—,1909
+all_tables.pdf,29,tbl-82.md,9,São Paulo,Empresa Electrica de Pirajuhy,Pirajuhy,—,1920
+all_tables.pdf,29,tbl-82.md,10,São Paulo,Municipalidade de Pirassununga,Pirassununga,Central Electrica,1896
+all_tables.pdf,29,tbl-82.md,11,São Paulo,S A Central Electrica de Rio Claro,Rio Claro,Corumbatahy,1912
+all_tables.pdf,29,tbl-82.md,12,São Paulo,,» »,Nova Mogy-Guaseú,1920
+all_tables.pdf,29,tbl-82.md,13,São Paulo,Empresa de Electricidade de Rio Preto,Rio Preto,—,1914
+all_tables.pdf,29,tbl-82.md,14,São Paulo,Companhia Força e Luz Norte de São Paulo,Sallesopolis,—,1911
+all_tables.pdf,29,tbl-82.md,15,São Paulo,Companhia Ituana Força e Luz,Salto,Lavras,1904
+all_tables.pdf,29,tbl-82.md,16,São Paulo,Companhia Força e Luz Santa Cruz,Santa Cruz do Rio Pardo,Santa Cruz,1920
+all_tables.pdf,29,tbl-82.md,17,São Paulo,Germano Feha,Santa Isabel,—,1913
+all_tables.pdf,29,tbl-82.md,18,São Paulo,Companhia Força e Luz São Valentim,Santa Rita do Passa Quatro,São Valentim,1906
+all_tables.pdf,29,tbl-82.md,19,São Paulo,Companhia de Electricidade São Simão—Cajurú,Santa Rosa,Itaipava,1914
+all_tables.pdf,31,tbl-86.md,1,São Paulo,Companhia Décas de Santos,Santos,Itatinga,1920
+all_tables.pdf,31,tbl-86.md,2,São Paulo,Companhia Paulista de Electricidade,São Carlos,Capão Preto,1912
+all_tables.pdf,31,tbl-86.md,3,São Paulo,Empresa Força e Luz de São João da Bôa Vista,São João da Bôa Vista,Monjolinho,1908
+all_tables.pdf,31,tbl-86.md,4,São Paulo,Empresa Força e Luz do Barreiro,São José do Barreiro,Santa Ignêz,1914
+all_tables.pdf,31,tbl-86.md,5,São Paulo,Companhia Força e Luz São José,São José dos Campos,—,1918
+all_tables.pdf,31,tbl-86.md,6,São Paulo,Empresa Electrica de Sarapuhy,Sarapuhy,—,1909
+all_tables.pdf,31,tbl-86.md,7,São Paulo,Municipalidade de Serra Negra,Serra Negra,Costas,1915
+all_tables.pdf,31,tbl-86.md,8,São Paulo,Companhia Luz e Força de Tatuhy,Tietê,Jurumirim,1909
+all_tables.pdf,31,tbl-86.md,9,São Paulo,Empresa Luz e Força de Tietê,Tietê,—,1920
+all_tables.pdf,31,tbl-86.md,10,São Paulo,Municipalidade de Villa Bella,Villa Bella,—,1920
+all_tables.pdf,31,tbl-87.md,1,Sergipe,Governo do Estado de Sergipe,Aracajá,—,1913
+all_tables.pdf,31,tbl-87.md,2,Sergipe,Municipalidade de Capella,Capella,—,1920
+all_tables.pdf,31,tbl-87.md,3,Sergipe,Manoel Vieira Netto,Itabaiana,—,1918
+all_tables.pdf,31,tbl-87.md,4,Sergipe,Alberto Munck,Laranjeiras,—,1919
+all_tables.pdf,31,tbl-87.md,5,Sergipe,Municipalidade de Propriá,Propriá,—,1920
+all_tables.pdf,31,tbl-87.md,6,Sergipe,Manoel Vasconcellos Prado,Riachuelo,Riachuelo,1919
+all_tables.pdf,31,tbl-88.md,1,Território do Acre,Governo do Territorio do Acre,Cruseiro do Sul,Cruseiro do Sul,1904
+all_tables.pdf,31,tbl-88.md,2,Território do Acre,,Rio Branco,—,1916
+all_tables.pdf,31,tbl-88.md,3,Território do Acre,,Villa Seabra,—,1920
+all_tables.pdf,31,tbl-88.md,4,Território do Acre,Costa Gomes & Companhia,Xapury,—,1914

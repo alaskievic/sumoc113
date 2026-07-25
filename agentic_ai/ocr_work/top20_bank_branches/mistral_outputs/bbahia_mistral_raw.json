@@ -1,0 +1,64 @@
+{
+  "source": "/Users/alaskievic/Library/CloudStorage/Dropbox-UniversityofMichigan/Andrei Arminio Laskievic/sumoc_shared/top20/bbahia.jpg",
+  "engine": "mistral",
+  "model": "mistral-ocr-2512",
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 225296
+  },
+  "document_annotation": null,
+  "raw_response": {
+    "pages": [
+      {
+        "index": 0,
+        "markdown": "# BANCO DA BAHIA S. A.\n\nFUNDADO EM 1858\n\nSede: Cidade do Salvador — Estado da Bahia — Carta patente n.º 67, de 18 de Maio de 1946\n\nCAPITAL ... Cr$ 500.000.000,00 ... RESERVAS ... Cr$ 466.663.964,70\n\nSucursal: PRACA PIO X. 98 — Metropolitanas: RUA SOUZA LIMA, 121 - A (Copacabana) — AVENIDA RIO BRANCO, 122 (Centro) — RUA DO CATETE, 257-C (Catete) — RIO DE JANEIRO\n\nDIRETORIA — Presidente: Dr. Clemente Mariani; Vice-Presidente: Dr. Fernando M. de Góes; Diretores da Matriz: Gilberto Espinheira de Sá; Carlos Balallai de Carvalho e Helio Fernandes Figueira.\n\nDEPART. NO EST. DA BAHIA: — Alagoinhas, Belmonte, Brumado, Buerarema, Cachoeira, Camacã, Canavieiras, Candeias, Caravelas, Castro Alves, Catú, Coaraci, Cruz das Almas, Feira de Santana, Gandu, Guanambi, Ibicarai, Ibirataia, Ilhéus, Ipiú, Irecê, Itaberaba, Itabuna, Itajuípe, Itambé, Itapetinga, Itaquara, Jacobina, Jequié, Joazeiro, Miguel Calmon, Paulo Afonso, Piritiba, Poções, Prado, Remanso, Santo Antônio de Jesus, São Felix, Serrinha, Ubaitaba, Ubatã, Valença, Vitória da Conquista.\n\nDIRETORES DA SUCURSAL DO RIO DE JANEIRO: Affonso Soledade, Emil O. W. Hofemann e C. Monteiro de Andrade; DIRETORES DA SUCURSAL DE SÃO PAULO: Alain C. E. Moreau e Heinz Hoffmeister.\n\nCONSELHO FISCAL: Octavio Ariani Machado, Augusto Marques Valente e Mário Salenave.\n\nAGÊNCIAS METROPOLITANAS — BAIXA DOS SAPATEIROS: Rua Dr. Seabra, 295 — CALÇADA: Rua Artur Catrambi n.º 3. — CHILE: Rua Chile n.º 27. — LIBERDADE: Rua Lima e Silva n.º 351. — S. PEDRO: Av. Sete de Setembro n.º 105. — NO ESTADO DE MIRANHA — NAS GERAIS: Gov. Valadares, Montes Claros, Nanuque e Teófilo Otoni. — NO ESTADO DE SÃO PAULO — SUCURSAL DE SÃO PAULO: Rua São Bento n.º 480. — AGÊNCIAS METROPOLITANAS — IPIRANGA: Rua Silva Bueno, 525. — PENHA: Rua da Penha, 428. — PRACA DA REPÚBLICA: Praça da República, 370. — XXV DE MARÇO: Rua Cav. Basílio Jafet, 55/63 — AGÊNCIAS NO ESTADO DE SÃO PAULO: — BARRETOS — CAMPINAS — GUAPIAÇU — MOGI DAS CRUZES — OLÍMPIA — PIRACICABA — SANTOS — SÃO JOSÉ DO RIO PRÉTO. — NO ESTADO DO PARANÁ: — CURITIBA.",
+        "images": [],
+        "tables": [],
+        "hyperlinks": [],
+        "header": null,
+        "footer": null,
+        "dimensions": {
+          "dpi": 200,
+          "height": 585,
+          "width": 1265
+        },
+        "confidence_scores": null,
+        "blocks": null
+      }
+    ],
+    "model": "mistral-ocr-2512",
+    "document_annotation": null,
+    "usage_info": {
+      "pages_processed": 1,
+      "doc_size_bytes": 225296
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "markdown": "# BANCO DA BAHIA S. A.\n\nFUNDADO EM 1858\n\nSede: Cidade do Salvador — Estado da Bahia — Carta patente n.º 67, de 18 de Maio de 1946\n\nCAPITAL ... Cr$ 500.000.000,00 ... RESERVAS ... Cr$ 466.663.964,70\n\nSucursal: PRACA PIO X. 98 — Metropolitanas: RUA SOUZA LIMA, 121 - A (Copacabana) — AVENIDA RIO BRANCO, 122 (Centro) — RUA DO CATETE, 257-C (Catete) — RIO DE JANEIRO\n\nDIRETORIA — Presidente: Dr. Clemente Mariani; Vice-Presidente: Dr. Fernando M. de Góes; Diretores da Matriz: Gilberto Espinheira de Sá; Carlos Balallai de Carvalho e Helio Fernandes Figueira.\n\nDEPART. NO EST. DA BAHIA: — Alagoinhas, Belmonte, Brumado, Buerarema, Cachoeira, Camacã, Canavieiras, Candeias, Caravelas, Castro Alves, Catú, Coaraci, Cruz das Almas, Feira de Santana, Gandu, Guanambi, Ibicarai, Ibirataia, Ilhéus, Ipiú, Irecê, Itaberaba, Itabuna, Itajuípe, Itambé, Itapetinga, Itaquara, Jacobina, Jequié, Joazeiro, Miguel Calmon, Paulo Afonso, Piritiba, Poções, Prado, Remanso, Santo Antônio de Jesus, São Felix, Serrinha, Ubaitaba, Ubatã, Valença, Vitória da Conquista.\n\nDIRETORES DA SUCURSAL DO RIO DE JANEIRO: Affonso Soledade, Emil O. W. Hofemann e C. Monteiro de Andrade; DIRETORES DA SUCURSAL DE SÃO PAULO: Alain C. E. Moreau e Heinz Hoffmeister.\n\nCONSELHO FISCAL: Octavio Ariani Machado, Augusto Marques Valente e Mário Salenave.\n\nAGÊNCIAS METROPOLITANAS — BAIXA DOS SAPATEIROS: Rua Dr. Seabra, 295 — CALÇADA: Rua Artur Catrambi n.º 3. — CHILE: Rua Chile n.º 27. — LIBERDADE: Rua Lima e Silva n.º 351. — S. PEDRO: Av. Sete de Setembro n.º 105. — NO ESTADO DE MIRANHA — NAS GERAIS: Gov. Valadares, Montes Claros, Nanuque e Teófilo Otoni. — NO ESTADO DE SÃO PAULO — SUCURSAL DE SÃO PAULO: Rua São Bento n.º 480. — AGÊNCIAS METROPOLITANAS — IPIRANGA: Rua Silva Bueno, 525. — PENHA: Rua da Penha, 428. — PRACA DA REPÚBLICA: Praça da República, 370. — XXV DE MARÇO: Rua Cav. Basílio Jafet, 55/63 — AGÊNCIAS NO ESTADO DE SÃO PAULO: — BARRETOS — CAMPINAS — GUAPIAÇU — MOGI DAS CRUZES — OLÍMPIA — PIRACICABA — SANTOS — SÃO JOSÉ DO RIO PRÉTO. — NO ESTADO DO PARANÁ: — CURITIBA.",
+      "lines": [
+        "# BANCO DA BAHIA S. A.",
+        "FUNDADO EM 1858",
+        "Sede: Cidade do Salvador — Estado da Bahia — Carta patente n.º 67, de 18 de Maio de 1946",
+        "CAPITAL ... Cr$ 500.000.000,00 ... RESERVAS ... Cr$ 466.663.964,70",
+        "Sucursal: PRACA PIO X. 98 — Metropolitanas: RUA SOUZA LIMA, 121 - A (Copacabana) — AVENIDA RIO BRANCO, 122 (Centro) — RUA DO CATETE, 257-C (Catete) — RIO DE JANEIRO",
+        "DIRETORIA — Presidente: Dr. Clemente Mariani; Vice-Presidente: Dr. Fernando M. de Góes; Diretores da Matriz: Gilberto Espinheira de Sá; Carlos Balallai de Carvalho e Helio Fernandes Figueira.",
+        "DEPART. NO EST. DA BAHIA: — Alagoinhas, Belmonte, Brumado, Buerarema, Cachoeira, Camacã, Canavieiras, Candeias, Caravelas, Castro Alves, Catú, Coaraci, Cruz das Almas, Feira de Santana, Gandu, Guanambi, Ibicarai, Ibirataia, Ilhéus, Ipiú, Irecê, Itaberaba, Itabuna, Itajuípe, Itambé, Itapetinga, Itaquara, Jacobina, Jequié, Joazeiro, Miguel Calmon, Paulo Afonso, Piritiba, Poções, Prado, Remanso, Santo Antônio de Jesus, São Felix, Serrinha, Ubaitaba, Ubatã, Valença, Vitória da Conquista.",
+        "DIRETORES DA SUCURSAL DO RIO DE JANEIRO: Affonso Soledade, Emil O. W. Hofemann e C. Monteiro de Andrade; DIRETORES DA SUCURSAL DE SÃO PAULO: Alain C. E. Moreau e Heinz Hoffmeister.",
+        "CONSELHO FISCAL: Octavio Ariani Machado, Augusto Marques Valente e Mário Salenave.",
+        "AGÊNCIAS METROPOLITANAS — BAIXA DOS SAPATEIROS: Rua Dr. Seabra, 295 — CALÇADA: Rua Artur Catrambi n.º 3. — CHILE: Rua Chile n.º 27. — LIBERDADE: Rua Lima e Silva n.º 351. — S. PEDRO: Av. Sete de Setembro n.º 105. — NO ESTADO DE MIRANHA — NAS GERAIS: Gov. Valadares, Montes Claros, Nanuque e Teófilo Otoni. — NO ESTADO DE SÃO PAULO — SUCURSAL DE SÃO PAULO: Rua São Bento n.º 480. — AGÊNCIAS METROPOLITANAS — IPIRANGA: Rua Silva Bueno, 525. — PENHA: Rua da Penha, 428. — PRACA DA REPÚBLICA: Praça da República, 370. — XXV DE MARÇO: Rua Cav. Basílio Jafet, 55/63 — AGÊNCIAS NO ESTADO DE SÃO PAULO: — BARRETOS — CAMPINAS — GUAPIAÇU — MOGI DAS CRUZES — OLÍMPIA — PIRACICABA — SANTOS — SÃO JOSÉ DO RIO PRÉTO. — NO ESTADO DO PARANÁ: — CURITIBA."
+      ],
+      "dimensions": {
+        "dpi": 200,
+        "height": 585,
+        "width": 1265
+      },
+      "confidence_scores": null,
+      "tables": [],
+      "images": []
+    }
+  ],
+  "elapsed_seconds": 7.704,
+  "remote_file_id": null
+}

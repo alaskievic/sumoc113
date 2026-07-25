@@ -1,0 +1,78 @@
+CENSOS ECONOMICOS DE 1985 - MUNICIPIOS
+ERFRRSENSEEKSRCEESESKESESSERSRREESESRESSSRLLERARALEAASEERECESSRESCELRLCARSCRAECERAEKARSSSARSARSERLESSEREAESARARE EESC
+3- CONFRONTO DE VARIAVEIS SELECIONADAS DO CENSO INDUSTRIAL DE 1980 E 1985
+RECEERSELESLEACRSEESERSRCLELCERESKCCEERECSERERASEERASLRERREEESLLSSRREEEAEESECRESEES ESSES LETEREEERCESKSERCRER ERES
+x * . *
+Ed * CENSO DE 1980 *
+* * +
+* ERECRREESCEASEERREAESEECECELLEESESREREASSRESEEREESELESRERESSCESRC
+NUM, + * . PESSOAL OCUPADO z *
+* x * EM 31-12-1980 * ANO DE 1980 *
+* * x * x
+DE * MUNICIPIOS, CLASSES * CESTESEFESEEALIAKKESSCLASTTLSSSTESSEESARESEEERE SEEC
+x * NUMERO + = : * x *
+* E * * * * * < VALOR DA *
+OR- = *DE ESTA-+ * x SACARIOS < VALOR * Lo +
+* GENEROS DA INDUSTRIA * * , * RETIRADAS «+ BRUTO DA *TRANSFORMAÇÃO +
+* a BELECI-=+ * LIGADO A + E OUTRAS x PRODUÇÃO * x
+DEM + x * TOTAL x - * REMUNERAÇÕES * INDUSTRIAL + INDUSTRIAL «
+* * MENTOS * * PRODUÇÃO «+ * * *
+x x * x CERESMESERERRSEEEELEEEESE CEEE
+* * x * x *
+* x * * * (MIL CRUZEIROS) *
+* * * * x *
+ESSE ES SE EEE SS E E E
+“318 VESTUARIO.....cscercrcc ecra ren rrr ra eres 202 2 076 1 601 144 436 1 016 532 429 254
+320 ALIMENTARES... ..rcccrrccsae eres rr erra 277 4 574 3 045 447 148 13 625 573 2 634 220
+. 321 BEBIDAS......cccccisccars rece carr era raras 15 631 4208 105 075 1137 627 636 601
+322 FUMO... cics serranas cerae res ar rerra reversa 2 (F) (B) (x) (B) (X)
+323 GRAFICA. ...ccccrecra rara carrera ro rrerea ros 85 1 433 842 191 315 824 4896 540 047
+324 DIVERSAS. ...ccccs cerca rerare rca rrrra ras 48 710 334 107 478 236 096 173 926
+325 ANAPOLIS,......ccccciscecercrrerrera erre rara 426 8 937 6 742 ga1 335 14 203 247 5 280 oB4
+326 NÃO METALICOS.....cisccrectcrccrreraa rare 54 2 365 1 919 301 391 2 547 881 1 771 462
+327 MATERIAL ELETRICO......csccscscccrisrrrcrre nao 6 513 367 79 480 674 112 383 162
+326 TEXTIL.,,..ccccrcerrrerracrrnarr rara araras 5 1 015 996 63 398 972 563 397 892
+329 ALIMENTARES... clero crrrarrera rar serenas 163 2 655 1 957 232 669 8 207 547 1 852 632
+330 . BEBIDAS.......cccssircrraserarra rare rra caras 8 sse 243 121 322 B09 760 425 359
+331 DEMAIS GENEROS...,.,..ccrcciaccereranararece raros 192 1 826 1 260 143 065 991 384 449 577
+332 ABADIANIA.....rccrerene ricerca cr crre rare re rss 7 26 17 988 4 695 3 135
+333 ACREUNA.,...ccccrerccranerrrr res ra rasas 21 73 33 3 166 15 021 10 076
+334 AGUA LIMPA,...icccrcrcrcrcrana cre serarre renas 5 6 2 656 2 941 1 596
+335 ALEXANIA......ccccrereracrrsrerc eres errar eras 30 127 83 to 399 42 066 31 149 .
+336 ALOANDIA......cccccrerca serra reenrera raras 6 5 - 707 1 591 1 136
+337 ALTO PARAISO DE GOIAS.,.....cscciccrccrlsrareos 4 12 6 470 823 603
+338 ALVORADA DO NORTE......ccccccrrerccraerrrsecraas 9 s6 29 2 740 19 962 6 518
+338 AMERICANO DO BRASIL,....c.ccrrsrrcciscrirracraaaa Ed - - - - -
+340 AMORINOPOLIS.....cecrccecerrrrerr rsrsrsrsrs 10 30 6 1 138 12 378 3 510
+341 ANHANGUERA, ..cccrcrcrsasc re rrsrs res rarera rsss 1 (D) (D) (XxX) te) (XxX)
+342  ANICUNS.....cccrsre raras correr rra racer raros 46 292 186 17 991 214 585 66 983
+343 APARECIDA DE GOIANIA...,..ccccrercercracrranaes 8o 1013 777 87 134 890 564 422 430
+344 APORE.,,....ecccrersarona rear rara ren rever ssras 5 13 3 1 481 2 859 2 430
+345 ARAÇU...ccco sc cerrrrrrerrre rar encarar araras 8 24 12 1 942 5 777 4 016
+346 ARAGARÇAS, ...scccecccesrrararara rara sra sarada 13 54 28 2 639 14 425 8 948
+347  ARAGOIANIA....sesecarerccrr cr crer teresa ce rrrsas 20 74 sa 5 413 17 533 9 209
+348 ARAGUAPAZ....cccrccerrccererreranraca roer rrcas - - - - - -
+348 ARENOPOLIS......cccsrccrerera cares s eras rca raros - - - - - .
+350 ARUANÃ... . correr ceras renas rasca rara sasos 10 37 25 2213 8 038 5 078
+351  AURILANDIA......cccrcccrraa corneana rr res ras 10 30 17 + 846 8 266 4 916
+352 AVELINOPOLIS........ccrcccrccsisciccra rsrs 1 ta) (A) (X) (A) (XxX)
+353 BARRO ALTO.....ccccescrseserrrrera strass re raro cas 19 78 52 10 693 34 621 18 6798
+3954 BELA VISTA DE GOIAS......cccccsccrserercrre raros 37 87 52 8 054 25 242 15 748
+355 BOM JARDIM DE GOIAS........ccscissscrsccenarrass 1 61 28 2 372 10 556 6 637
+356 BOM JESUS DE GOIAS.......ccccccrsrercracccrrarãs ” 31 17 2 782 10 847 7 861
+.357 BRAZABRANTES....ccrrcrorrcera re rercn rr sera rear 5 25 16 + 222 5 992 3 873
+358 BRITANIA......cccrscceracr rara sra sara crencas 12 58 26 5 220 13 881 8 782
+359 BURITI ALEGRE......cccccccireracorrcers raras 18 64 30 3 575 19 281 10 730
+360 CABECEIRAS......cccccccccrcerr rr rena ra verao 7 31 16 1 302 3 881 2 178
+361 CACHOEIRA ALTA... .cccserecrainere re rarec rasas 14 64 30 3 043 as 354 17 401
+362 CACHOEIRA DE GOIAS.......cccrcrcrcarerrrerescas 1 ta) (a) (X) (A) (XxX)
+363 CACHOEIRA DOURADA........ccccrrcaccrrercararessa - - - - - -
+364 CAÇU.....,.oscsisarere rece rrca ceras ssa nara 20 25 57 7 028 41 715 19 229
+365 CAIAPONIA......ccerrrersroerararrac ca rrrrassra a 27 65 41 5 325 37 137 17 946
+366 CALDAS NOVAS... ..ccrcscssccerarrerro re vrarsracsa 34 156 105 11 388 51 494 23 062
+367 CAMPESTRE DE GOIAS.......ccrrccccrcosacrarcsror» 14 44 20 6 173 27 333 21 098
+368 CAMPINAÇU......cccsrcrrcrrrrrarenre ss rerrrccsrrs - - - - - - -
+369 CAMPINORTE..,.....ccccccrrcerarrercrraarranarrers 33 123 67 6 161 28 158 18 449
+370 CAMPO ALEGRE DE GOIAS..,,....ccccscrccrcarrrerro 1 (a) (A) (X) (a) [9,9]
+371 CAMPOS BELOS........ccccrcrcecerercero recorre sos 12 45 21 3 526 24 294 8 310
+16
