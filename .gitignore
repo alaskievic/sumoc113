@@ -38,3 +38,6 @@ _*.m
 *.pdf
 *.stswp
 .claude/
+agentic_ai/
+.venv/
+__pycache__
