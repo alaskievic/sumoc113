@@ -680,8 +680,11 @@ print(rectangle._width)
 # should be
 print(rectangle.width)
 rectangle.width = 0
-
 del rectangle.width
+
+
+
+
 
 
 
