@@ -3,7 +3,172 @@ using Pkg; pkgs = ["Distributions", "ForwardDiff", "LaTeXStrings", "NLsolve", "P
 using LinearAlgebra, Statistics, Plots, LaTeXStrings
 using Distributions, ForwardDiff, NLsolve, StaticArrays
 
-# random number generator - returns a a column vector n random draws from a normal distribution with mean 0 and variance 1
+### About functions ###
+# In Julia, the return statement is optional, so that the following functions have identical behavior
+function f1(a, b)
+    return a * b
+end
+
+# When no return statement is present, the last value obtained when executing the code block is returned.
+function f2(a, b)
+    a * b
+end
+
+# The difference between keyword and standard (positional) arguments
+# is that they are parsed and bounded by name rather than the order in the function call.
+f(x; a = 1) = exp(cos(a * x))  # note the ; in the definition
+f(pi; a = 2)
+# The ; in this case for calling the function is optional and the last line could equivalently be f(pi, a = 2)
+
+# If you see an argument in in julia to the right of the ; assume it is a keyword argument with the name matching the value
+a = 2
+f(pi; a) # equivalent to f(pi; a = a)
+
+# Broadcasting
+f(x, y) = [1, 2, 3] ⋅ x + y
+f([3, 4, 5], 2)   # uses vector as first parameter
+f.(Ref([3, 4, 5]), [2, 3])   # broadcasting over 2nd parameter, fixing first
+println(f.(Ref([3, 4, 5]), [2, 3]))
+
+f(x) = x^2  # local `x` in scope
+x = 1:5     # not an integer
+f.(x)       # broadcasts the x^2 function over the vecto
+
+
+f(x; y = 1) = x + y  # `x` and `y` are names local to the `f` function
+x = 0.1
+y = 2
+f(x; y) # the type and value of y taken from scope
+
+
+# closures
+twice(f, x) = f(f(x))  # applies f to itself twice
+twice(x -> x^2, 2.0)
+
+a = 5
+g(x) = a * x
+@show twice(g, 2.0);   # using a closure
+
+
+function snapabove(g, a)
+    function f(x)
+        if x > a         # "a" is captured in the closure f
+            return g(x)
+        else
+            return g(a)
+        end
+    end
+    return f    # closure with the embedded a
+end
+
+f(x) = x^2
+h = snapabove(f, 2.0)
+plot(h, 0.0:0.1:3.0)
+
+
+# Changing dimsension: 4-dimensional array - note how in binds column-wise
+B = reshape(1:120, 2, 3, 4, 5)
+
+# function that modifies any argument
+function f(x)
+    return [1 2; 3 4] * x   # matrix * column vector
+end
+
+val = [1, 2]
+f(val)
+# then
+y = similar(val)
+function f!(out, x)
+    out .= [1 2; 3 4] * x
+end
+f!(y, val)
+y
+
+
+
+### Nothing and Missing ###
+function f(x)
+    if x > 0.0
+        return sqrt(x)
+    else
+        return nothing
+    end
+end
+x1 = 1.0
+x2 = -1.0
+y1 = f(x1)
+y2 = f(x2)
+
+# check results with isnothing
+if isnothing(y1)
+    println("f($x1) failed")
+else
+    println("f($x1) successful")
+end
+
+# Another example
+function f(x; z = nothing)
+    if isnothing(z)
+        println("No z given with $x")
+    else
+        println("z = $z given with $x")
+    end
+end
+
+f(1.0)
+f(1.0, z = 3.0)
+
+
+
+# An alternative
+function f(x)
+    if x > 0.0
+        return x
+    else
+        return NaN
+    end
+end
+
+f(0.1)
+f(-1.0)
+
+@show typeof(f(-1.0))
+@show f(-1.0) == NaN  # note, this fails!
+@show isnan(f(-1.0))  # check with this
+
+# Missing - for Statistics
+x = [3.0, missing, 5.0, missing, missing]
+
+x = missing
+@show x == missing
+@show x === missing  # an exception
+@show ismissing(x);
+
+x = [1.0, missing, 2.0, missing, missing, 5.0]
+@show mean(x)
+@show mean(skipmissing(x))
+@show coalesce.(x, 0.0);  # replace missing with 0.0;
+
+
+### In-place and Immutable Types ###
+y = [1 2]
+y .-= 2    # y .= y .- 2, no problem
+
+x = 5
+# x .-= 2  # Fails!
+x = x - 2  # subtle difference - creates a new value and rebinds the variable
+
+
+# some operations
+ones(2, 2) * ones(2, 2)   # matrix multiplication
+ones(2, 2) .* ones(2, 2)  # element by element multiplication
+ones(2, 2) ⋅ ones(2, 2)   # inner product (Frobenius)
+
+
+
+
+
+### random number generator - returns a a column vector n random draws from a normal distribution with mean 0 and variance 1
 randn()
 
 n = 100
@@ -252,12 +417,96 @@ println("Fixed point = $(sol.value) |f(x) - x| = $(sol.normdiff) in $(sol.iter) 
 
 
 ### using a package
+# best style
+using NLsolve
+
+p = 1.0
+beta = 0.9
+f(v) = p .+ beta * v # broadcast the +
+sol = fixedpoint(f, [0.8]; m = 0)
+normdiff = norm(f(sol.zero) - sol.zero)
+println("Fixed point = $(sol.zero) |f(x) - x| = $normdiff in $(sol.iterations) iterations")
+
+
+# best style - 3 iterations!!!!
+p = 1.0
+beta = 0.9
+iv = [0.8]
+sol = fixedpoint(v -> p .+ beta * v, iv) # anonymous function similar to MATLAB and lambda function in Python
+fnorm = norm(f(sol.zero) - sol.zero)
+println("Fixed point = $(sol.zero) |f(x) - x| = $fnorm  in $(sol.iterations) iterations converged = $(sol.f_converged)")
+
+
+### composing packages
+eps()
+
+# use arbitrary precision floating points
+p = 1.0
+beta = 0.9
+iv = [BigFloat(0.8)] # higher precision
+
+# otherwise identical
+sol = fixedpoint(v -> p .+ beta * v, iv)
+normdiff = norm(f(sol.zero) - sol.zero)
+println("Fixed point = $(sol.zero) |f(x) - x| = $normdiff in $(sol.iterations) iterations")
+
+
+### Multivariate case
+
+# homegrown
+p = [1.0, 2.0]
+beta = 0.9
+iv = [0.8, 2.0]
+f(v) = p .+ beta * v # note that p and beta are used in the function!
+sol = fixedpointmap(f, iv; tolerance = 1.0E-8)
+println("Fixed point = $(sol.value) |f(x) - x| = $(sol.normdiff) in $(sol.iter) iterations")
+
+# package
+using NLsolve
+p = [1.0, 2.0, 0.1]
+beta = 0.9
+iv = [0.8, 2.0, 51.0]
+f(v) = p .+ beta * v
+
+sol = fixedpoint(v -> p .+ beta * v, iv)
+normdiff = norm(f(sol.zero) - sol.zero)
+println("Fixed point = $(sol.zero) |f(x) - x| = $normdiff in $(sol.iterations) iterations")
+
+
+using NLsolve, StaticArrays
+p = @SVector [1.0, 2.0, 0.1] # All macros in Julia are prefixed by @ in the name, and manipulate the code prior to compilation
+beta = 0.9
+iv = [0.8, 2.0, 51.0]
+f(v) = p .+ beta * v
+
+sol = fixedpoint(v -> p .+ beta * v, iv)
+normdiff = norm(f(sol.zero) - sol.zero)
+println("Fixed point = $(sol.zero) |f(x) - x| = $normdiff in $(sol.iterations) iterations")
 
 
 
+# Exercise 1
+function factorial2(n)
+    k = 1
+    for i in 1:n
+        k *= i  # or k = k * i
+    end
+    return k
+end
+factorial2(5)
 
+function factorial2(x)
+    for i in 1:x
+        fact = n * (n-1)
+        if normdiff < tolerance # check convergence
+            iter = i
+            break # converged, exit loop
+    end
+        # replace and continue
+    return (fact)
+end
 
-
+factorial2(5)
 
 
 
