@@ -219,10 +219,110 @@ verify_true_policy(m, shocks, c_star)
 
 
 
+### Endogenous Grid Method ###
+
+# Avoid root finding by choosing y_{i} endogenously
+using Pkg; pkgs = ["BenchmarkTools", "Interpolations", "LaTeXStrings", "Plots", "Roots"]; all(haskey.(Ref(Pkg.project().dependencies), pkgs)) || Pkg.add(pkgs)
+using LinearAlgebra, Statistics
+using BenchmarkTools, Interpolations, LaTeXStrings, Random, Roots
+using Plots
+
+function coleman_egm(g, k_grid, beta, u_prime, u_prime_inv, f, f_prime, shocks) # we will use the inverse of u
+
+    # Allocate memory for value of consumption on endogenous grid points
+    c = similar(k_grid)
+
+    # Solve for updated consumption value
+    for (i, k) in enumerate(k_grid)
+        vals = u_prime.(g.(f(k) * shocks)) .* f_prime(k) .* shocks
+        c[i] = u_prime_inv(beta * mean(vals))
+    end
+
+    # Determine endogenous grid
+    y = k_grid + c  # y_i = k_i + c_i
+
+    # Update policy function and return
+    Kg = LinearInterpolation(y, c, extrapolation_bc = Line())
+    Kg_f(x) = Kg(x)
+    return Kg_f
+end
+
+# Original with root finding #
+function K!(Kg, g, grid, beta, u_prime, f, f_prime, shocks)
+
+    # This function requires the container of the output value as argument Kg
+
+    # Construct linear interpolation object #
+    g_func = LinearInterpolation(grid, g, extrapolation_bc = Line())
+
+    # solve for updated consumption value #
+    for (i, y) in enumerate(grid)
+        function h(c)
+            vals = u_prime.(g_func.(f(y - c) * shocks)) .* f_prime(y - c) .*
+                   shocks
+            return u_prime(c) - beta * mean(vals)
+        end
+        Kg[i] = find_zero(h, (1e-10, y - 1e-10))
+    end
+    return Kg
+end
+
+# The following function does NOT require the container of the output value as argument
+function K(g, grid, beta, u_prime, f, f_prime, shocks)
+    K!(similar(g), g, grid, beta, u_prime, f, f_prime, shocks)
+end
 
 
+# Cobb-Douglas case #
+# model
+function Model(; alpha = 0.65, # productivity parameter
+               beta = 0.95, # discount factor
+               gamma = 1.0,  # risk aversion
+               mu = 0.0,  # lognorm(mu, sigma)
+               s = 0.1,  # lognorm(mu, sigma)
+               grid_min = 1e-6, # smallest grid point
+               grid_max = 4.0,  # largest grid point
+               grid_size = 200, # grid size
+               u = gamma == 1 ? log : c -> (c^(1 - gamma) - 1) / (1 - gamma), # utility function
+               u_prime = c -> c^(-gamma), # u'
+               f = k -> k^alpha, # production function
+               f_prime = k -> alpha * k^(alpha - 1), # f'
+               grid = range(grid_min, grid_max, length = grid_size)) # grid
+    return (; alpha, beta, gamma, mu, s, grid_min, grid_max, grid_size, u,
+            u_prime,
+            f, f_prime, grid)
+end
+
+mlog = Model(); # Log Linear model
+
+# Shocks for Monte Carlo Integration #
+Random.seed!(42); # For reproducible behavior.
+shock_size = 250     # Number of shock draws in Monte Carlo integral
+shocks = exp.(mlog.mu .+ mlog.s * randn(shock_size));
 
 
+# test if Kc = c #
+c_star(y) = (1 - mlog.alpha * mlog.beta) * y
+# some useful constants
+ab = mlog.alpha * mlog.beta
+c1 = log(1 - ab) / (1 - mlog.beta)
+c2 = (mlog.mu + mlog.alpha * log(ab)) / (1 - mlog.alpha)
+c3 = 1 / (1 - mlog.beta)
+c4 = 1 / (1 - ab)
+
+v_star(y) = c1 + c2 * (c3 - c4) + c4 * log(y)
+
+function verify_true_policy(m, shocks, c_star)
+    k_grid = m.grid
+    c_star_new = coleman_egm(c_star, k_grid, m.beta, m.u_prime, m.u_prime, m.f,
+                             m.f_prime, shocks)
+
+    plt = plot()
+    plot!(plt, k_grid, c_star.(k_grid), lw = 2, label = L"optimal policy $c^*$")
+    plot!(plt, k_grid, c_star_new.(k_grid), lw = 2, label = L"Kc^*")
+    plot!(plt, legend = :topleft)
+end
+verify_true_policy(mlog, shocks, c_star)
 
 
 

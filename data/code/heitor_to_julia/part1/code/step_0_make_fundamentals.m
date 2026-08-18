@@ -8,7 +8,7 @@ clear;
 % bringing actual data. The world here will have a square shape.
 
 % basic characteristics
-I_side      = 10;                          % number of countries in each side of the square
+I_side      = 10;                         % number of countries in each side of the square
 I           = I_side*I_side;              % total number of countries
 coord       = zeros(I_side*I_side,2);     % coordinates
 matrix_ref  = zeros(I_side, I_side);      % reference matrix
