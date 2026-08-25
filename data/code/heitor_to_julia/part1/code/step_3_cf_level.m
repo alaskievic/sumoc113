@@ -10,7 +10,7 @@ theta = calibration.theta;
 I     = calibration.I;
 
 %% SIMULATE BASELINE
-w               = ones(I,1);  % guess for w
+w               = ones(I,1);  % guess for wp
 adj_exp_N       = 0.5;        % update parameter exp (helpful with extreme values)
 adj_sum_N       = 0.5;        % update parameter sum
 

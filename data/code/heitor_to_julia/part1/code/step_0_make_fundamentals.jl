@@ -38,10 +38,14 @@ for i in 1:I
         dist[i, j] = sqrt(sum((coord[i, :] .- coord[j, :]).^2))
     end
 end
+dist
 
+# Parametrize
 d0 = 0.01
 d1 = 0.5
 d = exp.(d0 .* dist .^ d1)
+
+d
 
 # Export data
 fundamentals = Dict(
@@ -55,11 +59,6 @@ fundamentals = Dict(
 mkpath("../output")
 @save "../output/fundamental_for_simulation.jld2" fundamentals
 
-
-
-matwrite("../output/fundamental_for_simulation.mat", Dict(
-    "fundamentals" => fundamentals
-))
 
 
 
