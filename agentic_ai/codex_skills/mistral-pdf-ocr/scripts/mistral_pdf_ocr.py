@@ -226,7 +226,7 @@ def main() -> None:
     parser.add_argument("--out-dir", type=Path, default=Path("."))
     parser.add_argument("--json-out", type=Path)
     parser.add_argument("--text-out", type=Path)
-    parser.add_argument("--model", default="mistral-ocr-2512")
+    parser.add_argument("--model", default="mistral-ocr-latest")
     parser.add_argument("--page-list", help="One-based pages/ranges, e.g. '1,4-6'.")
     parser.add_argument("--table-format", choices=["markdown", "html"])
     parser.add_argument("--confidence-scores", choices=["page", "word"])

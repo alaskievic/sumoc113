@@ -27,7 +27,9 @@ python3 codex_skills/mistral-pdf-ocr/scripts/mistral_pdf_ocr.py \
 
 ## Options
 
-- `--model mistral-ocr-2512` is the default.
+- `--model mistral-ocr-latest` is the default. This alias follows Mistral's
+  latest OCR model; pass an explicit version only when reproducibility requires
+  a pinned release.
 - `--page-list '1,4-6'` accepts one-based page numbers/ranges and converts them for the API.
 - `--json-out` and `--text-out` override default output paths.
 - `--confidence-scores page` or `--confidence-scores word` requests confidence scores when supported.

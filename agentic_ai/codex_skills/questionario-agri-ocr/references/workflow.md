@@ -83,7 +83,7 @@ Run full-document OCR:
 ```bash
 python3 ocr_work/ocr_quest_agri_mistral.py \
   --pdf '<pdf>' \
-  --model mistral-ocr-2512 \
+  --model mistral-ocr-latest \
   --json-out ocr_work/quest_agri_<state>_mistral_raw.json \
   --text-out ocr_work/quest_agri_<state>_mistral_raw.txt \
   --confidence-scores page
@@ -94,7 +94,7 @@ Run targeted pages using the same one-based page notation as the Paddle helper:
 ```bash
 python3 ocr_work/ocr_quest_agri_mistral.py \
   --pdf '<pdf>' \
-  --model mistral-ocr-2512 \
+  --model mistral-ocr-latest \
   --page-list '<pages>' \
   --json-out ocr_work/quest_agri_<state>_mistral_targeted.json \
   --text-out ocr_work/quest_agri_<state>_mistral_targeted.txt \
